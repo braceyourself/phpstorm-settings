@@ -3,14 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="B:/stenger_u/app/AnswerKey.php" timestamp="1524584349320">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="B:/stenger_u/app/AnswerKey.php" timestamp="1524585591750">
+        <mark key="'" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="6" column="0" filename="B:/stenger_u/app/AnswerKey.php" />
+    </jumps>
     <registers>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
@@ -21,9 +23,12 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts />
   </component>
