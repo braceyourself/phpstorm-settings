@@ -231,4 +231,14 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="/**" value="&lt;!----------------------------------------&#10;| $END$&#10;----------------------------------------&gt;" description="html comment block" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="center" value="&lt;div class=&quot;center-text&quot;&gt;&#10;    $END$&#10;&lt;/div&gt;" description="div.center-text" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
