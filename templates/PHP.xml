@@ -1,0 +1,108 @@
+<templateSet group="PHP">
+  <template name="re" value="require &quot;$END$&quot;;" description="'require' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="reo" value="require_once &quot;$END$&quot;;" description="'require_once' statement" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="pf" value="public function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="public function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="psf" value="public static function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="public static function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="-" value="-&gt;" description="prints -&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="see" value="&lt;?php&#10;use App\$CLASS$;&#10;use Illuminate\Database\Seeder;&#10;&#10;class $CLASS$TableSeeder extends Seeder&#10;{&#10;    public function run()&#10;    {&#10;        factory($CLASS$::class, 50)-&gt;create();&#10;    }&#10;}" description="seeder class" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="route:res" value="Route::resource('$NAME$', '$CONTROLLER$Controller');" description="Route::resource()" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTROLLER" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="route:p" value="Route::post('$NAME$', '$CONTROLLER$Controller$ACTION$');" description="Route::post()" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTROLLER" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACTION" expression="" defaultValue="&quot;@index&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="__con" value="public function __construct(){&#10;    $END$&#10;}" description="public function __construct" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="r:g" value="Route::get('$ROUTE$', '$CONTROLELR$');" description="Route::get()" toReformat="false" toShortenFQNames="true">
+    <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTROLELR" expression="capitalize(ROUTE)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Class Member" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="route" value="Route::$TYPE$('$ROUTE$', '$CONTROLLER$Controller$METHOD$');" description="Route template" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ROUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTROLLER" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Class Member" value="false" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="space" value=". ' ' ." description="literal space string" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+      <option name="PHP String Literal" value="true" />
+    </context>
+  </template>
+  <template name="forek" value="foreach ($arr$ as $key$=&gt;$value$){&#10;    $END$&#10;}" description="foreach template" toReformat="false" toShortenFQNames="true">
+    <variable name="arr" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="&quot;$v&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="fore" value="foreach ($arr$ as $value$){&#10;    $END$&#10;}" description="foreach template" toReformat="false" toShortenFQNames="true">
+    <variable name="arr" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="&quot;$v&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

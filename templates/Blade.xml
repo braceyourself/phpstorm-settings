@@ -1,0 +1,35 @@
+<templateSet group="Blade">
+  <template name="blade" value="@extends('$FILE$')&#10;@section('$SECTION_NAME$')&#10;$END$&#10;@endsection" description="build blade template" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE" expression="" defaultValue="&quot;layouts.master&quot;" alwaysStopAt="true" />
+    <variable name="SECTION_NAME" expression="" defaultValue="&quot;content&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="inc" value="@include('$PAGE$')" description="@include('page')" toReformat="false" toShortenFQNames="true">
+    <variable name="PAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="@fore" value="@foreach($ARRAY$ as $ARRAY_ITEM$)&#10;    $END$&#10;@endforeach" description="@foreach()" toReformat="false" toShortenFQNames="true">
+    <variable name="ARRAY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARRAY_ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="@sec" value="@section('$SECTION_NAME$')&#10;    $END$&#10;@endsection" description="@section()" toReformat="false" toShortenFQNames="true">
+    <variable name="SECTION_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="@" value="@$name$($params$)&#10;    $END$&#10;@end$name$" description="start blade directive" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

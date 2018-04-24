@@ -1,0 +1,234 @@
+<templateSet group="ethanabrace">
+  <template name="Form::text" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    {{-- Name: $NAME$ --}}&#10;    {{ Form::label('$LABEL$:') }}&#10;    {{ Form::text('$NAME$', null, ['class'=&gt;'form-control $CLASS$' $OPTIONS$]) }}&#10;&lt;div&gt;" description="form text field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OPTIONS" expression="" defaultValue="&quot;, 'required'=&gt;true&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="Form::open" value="{{ Form::open([$OPTIONS$]) }}&#10;    $END$&#10;    &#10;&#9;&#9;&#9;&lt;hr&gt;&#10;&#9;&#9;&#9;&lt;div class=&quot;form-group&quot;&gt;&#10;&#9;&#9;&#9;&#9;{{ Form::submit(null, ['class'=&gt;'btn btn-primary form-control']) }}&#10;&#9;&#9;&#9;&lt;/div&gt;&#10;{{ Form::close() }}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="OPTIONS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="Form::email" value="&lt;div class=&quot;form-group&quot;&gt;&#10;{{-- Name: $NAME$ --}}&#10;    {{ Form::label('$LABEL$:') }}&#10;    {{ Form::email('$NAME$', null, ['class'=&gt;'form-control $CLASS$'$OPTIONS$]) }}&#10;&lt;div&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OPTIONS" expression="" defaultValue="&quot;, 'required'=&gt;true&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="Form::textarea" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    {{-- Name: $NAME$ --}}&#10;    {{ Form::label('$LABEL$:') }}&#10;    {{ Form::textarea('$NAME$', null, ['class'=&gt;'form-control $CLASS$' $OPTIONS$]) }}&#10;&lt;div&gt;" description="form text field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OPTIONS" expression="" defaultValue="&quot;, 'required'&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="Form::input" value="&#10;&lt;div class=&quot;form-group&quot;&gt; {{-- Name: $NAME$ | Type: $TYPE$ --}}&#10;    {{ Form::label('$LABEL$:') }}&#10;    {{ Form::$TYPE$('$NAME$', $VALUE$, ['class'=&gt;'form-control $CLASS$' $OPTIONS$]) }}&#10;&lt;div&gt;" description="form text field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="&quot;null&quot;" alwaysStopAt="true" />
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OPTIONS" expression="" defaultValue="&quot;, 'required'&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="test" value="/** @test $test$ */&#10;public function $snake_name$(){&#10;    //Given&#10;    $END$&#10;    //When&#10;    &#10;    //Then&#10;}" description="phpunit test function template" toReformat="false" toShortenFQNames="true">
+    <variable name="test" expression="" defaultValue="snakeCase(test)" alwaysStopAt="true" />
+    <variable name="snake_name" expression="snakeCase(test)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="temp:s" value="&lt;template slot=&quot;$name$&quot;&gt;$STOP$&lt;/template&gt;" description="template with slot name" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STOP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="slot:n" value="&lt;slot name=&quot;$name$&quot;&gt;$END$&lt;/slot&gt;" description="named slot" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="bulma:field" value="&lt;div class=&quot;field&quot;&gt;&#10;    &lt;label for=&quot;$id$&quot; class=&quot;label&quot;&gt;$label$&lt;/label&gt;&#10;    &lt;div class=&quot;control&quot;&gt;&#10;        &lt;$input_type$ title=&quot;$label$&quot; name=&quot;$name$&quot; class=&quot;input&quot; id=&quot;$id$&quot; type=&quot;$type$&quot;&gt;&lt;/$input_type$&gt;&#10;    &lt;/div&gt;&#10;&#10;&lt;/div&gt;" description="form field template for bulma" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="label" expression="spaceSeparated(capitalize(camelCase(id)))" defaultValue="" alwaysStopAt="true" />
+    <variable name="input_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="snakeCase(id)" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="setup" value="public function setUp(){&#10;    parent::setUp();&#10;    $END$&#10;&#10;}&#10;" description="create the test setup method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="sec" value="@section('$VIEW$')&#10;    $END$&#10;@endsection" description="@section" toReformat="false" toShortenFQNames="true">
+    <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ext" value="@extends('$VIEW$')" description="@extentd" toReformat="false" toShortenFQNames="true">
+    <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ret" value="return $END$" description="return" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="dusk" value="/** &#10; * $test$ &#10; * &#10; * @test&#10; * @return void&#10; * @throws \Exception&#10; * @throws \Throwable&#10; */&#10;public function $snake_name$(){&#10;    $this-&gt;browse(function (Browser $browser) {&#10;        $END$&#10;&#9;});&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="test" expression="" defaultValue="snakeCase(test)" alwaysStopAt="true" />
+    <variable name="snake_name" expression="snakeCase(test)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="b4-form-group" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label for=&quot;$input_id$&quot;&gt;$label_text$&lt;/label&gt;&#10;    &lt;input name=&quot;$name$&quot; type=&quot;$input_type$&quot; class=&quot;form-control&quot; id=&quot;$input_id$&quot; aria-describedby=&quot;$desc_by$&quot; placeholder=&quot;$name$&quot; &gt;&#10;    &lt;small id=&quot;emailHelp&quot; class=&quot;form-text text-muted&quot;&gt;We'll never share your email with anyone else.&lt;/small&gt;&#10;  &lt;/div&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="input_id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="label_text" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="input_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc_by" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="v-input" value="&lt;v-input&#10;&#9;name=&quot;$name$&quot;&#10;&#9;:is_row=&quot;$is_row$&quot;&#10;&#9;field_type=&quot;$input_type$&quot;&#10;&#9;:options=&quot;{$options$}&quot;&#10;&#9;label=&quot;$label$&quot;&#10;&#9;id=&quot;$id$&quot;&#10;&#9;type=&quot;$type$&quot;&#10;&#9;helper_text=&quot;$helper_text$&quot;&#10;&#9;placeholder=&quot;$placeholder$&quot;&#10;&#9;:inline=&quot;$inline$&quot;&#10;&#9;:required=&quot;$required$&quot;&#10;&#9;value=&quot;{{ old('$name$') }}&quot;&#10;    error_text=&quot;{{$errors-&gt;first('$name$')}}&quot;&#10;&gt;&lt;/v-input&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="is_row" expression="" defaultValue="&quot;false&quot;" alwaysStopAt="true" />
+    <variable name="input_type" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
+    <variable name="options" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="label" expression="capitalize(underscoresToSpaces(name))" defaultValue="" alwaysStopAt="true" />
+    <variable name="id" expression="lowercaseAndDash(name)" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="&quot;text&quot;" alwaysStopAt="true" />
+    <variable name="helper_text" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="placeholder" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="inline" expression="" defaultValue="&quot;false&quot;" alwaysStopAt="true" />
+    <variable name="required" expression="" defaultValue="&quot;true&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="vcomp" value="Vue.component('$name$', require('./components/$file$'));" description="Vue component" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="file" expression="capitalize(camelCase(name))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="v-b-modal" value="&lt;b-btn v-b-modal.$name$&gt;$button_text$ variant=&quot;$btn_variant$&quot; class=&quot;$btn_class$&lt;/b-btn&gt;&#10;&#10;&lt;b-modal id=&quot;$name$&quot; title=&quot;$modal_title$&quot;&gt;&#10;    $END$&#10;&lt;/b-modal&gt;" description="vue-bs modal template" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="button_text" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="btn_variant" expression="" defaultValue="&quot;primary&quot;" alwaysStopAt="true" />
+    <variable name="btn_class" expression="" defaultValue="&quot;form-control&quot;" alwaysStopAt="true" />
+    <variable name="modal_title" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="imp" value="import $var_name$ from '$package_name$';" description="es6 import" toReformat="false" toShortenFQNames="true">
+    <variable name="var_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="package_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="homebar-item" value="&lt;homebar-item&#10;&#9;link=&quot;$link$&quot;&#10;&#9;icon=&quot;$material_icon$&quot;&#10;&#9;:count=&quot;$count$&quot;&#10;&#9;icon_color=&quot;$color$&quot;&#10;&#10;&gt;$text$&lt;/homebar-item&gt;&#10;" description="vue dash item template" toReformat="false" toShortenFQNames="true">
+    <variable name="link" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="material_icon" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="count" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="color" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="php" value="&lt;?php&#10;    $END$&#10;?&gt;" description="php template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="cont" value="&lt;div class=&quot;container&quot;&gt;&#10;    $END$&#10;&lt;/div&gt;" description="div with container class" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="form" value="&lt;form action=&quot;$VAR0$&quot;&gt; {{ csrf_field() }}&#10;    $END$&#10;    &#10;    &#10;    &lt;button type=&quot;submit&quot; class=&quot;form-control btn btn-primary&quot;&gt;$submit_text$&lt;/button&gt;&#10;&lt;/form&gt;" description="&lt;form action=&quot;...&quot;&gt;...&lt;/form&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="submit_text" expression="" defaultValue="&quot;Submit&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="JSP" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="req" value="'$name$' =&gt; $request-&gt;$name$," description="assign parameter from request" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="clog" value="console.log($END$);" description="console.log()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="view" value="return view('$name$', compact([&#10;    '$variables$',&#10;]));" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variables" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="@comp" value="@component('$name$', compact(['$var$']))@endcomponent" description="blade componenet" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="lab" value="&lt;label for=&quot;$input_id$&quot;&gt;$label$&lt;/label&gt;&#10;&lt;input id=&quot;$input_id$&quot; class=&quot;form-control&quot; v-model=&quot;$model$&quot;&gt;" description="&lt;label for=&quot;...&quot;&gt;...&lt;/label&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="input_id" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="JSP" value="true" />
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="button" value="&lt;button class=&quot;btn btn-$btn_type$&quot;&gt;$label$&lt;/button&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="btn_type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="/***" value="/*******************************************************&#10; * $text$&#10; ******************************************************/&#10;" description="doc block header" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="&quot;section title&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
