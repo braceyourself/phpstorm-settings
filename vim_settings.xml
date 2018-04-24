@@ -9,12 +9,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/EditTest.vue" timestamp="1524586607481">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="335" column="0" />
-        <mark key="]" line="335" column="10" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="0" />
+      <file name="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/EditTest.vue" timestamp="1524593460837">
+        <mark key="'" line="321" column="8" />
+        <mark key="[" line="362" column="34" />
+        <mark key="]" line="321" column="8" />
+        <mark key="^" line="321" column="8" />
+        <mark key="." line="321" column="8" />
       </file>
       <file name="C:/inetpub/stenger_u/resources/assets/js/routes.js" timestamp="1524586274369">
         <mark key="'" line="0" column="68" />
@@ -43,6 +43,11 @@
       <jump line="10" column="0" filename="C:/inetpub/stenger_u/resources/assets/js/routes.js" />
       <jump line="0" column="68" filename="C:/inetpub/stenger_u/resources/assets/js/routes.js" />
       <jump line="32" column="0" filename="C:/inetpub/stenger_u/resources/assets/js/components/tests/ShowTest.vue" />
+      <jump line="316" column="41" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/EditTest.vue" />
+      <jump line="317" column="8" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/EditTest.vue" />
+      <jump line="322" column="8" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/EditTest.vue" />
+      <jump line="320" column="14" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/EditTest.vue" />
+      <jump line="321" column="8" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/EditTest.vue" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -61,7 +66,7 @@
         <text>source ~/.ideavimrc</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>Test:</text>
@@ -93,6 +98,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
