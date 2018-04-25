@@ -1,5 +1,30 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+  </action>
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
   <action id="Macro.big-arrow">
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
+  <action id="Macro.small arrow">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="Switcher" />
 </keymap>
