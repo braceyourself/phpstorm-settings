@@ -102,12 +102,12 @@
         <mark key="." line="36" column="12" />
         <mark key="^" line="36" column="12" />
       </file>
-      <file name="C:/inetpub/stenger_u/app/Test.php" timestamp="1524687761582">
-        <mark key="'" line="46" column="8" />
-        <mark key="[" line="45" column="66" />
-        <mark key="]" line="46" column="8" />
-        <mark key="^" line="46" column="8" />
-        <mark key="." line="46" column="8" />
+      <file name="C:/inetpub/stenger_u/app/Test.php" timestamp="1524690045201">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="44" column="33" />
+        <mark key="]" line="44" column="32" />
+        <mark key="^" line="44" column="32" />
+        <mark key="." line="44" column="32" />
       </file>
       <file name="/users [users.sqlite]" timestamp="1524586060094">
         <mark key="[" line="0" column="0" />
@@ -123,7 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="5" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/EditTest.vue" />
       <jump line="60" column="38" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/EditTest.vue" />
       <jump line="105" column="25" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/EditTest.vue" />
       <jump line="152" column="29" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/EditTest.vue" />
@@ -223,10 +222,11 @@
       <jump line="33" column="15" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/TestTracking.vue" />
       <jump line="36" column="12" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/TestTracking.vue" />
       <jump line="46" column="8" filename="C:/inetpub/stenger_u/app/Test.php" />
+      <jump line="51" column="4" filename="C:/inetpub/stenger_u/app/Test.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>'/api/tests'</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>metho</text>
@@ -235,7 +235,7 @@
         <text encoding="base64">LmNhdGNoKHJlcyA9PnsKCQkJCQkKCQkJCQlmbGFzaChyZXMucmVzcG9uc2UubWVzc2FnZSk7CgkJCQkJY29uc29sZS5sb2cocmVzKTsKCQkJCQkKCQkJCX0pOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -243,11 +243,11 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LmNhdGNoKHJlcyA9PiB7CgkJCQljb25zb2xlLmxvZyhyZXMucmVzcG9uc2UuZGF0YSk7CgkJCQlldmVudHMuJGVtaXQoJ2Zvcm0tZXJyb3JzJywgcmVzLnJlc3BvbnNlLmRhdGEuZXJyb3JzKTsKCQkJfSk7</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">LmNhdGNoKHJlcyA9PiB7CgkJCQljb25zb2xlLmxvZyhyZXMucmVzcG9uc2UuZGF0YSk7CgkJCQlldmVudHMuJGVtaXQoJ2Zvcm0tZXJyb3JzJywgcmVzLnJlc3BvbnNlLmRhdGEuZXJyb3JzKTsKCQkJfSk7</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -256,10 +256,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlzYXZlX3Rlc3QoKXsKCgkJCWF4aW9zLnBvc3QoJy9hcGkvdGVzdHMnLCB0aGlzLnRlc3QpLnRoZW4ocmVzID0+IHsKCgkJCQlmbGFzaChyZXMuZGF0YS5yZXNwb25zZSwgJ3N1Y2Nlc3MnKTsKCgkJCQl0aGlzLnVwbG9hZEZpbGUocmVzLmRhdGEudGVzdC5pZCwgcmVzID0+ewoKCQkJCQlmbGFzaChyZXMuZGF0YS5yZXNwb25zZSwgJ3N1Y2Nlc3MnKTsKCgkJCQl9KTsKCgkJCX0pLmNhdGNoKHJlcyA9PiB7CgkJCQljb25zb2xlLmxvZyhyZXMucmVzcG9uc2UuZGF0YSk7CgkJCQlldmVudHMuJGVtaXQoJ2Zvcm0tZXJyb3JzJywgcmVzLnJlc3BvbnNlLmRhdGEuZXJyb3JzKTsKCQkJfSk7CgoKCQl9LAoKCiAgICAgICAgdXBsb2FkRmlsZSh0ZXN0X2lkLCB1cGxvYWRlZCl7CgoJCQlsZXQgZGF0YSA9IG5ldyBGb3JtRGF0YSgpOwoKCQkJZGF0YS5hcHBlbmQoJ3Rlc3RfaWQnLCB0ZXN0X2lkKTsKCQkJZGF0YS5hcHBlbmQoJ2RvYycsIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb3Vyc2UtZG9jJykuZmlsZXNbMF0pOwoKCQkJLyoqCgkJCSAqIHVwbG9hZCBjb3Vyc2UgZG9jdW1lbnQKCQkJICogdG9kbyBtYWtlIHN1cmUgdGhpcyB3b3JrcwoJCQkgKi8KCQkJYXhpb3MucG9zdCgnL2FwaS91cGxvYWQtY291cnNlLWRvYycsIGRhdGEpLnRoZW4odXBsb2FkZWQpLmNhdGNoKGVyciA9PnsKCQkJCWlmKGVyci5yZXNwb25zZSl7CgkJCQkJY29uc29sZS5sb2coZXJyLnJlc3BvbnNlKTsKCQkJCX1lbHNlewoJCQkJCWZsYXNoKCdUaGVyZSB3YXMgYW4gZXJyb3IgdXBsb2FkaW5nIHRoZSBkb2N1bWVudC4nKTsKCQkJCX0KCQkJfSk7CiAgICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlzYXZlX3Rlc3QoKXsKCgkJCWF4aW9zLnBvc3QoJy9hcGkvdGVzdHMnLCB0aGlzLnRlc3QpLnRoZW4ocmVzID0+IHsKCgkJCQlmbGFzaChyZXMuZGF0YS5yZXNwb25zZSwgJ3N1Y2Nlc3MnKTsKCgkJCQl0aGlzLnVwbG9hZEZpbGUocmVzLmRhdGEudGVzdC5pZCwgcmVzID0+ewoKCQkJCQlmbGFzaChyZXMuZGF0YS5yZXNwb25zZSwgJ3N1Y2Nlc3MnKTsKCgkJCQl9KTsKCgkJCX0pLmNhdGNoKHJlcyA9PiB7CgkJCQljb25zb2xlLmxvZyhyZXMucmVzcG9uc2UuZGF0YSk7CgkJCQlldmVudHMuJGVtaXQoJ2Zvcm0tZXJyb3JzJywgcmVzLnJlc3BvbnNlLmRhdGEuZXJyb3JzKTsKCQkJfSk7CgoKCQl9LAoKCiAgICAgICAgdXBsb2FkRmlsZSh0ZXN0X2lkLCB1cGxvYWRlZCl7CgoJCQlsZXQgZGF0YSA9IG5ldyBGb3JtRGF0YSgpOwoKCQkJZGF0YS5hcHBlbmQoJ3Rlc3RfaWQnLCB0ZXN0X2lkKTsKCQkJZGF0YS5hcHBlbmQoJ2RvYycsIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjb3Vyc2UtZG9jJykuZmlsZXNbMF0pOwoKCQkJLyoqCgkJCSAqIHVwbG9hZCBjb3Vyc2UgZG9jdW1lbnQKCQkJICogdG9kbyBtYWtlIHN1cmUgdGhpcyB3b3JrcwoJCQkgKi8KCQkJYXhpb3MucG9zdCgnL2FwaS91cGxvYWQtY291cnNlLWRvYycsIGRhdGEpLnRoZW4odXBsb2FkZWQpLmNhdGNoKGVyciA9PnsKCQkJCWlmKGVyci5yZXNwb25zZSl7CgkJCQkJY29uc29sZS5sb2coZXJyLnJlc3BvbnNlKTsKCQkJCX1lbHNlewoJCQkJCWZsYXNoKCdUaGVyZSB3YXMgYW4gZXJyb3IgdXBsb2FkaW5nIHRoZSBkb2N1bWVudC4nKTsKCQkJCX0KCQkJfSk7CiAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
