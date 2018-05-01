@@ -10,6 +10,13 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
+      <file name="C:/inetpub/stenger_u/resources/assets/sass/app.scss" timestamp="1525190992818">
+        <mark key="'" line="203" column="21" />
+        <mark key="[" line="203" column="21" />
+        <mark key="]" line="203" column="21" />
+        <mark key="^" line="203" column="21" />
+        <mark key="." line="203" column="21" />
+      </file>
       <file name="C:/inetpub/stenger_u/resources/assets/js/components/ErrorBanner.vue" timestamp="1524835556685">
         <mark key="'" line="2" column="27" />
         <mark key="[" line="2" column="12" />
@@ -154,6 +161,13 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="13" column="6" />
       </file>
+      <file name="C:/inetpub/stenger_u/app/Http/Controllers/TestController.php" timestamp="1525190784005">
+        <mark key="'" line="41" column="65" />
+        <mark key="[" line="41" column="30" />
+        <mark key="]" line="41" column="65" />
+        <mark key="^" line="41" column="65" />
+        <mark key="." line="41" column="65" />
+      </file>
       <file name="C:/inetpub/stenger_u/app/Test.php" timestamp="1525118851129">
         <mark key="'" line="62" column="28" />
         <mark key="[" line="61" column="60" />
@@ -173,10 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="120" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/TestAttempts.vue" />
-      <jump line="109" column="24" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/TestAttempts.vue" />
-      <jump line="77" column="9" filename="C:/inetpub/stenger_u/routes/web.php" />
-      <jump line="78" column="44" filename="C:/inetpub/stenger_u/routes/web.php" />
       <jump line="1" column="0" filename="C:/inetpub/stenger_u/resources/views/pdfs/passing_employees.blade.php" />
       <jump line="79" column="38" filename="C:/inetpub/stenger_u/routes/web.php" />
       <jump line="80" column="30" filename="C:/inetpub/stenger_u/routes/web.php" />
@@ -273,16 +283,20 @@
       <jump line="85" column="64" filename="C:/inetpub/stenger_u/resources/assets/js/components/tests/ShowTest.vue" />
       <jump line="60" column="39" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/Home.vue" />
       <jump line="23" column="106" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/Home.vue" />
+      <jump line="31" column="34" filename="C:/inetpub/stenger_u/app/Http/Controllers/TestController.php" />
+      <jump line="41" column="65" filename="C:/inetpub/stenger_u/app/Http/Controllers/TestController.php" />
+      <jump line="0" column="0" filename="C:/inetpub/stenger_u/resources/assets/sass/app.scss" />
+      <jump line="203" column="21" filename="C:/inetpub/stenger_u/resources/assets/sass/app.scss" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text />
+        <text>auto</text>
       </register>
       <register name="/" type="4">
-        <text>attest_</text>
+        <text>footer</text>
       </register>
-      <register name="0" type="4">
-        <text>style=&quot;text-align: center;&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJJ25hbWUucmVxdWlyZWQnID0+ICdUaGlzIHRlc3QgbmVlZHMgYSBuYW1lJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCTxkaXYgdi1pZj0iYXR0ZW1wdC5wYXNzZWQiPgoJCQkJCTxoMSBzdHlsZT0iY29sb3I6Z3JlZW4iPkNvbmdyYXRzISBZb3UndmUgcGFzc2VkITwvaDE+CgoJCQkJPC9kaXY+CgkJCQk8ZGl2IHYtZWxzZT4KCQkJCQk8aDQ+WW91IGRpZCBub3QgbWVldCB0aGUgbWludW11bSBzY29yZSByZXF1aXJlbWVudC48L2g0PgoJCQkJCTxzbWFsbD5QbGVhc2UgcmV2aWNlIHRoZSBtYXRlcmlhbCBhbmQgcmV0YWtlIHRoZSB0ZXN0Ljwvc21hbGw+CgkJCQk8L2Rpdj4KCgkJCQlZb3UgU2NvcmVkIHt7YXR0ZW1wdC5zY29yZX19JS4K</text>
@@ -316,15 +330,14 @@
       </register>
     </registers>
     <search>
-      <last-search>attest_</last-search>
+      <last-search>footer</last-search>
       <last-offset />
-      <last-pattern>attest_</last-pattern>
+      <last-pattern>footer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>comput</entry>
         <entry>v-for</entry>
         <entry>created</entry>
         <entry>v-model</entry>
@@ -344,6 +357,7 @@
         <entry>Stenger Univ</entry>
         <entry>Submitting Test</entry>
         <entry>attest_</entry>
+        <entry>footer</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
