@@ -105,7 +105,7 @@
         <mark key="." line="27" column="35" />
         <mark key="^" line="27" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1525291096009">
+      <file name="/dummy.sql" timestamp="1525294270479">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/inetpub/stenger_u/resources/assets/js/components/tests/ShowTest.vue" timestamp="1525187868352">
@@ -236,12 +236,12 @@
         <mark key="." line="86" column="25" />
         <mark key="^" line="86" column="25" />
       </file>
-      <file name="C:/inetpub/stenger_u/routes/api.php" timestamp="1525277188393">
+      <file name="C:/inetpub/stenger_u/routes/api.php" timestamp="1525294105307">
         <mark key="'" line="119" column="47" />
         <mark key="[" line="119" column="32" />
-        <mark key="]" line="119" column="47" />
+        <mark key="]" line="119" column="32" />
         <mark key="^" line="119" column="47" />
-        <mark key="." line="119" column="47" />
+        <mark key="." line="119" column="32" />
       </file>
       <file name="C:/inetpub/stenger_u/resources/views/pdfs/passing_employees.blade.php" timestamp="1524862207701">
         <mark key="'" line="13" column="6" />
@@ -257,10 +257,12 @@
         <mark key="^" line="17" column="34" />
         <mark key="." line="17" column="34" />
       </file>
-      <file name="C:/inetpub/stenger_u/app/Http/Resources/UserResource.php" timestamp="1525277268265">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="C:/inetpub/stenger_u/app/Http/Resources/UserResource.php" timestamp="1525294206142">
+        <mark key="'" line="22" column="40" />
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="22" column="40" />
+        <mark key="." line="22" column="40" />
+        <mark key="^" line="22" column="40" />
       </file>
       <file name="C:/inetpub/stenger_u/app/Test.php" timestamp="1525284353102">
         <mark key="'" line="84" column="4" />
@@ -276,15 +278,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="/users [users.sqlite]" timestamp="1525286286572">
+      <file name="/users [users.sqlite]" timestamp="1525294270046">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="27" filename="C:/inetpub/stenger_u/app/Http/Resources/UserResource.php" />
-      <jump line="56" column="32" filename="C:/inetpub/stenger_u/app/User.php" />
-      <jump line="53" column="30" filename="C:/inetpub/stenger_u/app/User.php" />
-      <jump line="9" column="6" filename="C:/inetpub/stenger_u/app/Employee.php" />
       <jump line="15" column="12" filename="C:/inetpub/stenger_u/app/Employee.php" />
       <jump line="28" column="9" filename="C:/inetpub/stenger_u/app/Employee.php" />
       <jump line="81" column="71" filename="C:/inetpub/stenger_u/app/Employee.php" />
@@ -381,10 +379,14 @@
       <jump line="75" column="16" filename="C:/inetpub/stenger_u/app/Http/Controllers/Auth/LoginController.php" />
       <jump line="76" column="29" filename="C:/inetpub/stenger_u/app/Http/Controllers/Auth/LoginController.php" />
       <jump line="74" column="52" filename="C:/inetpub/stenger_u/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="20" column="33" filename="C:/inetpub/stenger_u/app/Http/Resources/UserResource.php" />
+      <jump line="8" column="18" filename="C:/inetpub/stenger_u/app/Http/Resources/UserResource.php" />
+      <jump line="9" column="22" filename="C:/inetpub/stenger_u/app/Http/Resources/UserResource.php" />
+      <jump line="22" column="40" filename="C:/inetpub/stenger_u/app/Http/Resources/UserResource.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>name</text>
+        <text>mixed</text>
       </register>
       <register name="/" type="4">
         <text>Required</text>
@@ -393,13 +395,13 @@
         <text encoding="base64">d2hlcmUoJ1VzZXJuYW1lJywgJHVzZXJuYW1lKS0+Zmlyc3QoKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlkZCgkdXNlcik7Cg==</text>
+        <text encoding="base64">CQkJJ2lkJz0+JHRoaXMtPmlkLAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CQkJCQlkZCgkdXNlcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlkZCgkdXNlcik7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -408,16 +410,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCSR1c2VyLT5zYXZlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkkbmFtZSA9IGV4cGxvZGUoJ0AnLCAkdXNlci0+ZW1haWwpWzBdOwoJCQkJCSR1c2VyLT5lbXBsb3llZV9pZCA9IEVtcGxveWVlOjp3aGVyZSgnVXNlcm5hbWUnLCAkbmFtZSktPmZpcnN0KCktPkVtcF9JRDsKCg==</text>
+        <text encoding="base64">CQkJCSR1c2VyLT5zYXZlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSRuYW1lID0gZXhwbG9kZSgnQCcsICR1c2VyLT5lbWFpbClbMF07Cg==</text>
+        <text encoding="base64">CQkJCQkkbmFtZSA9IGV4cGxvZGUoJ0AnLCAkdXNlci0+ZW1haWwpWzBdOwoJCQkJCSR1c2VyLT5lbXBsb3llZV9pZCA9IEVtcGxveWVlOjp3aGVyZSgnVXNlcm5hbWUnLCAkbmFtZSktPmZpcnN0KCktPkVtcF9JRDsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSR1c2VyX25hbWUgPQo=</text>
+        <text encoding="base64">CQkJCSRuYW1lID0gZXhwbG9kZSgnQCcsICR1c2VyLT5lbWFpbClbMF07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m .+1</text>
