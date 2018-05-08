@@ -92,12 +92,12 @@
         <mark key="." line="7" column="39" />
         <mark key="^" line="7" column="39" />
       </file>
-      <file name="C:/inetpub/stenger_u/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1525798377544">
-        <mark key="'" line="20" column="37" />
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="27" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="20" column="37" />
+      <file name="C:/inetpub/stenger_u/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1525799174353">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="21" column="4" />
       </file>
       <file name="C:/inetpub/stenger_u/resources/assets/js/components.js" timestamp="1525379402012">
         <mark key="[" line="16" column="0" />
@@ -317,7 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="44" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/TestAttempts.vue" />
       <jump line="138" column="16" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/TestAttempts.vue" />
       <jump line="155" column="16" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/TestAttempts.vue" />
       <jump line="154" column="41" filename="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/TestAttempts.vue" />
@@ -416,11 +415,12 @@
       <jump line="22" column="41" filename="C:/inetpub/stenger_u/app/Http/Middleware/RedirectIfAuthenticated.php" />
       <jump line="24" column="4" filename="C:/inetpub/stenger_u/app/Http/Middleware/RedirectIfAuthenticated.php" />
       <jump line="23" column="26" filename="C:/inetpub/stenger_u/app/Http/Middleware/RedirectIfAuthenticated.php" />
-      <jump line="20" column="37" filename="C:/inetpub/stenger_u/app/Http/Middleware/RedirectIfAuthenticated.php" />
+      <jump line="20" column="59" filename="C:/inetpub/stenger_u/app/Http/Middleware/RedirectIfAuthenticated.php" />
+      <jump line="21" column="4" filename="C:/inetpub/stenger_u/app/Http/Middleware/RedirectIfAuthenticated.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>('AUTH_USER')</text>
+        <text>AUTH_USER</text>
       </register>
       <register name="/" type="4">
         <text>Docume</text>
@@ -430,31 +430,33 @@
       </register>
       <register name="1" type="4">
         <text>else{
+			dd(&quot;testing&quot;);
 		}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAlrawo=</text>
+        <text encoding="base64">CQlkZCgkcmVxdWVzdC0+c2VydmVyKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJZGQoInRlc3QiKTsK</text>
+      <register name="3" type="4">
+        <text>else{
+		}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkZCgidGVzdGluIik7IAo=</text>
+        <text encoding="base64">ICAgIAlrawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAJaWYoJHJlcXVlc3QtPnNlcnZlcignQVVUSF9VU1InKSAmJiAoJHVzZXIgPSBFbXBsb3llZTo6d2hlcmUoJ1VzZXJuYW1lJywgJHJlcXVlc3QtPnNlcnZlcignQVVUSF9VU0VSJykpLT5maXJzdCgpKSl7CiAgICAgICAgCQkkdGhpcy0+YXV0aC0+bG9naW4oJHVzZXIpOwoJCQl9Cg==</text>
+        <text encoding="base64">CQkJZGQoInRlc3QiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkcGF0aCA9IkY6XFRyYWluaW5nXEZEQ1BBIEVzc2VudGlhbHNcRkRDUEFfOS4xLmV4ZSI7Cg==</text>
+        <text encoding="base64">CQlkZCgidGVzdGluIik7IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlc3BvbnNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAJaWYoJHJlcXVlc3QtPnNlcnZlcignQVVUSF9VU1InKSAmJiAoJHVzZXIgPSBFbXBsb3llZTo6d2hlcmUoJ1VzZXJuYW1lJywgJHJlcXVlc3QtPnNlcnZlcignQVVUSF9VU0VSJykpLT5maXJzdCgpKSl7CiAgICAgICAgCQkkdGhpcy0+YXV0aC0+bG9naW4oJHVzZXIpOwoJCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxVc2VyOwo=</text>
+        <text encoding="base64">CQkkcGF0aCA9IkY6XFRyYWluaW5nXEZEQ1BBIEVzc2VudGlhbHNcRkRDUEFfOS4xLmV4ZSI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxRdWVzdGlvbjsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlc3BvbnNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
