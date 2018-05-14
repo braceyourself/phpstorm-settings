@@ -126,12 +126,12 @@
         <mark key="^" line="96" column="27" />
         <mark key="." line="96" column="27" />
       </file>
-      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1526069960132">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="125" column="72" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1526328446051">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="122" column="58" />
+        <mark key="]" line="123" column="0" />
+        <mark key="^" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="C:/inetpub/stenger_u/resources/assets/js/components/admin/tests/TestResultsEmployeeFilter.vue" timestamp="1524843502164">
         <mark key="'" line="33" column="11" />
@@ -356,9 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="18" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
-      <jump line="149" column="38" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
-      <jump line="151" column="12" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
       <jump line="145" column="41" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
       <jump line="148" column="23" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
       <jump line="152" column="23" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
@@ -452,14 +449,17 @@
       <jump line="106" column="12" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="107" column="31" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="114" column="17" filename="C:/inetpub/new_SU/routes/api.php" />
-      <jump line="124" column="49" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="125" column="54" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="137" column="13" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="126" column="0" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="127" column="21" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="122" column="35" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="124" column="2" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="123" column="0" filename="C:/inetpub/new_SU/routes/api.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>res</text>
+        <text>where()</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
@@ -468,31 +468,31 @@
         <text encoding="base64">Ly8JJHVzZXJzID0gVXNlcjo6YWxsKCktPmxvYWQoJ3Rlc3RfYXR0ZW1wdHMnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JJHVzZXJzID0gVXNlcjo6YWxsKCktPmxvYWQoJ3Rlc3RfYXR0ZW1wdHMnKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">Ly8JJHVzZXJzID0gVXNlcjo6YWxsKCktPmxvYWQoJ3Rlc3RfYXR0ZW1wdHMnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkZW1wbG95ZWQgPSAkZW1wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgkJCQkJCQkmJg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coZSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJHRoaXMtPmhhc01hbnkoRW1wbG95ZWVUZXN0QXR0ZW1wdDo6Y2xhc3MpOwovLwkJZGQoJGF0dGVtcHQtPmVtcGxveWVlLT50ZXN0X2F0dGVtcHRzKTsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkkZW1wbG95ZWQgPSAkZW1wCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CgkJCQkJCQkmJg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coZSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gJHRoaXMtPmhhc01hbnkoRW1wbG95ZWVUZXN0QXR0ZW1wdDo6Y2xhc3MpOwovLwkJZGQoJGF0dGVtcHQtPmVtcGxveWVlLT50ZXN0X2F0dGVtcHRzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
