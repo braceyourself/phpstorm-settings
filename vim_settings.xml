@@ -240,12 +240,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" timestamp="1527615860712">
-        <mark key="'" line="182" column="48" />
-        <mark key="[" line="182" column="23" />
-        <mark key="]" line="182" column="23" />
-        <mark key="." line="182" column="23" />
-        <mark key="^" line="182" column="48" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" timestamp="1527617012120">
+        <mark key="'" line="3" column="35" />
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="35" />
       </file>
       <file name="C:/inetpub/stenger_u/resources/assets/js/components/ErrorBanner.vue" timestamp="1524835556685">
         <mark key="'" line="2" column="27" />
@@ -455,12 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="64" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="35" column="63" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
-      <jump line="37" column="16" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
-      <jump line="111" column="30" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
-      <jump line="112" column="12" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
-      <jump line="114" column="20" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="110" column="33" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="115" column="43" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="36" column="47" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
@@ -485,7 +479,6 @@
       <jump line="54" column="27" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="53" column="31" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="59" column="46" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="82" column="73" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="204" column="43" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="206" column="19" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="205" column="20" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
@@ -555,13 +548,20 @@
       <jump line="26" column="21" filename="C:/inetpub/new_SU/app/Student.php" />
       <jump line="27" column="16" filename="C:/inetpub/new_SU/app/Student.php" />
       <jump line="182" column="48" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
+      <jump line="187" column="28" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
+      <jump line="83" column="73" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
+      <jump line="82" column="44" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
+      <jump line="109" column="48" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
+      <jump line="107" column="19" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
+      <jump line="7" column="71" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
+      <jump line="3" column="35" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">IGNsYXNzPSJ0ZXh0LWNlbnRlciI=</text>
       </register>
       <register name="/" type="4">
-        <text>stude</text>
+        <text>Student</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQknY3JlYXRlc190ZXN0cyc9Pidib29sZWFuJywK</text>
@@ -598,15 +598,14 @@
       </register>
     </registers>
     <search>
-      <last-search>stude</last-search>
+      <last-search>Student</last-search>
       <last-offset />
-      <last-pattern>stude</last-pattern>
+      <last-pattern>Student</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>prop</entry>
         <entry>search_text.len</entry>
         <entry>this2</entry>
         <entry>empty_search</entry>
@@ -626,6 +625,7 @@
         <entry>filter</entry>
         <entry>auth</entry>
         <entry>stude</entry>
+        <entry>Student</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
