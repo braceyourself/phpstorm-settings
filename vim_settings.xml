@@ -221,12 +221,12 @@
         <mark key="." line="27" column="12" />
         <mark key="^" line="27" column="12" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/Home.vue" timestamp="1527613063220">
-        <mark key="'" line="240" column="43" />
-        <mark key="[" line="240" column="36" />
-        <mark key="]" line="240" column="43" />
-        <mark key="." line="240" column="43" />
-        <mark key="^" line="240" column="43" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/Home.vue" timestamp="1527618063467">
+        <mark key="'" line="172" column="41" />
+        <mark key="[" line="65" column="72" />
+        <mark key="]" line="66" column="12" />
+        <mark key="." line="66" column="12" />
+        <mark key="^" line="66" column="12" />
       </file>
       <file name="C:/inetpub/stenger_u/app/Http/Resources/UserCollection.php" timestamp="1525361992863">
         <mark key="'" line="24" column="38" />
@@ -455,11 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="33" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
-      <jump line="115" column="43" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
-      <jump line="36" column="47" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
-      <jump line="116" column="24" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
-      <jump line="117" column="34" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="118" column="31" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="89" column="52" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="44" column="51" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
@@ -555,13 +550,18 @@
       <jump line="107" column="19" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="7" column="71" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="3" column="35" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
+      <jump line="66" column="12" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Home.vue" />
+      <jump line="168" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Home.vue" />
+      <jump line="160" column="10" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Home.vue" />
+      <jump line="166" column="12" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Home.vue" />
+      <jump line="172" column="41" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Home.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IGNsYXNzPSJ0ZXh0LWNlbnRlciI=</text>
       </register>
       <register name="/" type="4">
-        <text>Student</text>
+        <text>this.user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQknY3JlYXRlc190ZXN0cyc9Pidib29sZWFuJywK</text>
@@ -598,15 +598,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Student</last-search>
+      <last-search>this.user</last-search>
       <last-offset />
-      <last-pattern>Student</last-pattern>
+      <last-pattern>this.user</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>search_text.len</entry>
         <entry>this2</entry>
         <entry>empty_search</entry>
         <entry>empty_search()</entry>
@@ -626,6 +625,7 @@
         <entry>auth</entry>
         <entry>stude</entry>
         <entry>Student</entry>
+        <entry>this.user</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
