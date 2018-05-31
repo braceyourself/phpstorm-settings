@@ -48,6 +48,12 @@
         <mark key="." line="31" column="43" />
         <mark key="^" line="31" column="43" />
       </file>
+      <file name="C:/inetpub/new_SU/app/TestAttempt.php" timestamp="1527798419391">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="14" column="2" />
+        <mark key="." line="19" column="24" />
+      </file>
       <file name="C:/inetpub/stenger_u/app/Http/Controllers/Auth/LoginController.php" timestamp="1525287958512">
         <mark key="'" line="74" column="52" />
         <mark key="[" line="74" column="48" />
@@ -218,8 +224,8 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="101" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Employee.php" timestamp="1527614998072">
-        <mark key="'" line="8" column="19" />
+      <file name="C:/inetpub/new_SU/app/Employee.php" timestamp="1527798380085">
+        <mark key="'" line="67" column="4" />
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="19" />
         <mark key="^" line="8" column="19" />
@@ -260,10 +266,10 @@
         <mark key="^" line="24" column="38" />
         <mark key="." line="24" column="38" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" timestamp="1527614082390">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" timestamp="1527799234114">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" timestamp="1527791860390">
         <mark key="'" line="101" column="57" />
@@ -362,14 +368,6 @@
       <file name="/dummy.sql" timestamp="1527269047328">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527611636865">
-        <mark key="'" line="0" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="o" line="0" column="0" />
-      </file>
       <file name="C:/inetpub/stenger_u/app/Http/Resources/EmployeeCollection.php" timestamp="1525275420128">
         <mark key="'" line="18" column="26" />
         <mark key="[" line="18" column="27" />
@@ -391,9 +389,9 @@
         <mark key="." line="152" column="4" />
         <mark key="^" line="152" column="4" />
       </file>
-      <file name="C:/inetpub/new_SU/app/EmployeeTestAttempt.php" timestamp="1527793693918">
+      <file name="C:/inetpub/new_SU/app/EmployeeTestAttempt.php" timestamp="1527798305492">
         <mark key="'" line="15" column="38" />
-        <mark key="[" line="15" column="34" />
+        <mark key="[" line="15" column="7" />
         <mark key="]" line="15" column="38" />
         <mark key="." line="15" column="38" />
         <mark key="^" line="15" column="38" />
@@ -489,12 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="20" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
-      <jump line="97" column="20" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
-      <jump line="121" column="13" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
-      <jump line="33" column="41" filename="C:/inetpub/new_SU/resources/assets/js/components/User.vue" />
-      <jump line="8" column="19" filename="C:/inetpub/new_SU/app/Employee.php" />
-      <jump line="15" column="16" filename="C:/inetpub/new_SU/resources/assets/js/components/User.vue" />
       <jump line="6" column="61" filename="C:/inetpub/new_SU/resources/views/home.blade.php" />
       <jump line="109" column="0" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="26" column="21" filename="C:/inetpub/new_SU/app/Student.php" />
@@ -589,59 +581,63 @@
       <jump line="6" column="28" filename="C:/inetpub/new_SU/database/migrations/2018_05_31_195350_create_test_attempts_table.php" />
       <jump line="31" column="42" filename="C:/inetpub/new_SU/database/migrations/2018_05_31_195350_create_test_attempts_table.php" />
       <jump line="20" column="39" filename="C:/inetpub/new_SU/database/migrations/2018_05_31_195350_create_test_attempts_table.php" />
+      <jump line="67" column="4" filename="C:/inetpub/new_SU/app/Employee.php" />
+      <jump line="75" column="0" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="76" column="21" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="78" column="45" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="80" column="25" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="79" column="21" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>su_students</text>
+        <text>employee_</text>
       </register>
       <register name="/" type="4">
-        <text>'test'</text>
+        <text>Emp_ID</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRhYmxlLT5pbnRlZ2VyKCdlbXBsb3llZV9pZCcpOwoJCQkkdGFibGUtPmludGVnZXIoJ3Rlc3RfaWQnKTsKCQkJJHRhYmxlLT5kb3VibGUoJ3Njb3JlJyk7CiAgICAgICAgICAgICR0YWJsZS0+dGltZXN0YW1wcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAkJJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwoJCQkkdGFibGUtPnN0cmluZygndXNlcm5hbWUnKS0+dW5pcXVlKCk7CgkJCSR0YWJsZS0+c3RyaW5nKCduYW1lJyk7CgkJCSR0YWJsZS0+ZGF0ZSgnaGlyZV9kYXRlJyk7CgkJCSR0YWJsZS0+ZGF0ZSgndGVybWluYXRpb25fZGF0ZScpLT5udWxsYWJsZSgpOwo=</text>
+        <text encoding="base64">CgkJCWlmKCR1c2VyX2FjYyl7CgkJCQlBdXRoOjp1c2VyKCktPmlzX2FkbWluID0gJHVzZXJfYWNjLT5pc19hZG1pbjsKCQkJCUF1dGg6OnVzZXIoKS0+Y3JlYXRlc190ZXN0cyA9ICR1c2VyX2FjYy0+Y3JlYXRlc190ZXN0czsKCQkJCUF1dGg6OnVzZXIoKS0+c2F2ZSgpOwoJCQl9CgoJCQlpZighQXV0aDo6dXNlcigpLT5lbXBsb3llZV9pZCl7CgkJCQlBdXRoOjp1c2VyKCktPmVtcGxveWVlX2lkID0gJGVtcGxveWVlX3JlY29yZC0+RW1wX0lEOwoJCQkJQXV0aDo6dXNlcigpLT5zYXZlKCk7CgkJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">CQkJZGQoJHRlc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAkJCg==</text>
+        <text encoding="base64">ICAgIAkJJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwoJCQkkdGFibGUtPnN0cmluZygndXNlcm5hbWUnKS0+dW5pcXVlKCk7CgkJCSR0YWJsZS0+c3RyaW5nKCduYW1lJyk7CgkJCSR0YWJsZS0+ZGF0ZSgnaGlyZV9kYXRlJyk7CgkJCSR0YWJsZS0+ZGF0ZSgndGVybWluYXRpb25fZGF0ZScpLT5udWxsYWJsZSgpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWRkKCR0ZXN0X2F0dGVtcHRzLT5maXJzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZigkY291bnQgPT0gMSkKCQlkZCgkYXR0ZW1wdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkZCgkYXR0ZW1wdCk7Cg==</text>
+        <text encoding="base64">CWRkKCR0ZXN0X2F0dGVtcHRzLT5maXJzdCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlpZigkY291bnQgPT0gMSkKCQlkZCgkYXR0ZW1wdCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>source h:\.ideavimrc</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>'test'</last-search>
+      <last-search>Emp_ID</last-search>
       <last-offset />
-      <last-pattern>'test'</last-pattern>
+      <last-pattern>Emp_ID</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry>metho</entry>
         <entry>admin</entry>
         <entry>set_search</entry>
         <entry>@click</entry>
@@ -660,14 +656,16 @@
         <entry>this2</entry>
         <entry>this.show_test.to</entry>
         <entry>'test'</entry>
+        <entry>TestAttempt</entry>
+        <entry>Emp_ID</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
         <entry>m .+1</entry>
         <entry>m .-2</entry>
-        <entry>q</entry>
         <entry>redo</entry>
         <entry>source h:\.ideavimrc</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
