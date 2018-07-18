@@ -121,12 +121,12 @@
         <mark key="." line="19" column="107" />
         <mark key="^" line="19" column="107" />
       </file>
-      <file name="C:/inetpub/new_SU/routes/web.php" timestamp="1531929133497">
-        <mark key="'" line="55" column="14" />
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="21" />
-        <mark key="^" line="16" column="21" />
-        <mark key="." line="16" column="21" />
+      <file name="C:/inetpub/new_SU/routes/web.php" timestamp="1531940263882">
+        <mark key="'" line="57" column="14" />
+        <mark key="[" line="30" column="2" />
+        <mark key="]" line="30" column="2" />
+        <mark key="^" line="30" column="2" />
+        <mark key="." line="30" column="2" />
       </file>
       <file name="C:/inetpub/new_SU/app/Test.php" timestamp="1531835566782">
         <mark key="'" line="67" column="28" />
@@ -141,8 +141,8 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1531929206746">
-        <mark key="'" line="39" column="68" />
+      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1531940120758">
+        <mark key="'" line="50" column="17" />
         <mark key="[" line="50" column="34" />
         <mark key="]" line="50" column="34" />
         <mark key="." line="50" column="34" />
@@ -165,7 +165,7 @@
         <mark key="." line="100" column="71" />
         <mark key="^" line="100" column="71" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Student.php" timestamp="1531920998683">
+      <file name="C:/inetpub/new_SU/app/Student.php" timestamp="1531939993198">
         <mark key="'" line="56" column="4" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/TestElement.vue" timestamp="1531928887000">
@@ -191,9 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="23" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
-      <jump line="39" column="12" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
-      <jump line="140" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="142" column="12" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="100" column="41" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="59" column="61" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
@@ -291,13 +288,16 @@
       <jump line="53" column="42" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
       <jump line="52" column="35" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
       <jump line="51" column="36" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
+      <jump line="185" column="68" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="49" column="17" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="50" column="17" filename="C:/inetpub/new_SU/routes/api.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>_loading</text>
+        <text>test-at</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJY29uc29sZS5sb2codGhpcy4kZGF0YS5fbG9hZGVkKTsK</text>
@@ -334,15 +334,14 @@
       </register>
     </registers>
     <search>
-      <last-search>_loading</last-search>
+      <last-search>test-at</last-search>
       <last-offset />
-      <last-pattern>_loading</last-pattern>
+      <last-pattern>test-at</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test_attempts</entry>
         <entry>attempts</entry>
         <entry>required_tests</entry>
         <entry>emp</entry>
@@ -362,6 +361,7 @@
         <entry>is_adm</entry>
         <entry>creates_t</entry>
         <entry>_loading</entry>
+        <entry>test-at</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
