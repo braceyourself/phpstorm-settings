@@ -116,11 +116,6 @@
       <file name="/Dummy.txt" timestamp="1529698894955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/tools/Faq.vue" timestamp="1532106482880">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/app.js" timestamp="1531936212537">
         <mark key="'" line="168" column="0" />
         <mark key="[" line="161" column="41" />
@@ -138,8 +133,8 @@
         <mark key="." line="46" column="37" />
         <mark key="^" line="46" column="36" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" timestamp="1531918697042">
-        <mark key="'" line="18" column="20" />
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" timestamp="1532113260722">
+        <mark key="'" line="19" column="0" />
         <mark key="[" line="19" column="101" />
         <mark key="]" line="19" column="107" />
         <mark key="." line="19" column="107" />
@@ -166,11 +161,7 @@
         <mark key="^" line="50" column="0" />
       </file>
       <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1532107351811">
-        <mark key="'" line="172" column="59" />
-        <mark key="[" line="60" column="53" />
-        <mark key="]" line="60" column="53" />
-        <mark key="." line="60" column="53" />
-        <mark key="^" line="60" column="53" />
+        <mark key="'" line="171" column="59" />
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Controllers/FaqEntryController.php" timestamp="1532108452920">
         <mark key="[" line="38" column="7" />
@@ -196,11 +187,7 @@
         <mark key="^" line="100" column="71" />
       </file>
       <file name="C:/inetpub/new_SU/app/Student.php" timestamp="1532107759873">
-        <mark key="'" line="60" column="4" />
-        <mark key="[" line="51" column="59" />
-        <mark key="]" line="51" column="58" />
-        <mark key="^" line="51" column="58" />
-        <mark key="." line="51" column="58" />
+        <mark key="'" line="56" column="4" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/TestElement.vue" timestamp="1531928887000">
         <mark key="'" line="14" column="21" />
@@ -225,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="C:/inetpub/new_SU/app/Student.php" />
       <jump line="29" column="20" filename="C:/inetpub/new_SU/app/Student.php" />
       <jump line="93" column="39" filename="C:/inetpub/new_SU/routes/web.php" />
       <jump line="82" column="39" filename="C:/inetpub/new_SU/routes/web.php" />
@@ -325,13 +311,14 @@
       <jump line="170" column="54" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="171" column="59" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="12" column="33" filename="C:/inetpub/new_SU/app/FaqEntry.php" />
+      <jump line="19" column="0" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>faq_category_id</text>
       </register>
       <register name="/" type="4">
-        <text>attem</text>
+        <text>store</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJHRhYmxlLT5pbnRlZ2VyKCdmYXFfY2F0ZWdvcnlfaWQnKTsK</text>
@@ -368,15 +355,14 @@
       </register>
     </registers>
     <search>
-      <last-search>attem</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>attem</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>passed</entry>
         <entry>test.passing_</entry>
         <entry>tests</entry>
         <entry>auth =</entry>
@@ -396,6 +382,7 @@
         <entry>students</entry>
         <entry>attempts</entry>
         <entry>attem</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
