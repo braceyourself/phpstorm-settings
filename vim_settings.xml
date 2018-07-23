@@ -122,12 +122,12 @@
         <mark key="." line="39" column="38" />
         <mark key="^" line="25" column="39" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/app.js" timestamp="1531936212537">
-        <mark key="'" line="168" column="0" />
-        <mark key="[" line="161" column="41" />
-        <mark key="]" line="161" column="41" />
-        <mark key="." line="161" column="41" />
-        <mark key="^" line="161" column="41" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/app.js" timestamp="1532376695942">
+        <mark key="'" line="366" column="33" />
+        <mark key="[" line="98" column="25" />
+        <mark key="]" line="98" column="28" />
+        <mark key="." line="98" column="28" />
+        <mark key="^" line="98" column="28" />
       </file>
       <file name="/students [cls3/portal]" timestamp="1529698498573">
         <mark key="[" line="0" column="0" />
@@ -222,9 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="20" filename="C:/inetpub/new_SU/app/Student.php" />
-      <jump line="93" column="39" filename="C:/inetpub/new_SU/routes/web.php" />
-      <jump line="82" column="39" filename="C:/inetpub/new_SU/routes/web.php" />
       <jump line="121" column="13" filename="C:/inetpub/new_SU/routes/web.php" />
       <jump line="126" column="8" filename="C:/inetpub/new_SU/routes/web.php" />
       <jump line="119" column="5" filename="C:/inetpub/new_SU/routes/web.php" />
@@ -322,13 +319,16 @@
       <jump line="171" column="59" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="12" column="33" filename="C:/inetpub/new_SU/app/FaqEntry.php" />
       <jump line="19" column="0" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
+      <jump line="160" column="41" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
+      <jump line="357" column="29" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
+      <jump line="366" column="33" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>@destroy</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text>date</text>
       </register>
       <register name="0" type="4">
         <text>/test</text>
@@ -365,15 +365,14 @@
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search>date</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern>date</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test.passing_</entry>
         <entry>tests</entry>
         <entry>auth =</entry>
         <entry>loading</entry>
@@ -393,6 +392,7 @@
         <entry>attempts</entry>
         <entry>attem</entry>
         <entry>store</entry>
+        <entry>date</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
