@@ -57,6 +57,10 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/NewTest.vue" timestamp="1532465551414">
+        <mark key="[" line="345" column="0" />
+        <mark key="]" line="401" column="9" />
+      </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" timestamp="1531944243073">
         <mark key="'" line="264" column="0" />
         <mark key="[" line="277" column="59" />
@@ -83,11 +87,12 @@
         <mark key="^" line="99" column="13" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" timestamp="1532462612747">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="2" column="26" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" timestamp="1532465666167">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="79" column="45" />
+        <mark key="]" line="79" column="49" />
+        <mark key="." line="79" column="49" />
+        <mark key="^" line="79" column="49" />
       </file>
       <file name="/a.sql" timestamp="1529699134421">
         <mark key="[" line="0" column="0" />
@@ -162,6 +167,12 @@
         <mark key="]" line="26" column="28" />
         <mark key="." line="26" column="28" />
         <mark key="^" line="26" column="28" />
+      </file>
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" timestamp="1532465926274">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="155" column="54" />
+        <mark key="." line="155" column="54" />
+        <mark key="^" line="155" column="54" />
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" timestamp="1532117824414">
         <mark key="'" line="19" column="0" />
@@ -259,16 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="21" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
-      <jump line="69" column="51" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
-      <jump line="73" column="47" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
-      <jump line="18" column="20" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
-      <jump line="155" column="31" filename="C:/inetpub/new_SU/routes/api.php" />
-      <jump line="5" column="45" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
-      <jump line="22" column="6" filename="C:/inetpub/new_SU/app/User.php" />
-      <jump line="57" column="7" filename="C:/inetpub/new_SU/app/User.php" />
-      <jump line="67" column="18" filename="C:/inetpub/new_SU/app/User.php" />
-      <jump line="68" column="19" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="71" column="22" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="56" column="4" filename="C:/inetpub/new_SU/app/Student.php" />
       <jump line="41" column="77" filename="C:/inetpub/new_SU/resources/assets/js/components/LeftNav.vue" />
@@ -359,61 +360,67 @@
       <jump line="40" column="4" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/AllTests.vue" />
       <jump line="61" column="35" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/AllTests.vue" />
       <jump line="58" column="42" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/AllTests.vue" />
+      <jump line="9" column="61" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" />
+      <jump line="85" column="20" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" />
+      <jump line="25" column="63" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" />
+      <jump line="88" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" />
+      <jump line="148" column="40" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" />
+      <jump line="242" column="9" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" />
+      <jump line="326" column="36" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" />
+      <jump line="69" column="51" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" />
+      <jump line="75" column="38" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" />
+      <jump line="83" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{{question.body}}</text>
       </register>
       <register name="/" type="4">
-        <text>\.length</text>
+        <text>Mark As</text>
       </register>
-      <register name="0" type="4">
-        <text>expanded</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlpc19jb3JyZWN0KHF1ZXN0aW9uLCBhbnN3ZXIpewoJCQlyZXR1cm4gcXVlc3Rpb24uYW5zd2VyID09IGFuc3dlcjsKCQl9LAoKCQlzZWxlY3RfY29ycmVjdChxdWVzdGlvbiwgYW5zd2VyKXsKCQkJY29uc29sZS5sb2coYW5zd2VyLmlkKyIgbWFya2VkIGFzIGNvcnJlY3QgZm9yICIrcXVlc3Rpb24uaWQpOwoJCQlxdWVzdGlvbi5hbnN3ZXIgPSBhbnN3ZXI7CgkJCS8vIF8uZmluZCh0aGlzLnF1ZXN0aW9ucywgKHEpPT57CgkJCS8vIAlpZihxID09IHF1ZXN0aW9uKXsKCQkJLy8gCQlxLmFuc3dlciA9IGFuc3dlcgoJCQkvLyAJfQoJCQkvLyB9KTsKCgkJCSQuZWFjaChxdWVzdGlvbi5hbnN3ZXJzLCAoaSxhKT0+ewoJCQkJbGV0IGNvcnJlY3RfYnRuID0gJCgiI2J0bi0iK2EuaWQpOwoKCQkJCWlmKHRoaXMuaXNfY29ycmVjdChxdWVzdGlvbiwgYSkpewoJCQkJCWNvcnJlY3RfYnRuLmFkZENsYXNzKCdidG4tc3VjY2VzcycpLnRleHQoJ0NvcnJlY3QgQW5zd2VyJyk7CgoJCQkJfWVsc2V7CgkJCQkJY29ycmVjdF9idG4ucmVtb3ZlQ2xhc3MoJ2J0bi1zdWNjZXNzJykudGV4dCgnTWFyayBBcyBDb3JyZWN0Jyk7CgkJCQl9CgkJCX0pOwoJCX0sCgoJCWFkZF9hbnN3ZXIocXVlc3Rpb24pewoJCQljb25zb2xlLmxvZygiQWRkaW5nIEFuc3dlciEiKTsKCQkJbGV0IGEgPSB7CgkJCQl1dWlkOmhhc2goKSwKCQkJfTsKCgkJCWEuaWQgPSAnYW5zd2VyLScrYS51dWlkOwoKCQkJcXVlc3Rpb24uYW5zd2Vycy5wdXNoKGEpOwoJCX0sCgkJZGVsX3F1ZXN0aW9uKHF1ZXN0aW9uKXsKCQkJdGhpcy50ZXN0LnF1ZXN0aW9ucyA9IF8ucmVtb3ZlKHRoaXMudGVzdC5xdWVzdGlvbnMsIChxKT0+ewoJCQkJcmV0dXJuIHEudXVpZCAhPSBxdWVzdGlvbi51dWlkOwoJCQl9KTsKCQl9LAoJCWRlbF9hbnN3ZXIocXVlc3Rpb24sIGFuc3dlcil7CgkJCWNvbnNvbGUubG9nKCJkZWxldGluZyBhbnN3ZXIgIiArYW5zd2VyLnV1aWQpOwoJCQlxdWVzdGlvbi5hbnN3ZXJzID0gXy5yZW1vdmUocXVlc3Rpb24uYW5zd2VycywgKGEpPT57CgkJCQlyZXR1cm4gYS51dWlkICE9IGFuc3dlci51dWlkOwoJCQl9KTsKCQl9LAoJCWFkZF9xdWVzdGlvbigpewoJCQljb25zb2xlLmxvZygiQWRkaW5nIFF1ZXN0aW9uISIpOwoJCQlsZXQgcSA9IHsKCQkJCXV1aWQ6aGFzaCgpLAoJCQkJYm9keToiIiwKCQkJCWFuc3dlcnM6W10KCQkJfTsKCQkJcS5pZCA9ICdxdWVzdGlvbi0nK3EudXVpZDsKCgkJCXRoaXMudGVzdC5xdWVzdGlvbnMucHVzaChxKTsKCQl9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgVGVzdCBOYW1lOiB7e3Rlc3QubmFtZX19CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgTWluIFNjb3JlOiB7e3Rlc3QubWluaW11bV9zY29yZX19CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgU3RhcnQgRGF0ZToge3tkYXRlKHRlc3Quc3RhcnRfZGF0ZSl9fQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgIER1ZSBEYXRlOiB7e2RhdGUodGVzdC5kdWVfZGF0ZSl9fQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgIENyZWF0ZWQ6IHt7ZGF0ZSh0ZXN0LmR1ZV9kYXRlKX19CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICA8aDM+UXVlc3Rpb25zPC9oMz4KICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiB2LWZvcj0icXVlc3Rpb24gaW4gdGVzdC5xdWVzdGlvbnMiPgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iIj57e3F1ZXN0aW9uLmJvZHl9fTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB2LWZvcj0iYW5zd2VyIGluIHF1ZXN0aW9uLmFuc3dlcnMiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAge3thbnN3ZXIuYm9keX19CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIEBjbGljaz0ibWF4ID0gIW1heCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3t0ZXN0Lm5hbWV9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3t0ZXN0Lm5hbWV9fQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7e3Rlc3QubmFtZX19Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gcmVzcG9uc2UoWydyZXNwb25zZScgPT4gJ1Rlc3QgRGVsZXRlZCcsICd0ZXN0Jz0+JHRlc3RdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAJdGhpcy5zaG93ID0gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCS8vCg==</text>
+        <text encoding="base64">ICAgICAgICAJCWZsYXNoKGBEZWxldGluZyAke3RoaXMudGVzdC5uYW1lfWApCiAgICAgICAgICAgICAgICBheGlvcy5kZWxldGUoJy9hcGkvdGVzdHMvJyt0aGlzLnRlc3QuaWQpLnRoZW4ocmVzID0+ewoJCQkJCWZsYXNoKCdUZXN0IERlbGV0ZWQnKTsKICAgICAgICAgICAgICAgIH0pLmNhdGNoKGVyciA9PnsKICAgICAgICAgICAgICAgIAlmbGFzaCgiRXJyb3IgZGVsZXRpbmcgIiArIHRoaXMudGVzdC5uYW1lKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICA8ZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgLAo=</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
       </register>
     </registers>
     <search>
-      <last-search>\.length</last-search>
+      <last-search>Mark As</last-search>
       <last-offset />
-      <last-pattern>\.length</last-pattern>
+      <last-pattern>Mark As</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_loading</entry>
-        <entry>test-at</entry>
-        <entry>data</entry>
-        <entry>meth</entry>
         <entry>crea</entry>
         <entry>students</entry>
         <entry>attempts</entry>
@@ -430,6 +437,10 @@
         <entry>auth</entry>
         <entry>.length</entry>
         <entry>\.length</entry>
+        <entry>save(</entry>
+        <entry>meth</entry>
+        <entry>Question</entry>
+        <entry>Mark As</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
