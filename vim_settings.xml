@@ -83,6 +83,12 @@
         <mark key="^" line="99" column="13" />
         <mark key="." line="100" column="0" />
       </file>
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/EditTestDialog.vue" timestamp="1532458934900">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+      </file>
       <file name="/a.sql" timestamp="1529699134421">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,11 +189,12 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1532457074316">
-        <mark key="'" line="90" column="39" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1532457929054">
+        <mark key="'" line="91" column="39" />
+        <mark key="[" line="53" column="50" />
+        <mark key="]" line="54" column="42" />
+        <mark key="." line="54" column="42" />
+        <mark key="^" line="54" column="42" />
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Controllers/FaqEntryController.php" timestamp="1532108452920">
         <mark key="[" line="38" column="7" />
@@ -237,6 +244,12 @@
         <mark key="." line="19" column="107" />
         <mark key="^" line="19" column="107" />
       </file>
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/AllTests.vue" timestamp="1532458962503">
+        <mark key="[" line="36" column="40" />
+        <mark key="]" line="36" column="41" />
+        <mark key="." line="36" column="41" />
+        <mark key="^" line="36" column="41" />
+      </file>
       <file name="C:/inetpub/new_SU/app/User.php" timestamp="1531920940088">
         <mark key="'" line="71" column="22" />
         <mark key="[" line="75" column="51" />
@@ -246,10 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="69" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
-      <jump line="55" column="39" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
-      <jump line="57" column="29" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
-      <jump line="62" column="21" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
       <jump line="63" column="21" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
       <jump line="69" column="51" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
       <jump line="73" column="47" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
@@ -346,65 +355,61 @@
       <jump line="83" column="12" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="89" column="49" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="90" column="39" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="17" column="13" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/AllTests.vue" />
+      <jump line="40" column="4" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/AllTests.vue" />
+      <jump line="61" column="35" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/AllTests.vue" />
+      <jump line="58" column="42" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/AllTests.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>tests</text>
+        <text>\.length</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQllY2hvICI8YnI+ZGF0ZTogIi4gJGF0dC0+Y3JlYXRlZF9hdDsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">W2F0dCA9PnsKCQkJCQkJcmV0dXJuIGF0dC5zY29yZTsKICAgICAgICAgICAgICAgICAgICB9XQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">YXR0ID0+ewoJCQkJCQlyZXR1cm4gYXR0LnNjb3JlOwogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-					return att.created_at;
-				}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxyb3V0ZXItbGluayBjbGFzcz0iYnRuIGJ0bi1pbmZvIG10LTMgZm9ybS1jb250cm9sIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp0bz0iJ2FkbWluL2VkaXQtdGVzdC8nICsgdC5pZCI+CiAgICAgICAgICAgICAgICAgICAge3t0Lm5hbWV9fQogICAgICAgICAgICAgICAgPC9yb3V0ZXItbGluaz4K</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-					return att.created_at;
-				}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9Im1yLTIiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CglSb3V0ZTo6cG9zdCgnZGVsZXRlLWF0dGVtcHRzLycsIGZ1bmN0aW9uKFJlcXVlc3QgJHJlcXVlc3QpewoJCWRkKCRyZXF1ZXN0LT5hbGwoKSk7Cgl9KTsKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CVJvdXRlOjpnZXQoJ3Rlc3QnLCBmdW5jdGlvbigpewoJCSRhdHRlbXB0cyA9IFRlc3RBdHRlbXB0OjphbGwoKTsKCgkJZWNobyAiVG90YWwgQXR0ZW1wdHM6ICIuJGF0dGVtcHRzLT5jb3VudCgpIC4gIjxicj4iOwoKCQlmb3JlYWNoKFN0dWRlbnQ6OmFsbCgpIGFzICRzdHVkZW50KXsKCQkJJGF0dGVtcHRzID0gJHN0dWRlbnQtPmF0dGVtcHRzOwoKCQkJZm9yZWFjaCgkYXR0ZW1wdHMgYXMgJGF0dCl7CgoJCQkJJGR1cGxpY2F0ZXMgPSAkYXR0ZW1wdHMtPmZpbHRlcihmdW5jdGlvbigkYSwgJGtleSkgdXNlICgkYXR0KXsKCQkJCQlyZXR1cm4gJGEtPmNyZWF0ZWRfYXQtPnRvRGF0ZVN0cmluZygpID09ICRhdHQtPmNyZWF0ZWRfYXQtPnRvRGF0ZVN0cmluZygpICYmCgkJCQkJCSRhLT50ZXN0X2lkID09ICRhdHQtPnRlc3RfaWQgJiYKCQkJCQkJJGEtPmVtcGxveWVlX2lkID09ICRhdHQtPmVtcGxveWVlX2lkICYmCgkJCQkJCSRhLT5zY29yZSA9PSAkYXR0LT5zY29yZTsKCgkJCQl9KTsKCgkJCQlpZigkZHVwbGljYXRlcy0+Y291bnQoKSA+IDEpewoJCQkJCWVjaG8gImZvdW5kICIuJGR1cGxpY2F0ZXMtPmNvdW50KCkgLiIgcmVjb3JkcyBtYXRjaGluZyAiOwoJCQkJCWVjaG8gIjxicj5FbXBsb3llZTogIi4gU3R1ZGVudDo6d2hlcmUoJ2lkJywgJGF0dC0+ZW1wbG95ZWVfaWQpLT5maXJzdCgpLT5uYW1lIC4gIigkYXR0LT5lbXBsb3llZV9pZCkiOwoJCQkJCWVjaG8gIjxicj5UZXN0OiAiLiAkYXR0LT50ZXN0LT5uYW1lLiAiICgiLiRhdHQtPnRlc3RfaWQuIikiOwoJCQkJCWVjaG8gIjxicj5zY29yZTogIiAuJGF0dC0+c2NvcmU7CgkJCQkJZWNobyAiPGJyPmRhdGU6ICIuICRhdHQtPmNyZWF0ZWRfYXQ7CgkJCQkJZWNobyAiPGJyPkR1cGxpY2F0ZXM6ICIuICRkdXBsaWNhdGVzLT5jb3VudCgpOwoJCQkJCSRpbmRleCA9ICRkdXBsaWNhdGVzLT5jb3VudCgpIC0xOwoJCQkJCSRkZWxldGVfY291bnQgPSAwOwoKCgkJCQkJZm9yZWFjaCgkZHVwbGljYXRlcy0+YWxsKCkgYXMgJGR1cCl7CgoJCQkJCQkkZGVsZXRlID0gJGluZGV4ID4gMCAmJiAkaW5kZXggIT0gMDsKCQkJCQkJJHN0eWxlID0gJGRlbGV0ZSA/ICdjb2xvcjpyZWQnOidjb2xvcjpncmVlbic7CgoKCQkJCQkJZWNobyAiPGRpdiBzdHlsZT0nJHN0eWxlJz4iOwoJCQkJCQllY2hvICRkdXAtPmlkIC4gIiAiIC4gJGR1cC0+ZW1wbG95ZWVfaWQgLiAiICIgLiAkZHVwLT50ZXN0X2lkLiAiICIgLiAkZHVwLT5zY29yZSAuICIgIiAuICRkdXAtPmNyZWF0ZWRfYXQ7CgkJCQkJCWVjaG8gJGRlbGV0ZT8gIiAtIGRlbGV0ZWQuIjoiIC0gS2VlcGluZyB0aGlzIHJlY29yZC4iOwoJCQkJCQllY2hvICI8L2Rpdj4iOwoJCQkJCQlpZigkZGVsZXRlKXsKCQkJCQkJCSRkdXAtPmRlbGV0ZSgpOwoJCQkJCQkJJGRlbGV0ZV9jb3VudCsrOwoJCQkJCQl9CgkJCQkJCSRpbmRleC0tOwoJCQkJCX0KCgkJCQkJZWNobyAiPGJyPkRlbGV0ZWQgJGRlbGV0ZV9jb3VudCBkdXBsaWNhdGUgYXR0ZW1wdHMiOwoKCgkJCQl9CgkJCX0KCi8vCQkJaWYoJGR1cGxpY2F0ZXMtPmNvdW50KCkgPiAxKXsKLy8KLy8JCQkJcmV0dXJuOwovLwkJCX1lbHNlewovLy8vCQkJCWVjaG8gIk5vIGR1cGxpY2F0ZXMgZm91bmQiOwovLwkJCX0KCQl9CgoKLy8JCSRvbGRfYXR0ZW1wdHMgPSBPbGRUZXN0U2NvcmVzOjp3aGVyZSgndXNlcm5hbWUnLCAnbGlzYWknKS0+Z2V0KCk7Ci8vCi8vCQkkYXR0ZW1wdHMgPSBUZXN0QXR0ZW1wdDo6d2hlcmUoJ2VtcGxveWVlX2lkJywgNSktPndpdGgoJ3Rlc3QnKS0+Z2V0KCk7Ci8vCi8vCi8vCQlmb3JlYWNoKCRvbGRfYXR0ZW1wdHMgYXMgJG9sZF9hdHRlbXB0KXsKLy8JCQkkbWF0Y2hpbmdfYXR0ZW1wdHMgPSAkYXR0ZW1wdHMtPndoZXJlKCdlbXBsb3llZV9pZCcsICRvbGRfYXR0ZW1wdC0+c3R1ZGVudC0+aWQpCi8vCQkJCS0+d2hlcmUoJ3Rlc3RfaWQnLCBUZXN0Ojp3aGVyZSgnbmFtZScsICRvbGRfYXR0ZW1wdC0+dGVzdCktPmZpcnN0KCktPmlkKQovLwkJCQktPndoZXJlKCdzY29yZScsICRvbGRfYXR0ZW1wdC0+c2NvcmUpOwovLwovLwovLwkJCWlmKCRtYXRjaGluZ19hdHRlbXB0cy0+Y291bnQoKSA9PSAwKXsKLy8JCQkJJHRlbXBfYXR0ZW1wdCA9IG5ldyBUZXN0QXR0ZW1wdCgpOwovLwkJCQkkdGVtcF9hdHRlbXB0LT5lbXBsb3llZV9pZCA9ICRvbGRfYXR0ZW1wdC0+c3R1ZGVudC0+aWQ7Ci8vCQkJCSR0ZW1wX2F0dGVtcHQtPnRlc3RfaWQgPSBUZXN0Ojp3aGVyZSgnbmFtZScsICRvbGRfYXR0ZW1wdC0+dGVzdCktPmZpcnN0KCktPmlkOwovLwkJCQkkdGVtcF9hdHRlbXB0LT5zY29yZSA9ICRvbGRfYXR0ZW1wdC0+c2NvcmU7Ci8vCQkJCSR0ZW1wX2F0dGVtcHQtPmF0dGVzdGVkID0gZmFsc2U7Ci8vCQkJCSR0ZW1wX2F0dGVtcHQtPmNyZWF0ZWRfYXQgPSAkb2xkX2F0dGVtcHQtPmNyZWF0ZWRfYXQ7Ci8vCQkJCSR0ZW1wX2F0dGVtcHQtPnVwZGF0ZWRfYXQgPSBudWxsOwovLwkJCQlkZCgkdGVtcF9hdHRlbXB0LT50ZXN0LT5uYW1lKTsKLy8vLwkJCQkkdGVtcF9hdHRlbXB0LT5zYXZlKCk7Ci8vCi8vCQkJCSRhdHRlbXB0cy0+cHVzaCgkdGVtcF9hdHRlbXB0KTsKLy8KLy8JCQl9Ci8vCQl9Ci8vCi8vCQlyZXR1cm4gJGF0dGVtcHRzOwoJfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC0yIj48aDQ+U2VhcmNoOjwvaDQ+PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0aW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
       </register>
     </registers>
     <search>
-      <last-search>tests</last-search>
+      <last-search>\.length</last-search>
       <last-offset />
-      <last-pattern>tests</last-pattern>
+      <last-pattern>\.length</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loading_</entry>
-        <entry>create</entry>
-        <entry>is_adm</entry>
-        <entry>creates_t</entry>
         <entry>_loading</entry>
         <entry>test-at</entry>
         <entry>data</entry>
@@ -421,6 +426,10 @@
         <entry>Usern</entry>
         <entry>emp</entry>
         <entry>tests</entry>
+        <entry>post('tests</entry>
+        <entry>auth</entry>
+        <entry>.length</entry>
+        <entry>\.length</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
