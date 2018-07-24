@@ -183,8 +183,8 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1532378611551">
-        <mark key="'" line="178" column="59" />
+      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1532457074316">
+        <mark key="'" line="90" column="39" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -246,11 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="C:/inetpub/new_SU/routes/api.php" />
-      <jump line="169" column="49" filename="C:/inetpub/new_SU/routes/api.php" />
-      <jump line="161" column="32" filename="C:/inetpub/new_SU/routes/api.php" />
-      <jump line="164" column="12" filename="C:/inetpub/new_SU/routes/api.php" />
-      <jump line="38" column="37" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
       <jump line="43" column="69" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
       <jump line="55" column="39" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
       <jump line="57" column="29" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
@@ -268,10 +263,8 @@
       <jump line="71" column="22" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="56" column="4" filename="C:/inetpub/new_SU/app/Student.php" />
       <jump line="41" column="77" filename="C:/inetpub/new_SU/resources/assets/js/components/LeftNav.vue" />
-      <jump line="45" column="41" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="76" column="12" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="82" column="49" filename="C:/inetpub/new_SU/routes/api.php" />
-      <jump line="83" column="39" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="103" column="0" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="104" column="22" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="8" column="43" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Completed.vue" />
@@ -311,7 +304,6 @@
       <jump line="67" column="37" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="161" column="38" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="264" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="46" column="27" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="159" column="30" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="165" column="13" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="167" column="12" filename="C:/inetpub/new_SU/routes/api.php" />
@@ -346,13 +338,21 @@
       <jump line="70" column="45" filename="C:/inetpub/new_SU/app/TestAttempt.php" />
       <jump line="75" column="14" filename="C:/inetpub/new_SU/app/TestAttempt.php" />
       <jump line="44" column="29" filename="C:/inetpub/new_SU/routes/web.php" />
+      <jump line="44" column="0" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="45" column="19" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="46" column="68" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="52" column="12" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="53" column="12" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="83" column="12" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="89" column="49" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="90" column="39" filename="C:/inetpub/new_SU/routes/api.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>emp</text>
+        <text>tests</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQllY2hvICI8YnI+ZGF0ZTogIi4gJGF0dC0+Y3JlYXRlZF9hdDsK</text>
@@ -393,15 +393,14 @@
       </register>
     </registers>
     <search>
-      <last-search>emp</last-search>
+      <last-search>tests</last-search>
       <last-offset />
-      <last-pattern>emp</last-pattern>
+      <last-pattern>tests</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tag</entry>
         <entry>loading_</entry>
         <entry>create</entry>
         <entry>is_adm</entry>
@@ -421,6 +420,7 @@
         <entry>$this</entry>
         <entry>Usern</entry>
         <entry>emp</entry>
+        <entry>tests</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
