@@ -86,11 +86,11 @@
         <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="C:/inetpub/new_SU/routes/web.php" timestamp="1532982282063">
+      <file name="C:/inetpub/new_SU/routes/web.php" timestamp="1533054901380">
         <mark key="[" line="29" column="48" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="29" />
+        <mark key="]" line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+        <mark key="." line="30" column="18" />
       </file>
       <file name="C:/inetpub/new_SU/app/Test.php" timestamp="1531835566782">
         <mark key="'" line="67" column="28" />
@@ -262,11 +262,11 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/views/brp/rename_images.blade.php" timestamp="1532983535920">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
+      <file name="C:/inetpub/new_SU/resources/views/brp/rename_images.blade.php" timestamp="1533055075192">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Controllers/EmployeeTestAttemptController.php" timestamp="1530904330679">
         <mark key="'" line="110" column="21" />
@@ -290,7 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="155" column="53" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="280" column="38" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="27" column="43" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
@@ -390,10 +389,11 @@
       <jump line="0" column="2" filename="C:/inetpub/new_SU/resources/assets/js/router.js" />
       <jump line="0" column="13" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
       <jump line="56" column="8" filename="C:/inetpub/new_SU/config/database.php" />
+      <jump line="0" column="19" filename="C:/inetpub/new_SU/resources/views/brp/rename_images.blade.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>$</text>
+        <text>images</text>
       </register>
       <register name="/" type="4">
         <text>mys</text>
@@ -402,31 +402,33 @@
         <text encoding="base64">CXByb3RlY3RlZCAkY29ubmVjdGlvbiA9ICdicnAnOwoJcHJvdGVjdGVkICR0YWJsZSA9ICdJbWFnZXMnOwoJcHJvdGVjdGVkICRwcmltYXJ5S2V5ID0gJ1BLJzsKCglwdWJsaWMgZnVuY3Rpb24gYnJwX2RvY3VtZW50KCkgewoJCXJldHVybiAkdGhpcy0+aGFzT25lKEJSUERvY3VtZW50OjpjbGFzcyk7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWRkKCd0ZXN0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1hZ2VzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">QGV4dGVuZHMoJ2xheW91dHMubWFzdGVyJykKQHNlY3Rpb24oJ2NvbnRlbnQnKQoJY29udGVudApAZW5kc2VjdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWRkKEJSUEltYWdlOjp3aGVyZSgnRmlsZU5vJywgIk1LMDA1MjUyIiktPmZpcnN0KCkpOwo=</text>
+        <text encoding="base64">CXRlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JZGQoQlJQSW1hZ2U6OmNvbm5lY3Rpb24oKSk7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>@section('')
+	brp images
+@endsection</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">CSRFTkQkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBocmVmPSJTOlxUcmFpbmluZ1xGRENQQSBFc3NlbnRpYWxzXEZEQ1BBXzkuMS5leGUiPkZEQ1BBIFRyYWluaW5nPC9hPgo=</text>
+        <text encoding="base64">CWRkKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICBocmVmPSJTOlxUcmFpbmluZ1xGRENQQSBFc3NlbnRpYWxzXEZEQ1BBXzkuMS5leGUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
