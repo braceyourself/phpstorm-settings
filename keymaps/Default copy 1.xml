@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
   <action id="Macro.big arrow">
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
