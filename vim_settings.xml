@@ -195,12 +195,12 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1536851135414">
-        <mark key="'" line="98" column="2" />
-        <mark key="[" line="160" column="3" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
-        <mark key="^" line="161" column="0" />
+      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1536853175418">
+        <mark key="'" line="168" column="40" />
+        <mark key="[" line="169" column="11" />
+        <mark key="]" line="169" column="16" />
+        <mark key="." line="169" column="16" />
+        <mark key="^" line="169" column="16" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" timestamp="1536684837262">
         <mark key="'" line="71" column="42" />
@@ -332,11 +332,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="47" column="6" />
       </file>
-      <file name="C:/inetpub/new_SU/app/brp/DocumentType.php" timestamp="1533146552200">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="16" />
+      <file name="C:/inetpub/new_SU/app/brp/DocumentType.php" timestamp="1536853433446">
+        <mark key="[" line="17" column="51" />
+        <mark key="]" line="17" column="58" />
+        <mark key="." line="17" column="58" />
+        <mark key="^" line="17" column="58" />
       </file>
       <file name="/oauth_personal_access_clients [users.sqlite]" timestamp="1533240700158">
         <mark key="[" line="0" column="0" />
@@ -456,6 +456,12 @@
         <mark key="^" line="57" column="46" />
         <mark key="." line="57" column="46" />
       </file>
+      <file name="C:/inetpub/new_SU/app/brp/Image.php" timestamp="1536853257722">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/store.js" timestamp="1533243588456">
         <mark key="'" line="2" column="17" />
         <mark key="[" line="14" column="8" />
@@ -468,6 +474,12 @@
         <mark key="]" line="28" column="72" />
         <mark key="." line="28" column="72" />
         <mark key="^" line="28" column="72" />
+      </file>
+      <file name="C:/inetpub/new_SU/app/Http/Resources/DocumentTypeResource.php" timestamp="1536853508978">
+        <mark key="[" line="40" column="59" />
+        <mark key="]" line="40" column="61" />
+        <mark key="^" line="40" column="61" />
+        <mark key="." line="40" column="61" />
       </file>
       <file name="/main.tests [users.sqlite]" timestamp="1536602945121">
         <mark key="[" line="0" column="0" />
@@ -497,8 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="16" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
-      <jump line="35" column="0" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="82" column="16" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="56" column="22" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
       <jump line="84" column="4" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
@@ -597,43 +607,45 @@
       <jump line="84" column="39" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="101" column="12" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="14" column="4" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
+      <jump line="163" column="18" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="168" column="40" filename="C:/inetpub/new_SU/routes/api.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>data</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
         <text>BRP</text>
       </register>
-      <register name="0" type="4">
-        <text>attempts</text>
+      <register name="0" type="2">
+        <text encoding="base64">Um91dGU6OmdldCgnZG9jdW1lbnRfdHlwZXMve2RvY3VtZW50X3R5cGV9JywgZnVuY3Rpb24oRG9jdW1lbnRUeXBlICRkb2N1bWVudF90eXBlKXsKCXJldHVybiBuZXcgRG9jdW1lbnRUeXBlUmVzb3VyY2UoJGRvY3VtZW50X3R5cGUpOwp9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnaW1hZ2VzJywgZnVuY3Rpb24oKXsKCXJldHVybiBcQXBwXERvY3VtZW50VHlwZTo6YWxsKCk7Cn0pOwo=</text>
+        <text encoding="base64">CQkJCScnID0+ICR0aGlzLT5Eb2NEZXMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJJHJlc291cmNlID0gWwoJCQkJJ2lkJyA9PiAkdGhpcy0+RG9jSUQsCgkJCQknZGVzY3JpcHRpb24nID0+ICR0aGlzLT5Eb2NEZXMsCgkJCQknJyA9PiAkdGhpcy0+RG9jRGVzLAoKCQkJXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkcmVzb3VyY2UgPSBbCgkJCSdpZCcgPT4gJHRoaXMtPkRvY0lELAoJCQknZGVzY3JpcHRpb24nID0+ICR0aGlzLT5Eb2NEZXMsCgkJCScnID0+ICR0aGlzLT5Eb2NEZXMsCgoJCV07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkcXVlcnlfcGFyYW1zID0gOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWlmKHRoaXMuc3R1ZGVudCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXNldF90ZXN0X2F0dGVtcHRzKHN0YXRlLCB7dGVzdF9pZCwgYXR0ZW1wdHN9KSB7CgkJY29uc29sZS5sb2coInNldHRpbmcgYXR0ZW1wdHMgb24gdGVzdDogIiArIHRlc3RfaWQpOwoJCV8uZm9yRWFjaChzdGF0ZS5hcHBfZGF0YS50ZXN0cywgdCA9PnsKCQkJaWYgKHQuaWQgPT0gdGVzdF9pZCkgewoJCQkJbGV0IHRlc3RfaW5kZXggPSBzdGF0ZS5hcHBfZGF0YS50ZXN0cy5pbmRleE9mKHQpOwoJCQkJc3RhdGVbJ2FwcF9kYXRhJ11bJ3Rlc3RzJ11bdGVzdF9pbmRleF1bJ3Rlc3RfYXR0ZW1wdHMnXSA9IGF0dGVtcHRzOwoKCQkJfQoJCX0pOwoJfSwK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGBmb3VuZCB0ZXN0ICR7dC5uYW1lfSBhdCBpbmRleCBvZiAke3Rlc3RfaW5kZXh9YCkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
