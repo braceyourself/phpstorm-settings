@@ -125,6 +125,16 @@
       <file name="/main.students [users.sqlite]" timestamp="1536606523143">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="B:/stenger_u/app/User.php" timestamp="1537200549031">
+        <mark key="'" line="98" column="31" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="94" column="8" />
+      </file>
+      <file name="B:/stenger_u/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1537200374473">
+        <mark key="'" line="881" column="31" />
+      </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/TestingGroups.vue" timestamp="1536605850878">
         <mark key="'" line="19" column="29" />
         <mark key="[" line="79" column="68" />
@@ -332,6 +342,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="47" column="6" />
       </file>
+      <file name="B:/stenger_u/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1537200386846">
+        <mark key="'" line="1223" column="37" />
+      </file>
       <file name="C:/inetpub/new_SU/app/brp/DocumentType.php" timestamp="1536853433446">
         <mark key="[" line="17" column="51" />
         <mark key="]" line="17" column="58" />
@@ -509,15 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="16" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
-      <jump line="56" column="22" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
-      <jump line="84" column="4" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
-      <jump line="115" column="8" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
-      <jump line="131" column="4" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
-      <jump line="27" column="48" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="28" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="108" column="58" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="183" column="31" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="36" column="38" filename="C:/inetpub/new_SU/app/Http/Resources/StudentResource.php" />
       <jump line="23" column="6" filename="C:/inetpub/new_SU/app/Student.php" />
       <jump line="22" column="2" filename="C:/inetpub/new_SU/app/Student.php" />
@@ -609,10 +613,19 @@
       <jump line="14" column="4" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="163" column="18" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="168" column="40" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="793" column="20" filename="B:/stenger_u/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="94" column="18" filename="B:/stenger_u/app/User.php" />
+      <jump line="788" column="20" filename="B:/stenger_u/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="817" column="44" filename="B:/stenger_u/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="881" column="31" filename="B:/stenger_u/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+      <jump line="1223" column="37" filename="B:/stenger_u/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
+      <jump line="92" column="47" filename="B:/stenger_u/app/User.php" />
+      <jump line="18" column="2" filename="B:/stenger_u/app/User.php" />
+      <jump line="97" column="31" filename="B:/stenger_u/app/User.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>20</text>
+        <text>parent::delete();</text>
       </register>
       <register name="/" type="4">
         <text>BRP</text>
@@ -621,34 +634,34 @@
         <text encoding="base64">Um91dGU6OmdldCgnZG9jdW1lbnRfdHlwZXMve2RvY3VtZW50X3R5cGV9JywgZnVuY3Rpb24oRG9jdW1lbnRUeXBlICRkb2N1bWVudF90eXBlKXsKCXJldHVybiBuZXcgRG9jdW1lbnRUeXBlUmVzb3VyY2UoJGRvY3VtZW50X3R5cGUpOwp9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCS8qKiBAdmFyIENvbGxlY3Rpb24gJHJlbGF0aW9uICovCg==</text>
+        <text encoding="base64">dXNlIExvZzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCScnID0+ICR0aGlzLT5Eb2NEZXMsCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVsZXRlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OmRlbGV0ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJHJlc291cmNlID0gWwoJCQkJJ2lkJyA9PiAkdGhpcy0+RG9jSUQsCgkJCQknZGVzY3JpcHRpb24nID0+ICR0aGlzLT5Eb2NEZXMsCgkJCQknJyA9PiAkdGhpcy0+RG9jRGVzLAoKCQkJXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZzo6ZXJyb3IoIkVycm9yIERlbGV0aW5nIFVzZXI6ICR0aGlzLT5uYW1lIik6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkkcmVzb3VyY2UgPSBbCgkJCSdpZCcgPT4gJHRoaXMtPkRvY0lELAoJCQknZGVzY3JpcHRpb24nID0+ICR0aGlzLT5Eb2NEZXMsCgkJCScnID0+ICR0aGlzLT5Eb2NEZXMsCgoJCV07Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkkcXVlcnlfcGFyYW1zID0gOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHRocm93cyBFeGNlcHRpb24KICAgICAqLwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCS8qKiBAdmFyIENvbGxlY3Rpb24gJHJlbGF0aW9uICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>m .-2</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -683,8 +696,8 @@
       </history-search>
       <history-cmd>
         <entry>redo</entry>
-        <entry>q</entry>
         <entry>m .-2</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
