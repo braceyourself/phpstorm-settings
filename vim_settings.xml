@@ -369,6 +369,13 @@
         <mark key="." line="94" column="23" />
         <mark key="^" line="94" column="23" />
       </file>
+      <file name="B:/stenger_u/routes/api.php" timestamp="1537279853718">
+        <mark key="'" line="126" column="44" />
+        <mark key="[" line="143" column="36" />
+        <mark key="]" line="143" column="41" />
+        <mark key="." line="143" column="41" />
+        <mark key="^" line="143" column="41" />
+      </file>
       <file name="C:/inetpub/new_SU/app/Providers/AuthServiceProvider.php" timestamp="1533240836632">
         <mark key="[" line="26" column="34" />
         <mark key="]" line="27" column="26" />
@@ -498,7 +505,7 @@
       <file name="/dummy.sql" timestamp="1537214452489">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537275873718">
+      <file name="/Dummy.txt" timestamp="1537279904219">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="45" />
         <mark key="^" line="0" column="45" />
@@ -545,10 +552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="35" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
-      <jump line="75" column="0" filename="C:/inetpub/new_SU/app/Student.php" />
-      <jump line="83" column="15" filename="C:/inetpub/new_SU/app/Student.php" />
-      <jump line="5" column="23" filename="C:/inetpub/new_SU/app/Student.php" />
       <jump line="18" column="6" filename="C:/inetpub/new_SU/app/TestAttempt.php" />
       <jump line="117" column="44" filename="C:/inetpub/new_SU/app/TestAttempt.php" />
       <jump line="118" column="45" filename="C:/inetpub/new_SU/app/TestAttempt.php" />
@@ -645,58 +648,61 @@
       <jump line="33" column="35" filename="C:/inetpub/new_SU/app/Http/Resources/UserResource.php" />
       <jump line="12" column="19" filename="C:/inetpub/new_SU/app/Http/Resources/UserResource.php" />
       <jump line="15" column="6" filename="B:/stenger_u/app/Http/Controllers/TestAttemptController.php" />
+      <jump line="0" column="0" filename="B:/stenger_u/routes/api.php" />
+      <jump line="117" column="20" filename="B:/stenger_u/routes/api.php" />
+      <jump line="122" column="28" filename="B:/stenger_u/routes/api.php" />
+      <jump line="126" column="44" filename="B:/stenger_u/routes/api.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>loaded</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text>course</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJTG9nOjppbmZvKEF1dGg6OnVzZXIoKSAuICIgYXR0ZXN0ZWQgdGhlaXIgdW5kZXJzdGFuZGluZyBvbiAiIC4gJHRlc3QtPm5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlMb2c6OmluZm8oQXV0aDo6dXNlcigpLT5uYW1lIC4gJGF0dGVzdGluZz8gIiBhdHRlc3RlZCB0aGVpciB1bmRlcnN0YW5kaW5nIG9uICI6IiBhdHRlbXB0ZWQgIi4gJHRlc3QtPm5hbWUpOwo=</text>
+        <text encoding="base64">CXBhdGgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlMb2c6OmluZm8oQXV0aDo6dXNlcigpLT5uYW1lIC4gIiBhdHRlbXB0ZWQgdGVzdCAiLiAkdGVzdC0+bmFtZSk7Cg==</text>
+        <text encoding="base64">CQlMb2c6OmluZm8oQXV0aDo6dXNlcigpLT5uYW1lIC4gJGF0dGVzdGluZz8gIiBhdHRlc3RlZCB0aGVpciB1bmRlcnN0YW5kaW5nIG9uICI6IiBhdHRlbXB0ZWQgIi4gJHRlc3QtPm5hbWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlMb2c6OmluZm8oQXV0aDo6dXNlcigpLT5uYW1lIC4gIiBhdHRlbXB0ZWQgdGVzdCAiLiAkdGVzdC0+bmFtZSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlMb2c6OmluZm8oIlRlc3Q6ICIgLiAkdGVzdC0+bmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlMb2c6OmluZm8oIkRhdGE6ICIsICRyZXF1ZXN0LT5hbGwoKSk7Cg==</text>
+        <text encoding="base64">CQlMb2c6OmluZm8oIlRlc3Q6ICIgLiAkdGVzdC0+bmFtZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlMb2c6OmluZm8oIlN0b3JpbmcgdGVzdCBhdHRlbXB0Iik7Cg==</text>
+        <text encoding="base64">CQlMb2c6OmluZm8oIkRhdGE6ICIsICRyZXF1ZXN0LT5hbGwoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBAdmFyICR0ZXN0IFRlc3QKCQkgKi8KCQkkdGVzdCA9IFRlc3Q6OmZpbmQoJHJlcXVlc3QtPmlkKTsK</text>
+        <text encoding="base64">CQlMb2c6OmluZm8oIlN0b3JpbmcgdGVzdCBhdHRlbXB0Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBhdHRlbXB0ID09IHVuZGVmaW5lZDsK</text>
+        <text encoding="base64">CQkvKioKCQkgKiBAdmFyICR0ZXN0IFRlc3QKCQkgKi8KCQkkdGVzdCA9IFRlc3Q6OmZpbmQoJHJlcXVlc3QtPmlkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search>course</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern>course</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>comput</entry>
         <entry>search_type</entry>
         <entry>set</entry>
         <entry>api</entry>
@@ -716,6 +722,7 @@
         <entry>current_tests</entry>
         <entry>This might</entry>
         <entry>store</entry>
+        <entry>course</entry>
       </history-search>
       <history-cmd>
         <entry>redo</entry>
