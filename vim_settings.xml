@@ -357,8 +357,8 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="22" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/auth/Login.vue" timestamp="1536609894543">
-        <mark key="'" line="1" column="0" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/auth/Login.vue" timestamp="1537540627035">
+        <mark key="'" line="2" column="0" />
         <mark key="[" line="65" column="42" />
         <mark key="]" line="59" column="21" />
         <mark key="^" line="59" column="21" />
@@ -466,7 +466,7 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="8" column="48" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/ShowTest.vue" timestamp="1537303970210">
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/ShowTest.vue" timestamp="1537540618663">
         <mark key="'" line="148" column="40" />
         <mark key="i" line="111" column="0" />
         <mark key="[" line="135" column="0" />
@@ -538,12 +538,10 @@
       <file name="/main.migrations [users.sqlite]" timestamp="1537214452224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" timestamp="1537539196353">
-        <mark key="'" line="14" column="4" />
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="41" column="34" />
-        <mark key="^" line="41" column="34" />
-        <mark key="." line="41" column="34" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" timestamp="1537540515297">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/portal.dbo.answer_keys [cls3/portal]" timestamp="1537300032419">
         <mark key="[" line="0" column="0" />
@@ -657,10 +655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="20" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
-      <jump line="94" column="47" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
-      <jump line="186" column="14" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
-      <jump line="195" column="14" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
       <jump line="204" column="14" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
       <jump line="213" column="14" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
       <jump line="63" column="8" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
@@ -757,61 +751,61 @@
       <jump line="0" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/ShowTest.vue" />
       <jump line="40" column="28" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/ShowTest.vue" />
       <jump line="148" column="40" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/ShowTest.vue" />
+      <jump line="42" column="0" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
+      <jump line="54" column="22" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
+      <jump line="43" column="12" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
+      <jump line="2" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/auth/Login.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>this.$ro</text>
+        <text>logout</text>
       </register>
       <register name="/" type="4">
-        <text>creat</text>
+        <text>mout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlpZigkdGhpcy0+cXVlc3Rpb24gIT0gbnVsbCkgJHJlc291cmNlWydxdWVzdGlvbiddICR0aGlzLT5xdWVzdGlvbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgICAgZmxhc2gocmVzLnJlc3BvbnNlLmRhdGEubWVzc2FnZSk7CgkJICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWRpc3BhdGNoKCdsb2dvdXQnKTsK</text>
+        <text encoding="base64">CQkJLy8gaWYgKHJvdXRlci5wYXRoICE9ICcvbG9naW4nKSB7CgkJCS8vIAlkaXNwYXRjaCgncmVkaXJlY3QnLCAnL2xvZ2luJyk7CgkJCS8vCgkJCS8vIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkcmVzb3VyY2UgPSBbCgkJCSdxdWVzdGlvbicgPT4gJHRoaXMtPnF1ZXN0aW9uWydib2R5J10sCgkJCSdhbnN3ZXInID0+ICR0aGlzLT5hbnN3ZXIKCQldOwo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCJyZWRpcmUiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZigpIAo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnY2xlYW5fdGFibGVzJywgZnVuY3Rpb24oKXsKCQp9KTsK</text>
+        <text encoding="base64">CQkJCWZsYXNoKHJlcy5yZXNwb25zZS5kYXRhLm1lc3NhZ2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkgICAgZmxhc2gocmVzLnJlc3BvbnNlLmRhdGEubWVzc2FnZSk7CgkJICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcGFyZW50Ojp0b0FycmF5KCRyZXF1ZXN0KTsK</text>
+        <text encoding="base64">CQkJCWRpc3BhdGNoKCdsb2dvdXQnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXJldHVybiBSZXNwb25zZTo6anNvbihBbnN3ZXJLZXk6OmFsbCgpKTsK</text>
+        <text encoding="base64">CQkkcmVzb3VyY2UgPSBbCgkJCSdxdWVzdGlvbicgPT4gJHRoaXMtPnF1ZXN0aW9uWydib2R5J10sCgkJCSdhbnN3ZXInID0+ICR0aGlzLT5hbnN3ZXIKCQldOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlpZigpIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>creat</last-search>
+      <last-search>mout</last-search>
       <last-offset />
-      <last-pattern>creat</last-pattern>
+      <last-pattern>mout</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>with</entry>
-        <entry>$test</entry>
-        <entry>store</entry>
-        <entry>answers</entry>
         <entry encoding="base64">dGhpcy0+YW5zd2Vy</entry>
         <entry>answer_key</entry>
         <entry>addQu</entry>
@@ -826,8 +820,12 @@
         <entry>GetAnswer</entry>
         <entry>getAnswer</entry>
         <entry>CorrectAn</entry>
-        <entry>creat</entry>
         <entry>completed-tests</entry>
+        <entry>logout</entry>
+        <entry>Logged Out</entry>
+        <entry>redirect</entry>
+        <entry>creat</entry>
+        <entry>mout</entry>
       </history-search>
       <history-cmd>
         <entry>redo</entry>
