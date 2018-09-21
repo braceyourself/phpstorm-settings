@@ -249,4 +249,12 @@
       <option name="VUE_TEMPLATE" value="true" />
     </context>
   </template>
+  <template name="Schema" value="Schema::table('$table_name$', function(Blueprint $table){&#10;    $table-&gt;$END$&#10;});&#10;" description="laravel schema template" toReformat="false" toShortenFQNames="true">
+    <variable name="table_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Class Member" value="false" />
+      <option name="PHP Comment" value="false" />
+    </context>
+  </template>
 </templateSet>
