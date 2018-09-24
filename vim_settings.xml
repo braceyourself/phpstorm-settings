@@ -115,12 +115,12 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Test.php" timestamp="1537563559691">
-        <mark key="'" line="135" column="41" />
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
-        <mark key="^" line="29" column="4" />
+      <file name="C:/inetpub/new_SU/app/Test.php" timestamp="1537824157802">
+        <mark key="'" line="51" column="35" />
+        <mark key="[" line="127" column="8" />
+        <mark key="]" line="127" column="4" />
+        <mark key="." line="127" column="4" />
+        <mark key="^" line="127" column="4" />
       </file>
       <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1537823066606">
         <mark key="[" line="72" column="27" />
@@ -540,8 +540,14 @@
         <mark key="." line="88" column="32" />
         <mark key="^" line="88" column="32" />
       </file>
+      <file name="C:/inetpub/new_SU/composer.json" timestamp="1537546697567">
+        <mark key="'" line="6" column="0" />
+      </file>
       <file name="/portal.dbo.answer_keys [cls3/portal]" timestamp="1537300032419">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" timestamp="1537823881129">
+        <mark key="'" line="38" column="15" />
       </file>
       <file name="/oauth_personal_access_clients [users.sqlite]" timestamp="1533240700158">
         <mark key="[" line="0" column="0" />
@@ -656,15 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="C:/inetpub/new_SU/app/Test.php" />
-      <jump line="144" column="25" filename="C:/inetpub/new_SU/app/Test.php" />
-      <jump line="74" column="26" filename="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" />
-      <jump line="64" column="33" filename="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" />
-      <jump line="80" column="11" filename="C:/inetpub/new_SU/routes/api.php" />
-      <jump line="82" column="0" filename="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" />
-      <jump line="143" column="24" filename="C:/inetpub/new_SU/app/Test.php" />
-      <jump line="33" column="0" filename="C:/inetpub/new_SU/app/Test.php" />
-      <jump line="44" column="9" filename="C:/inetpub/new_SU/app/Test.php" />
       <jump line="48" column="9" filename="C:/inetpub/new_SU/app/Test.php" />
       <jump line="50" column="9" filename="C:/inetpub/new_SU/app/Test.php" />
       <jump line="21" column="0" filename="C:/inetpub/new_SU/app/User.php" />
@@ -756,13 +753,22 @@
       <jump line="23" column="19" filename="C:/inetpub/new_SU/resources/assets/js/components/MainPageWrapper.vue" />
       <jump line="13" column="63" filename="C:/inetpub/new_SU/resources/assets/js/components/MainPageWrapper.vue" />
       <jump line="46" column="97" filename="C:/inetpub/new_SU/resources/assets/js/components/MainPageWrapper.vue" />
+      <jump line="17" column="0" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="33" column="37" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="38" column="15" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="21" column="2" filename="C:/inetpub/new_SU/app/Test.php" />
+      <jump line="126" column="20" filename="C:/inetpub/new_SU/app/Test.php" />
+      <jump line="127" column="50" filename="C:/inetpub/new_SU/app/Test.php" />
+      <jump line="35" column="9" filename="C:/inetpub/new_SU/app/Test.php" />
+      <jump line="47" column="13" filename="C:/inetpub/new_SU/app/Test.php" />
+      <jump line="51" column="35" filename="C:/inetpub/new_SU/app/Test.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>UserResource</text>
       </register>
       <register name="/" type="4">
-        <text>getAuth</text>
+        <text>creat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGBjb21taXRpbmcgYXBwX2RhdGEgJHtrZXl9YCk7Cg==</text>
@@ -799,16 +805,14 @@
       </register>
     </registers>
     <search>
-      <last-search>getAuth</last-search>
+      <last-search>creat</last-search>
       <last-offset />
-      <last-pattern>getAuth</last-pattern>
+      <last-pattern>creat</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$cas</entry>
-        <entry>employee</entry>
         <entry>departm</entry>
         <entry>departments</entry>
         <entry>departme</entry>
@@ -827,6 +831,8 @@
         <entry>email</entry>
         <entry>is_admin</entry>
         <entry>getAuth</entry>
+        <entry>login</entry>
+        <entry>creat</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
