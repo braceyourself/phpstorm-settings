@@ -109,12 +109,12 @@
       <file name="/portal.dbo.department_test [cls3/portal]" timestamp="1538084242426">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/store.js" timestamp="1537547775413">
-        <mark key="'" line="27" column="9" />
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="19" />
-        <mark key="." line="22" column="19" />
-        <mark key="^" line="22" column="19" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/store.js" timestamp="1538489524960">
+        <mark key="'" line="28" column="9" />
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" timestamp="1538427960537">
         <mark key="[" line="59" column="38" />
@@ -311,6 +311,12 @@
       <file name="/main.department_test [users.sqlite]" timestamp="1537288699992">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/inetpub/new_SU/resources/assets/js/bootstrap.js" timestamp="1538489620524">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="41" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="/main.employees [Dev DB]" timestamp="1538426088681">
         <mark key="[" line="0" column="0" />
       </file>
@@ -342,7 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="13" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/create.vue" />
       <jump line="21" column="0" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="144" column="0" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="8" column="15" filename="C:/inetpub/new_SU/app/Http/Resources/QuestionResource.php" />
@@ -442,65 +447,58 @@
       <jump line="146" column="40" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="0" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="23" column="18" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
+      <jump line="0" column="0" filename="C:/inetpub/new_SU/resources/assets/js/bootstrap.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;Details click&quot;</text>
+        <text>'es6-promise'</text>
       </register>
       <register name="/" type="4">
-        <text>show(</text>
+        <text>es6</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICYmICF0ZXN0LnJlcXVpcmVfbmV3X2hpcmVz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCJEZXRhaWxzIGNsaWNrIik7Cg==</text>
+        <text encoding="base64">d2luZG93LlZ1ZXggPSByZXF1aXJlKCd2dWV4JykucG9seWZpbGwoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7dC5uYW1lfX0K</text>
+        <text encoding="base64">d2luZG93LlZ1ZXggPSByZXF1aXJlKCdlczYtcHJvbWlzZScpLnBvbHlmaWxsKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gdHJ1ZTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJLy8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCV9hdXRvbG9hZDpbCgkJCQkJJ3Rlc3RzJwoJCQkJXQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCXRlc3RzOiB7fSwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>else{
-			console.log(router);
-			if(router.path != undefined){
-				if(router.path != 'login')
-					dispatch('logout');
-
-			}
-		}</text>
+      <register name="4" type="2">
+        <text encoding="base64">bGV0IFZ1ZXggPSByZXF1aXJlKCd2dWV4Jyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCJEZXRhaWxzIGNsaWNrIik7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7dC5uYW1lfX0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQlyZXR1cm4gdHJ1ZTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJLy8K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCV9hdXRvbG9hZDpbCgkJCQkJJ3Rlc3RzJwoJCQkJXQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>show(</last-search>
+      <last-search>es6</last-search>
       <last-offset />
-      <last-pattern>show(</last-pattern>
+      <last-pattern>es6</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>AddQ</entry>
         <entry>loading(</entry>
         <entry>page_l</entry>
         <entry>metho</entry>
@@ -520,6 +518,7 @@
         <entry>compo</entry>
         <entry>Details</entry>
         <entry>show(</entry>
+        <entry>es6</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
