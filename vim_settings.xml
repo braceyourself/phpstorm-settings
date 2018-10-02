@@ -170,11 +170,11 @@
       <file name="/main.migrations [users.sqlite]" timestamp="1537550428471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" timestamp="1538492425473">
-        <mark key="[" line="160" column="62" />
-        <mark key="]" line="160" column="62" />
-        <mark key="." line="160" column="62" />
-        <mark key="^" line="160" column="79" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" timestamp="1538503795373">
+        <mark key="[" line="39" column="68" />
+        <mark key="]" line="39" column="68" />
+        <mark key="." line="39" column="68" />
+        <mark key="^" line="39" column="68" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" timestamp="1538482142565">
         <mark key="'" line="49" column="0" />
@@ -264,6 +264,12 @@
         <mark key="^" line="65" column="32" />
         <mark key="." line="65" column="32" />
       </file>
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" timestamp="1538504020651">
+        <mark key="[" line="76" column="60" />
+        <mark key="]" line="76" column="74" />
+        <mark key="^" line="76" column="74" />
+        <mark key="." line="76" column="74" />
+      </file>
       <file name="C:/inetpub/new_SU/app/Http/Resources/Students.php" timestamp="1536684997467">
         <mark key="[" line="6" column="7" />
       </file>
@@ -348,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="144" column="0" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="8" column="15" filename="C:/inetpub/new_SU/app/Http/Resources/QuestionResource.php" />
       <jump line="12" column="18" filename="C:/inetpub/new_SU/app/Question.php" />
@@ -448,58 +453,58 @@
       <jump line="0" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="23" column="18" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="0" column="0" filename="C:/inetpub/new_SU/resources/assets/js/bootstrap.js" />
+      <jump line="31" column="49" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIHRoaXMudGVzdCAhPSB7fQ==</text>
+        <text>selected_answer</text>
       </register>
       <register name="/" type="4">
-        <text>es6</text>
+        <text>store</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdlczYtcHJvbWlzZS9hdXRvJwo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCSAgJ2Fuc3dlcl9pZCcgPT4gJHNlbGVjdGVkX2Fuc3dlciwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHBcSHR0cFxDb250cm9sbGVyczsKCnVzZSBBcHBcQW5zd2VyS2V5Owp1c2UgQXBwXEh0dHBcUmVxdWVzdHNcVGVzdEF0dGVtcHRSZXF1ZXN0Owp1c2UgQXBwXFN0dWRlbnQ7CnVzZSBBcHBcVGVzdEF0dGVtcHQ7CnVzZSBBcHBcRW1wbG95ZWU7CnVzZSBBcHBcSHR0cFxSZXNvdXJjZXNcRW1wbG95ZWVDb2xsZWN0aW9uOwp1c2UgQXBwXEh0dHBcUmVzb3VyY2VzXFRlc3RBdHRlbXB0Q29sbGVjdGlvbjsKdXNlIEFwcFxUZXN0Owp1c2UgQXBwXFF1ZXN0aW9uOwp1c2UgSWxsdW1pbmF0ZVxIdHRwXFJlcXVlc3Q7CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xBdXRoOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcTG9nOwoKY2xhc3MgVGVzdEF0dGVtcHRDb250cm9sbGVyIGV4dGVuZHMgQ29udHJvbGxlciB7CgoJcHVibGljIGZ1bmN0aW9uIGF0dGVtcHRzKCkgewoJCXJldHVybiBuZXcgVGVzdEF0dGVtcHRDb2xsZWN0aW9uKFRlc3RBdHRlbXB0Ojp3aGVyZSgnZW1wbG95ZWVfaWQnLCBBdXRoOjp1c2VyKCktPmVtcGxveWVlX2lkKS0+Z2V0KCkpOwoJfQoKCXB1YmxpYyBmdW5jdGlvbiBhdHRlc3QoUmVxdWVzdCAkcmVxdWVzdCkgewoJCSRyZXF1ZXN0LT52YWxpZGF0ZShbCgkJCSd0ZXN0X2lkJz0+J3JlcXVpcmVkfGludGVnZXInCgkgICAJXSk7CgoKCQkkdGVzdCA9IFRlc3Q6OmZpbmQoJHJlcXVlc3QtPnRlc3RfaWQpOwoJCSRhdHRlbXB0ID0gbmV3IFRlc3RBdHRlbXB0KFsKCQkgICAnZW1wbG95ZWVfaWQnID0+IEF1dGg6OnVzZXIoKS0+ZW1wbG95ZWVfaWQsCgkJICAgJ3Rlc3RfaWQnID0+ICR0ZXN0LT5pZCwKCQkgICAnc2NvcmUnID0+IDEwMCwKCQkgICAnYXR0ZXN0ZWQnID0+IHRydWUsCgkJXSk7CgoJCSRhdHRlbXB0LT5zYXZlKCk7CgoJCXJldHVybiByZXNwb25zZShbJ21lc3NhZ2UnPT4iWW91J3ZlIGF0dGVzdGVkIHlvdXIgdW5kZXJzdGFuZGluZyBvZiB0aGUgdGVzdCAnIi4gJHRlc3QtPm5hbWUgLiInIiwgJ2F0dGVtcHQnPT4kYXR0ZW1wdF0pOwoKCgl9CgoKCS8qKgoJICogRGlzcGxheSBhIGxpc3Rpbmcgb2YgdGhlIHJlc291cmNlLgoJICoKCSAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0CgkgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcUmVzb3VyY2VzXEpzb25cQW5vbnltb3VzUmVzb3VyY2VDb2xsZWN0aW9uCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBpbmRleChSZXF1ZXN0ICRyZXF1ZXN0KSB7CgkJcmV0dXJuIFRlc3RBdHRlbXB0Q29sbGVjdGlvbjo6Y29sbGVjdGlvbihUZXN0QXR0ZW1wdDo6YWxsKCkpOwoJfQoKCgkvKioKCSAqIFN0b3JlIGEgbmV3bHkgY3JlYXRlZCByZXNvdXJjZSBpbiBzdG9yYWdlLgoJICoKCSAqIEBwYXJhbSAgXElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0ICRyZXF1ZXN0CgkgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcUmVzcG9uc2UKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHN0b3JlKFRlc3RBdHRlbXB0UmVxdWVzdCAkcmVxdWVzdCkgewoKCQkkdGVzdCA9ICRyZXF1ZXN0LT50ZXN0KCk7CgkJJGFuc3dlcmVkX2NvcnJlY3QgPSBbXTsKCQkkYW5zd2VyZWRfaW5jb3JyZWN0ID0gW107CgoKCQlmb3JlYWNoKCRyZXF1ZXN0LT5xdWVzdGlvbnMgYXMgJHF1ZXN0aW9uKSB7CgkJCSRzZWxlY3RlZF9hbnN3ZXIgPSAkcXVlc3Rpb25bJ3NlbGVjdGVkX2Fuc3dlciddOwoJCQkkcXVlc3Rpb24gPSBRdWVzdGlvbjo6ZmluZCgkcXVlc3Rpb25bJ2lkJ10pOwoJCQkka2V5ID0gQW5zd2VyS2V5Ojp3aGVyZSgncXVlc3Rpb25faWQnLCAkcXVlc3Rpb24tPmlkKS0+Zmlyc3QoKTsKCQkJJHFhID0gbmV3IFF1ZXN0aW9uQW5zd2VycyhbCgkJCQkJCQkJCQkgICdxdWVzdGlvbl9pZCcgPT4gJHF1ZXN0aW9uLT5pZCwKCQkJCQkJCQkJCSAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdGhpcy50ZXN0ID0gdGhpcy4kc3RvcmUuZ2V0dGVycy5nZXRUZXN0KHRoaXMuJHJvdXRlLnBhcmFtcy5pZCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CgkJCXRlc3QoKSB7CgkJCQkKCQkJfSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCXJldHVybiB0aGlzLiRzdG9yZS5nZXR0ZXJzLmdldFRlc3QodGhpcy4kcm91dGUucGFyYW1zLmlkKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJdGhpcy50ZXN0ID0gdGhpcy4kc3RvcmUuZ2V0dGVycy5nZXRUZXN0KHRoaXMuJHJvdXRlLnBhcmFtcy5pZCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CgkJCXRlc3QoKSB7CgkJCQkKCQkJfSwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdlczYtcHJvbWlzZS9hdXRvJwo=</text>
+        <text encoding="base64">CQkJCXJldHVybiB0aGlzLiRzdG9yZS5nZXR0ZXJzLmdldFRlc3QodGhpcy4kcm91dGUucGFyYW1zLmlkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2luZG93LlZ1ZXggPSByZXF1aXJlKCd2dWV4JykucG9seWZpbGwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVxdWlyZSgnZXM2LXByb21pc2UnKS5wb2x5ZmlsbCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0ICdlczYtcHJvbWlzZS9hdXRvJwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>es6</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>es6</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loading(</entry>
         <entry>page_l</entry>
         <entry>metho</entry>
         <entry>comput</entry>
@@ -519,6 +524,7 @@
         <entry>Details</entry>
         <entry>show(</entry>
         <entry>es6</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
