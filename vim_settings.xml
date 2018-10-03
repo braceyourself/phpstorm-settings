@@ -115,8 +115,8 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/store.js" timestamp="1538490416983">
-        <mark key="'" line="30" column="9" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/store.js" timestamp="1538587396797">
+        <mark key="'" line="11" column="13" />
         <mark key="[" line="1" column="25" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -164,8 +164,14 @@
         <mark key="^" line="82" column="50" />
         <mark key="." line="82" column="50" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/create.vue" timestamp="1537975945335">
-        <mark key="'" line="256" column="13" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/create.vue" timestamp="1538587692223">
+        <mark key="'" line="107" column="40" />
+      </file>
+      <file name="C:/inetpub/new_SU/app/Question.php" timestamp="1538588196870">
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="84" column="4" />
+        <mark key="." line="84" column="4" />
+        <mark key="^" line="84" column="4" />
       </file>
       <file name="/portal.dbo.migrations [cls3/portal]" timestamp="1538081653730">
         <mark key="[" line="0" column="0" />
@@ -270,11 +276,12 @@
       <file name="/main.department_tests [users.sqlite]" timestamp="1536608415082">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" timestamp="1538086373065">
-        <mark key="[" line="65" column="26" />
-        <mark key="]" line="65" column="32" />
-        <mark key="^" line="65" column="32" />
-        <mark key="." line="65" column="32" />
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" timestamp="1538588287573">
+        <mark key="'" line="75" column="17" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="75" column="57" />
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" timestamp="1538513846853">
         <mark key="'" line="74" column="35" />
@@ -379,11 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="18" filename="C:/inetpub/new_SU/app/Question.php" />
-      <jump line="20" column="39" filename="C:/inetpub/new_SU/app/Question.php" />
-      <jump line="57" column="31" filename="C:/inetpub/new_SU/app/Question.php" />
-      <jump line="59" column="41" filename="C:/inetpub/new_SU/app/Question.php" />
-      <jump line="62" column="56" filename="C:/inetpub/new_SU/app/Question.php" />
       <jump line="21" column="35" filename="C:/inetpub/new_SU/app/Question.php" />
       <jump line="14" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" />
       <jump line="224" column="18" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
@@ -479,59 +481,62 @@
       <jump line="31" column="49" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
       <jump line="73" column="23" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
       <jump line="74" column="35" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
+      <jump line="11" column="13" filename="C:/inetpub/new_SU/resources/assets/js/vuex/store.js" />
+      <jump line="47" column="51" filename="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" />
+      <jump line="0" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/create.vue" />
+      <jump line="107" column="40" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/tests/create.vue" />
+      <jump line="75" column="17" filename="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>QuestionAnswers</text>
+        <text encoding="base64">QW5zd2VyIA==</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text>answer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCQkJCSAgJ2Fuc3dlcl9pZCcgPT4gJHNlbGVjdGVkX2Fuc3dlciwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JcHJvdGVjdGVkICRjb25uZWN0aW9uID0gJ3BvcnRhbCc7Cg==</text>
+        <text encoding="base64">CQkJJGtleSA9IG5ldyBBbnN3ZXJLZXkoWwoJCQkJJ3F1ZXN0aW9uX2lkJyA9PiAkcS0+aWQsCgkJCQknYW5zd2VyX2lkJyA9PiAkcXVlc3Rpb25bJ2Fuc3dlciddWydpZCddCgkJCV0pOwoJCQkka2V5LT5zYXZlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSRxLT5zZXRfY29ycmVjdF9hbnN3ZXIoKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHBcSHR0cFxDb250cm9sbGVyczsKCnVzZSBBcHBcQW5zd2VyS2V5Owp1c2UgQXBwXEh0dHBcUmVxdWVzdHNcVGVzdEF0dGVtcHRSZXF1ZXN0Owp1c2UgQXBwXFN0dWRlbnQ7CnVzZSBBcHBcVGVzdEF0dGVtcHQ7CnVzZSBBcHBcRW1wbG95ZWU7CnVzZSBBcHBcSHR0cFxSZXNvdXJjZXNcRW1wbG95ZWVDb2xsZWN0aW9uOwp1c2UgQXBwXEh0dHBcUmVzb3VyY2VzXFRlc3RBdHRlbXB0Q29sbGVjdGlvbjsKdXNlIEFwcFxUZXN0Owp1c2UgQXBwXFF1ZXN0aW9uOwp1c2UgSWxsdW1pbmF0ZVxIdHRwXFJlcXVlc3Q7CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlc1xBdXRoOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcTG9nOwoKY2xhc3MgVGVzdEF0dGVtcHRDb250cm9sbGVyIGV4dGVuZHMgQ29udHJvbGxlciB7CgoJcHVibGljIGZ1bmN0aW9uIGF0dGVtcHRzKCkgewoJCXJldHVybiBuZXcgVGVzdEF0dGVtcHRDb2xsZWN0aW9uKFRlc3RBdHRlbXB0Ojp3aGVyZSgnZW1wbG95ZWVfaWQnLCBBdXRoOjp1c2VyKCktPmVtcGxveWVlX2lkKS0+Z2V0KCkpOwoJfQoKCXB1YmxpYyBmdW5jdGlvbiBhdHRlc3QoUmVxdWVzdCAkcmVxdWVzdCkgewoJCSRyZXF1ZXN0LT52YWxpZGF0ZShbCgkJCSd0ZXN0X2lkJz0+J3JlcXVpcmVkfGludGVnZXInCgkgICAJXSk7CgoKCQkkdGVzdCA9IFRlc3Q6OmZpbmQoJHJlcXVlc3QtPnRlc3RfaWQpOwoJCSRhdHRlbXB0ID0gbmV3IFRlc3RBdHRlbXB0KFsKCQkgICAnZW1wbG95ZWVfaWQnID0+IEF1dGg6OnVzZXIoKS0+ZW1wbG95ZWVfaWQsCgkJICAgJ3Rlc3RfaWQnID0+ICR0ZXN0LT5pZCwKCQkgICAnc2NvcmUnID0+IDEwMCwKCQkgICAnYXR0ZXN0ZWQnID0+IHRydWUsCgkJXSk7CgoJCSRhdHRlbXB0LT5zYXZlKCk7CgoJCXJldHVybiByZXNwb25zZShbJ21lc3NhZ2UnPT4iWW91J3ZlIGF0dGVzdGVkIHlvdXIgdW5kZXJzdGFuZGluZyBvZiB0aGUgdGVzdCAnIi4gJHRlc3QtPm5hbWUgLiInIiwgJ2F0dGVtcHQnPT4kYXR0ZW1wdF0pOwoKCgl9CgoKCS8qKgoJICogRGlzcGxheSBhIGxpc3Rpbmcgb2YgdGhlIHJlc291cmNlLgoJICoKCSAqIEBwYXJhbSBSZXF1ZXN0ICRyZXF1ZXN0CgkgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcUmVzb3VyY2VzXEpzb25cQW5vbnltb3VzUmVzb3VyY2VDb2xsZWN0aW9uCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBpbmRleChSZXF1ZXN0ICRyZXF1ZXN0KSB7CgkJcmV0dXJuIFRlc3RBdHRlbXB0Q29sbGVjdGlvbjo6Y29sbGVjdGlvbihUZXN0QXR0ZW1wdDo6YWxsKCkpOwoJfQoKCgkvKioKCSAqIFN0b3JlIGEgbmV3bHkgY3JlYXRlZCByZXNvdXJjZSBpbiBzdG9yYWdlLgoJICoKCSAqIEBwYXJhbSAgXElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0ICRyZXF1ZXN0CgkgKiBAcmV0dXJuIFxJbGx1bWluYXRlXEh0dHBcUmVzcG9uc2UKCSAqLwoJcHVibGljIGZ1bmN0aW9uIHN0b3JlKFRlc3RBdHRlbXB0UmVxdWVzdCAkcmVxdWVzdCkgewoKCQkkdGVzdCA9ICRyZXF1ZXN0LT50ZXN0KCk7CgkJJGFuc3dlcmVkX2NvcnJlY3QgPSBbXTsKCQkkYW5zd2VyZWRfaW5jb3JyZWN0ID0gW107CgoKCQlmb3JlYWNoKCRyZXF1ZXN0LT5xdWVzdGlvbnMgYXMgJHF1ZXN0aW9uKSB7CgkJCSRzZWxlY3RlZF9hbnN3ZXIgPSAkcXVlc3Rpb25bJ3NlbGVjdGVkX2Fuc3dlciddOwoJCQkkcXVlc3Rpb24gPSBRdWVzdGlvbjo6ZmluZCgkcXVlc3Rpb25bJ2lkJ10pOwoJCQkka2V5ID0gQW5zd2VyS2V5Ojp3aGVyZSgncXVlc3Rpb25faWQnLCAkcXVlc3Rpb24tPmlkKS0+Zmlyc3QoKTsKCQkJJHFhID0gbmV3IFF1ZXN0aW9uQW5zd2VycyhbCgkJCQkJCQkJCQkgICdxdWVzdGlvbl9pZCcgPT4gJHF1ZXN0aW9uLT5pZCwKCQkJCQkJCQkJCSAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJJGtleSA9IG5ldyBBbnN3ZXJLZXkoWwoJCQkJJ3F1ZXN0aW9uX2lkJyA9PiAkcS0+aWQsCgkJCQknYW5zd2VyX2lkJyA9PiAkcXVlc3Rpb25bJ2Fuc3dlciddWydpZCddCgkJCV0pOwoJCQkka2V5LT5zYXZlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJZGQoJGtleSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdGhpcy50ZXN0ID0gdGhpcy4kc3RvcmUuZ2V0dGVycy5nZXRUZXN0KHRoaXMuJHJvdXRlLnBhcmFtcy5pZCk7Cg==</text>
+        <text encoding="base64">CQkJJHEtPmFuc3dlcnMoKS0+Y3JlYXRlKFsKCQkJCSdib2R5JyA9PgoJCQldKTsKCgkJCWFkZFF1ZXN0aW9uKCRxdWVzdGlvblsnYm9keSddLCAkcXVlc3Rpb25bJ2Fuc3dlcnMnXSwgJHF1ZXN0aW9uWydhbnN3ZXInXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgkJCXRlc3QoKSB7CgkJCQkKCQkJfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXJldHVybiB0aGlzLiRzdG9yZS5nZXR0ZXJzLmdldFRlc3QodGhpcy4kcm91dGUucGFyYW1zLmlkKTsK</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search>answer</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern>answer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>page_l</entry>
-        <entry>metho</entry>
         <entry>comput</entry>
         <entry>router</entry>
         <entry>load(</entry>
@@ -550,6 +555,8 @@
         <entry>show(</entry>
         <entry>es6</entry>
         <entry>store</entry>
+        <entry>store(</entry>
+        <entry>answer</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
