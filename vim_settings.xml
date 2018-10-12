@@ -58,6 +58,12 @@
         <mark key="^" line="27" column="40" />
         <mark key="." line="27" column="40" />
       </file>
+      <file name="C:/inetpub/new_SU/.env" timestamp="1539374670421">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="30" column="28" />
+        <mark key="^" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+      </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/vuex/store.js" timestamp="1538587396797">
         <mark key="'" line="11" column="13" />
         <mark key="[" line="1" column="25" />
@@ -223,7 +229,7 @@
         <mark key="^" line="59" column="21" />
         <mark key="." line="59" column="21" />
       </file>
-      <file name="/main.users [Dev DB]" timestamp="1539280468619">
+      <file name="/main.users [Dev DB]" timestamp="1539374586835">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/main.answers [Dev DB]" timestamp="1538589868028">
@@ -397,7 +403,7 @@
       <file name="/tests [users.sqlite]" timestamp="1537812739648">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1539281350444">
+      <file name="/dummy.sql" timestamp="1539374671889">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/portal.dbo.department_names [cls3/portal]" timestamp="1538084235338">
@@ -429,7 +435,7 @@
       <file name="/main.department_test [users.sqlite]" timestamp="1537288699992">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/main.employees [Dev DB]" timestamp="1539279755949">
+      <file name="/main.employees [Dev DB]" timestamp="1539374556744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/portal.dbo.tests [cls3/portal]" timestamp="1538084143807">
@@ -442,20 +448,15 @@
         <mark key="^" line="45" column="9" />
         <mark key="." line="45" column="9" />
       </file>
-      <file name="C:/inetpub/new_SU/app/User.php" timestamp="1539286764766">
-        <mark key="'" line="80" column="18" />
-        <mark key="[" line="80" column="69" />
-        <mark key="]" line="80" column="76" />
-        <mark key="^" line="80" column="76" />
-        <mark key="." line="80" column="76" />
+      <file name="C:/inetpub/new_SU/app/User.php" timestamp="1539374776427">
+        <mark key="'" line="92" column="22" />
+        <mark key="[" line="100" column="44" />
+        <mark key="]" line="100" column="60" />
+        <mark key="^" line="100" column="45" />
+        <mark key="." line="100" column="44" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="55" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
-      <jump line="45" column="19" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
-      <jump line="74" column="8" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
-      <jump line="2" column="23" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
-      <jump line="43" column="24" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="44" column="15" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="49" column="0" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="96" column="10" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
@@ -551,13 +552,18 @@
       <jump line="0" column="0" filename="C:/inetpub/new_SU/resources/assets/sass/app.scss" />
       <jump line="333" column="13" filename="C:/inetpub/new_SU/resources/assets/sass/app.scss" />
       <jump line="334" column="5" filename="C:/inetpub/new_SU/resources/assets/sass/app.scss" />
+      <jump line="67" column="24" filename="C:/inetpub/new_SU/app/User.php" />
+      <jump line="73" column="22" filename="C:/inetpub/new_SU/app/User.php" />
+      <jump line="88" column="18" filename="C:/inetpub/new_SU/app/User.php" />
+      <jump line="89" column="21" filename="C:/inetpub/new_SU/app/User.php" />
+      <jump line="92" column="22" filename="C:/inetpub/new_SU/app/User.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>moment</text>
+        <text>, 'Emp_ID', 'id'</text>
       </register>
       <register name="/" type="4">
-        <text>form-control</text>
+        <text>employee</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">VnVlLnVzZShUYWJzKTsK</text>
@@ -590,19 +596,18 @@
         <text encoding="base64">bGV0IFZ1ZUNvb2tpZSA9IHJlcXVpcmUoJ3Z1ZS1jb29raWVzJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>32</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>form-control</last-search>
+      <last-search>employee</last-search>
       <last-offset />
-      <last-pattern>form-control</last-pattern>
+      <last-pattern>employee</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CreatesT</entry>
         <entry>creates_tests</entry>
         <entry>Created</entry>
         <entry>creat</entry>
@@ -622,6 +627,7 @@
         <entry>compu</entry>
         <entry>moment</entry>
         <entry>form-control</entry>
+        <entry>employee</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
@@ -633,6 +639,7 @@
         <entry>Employee</entry>
         <entry>q</entry>
         <entry>32</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
