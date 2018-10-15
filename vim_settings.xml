@@ -78,11 +78,12 @@
         <mark key="." line="47" column="59" />
         <mark key="^" line="47" column="59" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" timestamp="1539289184055">
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="24" column="53" />
-        <mark key="." line="24" column="53" />
-        <mark key="^" line="24" column="53" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" timestamp="1539629608674">
+        <mark key="'" line="13" column="40" />
+        <mark key="[" line="73" column="92" />
+        <mark key="]" line="73" column="92" />
+        <mark key="." line="73" column="92" />
+        <mark key="^" line="73" column="92" />
       </file>
       <file name="/oauth_auth_codes [users.sqlite]" timestamp="1533240698127">
         <mark key="[" line="0" column="0" />
@@ -452,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="47" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="104" column="47" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="110" column="86" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="113" column="45" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
@@ -552,13 +552,14 @@
       <jump line="142" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="199" column="35" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="202" column="35" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
+      <jump line="13" column="40" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>state</text>
       </register>
       <register name="/" type="4">
-        <text>getters.</text>
+        <text>compu</text>
       </register>
       <register name="0" type="4">
         <text>$data['test-attempts']</text>
@@ -595,9 +596,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getters.</last-search>
+      <last-search>compu</last-search>
       <last-offset />
-      <last-pattern>getters.</last-pattern>
+      <last-pattern>compu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -610,7 +611,6 @@
         <entry>Vue</entry>
         <entry>compo</entry>
         <entry>fromNow</entry>
-        <entry>compu</entry>
         <entry>moment</entry>
         <entry>form-control</entry>
         <entry>employee</entry>
@@ -623,6 +623,7 @@
         <entry>$modal</entry>
         <entry encoding="base64">PG1vZGFs</entry>
         <entry>getters.</entry>
+        <entry>compu</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
