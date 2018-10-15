@@ -79,6 +79,12 @@
       <file name="/main.users [users.sqlite]" timestamp="1537989255944">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/inetpub/new_SU/app/AnswerKey.php" timestamp="1539637651499">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+      </file>
       <file name="/main.su_students [Dev DB]" timestamp="1538589887179">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,6 +114,13 @@
       </file>
       <file name="/main.test_attempts [Dev DB]" timestamp="1538589884482">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" timestamp="1539637174754">
+        <mark key="'" line="75" column="25" />
+        <mark key="[" line="78" column="16" />
+        <mark key="]" line="78" column="60" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="67" column="16" />
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Resources/Students.php" timestamp="1536684997467">
         <mark key="[" line="6" column="7" />
@@ -147,6 +160,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="C:/inetpub/new_SU/app/Http/Resources/AnswerKeyResource.php" timestamp="1539637430074">
+        <mark key="[" line="6" column="46" />
       </file>
       <file name="/main.users [Dev DB]" timestamp="1539374586835">
         <mark key="[" line="0" column="0" />
@@ -207,11 +223,11 @@
       <file name="/main.questions [Dev DB]" timestamp="1538589897966">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Question.php" timestamp="1538589836485">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="87" column="10" />
+      <file name="C:/inetpub/new_SU/app/Question.php" timestamp="1539636989954">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="91" column="19" />
+        <mark key="." line="86" column="29" />
+        <mark key="^" line="86" column="29" />
       </file>
       <file name="/portal.dbo.question_answers [cls3/portal]" timestamp="1537300016078">
         <mark key="[" line="0" column="0" />
@@ -421,40 +437,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>auth/Login</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>metho</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSdsb2dpbi1wYWdlJzpyZXF1aXJlKCcuL2NvbXBvbmVudHMvYXV0aC9Mb2dpbicpLAo=</text>
+        <text encoding="base64">CgkJJGFuc3dlciA9IEFuc3dlcjo6ZmluZCgkYW5zd2VyLT5pZCk7CgoKCQkka2V5ID0gbmV3IEFuc3dlcktleSgpOwoJCSRrZXktPnF1ZXN0aW9uX2lkID0gJHRoaXMtPmlkOwoJCSRrZXktPmFuc3dlcl9pZCA9ICRhbnN3ZXItPmlkOwoJCSRrZXktPnNhdmUoKTsKCgkJcmV0dXJuICRrZXk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXNlc3Npb24oKQo=</text>
+        <text encoding="base64">CQkJCQkkcS0+YW5zd2VycygpLT5hdHRhY2goJGV4aXN0aW5nX2Fuc3dlci0+aWQpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQkJaWYgKHRoaXMuc2Vzc2lvbi5mbGFzaC5sZW5ndGggPiAwKSB7CgkJCQkKCQkJfQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJLy8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJLy8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJLy8K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CgogICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQoJCQkJJHEtPmFuc3dlcnMoKS0+Y3JlYXRlKFsKCQkJCQknYm9keScgPT4gJGFuc3dlclsnYm9keSddCgkJCQldKTsKCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkkYW5zd2VyWydib2R5J10gPSAkZXhpc3RpbmdfYW5zd2VyLT5ib2R5Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJJGFuc3dlciA9IEFuc3dlcjo6ZmluZCgkYW5zd2VyLT5pZCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWlmKG1vbWVudCh0ZXN0LnN0YXJ0X2RhdGUpLmlzQmVmb3JlKHRoaXMuYXV0aC5oaXJlX2RhdGUpLnN1YnRyYWN0KDcsICdkYXlzJykpIHJldHVybjsK</text>
+        <text encoding="base64">CQlpZihpc19pbnQoJGFuc3dlcikpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
