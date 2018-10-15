@@ -78,12 +78,12 @@
         <mark key="." line="47" column="59" />
         <mark key="^" line="47" column="59" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" timestamp="1539630609871">
-        <mark key="'" line="13" column="40" />
-        <mark key="[" line="81" column="45" />
-        <mark key="]" line="82" column="26" />
-        <mark key="." line="82" column="26" />
-        <mark key="^" line="82" column="26" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" timestamp="1539632389455">
+        <mark key="'" line="72" column="44" />
+        <mark key="[" line="74" column="51" />
+        <mark key="]" line="74" column="54" />
+        <mark key="^" line="74" column="54" />
+        <mark key="." line="74" column="54" />
       </file>
       <file name="/oauth_auth_codes [users.sqlite]" timestamp="1533240698127">
         <mark key="[" line="0" column="0" />
@@ -408,7 +408,7 @@
       <file name="/main.answers [users.sqlite]" timestamp="1537979731018">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539283914275">
+      <file name="/Dummy.txt" timestamp="1539632221542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/inetpub/new_SU/config/adldap_auth.php" timestamp="1537993670516">
@@ -453,9 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="47" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="110" column="86" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="113" column="45" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="116" column="72" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="130" column="29" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="146" column="40" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
@@ -553,52 +550,55 @@
       <jump line="199" column="35" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="202" column="35" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="13" column="40" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
+      <jump line="105" column="9" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
+      <jump line="74" column="51" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
+      <jump line="72" column="44" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>state</text>
+        <text>.subtract(7, 'days')</text>
       </register>
       <register name="/" type="4">
-        <text>compu</text>
+        <text>metho</text>
       </register>
       <register name="0" type="4">
-        <text>$data['test-attempts']</text>
+        <text>user_has_passed_this_test</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmKG1vbWVudCh0ZXN0LnN0YXJ0X2RhdGUpLmlzQmVmb3JlKHRoaXMuYXV0aC5oaXJlX2RhdGUpLnN1YnRyYWN0KDcsICdkYXlzJykpIHJldHVybjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWlmKCF0ZXN0LnJlcXVpcmVfbmV3X2hpcmVzKXsKCQkJCQkKCQkJCX0K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCWlmKCF0ZXN0LnJlcXVpcmVfbmV3X2hpcmVzKXsKCQkJCQkKCQkJCX0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">Xy5maWx0ZXIodGhpcy5hdXRoLmRlcGFydG1lbnRzLCBkZXBhcnRtZW50ID0+ewoJCQkJCXJldHVybiBfLmZpbHRlcih0ZXN0LmRlcGFydG1lbnRzLCB7aWQ6ZGVwYXJ0bWVudC5pZH0pLmxlbmd0aCA9PSAwOwoJCQkJfSkubGVuZ3RoID4gMCAmJiB0ZXN0LmRlcGFydG1lbnRzLmxlbmd0aCA+IDA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQlpZihtb21lbnQoKS5zdWJ0cmFjdCgxLCAneWVhcicpLmlzQWZ0ZXIobW9tZW50KHRlc3QuZHVlX2RhdGUpKSkgcmV0dXJuOwoJCQkJCWlmKG1vbWVudCh0ZXN0LmR1ZV9kYXRlKS5pc0JlZm9yZSh0aGlzLmF1dGguaGlyZV9kYXRlKSkgcmV0dXJuOwoJCQkJCWlmKG1vbWVudCh0ZXN0LnN0YXJ0X2RhdGUpLnN1YnRyYWN0KDcsICdkYXlzJykuaXNCZWZvcmUodGhpcy5hdXRoLmhpcmVfZGF0ZSkpIHJldHVybjsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">Xy5maWx0ZXIodGhpcy5hdXRoLnRlc3RfYXR0ZW1wdHMsIGF0dGVtcHQgPT57CgkJCQkJcmV0dXJuIGF0dGVtcHQudGVzdC5pZCA9PSB0ZXN0LmlkICYmIGF0dGVtcHQuc2NvcmUgPj0gdGVzdC5taW5pbXVtX3Njb3JlOwoJCQkJfSkubGVuZ3RoID4gMA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ywo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCWlmKCF0ZXN0LnJlcXVpcmVfbmV3X2hpcmVzKXsKCQkJCQkKCQkJCX0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWdldFRlc3RBdHRlbXB0czogKHN0YXRlKT0+KHRlc3QpPT57CgkJcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpPT57CgoJCQlyZXNvbHZlKHRlc3QpCgkJfSkKCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>compu</last-search>
+      <last-search>metho</last-search>
       <last-offset />
-      <last-pattern>compu</last-pattern>
+      <last-pattern>metho</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -618,12 +618,12 @@
         <entry>i{</entry>
         <entry>Select a test</entry>
         <entry>show_test_att</entry>
-        <entry>metho</entry>
         <entry>data(</entry>
         <entry>$modal</entry>
         <entry encoding="base64">PG1vZGFs</entry>
         <entry>getters.</entry>
         <entry>compu</entry>
+        <entry>metho</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
