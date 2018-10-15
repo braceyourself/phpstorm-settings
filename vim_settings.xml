@@ -24,6 +24,12 @@
       <file name="/test_attempts [Dev DB]" timestamp="1538407425418">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/mutations.js" timestamp="1539638871365">
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="35" />
+        <mark key="^" line="45" column="35" />
+        <mark key="." line="45" column="35" />
+      </file>
       <file name="/oauth_clients [users.sqlite]" timestamp="1533240701699">
         <mark key="[" line="0" column="0" />
       </file>
@@ -244,12 +250,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" timestamp="1539634321140">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="71" column="27" />
-        <mark key="]" line="71" column="32" />
-        <mark key="." line="71" column="32" />
-        <mark key="^" line="71" column="32" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" timestamp="1539638881259">
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+        <mark key="^" line="25" column="38" />
       </file>
       <file name="/portal.dbo.answer_keys [cls3/portal]" timestamp="1537300032419">
         <mark key="[" line="0" column="0" />
@@ -334,9 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="72" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="130" column="29" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="146" column="40" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="0" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="23" column="18" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="0" column="0" filename="C:/inetpub/new_SU/resources/assets/js/bootstrap.js" />
@@ -434,58 +437,60 @@
       <jump line="105" column="9" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
       <jump line="74" column="51" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
       <jump line="72" column="44" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
+      <jump line="71" column="34" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
+      <jump line="24" column="4" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
+      <jump line="41" column="8" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>_</text>
+        <text>login_attempt</text>
       </register>
       <register name="/" type="4">
-        <text>metho</text>
+        <text>login</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CgkJJGFuc3dlciA9IEFuc3dlcjo6ZmluZCgkYW5zd2VyLT5pZCk7CgoKCQkka2V5ID0gbmV3IEFuc3dlcktleSgpOwoJCSRrZXktPnF1ZXN0aW9uX2lkID0gJHRoaXMtPmlkOwoJCSRrZXktPmFuc3dlcl9pZCA9ICRhbnN3ZXItPmlkOwoJCSRrZXktPnNhdmUoKTsKCgkJcmV0dXJuICRrZXk7Cg==</text>
+      <register name="0" type="4">
+        <text>login_attempt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkkcS0+YW5zd2VycygpLT5hdHRhY2goJGV4aXN0aW5nX2Fuc3dlci0+aWQpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQoJCQkJJHEtPmFuc3dlcnMoKS0+Y3JlYXRlKFsKCQkJCQknYm9keScgPT4gJGFuc3dlclsnYm9keSddCgkJCQldKTsKCg==</text>
+        <text encoding="base64">CQkJCQkkcS0+YW5zd2VycygpLT5hdHRhY2goJGV4aXN0aW5nX2Fuc3dlci0+aWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkkYW5zd2VyWydib2R5J10gPSAkZXhpc3RpbmdfYW5zd2VyLT5ib2R5Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQoJCQkJJHEtPmFuc3dlcnMoKS0+Y3JlYXRlKFsKCQkJCQknYm9keScgPT4gJGFuc3dlclsnYm9keSddCgkJCQldKTsKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkkYW5zd2VyWydib2R5J10gPSAkZXhpc3RpbmdfYW5zd2VyLT5ib2R5Owo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJJGFuc3dlciA9IEFuc3dlcjo6ZmluZCgkYW5zd2VyLT5pZCk7Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpZihpc19pbnQoJGFuc3dlcikpIHsK</text>
+        <text encoding="base64">CQkJJGFuc3dlciA9IEFuc3dlcjo6ZmluZCgkYW5zd2VyLT5pZCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>metho</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>metho</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>IsAd</entry>
         <entry>Creating User</entry>
         <entry>data</entry>
         <entry>Vue.Use</entry>
@@ -505,6 +510,7 @@
         <entry>getters.</entry>
         <entry>compu</entry>
         <entry>metho</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
@@ -514,9 +520,9 @@
         <entry>44</entry>
         <entry>60</entry>
         <entry>Employee</entry>
-        <entry>q</entry>
         <entry>32</entry>
         <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
