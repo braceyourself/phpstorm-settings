@@ -172,8 +172,8 @@
         <mark key="." line="108" column="12" />
         <mark key="^" line="108" column="12" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" timestamp="1539866729331">
-        <mark key="'" line="55" column="16" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" timestamp="1539874690043">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="137" column="52" />
         <mark key="]" line="137" column="57" />
         <mark key="^" line="137" column="57" />
@@ -364,7 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="19" column="21" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="86" column="30" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="15" column="0" filename="C:/inetpub/new_SU/app/Employee.php" />
@@ -464,13 +463,14 @@
       <jump line="81" column="0" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
       <jump line="74" column="12" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
       <jump line="80" column="12" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
+      <jump line="3" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>index</text>
       </register>
       <register name="/" type="4">
-        <text>$qa</text>
+        <text>questions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJ2xvYWRpbmcnOiByZXF1aXJlKCIuLi9wYXJ0aWFscy9Mb2FkaW5nIiksCg==</text>
@@ -510,15 +510,14 @@
       </register>
     </registers>
     <search>
-      <last-search>$qa</last-search>
+      <last-search>questions</last-search>
       <last-offset />
-      <last-pattern>$qa</last-pattern>
+      <last-pattern>questions</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>show_test_att</entry>
         <entry>data(</entry>
         <entry>$modal</entry>
         <entry encoding="base64">PG1vZGFs</entry>
@@ -538,6 +537,7 @@
         <entry>fillab</entry>
         <entry>export</entry>
         <entry>$qa</entry>
+        <entry>questions</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
