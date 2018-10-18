@@ -299,6 +299,12 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" timestamp="1539868748084">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="76" column="8" />
+        <mark key="^" line="76" column="8" />
+        <mark key="." line="76" column="8" />
+      </file>
       <file name="C:/inetpub/new_SU/app/Http/Resources/Students.php" timestamp="1536684997467">
         <mark key="[" line="6" column="7" />
       </file>
@@ -358,9 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/LeftNav.vue" />
-      <jump line="129" column="20" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
-      <jump line="44" column="8" filename="C:/inetpub/new_SU/app/Student.php" />
       <jump line="2" column="0" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="19" column="21" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="86" column="30" filename="C:/inetpub/new_SU/app/User.php" />
@@ -458,61 +461,63 @@
       <jump line="85" column="4" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="87" column="38" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="54" column="16" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" />
+      <jump line="81" column="0" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
+      <jump line="74" column="12" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
+      <jump line="80" column="12" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>index</text>
       </register>
       <register name="/" type="4">
-        <text>export</text>
+        <text>$qa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJJ2xvYWRpbmcnOiByZXF1aXJlKCIuLi9wYXJ0aWFscy9Mb2FkaW5nIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8YnI+Cg==</text>
+        <text encoding="base64">Ly8JCQkkcWEgPSBuZXcgUXVlc3Rpb25BbnN3ZXJzKFsKLy8JCQkJJ3F1ZXN0aW9uX2lkJyA9PiAkcXVlc3Rpb24tPmlkLAovLwkJCQknYW5zd2VyX2lkJyA9PiAkc2VsZWN0ZWRfYW5zd2VyLAovLwkJCQknZW1wbG95ZWVfaWQnID0+IEF1dGg6OnVzZXIoKS0+aWQsCi8vCQkJXSk7CgovLwkJCSRxYS0+c2F2ZSgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlXZSBhcmUgc3F1YXNoaW5nIHNvbWUgYnVncy4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlCZSByaWdodCBiYWNrCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQk8YnI+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlXZSBhcmUgc3F1YXNoaW5nIHNvbWUgYnVncy4K</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">CQlCZSByaWdodCBiYWNrCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQliYWNrZ3JvdW5kOiB3aGl0ZTsKICAgIHdpZHRoOiA1MHZ3OwogICAgbWFyZ2luOiAwIGF1dG87CiAgICB0b3A6IDMwdmg7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>background: white;
 		width:50vw;
 		margin:0 auto;
 		top:50vw;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>export</last-search>
+      <last-search>$qa</last-search>
       <last-offset />
-      <last-pattern>export</last-pattern>
+      <last-pattern>$qa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Select a test</entry>
         <entry>show_test_att</entry>
         <entry>data(</entry>
         <entry>$modal</entry>
@@ -532,6 +537,7 @@
         <entry>load</entry>
         <entry>fillab</entry>
         <entry>export</entry>
+        <entry>$qa</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
