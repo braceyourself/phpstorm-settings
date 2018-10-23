@@ -76,12 +76,6 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="52" column="28" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" timestamp="1539964771805">
-        <mark key="'" line="82" column="28" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-      </file>
       <file name="/oauth_auth_codes [users.sqlite]" timestamp="1533240698127">
         <mark key="[" line="0" column="0" />
       </file>
@@ -200,12 +194,6 @@
       </file>
       <file name="/employee_testing_groups [users.sqlite]" timestamp="1529698638314">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/inetpub/new_SU/resources/assets/sass/app.scss" timestamp="1539379244794">
-        <mark key="'" line="12" column="29" />
-        <mark key="[" line="441" column="0" />
-        <mark key="]" line="441" column="0" />
-        <mark key="." line="441" column="0" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/Home.vue" timestamp="1539957437641">
         <mark key="[" line="8" column="25" />
@@ -354,11 +342,12 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" timestamp="1540298619219">
-        <mark key="'" line="91" column="28" />
-        <mark key="[" line="69" column="24" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" timestamp="1540318200694">
+        <mark key="'" line="63" column="5" />
+        <mark key="[" line="84" column="24" />
+        <mark key="]" line="84" column="33" />
+        <mark key="." line="84" column="33" />
+        <mark key="^" line="84" column="33" />
       </file>
       <file name="/portal.dbo.answer_keys [cls3/portal]" timestamp="1537300032419">
         <mark key="[" line="0" column="0" />
@@ -376,18 +365,11 @@
       <file name="/oauth_personal_access_clients [users.sqlite]" timestamp="1533240700158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" timestamp="1539954344442">
-        <mark key="'" line="199" column="12" />
-        <mark key="[" line="135" column="58" />
-        <mark key="]" line="135" column="57" />
-        <mark key="^" line="135" column="57" />
-        <mark key="." line="135" column="57" />
-      </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/LeftNav.vue" timestamp="1539286931641">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" timestamp="1540318432968">
+        <mark key="'" line="184" column="41" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="/main.question_answers [users.sqlite]" timestamp="1537985606881">
         <mark key="[" line="0" column="0" />
@@ -458,9 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="32" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
-      <jump line="20" column="32" filename="C:/inetpub/new_SU/routes/api.php" />
-      <jump line="79" column="16" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="45" column="5" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="49" column="17" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="113" column="20" filename="C:/inetpub/new_SU/app/User.php" />
@@ -558,59 +537,60 @@
       <jump line="19" column="31" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="114" column="31" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="26" column="6" filename="C:/inetpub/new_SU/app/Student.php" />
+      <jump line="178" column="43" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
+      <jump line="181" column="41" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
+      <jump line="63" column="5" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>]</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>user()</text>
+        <text>getTest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJZWNobyAnY3JlYXRpbmcgc3R1ZGVudCByZWNvcmQgZm9yICcuJGVtcC0+bmFtZSAuICI8YnI+IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWVjaG8gIjxicj4iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2LWlmPSJsb2FkaW5nX3Rlc3RfYXR0ZW1wdHMiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZWNobyAiU3VjY2VzcyEiOwoJCQllY2hvICI8YnI+IjsK</text>
+        <text encoding="base64">CQkJICAgIGZsYXNoKHJlcy5yZXNwb25zZS5kYXRhLm1lc3NhZ2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXRocm93IG5ldwo=</text>
+        <text encoding="base64">CQkJICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJHN0dWRlbnQgPSBuZXcgU3R1ZGVudChbCgkJCQknaWQnID0+ICRlbXAtPkVtcF9JRCwKCQkJCSd1c2VybmFtZScgPT4gJGVtcC0+VXNlcm5hbWUsCgkJCQknbmFtZScgPT4gJGVtcC0+TmFtZSwKCQkJCSdoaXJlX2RhdGUnID0+ICRlbXAtPkhpcmVfRGF0ZQoJCQldKTsKCgkJCSRzdHVkZW50LT5zYXZlKCk7Cg==</text>
+        <text encoding="base64">CQkJcmVzb2x2ZSh0ZXN0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZGQoJGVtcCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZGQoJGVtcC0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">CQkJCWVjaG8gIjxicj4iOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZWNobyAkZW1wLT5uYW1lIC4gIjxicj4iOwo=</text>
+        <text encoding="base64">CQkJZWNobyAiU3VjY2VzcyEiOwoJCQllY2hvICI8YnI+IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJCXRocm93IG5ldwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYoJGVtcCl7Cg==</text>
+        <text encoding="base64">CQkJJHN0dWRlbnQgPSBuZXcgU3R1ZGVudChbCgkJCQknaWQnID0+ICRlbXAtPkVtcF9JRCwKCQkJCSd1c2VybmFtZScgPT4gJGVtcC0+VXNlcm5hbWUsCgkJCQknbmFtZScgPT4gJGVtcC0+TmFtZSwKCQkJCSdoaXJlX2RhdGUnID0+ICRlbXAtPkhpcmVfRGF0ZQoJCQldKTsKCgkJCSRzdHVkZW50LT5zYXZlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>user()</last-search>
+      <last-search>getTest</last-search>
       <last-offset />
-      <last-pattern>user()</last-pattern>
+      <last-pattern>getTest</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>employee(</entry>
-        <entry>students</entry>
         <entry>Employ</entry>
         <entry>studen</entry>
         <entry>Details</entry>
@@ -629,6 +609,8 @@
         <entry>created</entry>
         <entry>student(</entry>
         <entry>user()</entry>
+        <entry>test_attempts</entry>
+        <entry>getTest</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
