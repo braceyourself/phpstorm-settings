@@ -85,12 +85,12 @@
       <file name="/oauth_auth_codes [users.sqlite]" timestamp="1533240698127">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Employee.php" timestamp="1539283108680">
-        <mark key="'" line="12" column="14" />
-        <mark key="[" line="58" column="57" />
-        <mark key="]" line="58" column="56" />
-        <mark key="^" line="58" column="56" />
-        <mark key="." line="58" column="56" />
+      <file name="C:/inetpub/new_SU/app/Employee.php" timestamp="1540390556288">
+        <mark key="'" line="13" column="19" />
+        <mark key="[" line="59" column="57" />
+        <mark key="]" line="59" column="56" />
+        <mark key="^" line="59" column="56" />
+        <mark key="." line="59" column="56" />
       </file>
       <file name="C:/inetpub/new_SU/resources/views/layouts/master.blade.php" timestamp="1539865538802">
         <mark key="[" line="19" column="0" />
@@ -382,12 +382,12 @@
       <file name="/tests [Dev DB]" timestamp="1539378926367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" timestamp="1540389348610">
-        <mark key="'" line="156" column="51" />
-        <mark key="[" line="74" column="31" />
-        <mark key="]" line="76" column="19" />
-        <mark key="." line="76" column="19" />
-        <mark key="^" line="76" column="19" />
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" timestamp="1540390519735">
+        <mark key="'" line="142" column="29" />
+        <mark key="[" line="95" column="9" />
+        <mark key="]" line="96" column="4" />
+        <mark key="." line="96" column="4" />
+        <mark key="^" line="96" column="4" />
       </file>
       <file name="/oauth_personal_access_clients [users.sqlite]" timestamp="1533240700158">
         <mark key="[" line="0" column="0" />
@@ -474,9 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="12" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="70" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
-      <jump line="13" column="46" filename="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" />
       <jump line="90" column="28" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="12" column="20" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
       <jump line="28" column="20" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
@@ -574,60 +571,60 @@
       <jump line="59" column="20" filename="C:/inetpub/new_SU/app/TestAttempt.php" />
       <jump line="1" column="0" filename="C:/inetpub/new_SU/config/app.php" />
       <jump line="53" column="23" filename="C:/inetpub/new_SU/app/TestAttempt.php" />
+      <jump line="124" column="38" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="140" column="29" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="13" column="19" filename="C:/inetpub/new_SU/app/Employee.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>Scope</text>
+        <text>Email</text>
       </register>
       <register name="0" type="4">
-        <text>Auth\LoginController@logout</text>
+        <text>&quot;$username does not exist in Employees&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcmFuZG9tX2ludCgpCg==</text>
+        <text encoding="base64">CQkJcmV0dXJuICR1c2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWRkKCRyZXF1ZXN0LT5xdWVyeSgpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQktPndoZXJlKCcnKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJJHVzZXIgPSBVc2VyOjp3aGVyZSgnZW1wbG95ZWVfaWQnLCAkZW1wbG95ZWVfcmVjb3JkLT5FbXBfSUQpLT5maXJzdCgpOwoKCQkJaWYoISR1c2VyKXsKCgkJCQkkdXNlciA9IG5ldyBVc2VyKFsKCQkJCQknaWQnID0+ICR0aGlzLT5uZXdVc2VySWQoKSwKCQkJCQknZW1haWwnID0+ICRlbXBsb3llZV9yZWNvcmQtPmVtYWlsLAoJCQkJCSdlbXBsb3llZV9pZCcgPT4gJGVtcGxveWVlX3JlY29yZC0+RW1wX0lELAoJCQkJCSduYW1lJyA9PiAkZW1wbG95ZWVfcmVjb3JkLT5OYW1lCgkJCQldKTsKCgkJCQlMb2c6OmluZm8oIkNyZWF0aW5nIFVzZXIiLCAkdXNlci0+dG9BcnJheSgpKTsKCQkJCSR1c2VyLT5zYXZlKCk7CgkJCX0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJcmV0dXJuIHJlc3BvbnNlKCRlcnJvcnMpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaXZhdGUgZnVuY3Rpb24gZ2V0T2xkUmVjb3JkQXR0cmlidXRlKCkgewoJCXJldHVybiBuZXcgT2xkVGVzdFNjb3JlcyhbCgkJCSdJRCcgICAgICAgPT4gJHRoaXMtPmlkLAoJCQkndXNlcm5hbWUnID0+ICR0aGlzLT5lbXBsb3llZS0+dXNlcm5hbWUsCgkJCSd0ZXN0JyAgICAgPT4gJHRoaXMtPnRlc3QtPm5hbWUsCgkJCSdzY29yZScgICAgPT4gJHRoaXMtPnNjb3JlLAoJCQknZGF0ZScgICAgID0+ICR0aGlzLT5jcmVhdGVkX2F0LT5mb3JtYXQoJ1lZLU1NLUREJyksCgkJXSk7Cgl9Cg==</text>
+        <text encoding="base64">CQkJJGVycm9yc1snbWVzc2FnZSddID0gJ1lvdXIgQWNjb3VudCBpcyBub3QgYXZhaWxhYmxlIHlldC4gQ29udGFjdCBJVCB0byBnZXQgdGhpcyBzZXQgdXAuJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQknc2NvcmUnICAgICAgID0+ICdpbnRlZ2VyJywK</text>
+        <text encoding="base64">CQkJTG9nOjplcnJvcigiJHVzZXJuYW1lIGRvZXMgbm90IGV4aXN0IGluIEVtcGxveWVlcyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlMb2c6OmluZm8oQXV0aDo6dXNlcigpLT51c2VybmFtZSAuICIgbG9hZGVkIHRlc3RzIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Scope</last-search>
+      <last-search>Email</last-search>
       <last-offset />
-      <last-pattern>Scope</last-pattern>
+      <last-pattern>Email</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test_att</entry>
-        <entry>created</entry>
-        <entry>user()</entry>
         <entry>getTest</entry>
         <entry>data(</entry>
         <entry>show_te</entry>
@@ -645,6 +642,9 @@
         <entry>alias</entry>
         <entry>sco</entry>
         <entry>Scope</entry>
+        <entry>login(</entry>
+        <entry>email</entry>
+        <entry>Email</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
