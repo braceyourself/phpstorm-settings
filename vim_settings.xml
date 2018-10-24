@@ -319,11 +319,11 @@
       <file name="/portal.dbo.department_test [cls3/portal]" timestamp="1539967825394">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/routes/web.php" timestamp="1540325424855">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="35" />
-        <mark key="^" line="14" column="35" />
+      <file name="C:/inetpub/new_SU/routes/web.php" timestamp="1540387948219">
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="12" column="59" />
+        <mark key="." line="12" column="59" />
+        <mark key="^" line="12" column="59" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" timestamp="1540238288359">
         <mark key="'" line="27" column="97" />
@@ -382,12 +382,12 @@
       <file name="/tests [Dev DB]" timestamp="1539378926367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" timestamp="1540326045976">
-        <mark key="'" line="143" column="51" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="130" column="12" />
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" timestamp="1540387890580">
+        <mark key="'" line="152" column="51" />
+        <mark key="[" line="67" column="7" />
+        <mark key="]" line="69" column="6" />
+        <mark key="." line="69" column="6" />
+        <mark key="^" line="69" column="6" />
       </file>
       <file name="/oauth_personal_access_clients [users.sqlite]" timestamp="1533240700158">
         <mark key="[" line="0" column="0" />
@@ -577,13 +577,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ZGQoJHJlcXVlc3QtPnF1ZXJ5KCkp</text>
+        <text>logout</text>
       </register>
       <register name="/" type="4">
         <text>Scope</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJLyoqIEB2YXIgXEFwcFxUZXN0ICR0ZXN0ICovCg==</text>
+      <register name="0" type="4">
+        <text>Auth\LoginController@logout</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CTsK</text>
