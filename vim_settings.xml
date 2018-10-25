@@ -241,12 +241,12 @@
       <file name="C:/inetpub/new_SU/app/Http/Resources/AnswerKeyResource.php" timestamp="1539637430074">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="B:/wwwroot/Admin/DeleteEmployee.php" timestamp="1540496097310">
+      <file name="B:/wwwroot/Admin/DeleteEmployee.php" timestamp="1540497481368">
         <mark key="'" line="28" column="105" />
-        <mark key="[" line="53" column="34" />
-        <mark key="]" line="53" column="43" />
-        <mark key="^" line="53" column="43" />
-        <mark key="." line="53" column="43" />
+        <mark key="[" line="51" column="18" />
+        <mark key="]" line="51" column="29" />
+        <mark key="." line="51" column="29" />
+        <mark key="^" line="51" column="29" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/auth/Login.vue" timestamp="1540298968010">
         <mark key="'" line="41" column="15" />
@@ -579,40 +579,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>$past</text>
+        <text>filename</text>
       </register>
       <register name="/" type="4">
         <text>username</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">JHBhc3QgPSAiLi4vRVBpY3MvUGFzdC8iOwo=</text>
+      <register name="0" type="4">
+        <text>UPDATE students SET termination_date = $date WHERE username = $username</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JHNxbCA9IDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgKCRleGlzdHMgPT0gJ2ZhbHNlJykgewp9Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlbmFtZSgkY3VycmVudERlc3RpbmF0aW9uLCRkZXN0aW5hdGlvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgaWYgKGZpbGVfZXhpc3RzKCRkZXN0aW5hdGlvbikpIHsKCiAgICAgICAgJGRlc3RpbmF0aW9uID0gIi4uL0VQaWNzL1Bhc3QvJHVzZXJuYW1lIi4iXyR4LmpwZyI7CgogICB9IGVsc2UgewoKICAgICAgICRleGlzdHMgPSBmYWxzZTsKCiAgIH0KCg==</text>
+        <text encoding="base64">aWYgKCRleGlzdHMgPT0gJ2ZhbHNlJykgewp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlbmFtZSgkY3VycmVudERlc3RpbmF0aW9uLCRkZXN0aW5hdGlvbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgaWYgKGZpbGVfZXhpc3RzKCRkZXN0aW5hdGlvbikpIHsKCiAgICAgICAgJGRlc3RpbmF0aW9uID0gIi4uL0VQaWNzL1Bhc3QvJHVzZXJuYW1lIi4iXyR4LmpwZyI7CgogICB9IGVsc2UgewoKICAgICAgICRleGlzdHMgPSBmYWxzZTsKCiAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JGV4aXN0cyA9IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
