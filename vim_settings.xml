@@ -69,11 +69,12 @@
         <mark key="^" line="132" column="54" />
         <mark key="." line="132" column="46" />
       </file>
-      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1540413917706">
-        <mark key="'" line="61" column="17" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="74" />
-        <mark key="." line="84" column="0" />
+      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1540481219322">
+        <mark key="'" line="69" column="17" />
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="29" column="28" />
+        <mark key="." line="29" column="28" />
+        <mark key="^" line="29" column="28" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" timestamp="1539964771805">
         <mark key="'" line="82" column="28" />
@@ -239,6 +240,12 @@
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Resources/AnswerKeyResource.php" timestamp="1539637430074">
         <mark key="[" line="6" column="46" />
+      </file>
+      <file name="B:/wwwroot/Admin/DeleteEmployee.php" timestamp="1540481294952">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="24" />
+        <mark key="^" line="38" column="24" />
+        <mark key="." line="38" column="24" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/auth/Login.vue" timestamp="1540298968010">
         <mark key="'" line="41" column="15" />
@@ -466,12 +473,6 @@
         <mark key="^" line="98" column="68" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/app/User.php" timestamp="1540308171368">
-        <mark key="'" line="114" column="31" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="219" column="8" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
@@ -577,44 +578,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>$required_students, $employees</text>
+        <text encoding="base64">ZGF0ZSgkZm9ybWF0LCAkc3R1ZGVudC0+aGlyZV9kYXRlKQ==</text>
       </register>
       <register name="/" type="4">
         <text>non_pass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBDb2xsZWN0aW9uICRyZXF1aXJlZF9zdHVkZW50cywgJGVtcGxveWVlcyAqLwo=</text>
+        <text encoding="base64">JHNxbCA9ICJVUERBVEUgcGhvbmVzIFNFVCBlbXBfbm8gPSBOVUxMIFdIRVJFIGVtcF9ubyA9ICIuICRpZDsKc3Fsc3J2X3F1ZXJ5KCRyYywkc3FsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBDb2xsZWN0aW9uICRyZXF1aXJlZF9zdHVkZW50cywgJGVtcGxveWVlcyAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkZW1wbG95ZWVzLT5maWwK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkvKiogQHZhciBDb2xsZWN0aW9uICRyZXF1aXJlZF9zdHVkZW50cywgJGVtcGxveWVlcyAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgndGVzdHMve3Rlc3R9L3N0dWRlbnRzL3VucGFzc2luZycsICJUZXN0Q29udHJvbGxlckB1bnBhc3NpbmciKTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly90ZXN0cy8ke3Rlc3QuaWR9L3N0dWRlbnRzL3VucGFzc2luZwo=</text>
+        <text encoding="base64">CQkkZW1wbG95ZWVzLT5maWwK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-			
-			    flash(res.response.data.message);
-			    console.log(res);
-			}</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Um91dGU6OmdldCgndGVzdHMve3Rlc3R9L3N0dWRlbnRzL3VucGFzc2luZycsICJUZXN0Q29udHJvbGxlckB1bnBhc3NpbmciKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXRoaXMuJG1vZGFsLnNob3coJ25vbi1wYXNzaW5nLWVtcGxveWVlcycpOwo=</text>
+        <text encoding="base64">Ly90ZXN0cy8ke3Rlc3QuaWR9L3N0dWRlbnRzL3VucGFzc2luZwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
