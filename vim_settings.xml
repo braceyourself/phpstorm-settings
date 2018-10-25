@@ -6,7 +6,7 @@
       <file name="/main.answer_keys [users.sqlite]" timestamp="1537985609513">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1533069668191">
+      <file name="/a.dummy" timestamp="1540495742986">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/Errors.vue" timestamp="1539721643405">
@@ -241,11 +241,12 @@
       <file name="C:/inetpub/new_SU/app/Http/Resources/AnswerKeyResource.php" timestamp="1539637430074">
         <mark key="[" line="6" column="46" />
       </file>
-      <file name="B:/wwwroot/Admin/DeleteEmployee.php" timestamp="1540482895186">
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="24" />
-        <mark key="^" line="38" column="24" />
-        <mark key="." line="38" column="24" />
+      <file name="B:/wwwroot/Admin/DeleteEmployee.php" timestamp="1540496097310">
+        <mark key="'" line="28" column="105" />
+        <mark key="[" line="53" column="34" />
+        <mark key="]" line="53" column="43" />
+        <mark key="^" line="53" column="43" />
+        <mark key="." line="53" column="43" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/auth/Login.vue" timestamp="1540298968010">
         <mark key="'" line="41" column="15" />
@@ -475,11 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="8" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
-      <jump line="85" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
-      <jump line="78" column="27" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
-      <jump line="81" column="25" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
-      <jump line="82" column="28" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/Required.vue" />
       <jump line="30" column="35" filename="C:/inetpub/new_SU/app/Http/Resources/StudentResource.php" />
       <jump line="14" column="21" filename="C:/inetpub/new_SU/app/Student.php" />
       <jump line="86" column="23" filename="C:/inetpub/new_SU/app/Student.php" />
@@ -575,58 +571,62 @@
       <jump line="366" column="21" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="391" column="36" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="178" column="43" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
+      <jump line="45" column="45" filename="B:/wwwroot/Admin/DeleteEmployee.php" />
+      <jump line="5" column="20" filename="B:/wwwroot/Admin/DeleteEmployee.php" />
+      <jump line="6" column="73" filename="B:/wwwroot/Admin/DeleteEmployee.php" />
+      <jump line="22" column="75" filename="B:/wwwroot/Admin/DeleteEmployee.php" />
+      <jump line="28" column="105" filename="B:/wwwroot/Admin/DeleteEmployee.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0ZSgkZm9ybWF0LCAkc3R1ZGVudC0+aGlyZV9kYXRlKQ==</text>
+        <text>$past</text>
       </register>
       <register name="/" type="4">
-        <text>non_pass</text>
+        <text>username</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JHNxbCA9ICJVUERBVEUgcGhvbmVzIFNFVCBlbXBfbm8gPSBOVUxMIFdIRVJFIGVtcF9ubyA9ICIuICRpZDsKc3Fsc3J2X3F1ZXJ5KCRyYywkc3FsKTsK</text>
+        <text encoding="base64">JHBhc3QgPSAiLi4vRVBpY3MvUGFzdC8iOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvKiogQHZhciBDb2xsZWN0aW9uICRyZXF1aXJlZF9zdHVkZW50cywgJGVtcGxveWVlcyAqLwo=</text>
+        <text encoding="base64">aWYgKCRleGlzdHMgPT0gJ2ZhbHNlJykgewp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgIHJlbmFtZSgkY3VycmVudERlc3RpbmF0aW9uLCRkZXN0aW5hdGlvbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkZW1wbG95ZWVzLT5maWwK</text>
+        <text encoding="base64">ICAgaWYgKGZpbGVfZXhpc3RzKCRkZXN0aW5hdGlvbikpIHsKCiAgICAgICAgJGRlc3RpbmF0aW9uID0gIi4uL0VQaWNzL1Bhc3QvJHVzZXJuYW1lIi4iXyR4LmpwZyI7CgogICB9IGVsc2UgewoKICAgICAgICRleGlzdHMgPSBmYWxzZTsKCiAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgndGVzdHMve3Rlc3R9L3N0dWRlbnRzL3VucGFzc2luZycsICJUZXN0Q29udHJvbGxlckB1bnBhc3NpbmciKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly90ZXN0cy8ke3Rlc3QuaWR9L3N0dWRlbnRzL3VucGFzc2luZwo=</text>
+        <text encoding="base64">JGV4aXN0cyA9IHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>non_pass</last-search>
+      <last-search>username</last-search>
       <last-offset />
-      <last-pattern>non_pass</last-pattern>
+      <last-pattern>username</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>v-for</entry>
         <entry>\.name</entry>
         <entry>test\.name</entry>
         <entry>student</entry>
@@ -646,6 +646,7 @@
         <entry>data</entry>
         <entry>data(</entry>
         <entry>non_pass</entry>
+        <entry>username</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
