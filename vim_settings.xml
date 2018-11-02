@@ -56,12 +56,12 @@
         <mark key="." line="214" column="0" />
         <mark key="^" line="104" column="33" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" timestamp="1541173814693">
-        <mark key="'" line="44" column="56" />
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="40" column="11" />
-        <mark key="." line="40" column="11" />
-        <mark key="^" line="40" column="11" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" timestamp="1541182942145">
+        <mark key="'" line="1" column="18" />
+        <mark key="[" line="31" column="18" />
+        <mark key="]" line="32" column="11" />
+        <mark key="." line="32" column="11" />
+        <mark key="^" line="32" column="11" />
       </file>
       <file name="C:/inetpub/new_SU/app/Employee.php" timestamp="1541002560904">
         <mark key="'" line="13" column="19" />
@@ -293,12 +293,12 @@
         <mark key="." line="63" column="51" />
         <mark key="^" line="63" column="51" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/index.vue" timestamp="1541173395540">
-        <mark key="'" line="81" column="37" />
-        <mark key="[" line="82" column="53" />
-        <mark key="]" line="82" column="52" />
-        <mark key="." line="82" column="52" />
-        <mark key="^" line="82" column="52" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/index.vue" timestamp="1541182450554">
+        <mark key="'" line="82" column="38" />
+        <mark key="[" line="82" column="42" />
+        <mark key="]" line="82" column="41" />
+        <mark key="." line="82" column="41" />
+        <mark key="^" line="82" column="41" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/Student.vue" timestamp="1540571491113">
         <mark key="'" line="49" column="41" />
@@ -333,12 +333,11 @@
         <mark key="." line="329" column="11" />
         <mark key="^" line="329" column="11" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" timestamp="1541181731689">
+      <file name="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" timestamp="1541182557891">
         <mark key="'" line="48" column="25" />
-        <mark key="[" line="236" column="64" />
-        <mark key="]" line="237" column="12" />
-        <mark key="." line="237" column="12" />
-        <mark key="^" line="237" column="12" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" timestamp="1540818614660">
         <mark key="'" line="143" column="29" />
@@ -388,9 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="71" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="177" column="8" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="179" column="41" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="185" column="16" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="69" column="56" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="430" column="3" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
@@ -488,52 +484,55 @@
       <jump line="33" column="21" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" />
       <jump line="49" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" />
       <jump line="37" column="56" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" />
+      <jump line="64" column="5" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/index.vue" />
+      <jump line="82" column="38" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/index.vue" />
+      <jump line="1" column="18" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>data</text>
+        <text>show_delete_question_modal</text>
       </register>
       <register name="/" type="4">
-        <text>metho</text>
+        <text>compu</text>
       </register>
-      <register name="0" type="4">
-        <text>{resource, data}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJtbC0yIiB2LWZvcj0iYSBpbiBxdWVzdGlvbi5hbnN3ZXJzIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9Im1hdGVyaWFsLWljb25zIj5jbG9zZTwvc3Bhbj57e3F1ZXN0aW9uLmFuc3dlcnMuaW5kZXhPZihhKSsxfX06IHt7YS5ib2R5fX0KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkudGhlbihyZXM9PnJlc29sdmUoZGVsZXRlZF9tb2RlbCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLW91dGxpbmUtc3VjY2VzcyIgQGNsaWNrPSJzaG93QWRkQW5zd2VyTW9kYWwiPkFkZCBBbnN3ZXI8L2J1dHRvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygiKioqKioqKioqKiogIDIiKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhkYXRhKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCWNvbW1pdCgnZGVsZXRlTW9kZWwnLCB7cmVzb3VyY2UsIGRlbGV0ZWRfbW9kZWx9KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkudGhlbihyZXM9PnJlc29sdmUoZGVsZXRlZF9tb2RlbCkpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlWdWUuc2V0Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlsZXQgZGF0YSA9IHN0YXRlLmFwcF9kYXRhOwo=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygiKioqKioqKioqKiogIDIiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlzdGF0ZVsnYXBwX2RhdGEnXSA9IGRhdGE7Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXJlc29sdmUoZGVsZXRlZF9tb2RlbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>metho</last-search>
+      <last-search>compu</last-search>
       <last-offset />
-      <last-pattern>metho</last-pattern>
+      <last-pattern>compu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -544,7 +543,6 @@
         <entry>answers</entry>
         <entry>fillable</entry>
         <entry>pro</entry>
-        <entry>compu</entry>
         <entry>q.</entry>
         <entry>data</entry>
         <entry>prop</entry>
@@ -556,9 +554,10 @@
         <entry>Non-Pass</entry>
         <entry>#left</entry>
         <entry>test-record</entry>
-        <entry>compo</entry>
         <entry>data(</entry>
         <entry>metho</entry>
+        <entry>compo</entry>
+        <entry>compu</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
