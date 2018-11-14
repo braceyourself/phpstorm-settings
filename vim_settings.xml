@@ -126,11 +126,11 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="C:/inetpub/new_SU/routes/web.php" timestamp="1540842943254">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="21" column="25" />
-        <mark key="." line="12" column="59" />
-        <mark key="^" line="12" column="59" />
+      <file name="C:/inetpub/new_SU/routes/web.php" timestamp="1542214373157">
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+        <mark key="^" line="48" column="20" />
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Resources/StudentResource.php" timestamp="1540576159854">
         <mark key="[" line="37" column="35" />
@@ -228,18 +228,25 @@
         <mark key="^" line="137" column="57" />
         <mark key="." line="137" column="57" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/routes.js" timestamp="1541169463871">
-        <mark key="'" line="330" column="11" />
-        <mark key="[" line="329" column="11" />
-        <mark key="]" line="329" column="11" />
-        <mark key="." line="329" column="11" />
-        <mark key="^" line="329" column="11" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/routes.js" timestamp="1542212167041">
+        <mark key="'" line="342" column="11" />
+        <mark key="[" line="95" column="20" />
+        <mark key="]" line="95" column="25" />
+        <mark key="." line="95" column="25" />
+        <mark key="^" line="95" column="25" />
       </file>
       <file name="C:/inetpub/new_SU/app/AnswerKey.php" timestamp="1539637651499">
         <mark key="[" line="17" column="29" />
         <mark key="]" line="17" column="29" />
         <mark key="^" line="17" column="29" />
         <mark key="." line="17" column="29" />
+      </file>
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/Custom.vue" timestamp="1542213690038">
+        <mark key="'" line="5" column="18" />
+        <mark key="[" line="59" column="53" />
+        <mark key="]" line="59" column="52" />
+        <mark key="." line="59" column="52" />
+        <mark key="^" line="59" column="52" />
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Resources/TestResource.php" timestamp="1539791064039">
         <mark key="[" line="44" column="13" />
@@ -392,9 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="12" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="8" column="19" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
-      <jump line="394" column="48" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="152" column="52" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
       <jump line="32" column="7" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/AttemptsModal.vue" />
       <jump line="86" column="8" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/AttemptsModal.vue" />
@@ -492,64 +496,64 @@
       <jump line="100" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" />
       <jump line="154" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" />
       <jump line="166" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" />
+      <jump line="6" column="71" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Custom.vue" />
+      <jump line="3" column="7" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Custom.vue" />
+      <jump line="5" column="18" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Custom.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>div</text>
+        <text>$notes</text>
       </register>
       <register name="/" type="4">
-        <text>update_answer</text>
+        <text>compo</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHN0eWxlPSJkaXNwbGF5OmlubGluZS1ibG9jayI=</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkkb3V0cHV0W10gPSAkbm90ZXM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWxldCBkYXRhID0gdGhpcy5uZXdfYW5zd2VyOwo=</text>
+        <text encoding="base64">CQkJCQl0aGlzLm91dHB1dCA9ICdlcnJvcic7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJdGhpcy51cGRhdGVfYW5zd2VyID0ge307Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzLnVwZGF0ZV9hbnN3ZXI6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsPjwvbGFiZWw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQl0aGlzLnVwZGF0ZV9hbnN3ZXIgPSB1cGRhdGVfYW5zd2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICA8bGFiZWw+SW5wdXQ8L2xhYmVsPgogICAgICAgIDx0ZXh0YXJlYSB2LW1vZGVsPSJpbnB1dCIgbmFtZT0iZGF0YSIgY2xhc3M9ImZvcm0tY29udHJvbCI+CiAgICAgICAgICAgIHRlc3RpbmcKICAgICAgICA8L3RleHRhcmVhPgogICAgICAgIDxidXR0b24gY2xhc3M9Im15LTIgYnRuIGJ0bi1wcmltYXJ5IGZvcm0tY29udHJvbCIgQGNsaWNrPSJzdWJtaXQiPnN1Ym1pdDwvYnV0dG9uPgogICAgICAgIDxsYWJlbD5PdXRwdXQ8L2xhYmVsPgogICAgICAgIDx0ZXh0YXJlYSB2LW1vZGVsPSJvdXRwdXQiIG5hbWU9ImRhdGEiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPgogICAgICAgICAgICB0ZXN0aW5nCiAgICAgICAgPC90ZXh0YXJlYT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXVwZGF0ZV9hbnN3ZXI6e30sCg==</text>
+        <text encoding="base64">CQkJdGhpcy5sb2FkaW5nID0gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIDpzdHlsZT0icXVlc3Rpb24uY29ycmVjdF9hbnN3ZXIuaWQgPT0gYS5pZD8nY29sb3I6Z3JlZW47JzonJyI+e3txdWVzdGlvbi5hbnN3ZXJzLmluZGV4T2YoYSkrMX19OiB7e2EuYm9keX19PC9zcGFuPgo=</text>
+        <text encoding="base64">CQkvLyBkbyBzdHVmZiB3aXRoICRsaW5lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZighJHRoaXMtPmFuc3dlcl9rZXkpCg==</text>
+        <text encoding="base64">CXJldHVybiAkZGF0YVsnaW5wdXQnXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJJHJlc291cmNlWydjb3JyZWN0X2Fuc3dlciddID0gJHRoaXMtPmFuc3dlcl9rZXktPmFuc3dlcjsK</text>
+        <text encoding="base64">CXJldHVybiAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>update_answer</last-search>
+      <last-search>compo</last-search>
       <last-offset />
-      <last-pattern>update_answer</last-pattern>
+      <last-pattern>compo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>#left</entry>
         <entry>test-record</entry>
-        <entry>compo</entry>
         <entry>compu</entry>
         <entry>create</entry>
         <entry>New Answer</entry>
-        <entry>data(</entry>
         <entry>New An</entry>
         <entry>{{}}</entry>
         <entry>QuestionAnswer</entry>
@@ -561,8 +565,11 @@
         <entry>new_answer</entry>
         <entry>dele</entry>
         <entry>material</entry>
-        <entry>metho</entry>
         <entry>update_answer</entry>
+        <entry>dat(</entry>
+        <entry>data(</entry>
+        <entry>metho</entry>
+        <entry>compo</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
