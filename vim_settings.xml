@@ -55,7 +55,7 @@
         <mark key="^" line="24" column="67" />
         <mark key="." line="24" column="67" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Http/Resources/UserResource.php" timestamp="1540308321756">
+      <file name="C:/inetpub/new_SU/app/Http/Resources/UserResource.php" timestamp="1542289979877">
         <mark key="'" line="10" column="11" />
         <mark key="[" line="33" column="77" />
         <mark key="]" line="33" column="77" />
@@ -156,8 +156,8 @@
         <mark key="." line="101" column="20" />
         <mark key="^" line="101" column="20" />
       </file>
-      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1540932349062">
-        <mark key="'" line="104" column="17" />
+      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1542290244529">
+        <mark key="'" line="138" column="17" />
         <mark key="[" line="214" column="0" />
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
@@ -404,8 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="7" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/AttemptsModal.vue" />
-      <jump line="86" column="8" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/AttemptsModal.vue" />
       <jump line="43" column="40" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/AttemptsModal.vue" />
       <jump line="60" column="33" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" />
       <jump line="0" column="9" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
@@ -504,13 +502,15 @@
       <jump line="3" column="7" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Custom.vue" />
       <jump line="5" column="18" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Custom.vue" />
       <jump line="156" column="25" filename="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" />
+      <jump line="95" column="26" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="138" column="17" filename="C:/inetpub/new_SU/routes/api.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>portal</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text>auth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkkb3V0cHV0W10gPSAkZGF0ZXM7Cg==</text>
@@ -547,15 +547,14 @@
       </register>
     </registers>
     <search>
-      <last-search>id</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>compu</entry>
         <entry>create</entry>
         <entry>New Answer</entry>
         <entry>New An</entry>
@@ -575,6 +574,7 @@
         <entry>metho</entry>
         <entry>compo</entry>
         <entry>id</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
