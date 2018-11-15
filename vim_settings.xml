@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="B:/stenger_u/app/Http/Controllers/TestAttemptController.php" timestamp="1542306495975">
+        <mark key="'" line="58" column="48" />
+        <mark key="[" line="87" column="51" />
+        <mark key="]" line="87" column="51" />
+        <mark key="." line="87" column="51" />
+        <mark key="^" line="87" column="51" />
+      </file>
       <file name="B:/wwwroot/Admin/DeleteEmployee.php" timestamp="1540924645720">
         <mark key="'" line="29" column="105" />
         <mark key="[" line="13" column="7" />
@@ -417,7 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="40" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/AttemptsModal.vue" />
       <jump line="60" column="33" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" />
       <jump line="0" column="9" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
       <jump line="103" column="35" filename="C:/inetpub/new_SU/routes/api.php" />
@@ -517,13 +523,14 @@
       <jump line="156" column="25" filename="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" />
       <jump line="95" column="26" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="138" column="17" filename="C:/inetpub/new_SU/routes/api.php" />
+      <jump line="58" column="48" filename="B:/stenger_u/app/Http/Controllers/TestAttemptController.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>echo exec('php -v')</text>
+        <text encoding="base64">LT4=</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text>store</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkkb3V0cHV0W10gPSAkZGF0ZXM7Cg==</text>
@@ -560,15 +567,14 @@
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
         <entry>New Answer</entry>
         <entry>New An</entry>
         <entry>{{}}</entry>
@@ -588,6 +594,7 @@
         <entry>compo</entry>
         <entry>id</entry>
         <entry>auth</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
