@@ -284,12 +284,12 @@
         <mark key="^" line="43" column="15" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" timestamp="1542395332328">
-        <mark key="'" line="108" column="24" />
-        <mark key="[" line="132" column="15" />
-        <mark key="]" line="132" column="18" />
-        <mark key="^" line="132" column="18" />
-        <mark key="." line="132" column="18" />
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" timestamp="1542402503928">
+        <mark key="'" line="146" column="38" />
+        <mark key="[" line="52" column="49" />
+        <mark key="]" line="52" column="49" />
+        <mark key="." line="52" column="49" />
+        <mark key="^" line="52" column="49" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/routes.js" timestamp="1542212167041">
         <mark key="'" line="342" column="11" />
@@ -475,8 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="63" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" />
-      <jump line="330" column="11" filename="C:/inetpub/new_SU/resources/assets/js/routes.js" />
       <jump line="204" column="42" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="47" column="25" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="106" column="52" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/Records.vue" />
@@ -575,58 +573,59 @@
       <jump line="16" column="20" filename="C:/inetpub/new_SU/app/Question.php" />
       <jump line="77" column="48" filename="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" />
       <jump line="108" column="24" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" />
+      <jump line="39" column="76" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" />
+      <jump line="142" column="38" filename="C:/inetpub/new_SU/resources/assets/js/components/tests/TakeTest.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">JGtleS0+YW5zd2VyX2lk</text>
+        <text>auth.creates_tests</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>compu</text>
       </register>
       <register name="0" type="4">
-        <text>correct_answer</text>
+        <text>skip_attestation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWlmKHRoaXMuYXV0aC5jcmVhdGVzX3Rlc3RzICYpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNraXBfYXR0ZXN0YXRpb246ZmFsc2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCSRhdHRlc3RpbmcgPSAoQXV0aDo6dXNlcigpLT5jcmVhdGVzX3Rlc3RzIHx8IEF1dGg6OnVzZXIoKS0+aWQgPT0gJHRlc3QtPmNyZWF0ZWRfYnkpOwovLwkJaWYoJGF0dGVzdGluZykgewovLwkJCSRhdHRlbXB0ID0gbmV3IFRlc3RBdHRlbXB0KFsKLy8JCQkJCQkJCQkJCQknZW1wbG95ZWVfaWQnID0+IEF1dGg6OnVzZXIoKS0+ZW1wbG95ZWUtPmlkLAovLwkJCQkJCQkJCQkJCSd0ZXN0X2lkJyAgICAgPT4gJHRlc3QtPmlkLAovLwkJCQkJCQkJCQkJCSdzY29yZScgICAgICAgPT4gMTAwLAovLwkJCQkJCQkJCQkJCSdhdHRlc3RlZCcgICAgPT4gVFJVRSwKLy8JCQkJCQkJCQkJCV0pOwovLwkJCUxvZzo6aW5mbyhBdXRoOjp1c2VyKCkgLiAiIGF0dGVzdGVkIHRoZWlyIHVuZGVyc3RhbmRpbmcgb24gIiAuICR0ZXN0LT5uYW1lKTsKLy8KLy8JCX0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8JCQlMb2c6OmluZm8oInNldCBjb3JyZWN0IGFuc3dlciBmb3IgcXVlc3Rpb24gJHEtPmlkIHRvICIuJHEtPmNvcnJlY3RfYW5zd2VyLT5pZCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gJHRoaXMtPmhhc09uZShBbnN3ZXI6OmNsYXNzLCBudWxsLCdjb3JyZWN0X2Fuc3dlcl9pZCcpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJJHJlc291cmNlWydjb3JyZWN0X2Fuc3dlciddID0gJHRoaXMtPmNvcnJlY3RfYW5zd2VyOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8JCSRhdHRlc3RpbmcgPSAoQXV0aDo6dXNlcigpLT5jcmVhdGVzX3Rlc3RzIHx8IEF1dGg6OnVzZXIoKS0+aWQgPT0gJHRlc3QtPmNyZWF0ZWRfYnkpOwovLwkJaWYoJGF0dGVzdGluZykgewovLwkJCSRhdHRlbXB0ID0gbmV3IFRlc3RBdHRlbXB0KFsKLy8JCQkJCQkJCQkJCQknZW1wbG95ZWVfaWQnID0+IEF1dGg6OnVzZXIoKS0+ZW1wbG95ZWUtPmlkLAovLwkJCQkJCQkJCQkJCSd0ZXN0X2lkJyAgICAgPT4gJHRlc3QtPmlkLAovLwkJCQkJCQkJCQkJCSdzY29yZScgICAgICAgPT4gMTAwLAovLwkJCQkJCQkJCQkJCSdhdHRlc3RlZCcgICAgPT4gVFJVRSwKLy8JCQkJCQkJCQkJCV0pOwovLwkJCUxvZzo6aW5mbyhBdXRoOjp1c2VyKCkgLiAiIGF0dGVzdGVkIHRoZWlyIHVuZGVyc3RhbmRpbmcgb24gIiAuICR0ZXN0LT5uYW1lKTsKLy8KLy8JCX0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8JCQlMb2c6OmluZm8oInNldCBjb3JyZWN0IGFuc3dlciBmb3IgcXVlc3Rpb24gJHEtPmlkIHRvICIuJHEtPmNvcnJlY3RfYW5zd2VyLT5pZCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8JCQkka2V5ID0gbmV3IEFuc3dlcktleSgpOwovLwkJCSRrZXktPnF1ZXN0aW9uX2lkID0gJHEtPmlkOwovLwkJCSRrZXktPmFuc3dlcl9pZCA9IEFuc3dlcjo6d2hlcmUoJ2JvZHknLCAkcVsnYW5zd2VyJ11bJ2JvZHknXSktPmZpcnN0KCktPmlkOwovLwkJCSRrZXktPnNhdmUoKTsKCgoKCgovLwkJCXJldHVybiAka2V5OwoKLy8JCQkkcS0+c2V0X2NvcnJlY3RfYW5zd2VyKEFuc3dlcjo6d2hlcmUoJ2JvZHknLCAkcXVlc3Rpb25bJ2Fuc3dlciddWydib2R5J10pLT5maXJzdCgpKTsK</text>
+        <text encoding="base64">CQlyZXR1cm4gJHRoaXMtPmhhc09uZShBbnN3ZXI6OmNsYXNzLCBudWxsLCdjb3JyZWN0X2Fuc3dlcl9pZCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>compu</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>compu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update_answer</entry>
         <entry>dat(</entry>
         <entry>metho</entry>
         <entry>compo</entry>
@@ -640,12 +639,13 @@
         <entry>adl</entry>
         <entry>login</entry>
         <entry encoding="base64">cS0+c2E=</entry>
-        <entry>data(</entry>
         <entry>correct_</entry>
         <entry>correct(</entry>
         <entry>correct_ans</entry>
         <entry>store</entry>
         <entry>name</entry>
+        <entry>data(</entry>
+        <entry>compu</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
