@@ -303,6 +303,12 @@
         <mark key="." line="59" column="52" />
         <mark key="^" line="59" column="52" />
       </file>
+      <file name="C:/inetpub/new_SU/database/migrations/2018_11_16_124801_add_correct_answer_id_to_question_table.php" timestamp="1542390613181">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
       <file name="C:/inetpub/new_SU/app/Http/Resources/TestResource.php" timestamp="1539791064039">
         <mark key="[" line="44" column="13" />
         <mark key="]" line="44" column="13" />
@@ -400,12 +406,12 @@
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="4" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" timestamp="1542389574857">
-        <mark key="'" line="156" column="25" />
-        <mark key="[" line="156" column="12" />
-        <mark key="]" line="156" column="8" />
-        <mark key="." line="156" column="8" />
-        <mark key="^" line="156" column="8" />
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" timestamp="1542390848880">
+        <mark key="'" line="150" column="21" />
+        <mark key="[" line="148" column="16" />
+        <mark key="]" line="148" column="12" />
+        <mark key="." line="148" column="12" />
+        <mark key="^" line="148" column="12" />
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Controllers/TestAttemptController.php" timestamp="1540307887776">
         <mark key="'" line="85" column="8" />
@@ -462,8 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="20" filename="C:/inetpub/new_SU/app/Http/Controllers/QuestionController.php" />
-      <jump line="4" column="11" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/index.vue" />
       <jump line="73" column="36" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/index.vue" />
       <jump line="9" column="21" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" />
       <jump line="26" column="16" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" />
@@ -562,63 +566,59 @@
       <jump line="29" column="4" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="33" column="48" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
       <jump line="48" column="25" filename="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" />
+      <jump line="151" column="16" filename="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" />
+      <jump line="150" column="21" filename="C:/inetpub/new_SU/app/Http/Controllers/TestController.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">JHVzZXItPg==</text>
+        <text>nullable</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text encoding="base64">cS0+c2E=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUxvZzo6aW5mbygiY3VycmVudCB1c2VyOiAiLiBnZXRfY3VycmVudF91c2VyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSR1c2VyID0gQXV0aDo6dXNlcigpOwo=</text>
+        <text encoding="base64">CQkJCSRpZCA9IG51bGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXRoaXMuYXR0ZW1wdGluZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">CQkJCQkkaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBAY2xpY2s9InN1Ym1pdCIgY2xhc3M9ImZvcm0tY29udHJvbCI+e3tsb2dpbl9idXR0b25fdGV4dH19PC9idXR0b24+Cg==</text>
+        <text encoding="base64">CQkJCQkkaWQgPSAkZXhpc3RpbmdfYW5zd2VyLT5pZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gQGNsaWNrPSJzdWJtaXQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPnt7bG9naW5fYnV0dG9uX3RleHR9fTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiYWRsZGFwMi9hZGxkYXAyLWxhcmF2ZWwiOiAiXjQuMCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
-      <register name="6" type="4">
-        <text>'auth', function(){
-	Log::info(&quot;current user: &quot;. get_current_user());
-	Log::info(&quot;current user: &quot;. get_current_user());
-	return new UserResource(Auth::user());
-
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSR1c2VyID0gQXV0aDo6dXNlcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXRoaXMuYXR0ZW1wdGluZyA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBAY2xpY2s9InN1Ym1pdCIgY2xhc3M9ImZvcm0tY29udHJvbCI+e3tsb2dpbl9idXR0b25fdGV4dH19PC9idXR0b24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search encoding="base64">cS0+c2E=</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern encoding="base64">cS0+c2E=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>saveA</entry>
         <entry>showA</entry>
         <entry>new_answer</entry>
         <entry>dele</entry>
@@ -638,6 +638,7 @@
         <entry>auth</entry>
         <entry>adl</entry>
         <entry>login</entry>
+        <entry encoding="base64">cS0+c2E=</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
