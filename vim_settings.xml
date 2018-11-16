@@ -36,11 +36,11 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/js/components/auth/Login.vue" timestamp="1542385679614">
+      <file name="C:/inetpub/new_SU/resources/assets/js/components/auth/Login.vue" timestamp="1542386564065">
         <mark key="'" line="24" column="34" />
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="42" />
         <mark key="^" line="7" column="51" />
       </file>
       <file name="C:/inetpub/new_SU/resources/views/layouts/pdf_base.blade.php" timestamp="1540324589229">
@@ -190,6 +190,13 @@
         <mark key="." line="101" column="20" />
         <mark key="^" line="101" column="20" />
       </file>
+      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1542387035533">
+        <mark key="'" line="145" column="17" />
+        <mark key="[" line="140" column="36" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="141" column="0" />
+      </file>
       <file name="B:/StengerUniversity/composer.json" timestamp="1542317037245">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -262,11 +269,6 @@
         <mark key="]" line="22" column="51" />
         <mark key="^" line="22" column="51" />
         <mark key="." line="22" column="51" />
-      </file>
-      <file name="B:/StengerUniversity/resources/assets/js/components/auth/Login.vue" timestamp="1542318716841">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="87" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/MainPageWrapper.vue" timestamp="1540576509417">
         <mark key="[" line="9" column="0" />
@@ -563,7 +565,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>@click=&quot;submit&quot;</text>
+        <text encoding="base64">JHVzZXItPg==</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
@@ -572,27 +574,27 @@
         <text encoding="base64">CUxvZzo6aW5mbygiY3VycmVudCB1c2VyOiAiLiBnZXRfY3VycmVudF91c2VyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXRoaXMuYXR0ZW1wdGluZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">CSR1c2VyID0gQXV0aDo6dXNlcigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBAY2xpY2s9InN1Ym1pdCIgY2xhc3M9ImZvcm0tY29udHJvbCI+e3tsb2dpbl9idXR0b25fdGV4dH19PC9idXR0b24+Cg==</text>
+        <text encoding="base64">CQkJCXRoaXMuYXR0ZW1wdGluZyA9IHRydWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gQGNsaWNrPSJzdWJtaXQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPnt7bG9naW5fYnV0dG9uX3RleHR9fTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiBAY2xpY2s9InN1Ym1pdCIgY2xhc3M9ImZvcm0tY29udHJvbCI+e3tsb2dpbl9idXR0b25fdGV4dH19PC9idXR0b24+Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gQGNsaWNrPSJzdWJtaXQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiPnt7bG9naW5fYnV0dG9uX3RleHR9fTwvYnV0dG9uPgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAiYWRsZGFwMi9hZGxkYXAyLWxhcmF2ZWwiOiAiXjQuMCIsCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>'auth', function(){
 	Log::info(&quot;current user: &quot;. get_current_user());
 	Log::info(&quot;current user: &quot;. get_current_user());
 	return new UserResource(Auth::user());
 
 }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -601,7 +603,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjIEFETGRhcCBDb25maWd1cmF0aW9uCiMgQURMREFQX0NPTlRST0xMRVJTPWRjMS5zdGVuZ2VybGF3LmNvbQojQURMREFQX0NPTlRST0xMRVJTPWRjMQojQURMREFQX0JBU0VETj1kYz1zdGVuZ2VybGF3LGRjPWNvbQojQURMREFQX0FVVE9fQ09OTkVDVD10cnVlCiMKIyMjIHVzZXJzCiMjIEFETERBUF9BQ0NPVU5UX1BSRUZJWD1TVEVOR0VSTEFXXAojIyBBRExEQVBfQUNDT1VOVF9TVUZGSVg9QHN0ZW5nZXJsYXcuY29tCiMKIyMjIGFkbWlucwojQURMREFQX0FETUlOX0FDQ09VTlRfUFJFRklYPVNURU5HRVJMQVdcCiMjIEFETERBUF9BRE1JTl9BQ0NPVU5UX1NVRkZJWD1Ac3Rlbmdlcmxhdy5jb20KI0FETERBUF9BRE1JTl9VU0VSTkFNRT1ldGhhbmFkbWluCiNBRExEQVBfQURNSU5fUEFTU1dPUkQ9Wnlnb21vcnBoaWMxMjM0fiEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
