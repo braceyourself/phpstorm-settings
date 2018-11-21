@@ -30,6 +30,9 @@
         <mark key="." line="9" column="47" />
         <mark key="^" line="9" column="47" />
       </file>
+      <file name="/a.dummy" timestamp="1542828851911">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/Errors.vue" timestamp="1539721643405">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="9" column="17" />
@@ -250,6 +253,13 @@
         <mark key="]" line="40" column="31" />
         <mark key="." line="40" column="31" />
         <mark key="^" line="40" column="31" />
+      </file>
+      <file name="B:/wwwroot/Complaints-Solutions/mail.php" timestamp="1542829236143">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="C:/inetpub/new_SU/app/Employee.php" timestamp="1541002560904">
         <mark key="'" line="13" column="19" />
@@ -490,7 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="41" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" />
       <jump line="159" column="52" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/item.vue" />
       <jump line="17" column="56" filename="C:/inetpub/new_SU/app/Http/Controllers/AnswerController.php" />
       <jump line="38" column="25" filename="C:/inetpub/new_SU/app/Http/Controllers/AnswerController.php" />
@@ -590,46 +599,47 @@
       <jump line="62" column="16" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/EditQuestionModal.vue" />
       <jump line="84" column="12" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/EditQuestionModal.vue" />
       <jump line="91" column="21" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/questions/EditQuestionModal.vue" />
+      <jump line="1" column="0" filename="B:/wwwroot/Complaints-Solutions/mail.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Illuminate\Support\Facades\</text>
+        <text>$from</text>
       </register>
       <register name="/" type="4">
         <text>show</text>
       </register>
       <register name="0" type="4">
-        <text>update_question</text>
+        <text encoding="base64">J3JlcGx5LXRvOiA8Pic=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFxNYWlsOjoK</text>
+        <text encoding="base64">CWVjaG8gIjxoND5DYW4ndCBzZW5kIGVtYWlsIHRvICRlbWFpbDwvaDQ+IjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Pz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJdGhpcy5zaG93ID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">PC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3c6ZmFsc2UsCg==</text>
+        <text encoding="base64">PGh0bWw+CjxoZWFkPjx0aXRsZT5QSFAgTWFpbCBTZW5kZXI8L3RpdGxlPjwvaGVhZD4KPGJvZHk+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljcmVhdGVkKCkgewoJCQl0aGlzLnNob3cgPSB0aGlzLnNob3dfZWRpdF9xdWVzdGlvbl9tb2RhbDsKCQl9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJc2hvd19lZGl0X3F1ZXN0aW9uX21vZGFsOmZhbHNlLAo=</text>
+        <text encoding="base64">Ly8kaGVhZGVycyA9ICJNSU1FLVZlcnNpb246IDEuMCIgLiAiXHJcbiI7Ci8vJGhlYWRlcnMgLj0gIkNvbnRlbnQtdHlwZTp0ZXh0L2h0bWw7Y2hhcnNldD1VVEYtOCIgLiAiXHJcbiI7Ci8vJGhlYWRlcnMgLj0gJ0Zyb206IDxub3JlcGx5QHN0ZW5nZXJsYXcuY29tPicgLiAiXHJcbiI7Ci8vJGhlYWRlcnMgLj0gJ3JlcGx5LXRvOiA8Pic7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJdXBkYXRlX3F1ZXN0aW9uOiB7fSwK</text>
+      <register name="7" type="4">
+        <text encoding="base64">WwoJIk1JTUUtVmVyc2lvbjogMS4wIiwKICAgICJDb250ZW50LXR5cGU6dGV4dC9odG1sO2NoYXJzZXQ9VVRGLTgiLAogICAgJ0Zyb206IDxub3JlcGx5QHN0ZW5nZXJsYXcuY29tPicsCiAgICAncmVwbHktdG86IDw+Jwpd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kYWwgdi1pZj0ic2hvd19kZWxldGVfcXVlc3Rpb25fbW9kYWwiIF9zdHlsZT0id2lkdGg6NzUlIj4KICAgICAgICAgICAgPGRpdiBzbG90PSJoZWFkZXIiPgogICAgICAgICAgICAgICAgPGg0PgogICAgICAgICAgICAgICAgICAgIEFyZSB5b3Ugc3VyZSB5b3Ugd291bGQgbGlrZSB0byBkZWxldGUgdGhpcyBxdWVzdGlvbj8KICAgICAgICAgICAgICAgIDwvaDQ+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICB7e3F1ZXN0aW9uLmJvZHl9fQoKICAgICAgICAgICAgPGRpdiBzbG90PSJmb290ZXIiPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1kYW5nZXIiIEBjbGljaz0iZGVsZXRlUXVlc3Rpb24iPkRlbGV0ZTwvYnV0dG9uPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1vdXRsaW5lLXByaW1hcnkiIEBjbGljaz0ic2hvd19kZWxldGVfcXVlc3Rpb25fbW9kYWwgPSBmYWxzZSI+Q2FuY2VsPC9idXR0b24+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvbW9kYWw+Cg==</text>
+        <text encoding="base64">Ly9lbHNlaWYgKCkgewovL30gZWxzZSB7Ci8vfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dfZWRpdF9xdWVzdGlvbl9tb2RhbDpmYWxzZSwK</text>
+        <text encoding="base64">Ci8qKioKCVNlbmRzIHRoZSBtYWlsIGFuZCBvdXRwdXRzIHRoZSAiVGhhbmsgeW91IiBzdHJpbmcgaWYgdGhlIG1haWwgaXMgc3VjY2Vzc2Z1bGx5IHNlbnQsCglvciB0aGUgZXJyb3Igc3RyaW5nIG90aGVyd2lzZS4KKi8K</text>
       </register>
       <register name=":" type="4">
-        <text>141</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -674,12 +684,12 @@
         <entry>wq</entry>
         <entry>89</entry>
         <entry>28</entry>
-        <entry>w</entry>
         <entry>78</entry>
         <entry>157</entry>
         <entry>74</entry>
-        <entry>q</entry>
         <entry>141</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
