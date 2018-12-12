@@ -10,6 +10,12 @@
         <mark key="." line="87" column="51" />
         <mark key="^" line="87" column="51" />
       </file>
+      <file name="C:/inetpub/new_SU/config/logging.php" timestamp="1544641179387">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="31" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="B:/wwwroot/Admin/DeleteEmployee.php" timestamp="1540924645720">
         <mark key="'" line="29" column="105" />
         <mark key="[" line="13" column="7" />
@@ -329,11 +335,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Providers/AppServiceProvider.php" timestamp="1544640321653">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="18" column="8" />
-        <mark key="." line="18" column="8" />
-        <mark key="^" line="18" column="8" />
+      <file name="C:/inetpub/new_SU/app/Providers/AppServiceProvider.php" timestamp="1544641425327">
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="23" column="37" />
+        <mark key="^" line="23" column="54" />
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Resources/TestResource.php" timestamp="1539791064039">
         <mark key="[" line="44" column="13" />
@@ -636,43 +642,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>query</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>data(</text>
       </register>
-      <register name="0" type="4">
-        <text>query_string</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJJ2xldmVsJyA9PiAnZGVidWcnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCUxvZzo6ZGVidWcoJGl0ZW0pOwo=</text>
+        <text encoding="base64">CQkJJ2xldmVsJyA9PiAnZGVidWcnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJTG9nOjppbmZvKCRxdWVyeS0+YmluZGluZ3MpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJTG9nOjppbmZvKCk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLwo=</text>
+        <text encoding="base64">CQkJJ2NoYW5uZWxzJyA9PiBbJ3NpbmdsZSddLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlcREI6Omxpc3RlbihmdW5jdGlvbihRdWVyeUV4ZWN1dGVkICRxdWVyeSkgewoJCQlMb2c6OmluZm8oJHF1ZXJ5LT5zcWwpOwoJCX0pOwo=</text>
+        <text encoding="base64">CQkJCUxvZzo6ZGVidWcoJGl0ZW0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkkbG9nZ2VyID0gbmV3IExvZ2dlcigpOwo=</text>
+        <text encoding="base64">CQkJTG9nOjppbmZvKCRxdWVyeS0+YmluZGluZ3MpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IkM6XFwiLiRkaXIpOwoJCWVjaG8gImNyZWF0ZWQgJGRpciI7Cgl9IGNhdGNoKEV4Y2VscHRpb24gJGUpIHsKCQllY2hvICRlLT5nZXRNZXNzYWdlKCk7Cgl9Cn0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJTG9nOjppbmZvKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">CQkvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1rZGlyKCRkaXIpOwo=</text>
+        <text encoding="base64">CQlcREI6Omxpc3RlbihmdW5jdGlvbihRdWVyeUV4ZWN1dGVkICRxdWVyeSkgewoJCQlMb2c6OmluZm8oJHF1ZXJ5LT5zcWwpOwoJCX0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -708,7 +714,6 @@
       <history-cmd>
         <entry>m .-2</entry>
         <entry>36</entry>
-        <entry>redo</entry>
         <entry>46</entry>
         <entry>44</entry>
         <entry>60</entry>
@@ -720,9 +725,10 @@
         <entry>157</entry>
         <entry>74</entry>
         <entry>141</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>redo</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
