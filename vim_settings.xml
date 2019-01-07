@@ -146,6 +146,12 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
+      <file name="C:/inetpub/new_SU/database/factories/StudentFactory.php" timestamp="1546898526951">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="37" />
+      </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/admin/answers/index.vue" timestamp="1540932248538">
         <mark key="[" line="25" column="20" />
         <mark key="]" line="26" column="27" />
@@ -176,18 +182,18 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="C:/inetpub/new_SU/database/factories/UserFactory.php" timestamp="1546894359480">
+      <file name="C:/inetpub/new_SU/database/factories/UserFactory.php" timestamp="1546897741588">
         <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="25" />
-        <mark key="^" line="20" column="25" />
-        <mark key="." line="20" column="25" />
+        <mark key="]" line="20" column="26" />
+        <mark key="^" line="20" column="26" />
+        <mark key="." line="20" column="26" />
       </file>
-      <file name="C:/inetpub/new_SU/tests/Feature/AdminTests.php" timestamp="1546894437902">
+      <file name="C:/inetpub/new_SU/tests/Feature/AdminTests.php" timestamp="1546898546245">
         <mark key="'" line="18" column="31" />
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="48" />
-        <mark key="." line="23" column="48" />
-        <mark key="^" line="23" column="48" />
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+        <mark key="^" line="23" column="7" />
       </file>
       <file name="/main.question_answers [Dev DB]" timestamp="1546875917481">
         <mark key="[" line="0" column="0" />
@@ -389,11 +395,11 @@
       <file name="/dummy.sql" timestamp="1546881727574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1546894374694">
+      <file name="C:/inetpub/new_SU/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1546897733532">
         <mark key="[" line="18" column="54" />
-        <mark key="]" line="18" column="57" />
-        <mark key="." line="18" column="57" />
-        <mark key="^" line="18" column="57" />
+        <mark key="]" line="18" column="58" />
+        <mark key="." line="18" column="58" />
+        <mark key="^" line="18" column="58" />
       </file>
       <file name="/Dummy.txt" timestamp="1546880301209">
         <mark key="[" line="0" column="0" />
@@ -423,21 +429,27 @@
       <file name="/main.migrations [Dev DB]" timestamp="1546875906911">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/inetpub/new_SU/app/Student.php" timestamp="1546898281353">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="118" column="58" />
+        <mark key="]" line="119" column="37" />
+        <mark key="^" line="119" column="37" />
+        <mark key="." line="119" column="37" />
+      </file>
       <file name="C:/inetpub/new_SU/tests/TestCase.php" timestamp="1546891703984">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/app/User.php" timestamp="1546894559803">
+      <file name="C:/inetpub/new_SU/app/User.php" timestamp="1546898347896">
         <mark key="'" line="55" column="9" />
-        <mark key="[" line="86" column="43" />
-        <mark key="]" line="87" column="4" />
-        <mark key="^" line="87" column="4" />
-        <mark key="." line="87" column="4" />
+        <mark key="[" line="133" column="26" />
+        <mark key="]" line="133" column="32" />
+        <mark key="^" line="133" column="32" />
+        <mark key="." line="133" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="69" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/brp/BRPBulkRename.vue" />
       <jump line="139" column="18" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/brp/BRPBulkRename.vue" />
       <jump line="141" column="55" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/brp/BRPBulkRename.vue" />
       <jump line="45" column="56" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/brp/BRPBulkRename.vue" />
@@ -537,58 +549,58 @@
       <jump line="18" column="31" filename="C:/inetpub/new_SU/tests/Feature/AdminTests.php" />
       <jump line="31" column="2" filename="C:/inetpub/new_SU/app/User.php" />
       <jump line="55" column="9" filename="C:/inetpub/new_SU/app/User.php" />
+      <jump line="12" column="0" filename="C:/inetpub/new_SU/app/Student.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>false</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
-        <text>IsAdmin</text>
+        <text>methods</text>
       </register>
       <register name="0" type="4">
         <text>is_admin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkdGhpcy0+aXNfYWRtaW4gPSAkdGhpcy0+c3R1ZGVudC0+aXNfYWRtaW4gPzogZmFsc2U7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZmFsc2U7Cg==</text>
+        <text encoding="base64">CSR1c2VybmFtZSA9ICRmYWtlci0+bmFtZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJJHRoaXMtPnN0dWRlbnQtPmlzX2FkbWluOgo=</text>
+        <text encoding="base64">ICAgIAknaWQnID0+IEVtcGxveWVlOjpmaXJzdE9yQ3JlYXRlKFsnVXNlcm5hbWUnPT4kdXNlcm5hbWVdKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gaXNzZXQoJHRoaXMtPnN0dWRlbnQpPwo=</text>
+        <text encoding="base64">CQkJJ2VtYWlsJyA9PidldGhhbkBzdGVuZ2VybGF3LmNvbScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlkdW1wKCRhZG1pbl91c2VyLT5pc19hZG1pbik7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlkdW1wKCRhZG1pbl91c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlkdW1wKCR1c2VyLT5pc19hZG1pbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJHRhYmxlLT5kcm9wQ29sdW1uKCdjcmVhdGVzX3Rlc3RzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJJHRhYmxlLT5kcm9wQ29sdW1uKCdpc19hZG1pbicpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>IsAdmin</last-search>
+      <last-search>methods</last-search>
       <last-offset />
-      <last-pattern>IsAdmin</last-pattern>
+      <last-pattern>methods</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>affected_files_count</entry>
         <entry>images_to_rename</entry>
         <entry>document_options</entry>
         <entry>data(</entry>
@@ -608,6 +620,7 @@
         <entry>user</entry>
         <entry>is_admin</entry>
         <entry>IsAdmin</entry>
+        <entry>methods</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
