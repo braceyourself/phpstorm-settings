@@ -205,6 +205,13 @@
       <file name="/main.questions [Dev DB]" timestamp="1546875920862">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/inetpub/new_SU/app/Employee.php" timestamp="1547048884814">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="183" column="10" />
+        <mark key="]" line="184" column="4" />
+        <mark key="^" line="184" column="4" />
+        <mark key="." line="184" column="4" />
+      </file>
       <file name="C:/inetpub/new_SU/.env.example" timestamp="1544200567388">
         <mark key="[" line="27" column="13" />
         <mark key="]" line="27" column="13" />
@@ -399,12 +406,12 @@
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="17" />
       </file>
-      <file name="C:/inetpub/new_SU/tests/Feature/AdminTests.php" timestamp="1547047487042">
-        <mark key="'" line="18" column="31" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="19" column="37" />
+      <file name="C:/inetpub/new_SU/tests/Feature/AdminTests.php" timestamp="1547049022258">
+        <mark key="'" line="21" column="32" />
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+        <mark key="^" line="17" column="47" />
       </file>
       <file name="/main.question_answers [Dev DB]" timestamp="1546875917481">
         <mark key="[" line="0" column="0" />
@@ -421,10 +428,11 @@
       <file name="/Portal.dbo.State [cls3/portal]" timestamp="1546875596149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/database/factories/EmployeeFactory.php" timestamp="1546892853299">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="C:/inetpub/new_SU/database/factories/EmployeeFactory.php" timestamp="1547048591150">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
       </file>
       <file name="C:/inetpub/new_SU/app/Student.php" timestamp="1547047431561">
         <mark key="'" line="12" column="0" />
@@ -476,12 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/inetpub/new_SU/.env" />
-      <jump line="31" column="0" filename="C:/inetpub/new_SU/.env" />
-      <jump line="7" column="0" filename="C:/inetpub/new_SU/.env.example" />
-      <jump line="0" column="0" filename="C:/inetpub/new_SU/.env.example" />
-      <jump line="166" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/brp/BRPBulkRename.vue" />
-      <jump line="191" column="21" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/brp/BRPBulkRename.vue" />
       <jump line="58" column="69" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/brp/BRPBulkRename.vue" />
       <jump line="167" column="12" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/brp/BRPBulkRename.vue" />
       <jump line="156" column="47" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/brp/BRPBulkRename.vue" />
@@ -576,43 +578,49 @@
       <jump line="63" column="39" filename="C:/inetpub/new_SU/tests/Feature/AuditAsapTests.php" />
       <jump line="51" column="13" filename="C:/inetpub/new_SU/tests/Feature/AuditAsapTests.php" />
       <jump line="47" column="0" filename="C:/inetpub/new_SU/tests/Feature/AuditAsapTests.php" />
+      <jump line="21" column="13" filename="C:/inetpub/new_SU/tests/Feature/AdminTests.php" />
+      <jump line="19" column="31" filename="C:/inetpub/new_SU/tests/Feature/AdminTests.php" />
+      <jump line="15" column="2" filename="C:/inetpub/new_SU/app/Employee.php" />
+      <jump line="22" column="13" filename="C:/inetpub/new_SU/tests/Feature/AdminTests.php" />
+      <jump line="20" column="32" filename="C:/inetpub/new_SU/tests/Feature/AdminTests.php" />
+      <jump line="16" column="6" filename="C:/inetpub/new_SU/app/Employee.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Student</text>
+        <text encoding="base64">JGFkbWluX3VzZXIgPSA=</text>
       </register>
       <register name="/" type="4">
         <text>Excel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSAgICAkdXNlciA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoWyduYW1lJyA9PiAnRXRoYW4gQnJhY2UnXSk7CgkJJGRhdGUgPSBDYXJib246Om5vdygpLT5mb3JtYXQoJ1ltZF9oaXMnKTsKCSAgICAkZmlsZW5hbWUgPSAiYXVkaXRfYXNhcF8kZGF0ZS54bHN4IjsKCSAgICAkdGhpcy0+YWN0aW5nQXMoJHVzZXIpOwo=</text>
+        <text encoding="base64">CQkJJ25hbWUnID0+ICR0aGlzLT5uYW1lCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJJ2lzX2FkbWluJyA9PiB0cnVlLAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">WwoJCQknaWQnID0+ICR0aGlzLT5FbXBfSUQsCgkJCSduYW1lJyA9PiAkdGhpcy0+bmFtZSwKCQkJJ3VzZXJuYW1lJyA9PiAkdGhpcy0+VXNlcm5hbWUsCgkJCSdoaXJlX2RhdGUnID0+ICR0aGlzLT5IaXJlX0RhdGUsCgkJCSdub190ZXN0cycgPT4gZmFsc2UsCgkJCSdpc19hZG1pbicgPT4gZmFsc2UsCgkJCSdjcmVhdGVzX3Rlc3RzJyA9PiBmYWxzZSwKCQld</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIE1hYXR3ZWJzaXRlXEV4Y2VsXEV4Y2VsOwo=</text>
+        <text encoding="base64">CQkJJ2lzX2FkbWluJyA9PiB0cnVlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlFeGNlCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJTG9nOjppbmZvKCRlKTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2c6OmluZm8oIlByb2Nlc3NpbmcgIi4gJHRoaXMtPmZpbGVuYW1lKTsKICAgICAgICBFeGNlbDo6aW1wb3J0KG5ldyBBdWRpdEFzYXBJbXBvcnQsICR0aGlzLT5maWxlbmFtZSk7Cg==</text>
+        <text encoding="base64">dXNlIE1hYXR3ZWJzaXRlXEV4Y2VsXEV4Y2VsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CQlFeGNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzbGVlcCgyKTsK</text>
+        <text encoding="base64">CQkJTG9nOjppbmZvKCRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
