@@ -114,11 +114,11 @@
         <mark key="^" line="71" column="60" />
         <mark key="." line="71" column="60" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Http/Controllers/UserController.php" timestamp="1547144393180">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="33" column="4" />
-        <mark key="." line="12" column="0" />
+      <file name="C:/inetpub/new_SU/tests/Feature/ApiStudents.php" timestamp="1547148074230">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="34" />
+        <mark key="." line="30" column="34" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="C:/inetpub/new_SU/app/Employee.php" timestamp="1547051323230">
         <mark key="'" line="158" column="0" />
@@ -258,6 +258,12 @@
       <file name="/main.question_answers [Dev DB]" timestamp="1546875917481">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/inetpub/new_SU/database/migrations/2019_01_10_140931_create_department_table.php" timestamp="1547147527405">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="47" />
+        <mark key="." line="19" column="47" />
+        <mark key="^" line="19" column="47" />
+      </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/Home.vue" timestamp="1539957437641">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="15" column="0" />
@@ -345,11 +351,11 @@
       <file name="/main.students [database.sqlite]" timestamp="1547066436425">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Http/Controllers/StudentController.php" timestamp="1540572927738">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="25" />
-        <mark key="." line="22" column="25" />
-        <mark key="^" line="22" column="25" />
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/StudentController.php" timestamp="1547148058682">
+        <mark key="[" line="13" column="57" />
+        <mark key="]" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="57" />
       </file>
       <file name="B:/stenger_u/app/Http/Resources/UserResource.php" timestamp="1542293178334">
         <mark key="[" line="21" column="39" />
@@ -627,43 +633,43 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>testing_groups</text>
+        <text>200</text>
       </register>
       <register name="/" type="4">
         <text>IsAdmin</text>
       </register>
-      <register name="0" type="4">
-        <text>department_tests</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkkcmVzcG9uc2UtPmFzc2VydERvbnRTZWUoJG90aGVyX3VzZXItPmVtYWlsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">CQkkcmVzcG9uc2UtPmFzc2VydEpzb25Db3VudCgxLCdkYXRhJyk7CgkJJHJlc3BvbnNlLT5hc3NlcnREb250U2VlKCRvdGhlcl91c2VyLT5lbWFpbCk7CgkJJHJlc3BvbnNlLT5hc3NlcnRTZWUoJHVzZXItPmVtYWlsKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkcmVzcG9uc2UtPmFzc2VydEpzb24oWwoJCQknaWQnID0+ICR1c2VyLT5lbXBsb3llZV9pZAoJCV0pOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZigkcmVzcG9uc2UtPnN0YXR1cygpID09IDUwMCl7CgkJCWRkKCRyZXNwb25zZS0+ZXhjZXB0aW9uKTsKCQl9Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+YXNzZXJ0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8qKgoJICogQSBiYXNpYyB0ZXN0IGV4YW1wbGUuCgkgKgoJICogQHJldHVybiB2b2lkCgkgKi8KCXB1YmxpYyBmdW5jdGlvbiBhX3VzZXJfY2FuKCkgewoJCSR1c2VyID0gZmFjdG9yeShVc2VyOjpjbGFzcyktPmNyZWF0ZShbCgkJCQkJCQkJCQkJICAgJ25hbWUnICA9PiAnZXRoYW4nLAoJCQkJCQkJCQkJCSAgICdlbWFpbCcgPT4gJ3Rlc3RpbmdAdGVzdC50ZXN0JywKCQkJCQkJCQkJCSAgIF0pOwoKCQkkdGhpcy0+YWN0aW5nQXMoJHVzZXIpOwoKCQkkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0KCIvaG9tZSIpOwoKCQkkcmVzcG9uc2UtPmFzc2VydFNlZSgiWW91J3JlIGxvZ2dlZCBpbiBhczogJHVzZXItPmVtYWlsIik7CgoJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW1lc3RhbXBzKCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CS8qKiBAdGVzdCBhIHVzZXIgY2FuIGxvZyBpbiB3aXRoIHRoZWlyIG5ldHdvcmsgY3JlZGVudGlhbHMgKi8KCXB1YmxpYyBmdW5jdGlvbiBhX3VzZXJfY2FuX2xvZ19pbl93aXRoX3RoZWlyX25ldHdvcmtfY3JlZGVudGlhbHMoKXsKLy8JCSR1c2VyID0gZmFjdG9yeShVc2VyOjpjbGFzcyktPmNyZWF0ZSgpOwoKCQkkdGhpcy0+cG9zdCgnL2xvZ2luJywgWwoKCgkJXSk7CgoJfQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwogICAgICAgICAgICAkdGFibGUtPnRpbWVzdGFtcHMoKTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcQnJvd3NlcktpdFRlc3RpbmdcRGF0YWJhc2VUcmFuc2FjdGlvbnM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyB0ZXN0IGV4YW1wbGUuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0RXhhbXBsZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUoZmFsc2UpOwogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcQnJvd3NlcktpdFRlc3RpbmdcRGF0YWJhc2VNaWdyYXRpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -713,8 +719,8 @@
         <entry>redo</entry>
         <entry>30</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
