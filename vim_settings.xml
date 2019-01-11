@@ -107,12 +107,12 @@
         <mark key="." line="75" column="12" />
         <mark key="^" line="75" column="12" />
       </file>
-      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1547155644447">
-        <mark key="'" line="138" column="18" />
-        <mark key="[" line="136" column="44" />
-        <mark key="]" line="136" column="63" />
-        <mark key="^" line="136" column="63" />
-        <mark key="." line="139" column="0" />
+      <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1547219409916">
+        <mark key="'" line="128" column="28" />
+        <mark key="[" line="128" column="31" />
+        <mark key="]" line="128" column="32" />
+        <mark key="^" line="128" column="32" />
+        <mark key="." line="128" column="32" />
       </file>
       <file name="C:/inetpub/new_SU/tests/Feature/ApiStudents.php" timestamp="1547148074230">
         <mark key="[" line="30" column="32" />
@@ -144,6 +144,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="C:/inetpub/new_SU/app/Jobs/CustomJob.php" timestamp="1547219505906">
+        <mark key="[" line="34" column="32" />
+        <mark key="]" line="34" column="44" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="31" />
       </file>
       <file name="C:/inetpub/new_SU/app/Http/Resources/QuestionResource.php" timestamp="1545311383441">
         <mark key="[" line="29" column="8" />
@@ -409,6 +415,12 @@
         <mark key="." line="63" column="51" />
         <mark key="^" line="63" column="51" />
       </file>
+      <file name="C:/inetpub/new_SU/tests/Feature/QueueTests.php" timestamp="1547219720370">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+      </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/tests/Completed.vue" timestamp="1539962173201">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -471,6 +483,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="14" column="8" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="C:/inetpub/new_SU/config/queue.php" timestamp="1547219229258">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="45" />
+        <mark key="^" line="15" column="45" />
+        <mark key="." line="15" column="45" />
       </file>
       <file name="/dummy.sql" timestamp="1547146824088">
         <mark key="[" line="0" column="0" />
@@ -578,7 +596,6 @@
       <jump line="44" column="21" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="117" column="20" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="123" column="17" filename="C:/inetpub/new_SU/routes/api.php" />
-      <jump line="128" column="43" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="144" column="23" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="146" column="33" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="149" column="34" filename="C:/inetpub/new_SU/routes/api.php" />
@@ -630,10 +647,11 @@
       <jump line="59" column="36" filename="C:/inetpub/new_SU/tests/Feature/AuditAsapTests.php" />
       <jump line="138" column="18" filename="C:/inetpub/new_SU/routes/api.php" />
       <jump line="39" column="28" filename="C:/inetpub/new_SU/app/Jobs/ProcessAuditAsapJob.php" />
+      <jump line="128" column="28" filename="C:/inetpub/new_SU/routes/api.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>02</text>
+        <text encoding="base64">JHRoaXMtPml0ZW0g</text>
       </register>
       <register name="/" type="4">
         <text>IsAdmin</text>
@@ -642,31 +660,31 @@
         <text>auditFile_$date.xlsx</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlFeGNlbDo6ZmFrZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTdG9yYWdlOjoK</text>
+        <text encoding="base64">ICAgICAgICBMb2c6OmluCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCXNsZWVwKDUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZigkcmVzcG9uc2UtPnN0YXR1cygpID09IDUwMCkgewoJCQlkZCgkcmVzcG9uc2UtPmV4Y2VwdGlvbik7CgkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICAkdGhpcy0+YWN0aW5nQXMoZmFjdG9yeShFbXBsb3llZTo6Y2xhc3MpLT5jcmVhdGUoKS0+Y3JlYXRlVXNlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICAkdXNlciA9IDsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8JCVN0b3JhZ2U6OmZha2UoKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkZmlsZW5hbWUgPSAiSDpcYmFja3Vwc1xccmVzdXJnZW50XFwyMDE5LTAxLTA4XEF1ZGl0X0FTQVBTY3JlZW5zaG90c18yNzQyXzIwMTkxNy54bHN4IjsK</text>
+        <text encoding="base64">Um91dGU6OnBvc3QoJ2F1ZGl0LWFzYXAnLCBmdW5jdGlvbihSZXF1ZXN0ICRyZXF1ZXN0KXsKCgkkcmVxdWVzdC0+dmFsaWRhdGUoWwoJCSdmaWxlJyA9PiAncmVxdWlyZWR8bWltZXM6eGxzeCx4bHMsY3N2JywKCV0sWwoJCSdkb2MubWltZXMnID0+ICdUaGUgY291cnNlIGRvY3VtZW50IHNob3VsZCBiZSBFeGNlbCBGb3JtYXQnCgldKTsKCS8vUzpcQ2xpZW50c1xSZXN1cmdlbnRcU2NyZWVuc2hvdCBBdWRpdCBQcm9qZWN0CgoKCSRkYXRlID0gXENhcmJvblxDYXJib246Om5vdygpLT5mb3JtYXQoJ1ltZF9IaXMnKTsKCSRmaWxlID0gJHJlcXVlc3QtPmZpbGUoJ2ZpbGUnKTsKCSRmaWxlID0gJGZpbGUtPnN0b3JlQXMoJ2F1ZGl0X2FzYXBcXCcsICJhdWRpdEZpbGVfJGRhdGUueGxzeCIpOwoKCWRpc3BhdGNoKG5ldyBQcm9jZXNzQXVkaXRBc2FwSm9iKCRmaWxlKSk7CgoKfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>42</text>
