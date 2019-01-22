@@ -214,12 +214,12 @@
         <mark key="." line="26" column="27" />
         <mark key="^" line="26" column="27" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Http/Controllers/FaqController.php" timestamp="1547847095967">
+      <file name="C:/inetpub/new_SU/app/Http/Controllers/FaqController.php" timestamp="1548176978663">
         <mark key="'" line="90" column="50" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="29" column="8" />
+        <mark key="[" line="56" column="8" />
+        <mark key="]" line="56" column="53" />
+        <mark key="." line="56" column="53" />
+        <mark key="^" line="56" column="53" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e69fec68-56e2-4665-90ec-183bfdb3b442/console.sql" timestamp="1545336401559">
         <mark key="[" line="7" column="48" />
@@ -352,12 +352,12 @@
         <mark key="]" line="27" column="16" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="C:/inetpub/new_SU/tests/Feature/FaqTests.php" timestamp="1547847844885">
-        <mark key="'" line="117" column="21" />
-        <mark key="[" line="75" column="39" />
-        <mark key="]" line="75" column="44" />
-        <mark key="." line="75" column="44" />
-        <mark key="^" line="75" column="44" />
+      <file name="C:/inetpub/new_SU/tests/Feature/FaqTests.php" timestamp="1548177174534">
+        <mark key="'" line="42" column="39" />
+        <mark key="[" line="155" column="35" />
+        <mark key="]" line="155" column="34" />
+        <mark key="." line="155" column="34" />
+        <mark key="^" line="155" column="34" />
       </file>
       <file name="B:/stenger_u/app/Http/Resources/UserResource.php" timestamp="1542293178334">
         <mark key="[" line="21" column="39" />
@@ -578,7 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/inetpub/new_SU/config/database.php" />
       <jump line="15" column="39" filename="C:/inetpub/new_SU/config/database.php" />
       <jump line="47" column="37" filename="C:/inetpub/new_SU/resources/assets/js/components/admin/AllUsers.vue" />
       <jump line="59" column="36" filename="C:/inetpub/new_SU/tests/Feature/AuditAsapTests.php" />
@@ -678,6 +677,7 @@
       <jump line="172" column="23" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
       <jump line="187" column="8" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
       <jump line="177" column="23" filename="C:/inetpub/new_SU/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="42" column="39" filename="C:/inetpub/new_SU/tests/Feature/FaqTests.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -690,31 +690,31 @@
         <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gdmVyaWZ5TGRhcFVzZXIoJGVtYWlsLCAkcGFzc3dvcmQpIHsKCgoJCS8vQ2hlY2sgdG8gc2VlIGlmIExEQVAgbW9kdWxlIGlzIGxvYWRlZC4KCQlpZihleHRlbnNpb25fbG9hZGVkKCdsZGFwJykpIHsKCQkJTG9nOjppbmZvKCdMREFQIGV4dGVuc2lvbiBsb2FkZWQnKTsKCgkJCWlmKCRjb25uZWN0ID0gQGxkYXBfY29ubmVjdCgnZGMxJykpIHsKCQkJCUxvZzo6aW5mbygnQ29ubmVjdGVkIHRvIExEQVAgU2VydmVyJyk7CgoKCQkJCS8vZWNobyAiY29ubmVjdGlvbiAoJGxkYXBfc2VydmVyKTogIjsKCQkJCWlmKCRiaW5kID0gQGxkYXBfYmluZCgkY29ubmVjdCwgJGVtYWlsLCAkcGFzc3dvcmQpKSB7CgkJCQkJTG9nOjppbmZvKCdBdXRoZW50aWNhdGVkIFN1Y2Nlc3NmdWxseScpOwoKCQkJCQkvL2VjaG8gInRydWUgPEJSPiI7CgkJCQkJQGxkYXBfY2xvc2UoJGNvbm5lY3QpOwoJCQkJCXJldHVybiBUUlVFOwoJCQkJfSBlbHNlIHsKCQkJCQlMb2c6OmluZm8oJ0luY29ycmVjdCBDcmVkZW50aWFscycpOwoJCQkJCS8vc2VuZCBlcnJvciBtZXNzYWdlIC0gcGFzc3dvcmQgaW5jb3JyZWN0CgoJCQkJCUBsZGFwX2Nsb3NlKCRjb25uZWN0KTsKCQkJCQlyZXR1cm4gRkFMU0U7CgkJCQl9CgkJCX0gZWxzZSB7CgkJCQlMb2c6OmluZm8oJ0NvdWxkIG5vdCBjb25uZWN0IHRvIExEQVAnKTsKCQkJfQoJCX0gZWxzZSB7CgkJCS8vc2VuZCBtZXNzYWdlIC0gY291bGQgbm90IGNvbm5lY3QgdG8gZG9tYWluCgkJCUxvZzo6aW5mbygnTERBUCBleHRlbnNpb24gTk9UIGxvYWRlZCcpOwovLyAgICAgICAgICAgCUBsZGFwX2Nsb3NlKCRjb25uZWN0KTsKCQkJcmV0dXJuIEZBTFNFOwoJCX0KCQkvLyBzZW5kIG1lc3NhZ2UgLSBsZGFwIG1vZHVsZSBub3QgbG9hZGVkCgoJCUBsZGFwX2Nsb3NlKCRjb25uZWN0KTsKCQlyZXR1cm4gKEZBTFNFKTsKCX0vL2VuZCBmdW5jdGlvbiB2ZXJpZnlMZGFwVXNlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKFsndXNlcicgPT4gbmV3IFVzZXJSZXNvdXJjZSgkZW1wbG95ZWVfcmVjb3JkLT51c2VyKV0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcmVkaXJlY3QoJy9ub3ZhJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZGQoJHJlcXVlc3QtPnBhdGgoKSk7Cg==</text>
+        <text encoding="base64">CQlGYXE6OmNyZWF0ZSgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKFsndXNlcicgPT4gbmV3IFVzZXJSZXNvdXJjZSgkZW1wbG95ZWVfcmVjb3JkLT51c2VyKV0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gcmVkaXJlY3QoJy9ub3ZhJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZGQoJHJlcXVlc3QtPnBhdGgoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gc2VsZjo6bG9naW5TdWNjZXNzKCk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZ1bmN0aW9uIGxvZ2luU3VjY2VzcyhVc2VyICR1c2VyKSB7CgoKCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlBdXRoOjpsb2dpbigkdXNlcik7CgoJCXJldHVybiByZXNwb25zZShbJ3VzZXInID0+IG5ldyBVc2VyUmVzb3VyY2UoJHVzZXIpXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
