@@ -92,6 +92,11 @@
         <mark key="." line="75" column="12" />
         <mark key="^" line="75" column="12" />
       </file>
+      <file name="C:/inetpub/new_SU/app/Test.php" timestamp="1548186245553">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+      </file>
       <file name="C:/inetpub/new_SU/routes/api.php" timestamp="1547846606920">
         <mark key="'" line="80" column="27" />
         <mark key="[" line="82" column="12" />
@@ -221,6 +226,12 @@
         <mark key="." line="56" column="53" />
         <mark key="^" line="56" column="53" />
       </file>
+      <file name="C:/inetpub/new_SU/database/factories/AnswerKeyFactory.php" timestamp="1548186657732">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e69fec68-56e2-4665-90ec-183bfdb3b442/console.sql" timestamp="1545336401559">
         <mark key="[" line="7" column="48" />
         <mark key="]" line="7" column="56" />
@@ -244,6 +255,12 @@
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="9" />
+      </file>
+      <file name="C:/inetpub/new_SU/app/Nova/Test.php" timestamp="1548186391587">
+        <mark key="[" line="59" column="54" />
+        <mark key="]" line="59" column="61" />
+        <mark key="." line="59" column="61" />
+        <mark key="^" line="59" column="61" />
       </file>
       <file name="C:/inetpub/new_SU/database/factories/UserFactory.php" timestamp="1546977074969">
         <mark key="[" line="16" column="17" />
@@ -504,6 +521,12 @@
         <mark key="^" line="184" column="4" />
         <mark key="." line="184" column="4" />
       </file>
+      <file name="C:/inetpub/new_SU/app/Nova/Faq.php" timestamp="1548185684093">
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="32" />
+        <mark key="." line="46" column="32" />
+        <mark key="^" line="46" column="32" />
+      </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/LeftNav.vue" timestamp="1547848431389">
         <mark key="[" line="34" column="38" />
         <mark key="]" line="34" column="38" />
@@ -681,40 +704,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>, true</text>
+        <text>Student</text>
       </register>
       <register name="/" type="4">
         <text>verifyL</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gdmVyaWZ5TGRhcFVzZXIoJGVtYWlsLCAkcGFzc3dvcmQpIHsKCgoJCS8vQ2hlY2sgdG8gc2VlIGlmIExEQVAgbW9kdWxlIGlzIGxvYWRlZC4KCQlpZihleHRlbnNpb25fbG9hZGVkKCdsZGFwJykpIHsKCQkJTG9nOjppbmZvKCdMREFQIGV4dGVuc2lvbiBsb2FkZWQnKTsKCgkJCWlmKCRjb25uZWN0ID0gQGxkYXBfY29ubmVjdCgnZGMxJykpIHsKCQkJCUxvZzo6aW5mbygnQ29ubmVjdGVkIHRvIExEQVAgU2VydmVyJyk7CgoKCQkJCS8vZWNobyAiY29ubmVjdGlvbiAoJGxkYXBfc2VydmVyKTogIjsKCQkJCWlmKCRiaW5kID0gQGxkYXBfYmluZCgkY29ubmVjdCwgJGVtYWlsLCAkcGFzc3dvcmQpKSB7CgkJCQkJTG9nOjppbmZvKCdBdXRoZW50aWNhdGVkIFN1Y2Nlc3NmdWxseScpOwoKCQkJCQkvL2VjaG8gInRydWUgPEJSPiI7CgkJCQkJQGxkYXBfY2xvc2UoJGNvbm5lY3QpOwoJCQkJCXJldHVybiBUUlVFOwoJCQkJfSBlbHNlIHsKCQkJCQlMb2c6OmluZm8oJ0luY29ycmVjdCBDcmVkZW50aWFscycpOwoJCQkJCS8vc2VuZCBlcnJvciBtZXNzYWdlIC0gcGFzc3dvcmQgaW5jb3JyZWN0CgoJCQkJCUBsZGFwX2Nsb3NlKCRjb25uZWN0KTsKCQkJCQlyZXR1cm4gRkFMU0U7CgkJCQl9CgkJCX0gZWxzZSB7CgkJCQlMb2c6OmluZm8oJ0NvdWxkIG5vdCBjb25uZWN0IHRvIExEQVAnKTsKCQkJfQoJCX0gZWxzZSB7CgkJCS8vc2VuZCBtZXNzYWdlIC0gY291bGQgbm90IGNvbm5lY3QgdG8gZG9tYWluCgkJCUxvZzo6aW5mbygnTERBUCBleHRlbnNpb24gTk9UIGxvYWRlZCcpOwovLyAgICAgICAgICAgCUBsZGFwX2Nsb3NlKCRjb25uZWN0KTsKCQkJcmV0dXJuIEZBTFNFOwoJCX0KCQkvLyBzZW5kIG1lc3NhZ2UgLSBsZGFwIG1vZHVsZSBub3QgbG9hZGVkCgoJCUBsZGFwX2Nsb3NlKCRjb25uZWN0KTsKCQlyZXR1cm4gKEZBTFNFKTsKCX0vL2VuZCBmdW5jdGlvbiB2ZXJpZnlMZGFwVXNlcgo=</text>
+      <register name="0" type="4">
+        <text>\App\Question::firstOrCreate(['body'])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAncXVlc3Rpb25faWQnID0+IFxBcHBcUXVlc3Rpb246OmZpcnN0T3JDcmVhdGUoWydib2R5J10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">Ly8JJHEgPSBcQXBwXFF1ZXN0aW9uOjpmaXJzdE9yQ3JlYXRlKFsnYm9keSddKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlGYXE6OmNyZWF0ZSgkcmVxdWVzdC0+YWxsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlKFsndXNlcicgPT4gbmV3IFVzZXJSZXNvdXJjZSgkZW1wbG95ZWVfcmVjb3JkLT51c2VyKV0pOwo=</text>
+        <text encoding="base64">CQkJQmVsb25nc1RvTWFueTo6bWFrZSgnRGVwYXJ0bWVudHMnKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcmVkaXJlY3QoJy9ub3ZhJyk7Cg==</text>
+        <text encoding="base64">CQkkb2xkX2F0dGVtcHRzID0gT2xkVGVzdFNjb3Jlczo6d2hlcmUoJ3Rlc3QnLCAkdGhpcy0+bmFtZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZGQoJHJlcXVlc3QtPnBhdGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSUQ6Om1ha2UoKS0+c29ydGFibGUoKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSUQ6Om1ha2UoKS0+c29ydGFibGUoKSwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
