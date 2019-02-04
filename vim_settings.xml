@@ -29,11 +29,12 @@
         <mark key="." line="15" column="35" />
         <mark key="^" line="15" column="35" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Providers/NovaServiceProvider.php" timestamp="1548340051696">
-        <mark key="[" line="56" column="72" />
-        <mark key="]" line="56" column="77" />
-        <mark key="." line="56" column="77" />
-        <mark key="^" line="56" column="77" />
+      <file name="C:/inetpub/new_SU/app/Providers/NovaServiceProvider.php" timestamp="1549295943642">
+        <mark key="'" line="58" column="19" />
+        <mark key="[" line="58" column="8" />
+        <mark key="]" line="58" column="4" />
+        <mark key="." line="58" column="4" />
+        <mark key="^" line="58" column="4" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/vuex/actions.js" timestamp="1548796553056">
         <mark key="'" line="76" column="23" />
@@ -102,12 +103,12 @@
         <mark key="." line="24" column="47" />
         <mark key="^" line="24" column="47" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Nova/User.php" timestamp="1548354307381">
-        <mark key="'" line="121" column="26" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="8" />
-        <mark key="." line="51" column="8" />
-        <mark key="^" line="51" column="8" />
+      <file name="C:/inetpub/new_SU/app/Nova/User.php" timestamp="1549295770609">
+        <mark key="'" line="124" column="26" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="74" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1549051401132">
         <mark key="[" line="0" column="0" />
@@ -122,6 +123,12 @@
         <mark key="]" line="47" column="20" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="20" column="32" />
+      </file>
+      <file name="C:/inetpub/new_SU/resources/assets/js/app.js" timestamp="1549295328478">
+        <mark key="[" line="210" column="26" />
+        <mark key="]" line="211" column="20" />
+        <mark key="^" line="211" column="20" />
+        <mark key="." line="211" column="20" />
       </file>
       <file name="C:/inetpub/new_SU/app/Nova/Department.php" timestamp="1548349944292">
         <mark key="[" line="48" column="56" />
@@ -201,11 +208,6 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="64" column="30" />
       </file>
-      <file name="C:/inetpub/new_SU/resources/assets/sass/app.scss" timestamp="1548784637165">
-        <mark key="'" line="104" column="20" />
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="30" />
-      </file>
       <file name="C:/inetpub/new_SU/app/Employee.php" timestamp="1548946694299">
         <mark key="'" line="62" column="4" />
         <mark key="[" line="169" column="0" />
@@ -239,10 +241,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="21" column="48" />
       </file>
+      <file name="C:/inetpub/new_SU/app/User.php" timestamp="1549295954066">
+        <mark key="'" line="31" column="2" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="35" filename="C:/inetpub/new_SU/app/Http/Controllers/UserController.php" />
-      <jump line="13" column="0" filename="C:/inetpub/new_SU/app/Http/Controllers/UserController.php" />
       <jump line="38" column="4" filename="C:/inetpub/new_SU/app/Http/Controllers/FaqController.php" />
       <jump line="73" column="36" filename="C:/inetpub/new_SU/app/Http/Controllers/FaqController.php" />
       <jump line="35" column="6" filename="C:/inetpub/new_SU/app/Http/Controllers/FaqController.php" />
@@ -341,40 +344,42 @@
       <jump line="3" column="10" filename="C:/inetpub/new_SU/resources/assets/js/components/routed/tests/index.vue" />
       <jump line="47" column="42" filename="C:/inetpub/new_SU/resources/assets/js/components/routed/tests/index.vue" />
       <jump line="15" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/routed/tests/item.vue" />
+      <jump line="58" column="19" filename="C:/inetpub/new_SU/app/Providers/NovaServiceProvider.php" />
+      <jump line="31" column="2" filename="C:/inetpub/new_SU/app/User.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">LT5nZXQoKQ==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>mount</text>
+        <text>IsAdmin</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CgkJY29uc29sZS5sb2coYExvYWRpbmcgZnJvbSAke3BhdGh9YCk7CgkJa2V5ID0ga2V5ID09IHVuZGVmaW5lZCA/CgkJCV8uY2FtZWxDYXNlKHBhdGgpIDoKCQkJXy5jYW1lbENhc2Uoa2V5KTsKCQljb25zdCBnZXR0ZXIgPSBfLmNhbWVsQ2FzZShgZ2V0XyR7a2V5fWApOwoKCQlpZihnZXR0ZXJzW2dldHRlcl0gPT0gdW5kZWZpbmVkKQoJCQljb21taXQoJ2xvYWRpbmcnLCBrZXkpOwoKCQlyZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewoJCQljb25zb2xlLmxvZyhgZ2V0dGluZyAke3BhdGh9YCk7CgoJCQlhcGkocGF0aCkudGhlbihyZXMgPT4gewoJCQkJY29uc29sZS5sb2cocmVzLmRhdGEpOwoKCQkJCWxldCB2YWx1ZSA9IHJlcy5kYXRhLmRhdGE7CgoJCQkJY29uc29sZS5sb2coYGNvbW1pdGluZyBhcHBfZGF0YSAke2tleX1gKTsKCQkJCWNvbnNvbGUubG9nKHZhbHVlKTsKCQkJCWNvbW1pdChgYXBwX2RhdGFgLCB7a2V5LCB2YWx1ZX0pOwoKCQkJCWNvbW1pdCgnbG9hZGVkJywga2V5KTsKCgkJCQlyZXNvbHZlKHJlcyk7CgkJCX0pLmNhdGNoKGVyciA9PiB7CgkJCQljb25zb2xlLmVycm9yKGVycik7CgkJCQkvLyBpZihlcnIucmVzcG9uc2UuZGF0YS5zdGF0dXMgPT0gNDAxKSBkaXNwYXRjaCgnbG9nb3V0Jyk7CgoJCQkJcmVqZWN0KGVyci5yZXNwb25zZSk7CgkJCX0pOwoKCQl9KTs=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgICAKICAgICAgICA8L2Rpdj4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQl0aGlzLmxvYWQoe3BhdGg6ICJ0ZXN0cyJ9KTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JHRlc3QtPnJlcXVpcmVkX2VtcGxveWVlcy0+Y29udGFpbnMoJHRoaXMpCgkJCQkmJiAhJHRoaXMtPnBhc3NlZF90ZXN0cy0+Y29udGFpbnMoJHRlc3QpOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJY29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gVGVzdDo6YWxsKCk7Cg==</text>
+        <text encoding="base64">CQkJCQl0aGlzLiRzdG9yZS5jb21taXQoJ2xvZ291dCcpOwoJCQkJCXRoaXMuJHN0b3JlLmRpc3BhdGNoKCdyZWRpcmVjdCcsICcvbG9naW4nKTsKCQkJCQljb25zb2xlLmxvZyhyZXMpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgICAgICAKICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJTG9nOjppbmZvKCdMb2FkaW5nIHJlcXVpcmVkIHRlc3RzIGZvciAnKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">JHRlc3QtPnJlcXVpcmVkX2VtcGxveWVlcy0+Y29udGFpbnMoJHRoaXMpCgkJCQkmJiAhJHRoaXMtPnBhc3NlZF90ZXN0cy0+Y29udGFpbnMoJHRlc3QpOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gVGVzdDo6YWxsKCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -384,15 +389,14 @@
       </register>
     </registers>
     <search>
-      <last-search>mount</last-search>
+      <last-search>IsAdmin</last-search>
       <last-offset />
-      <last-pattern>mount</last-pattern>
+      <last-pattern>IsAdmin</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>metho</entry>
         <entry>data(</entry>
         <entry>current</entry>
         <entry>router-view</entry>
@@ -412,6 +416,7 @@
         <entry>compo</entry>
         <entry>prop</entry>
         <entry>mount</entry>
+        <entry>IsAdmin</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
