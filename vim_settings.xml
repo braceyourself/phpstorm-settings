@@ -83,11 +83,11 @@
         <mark key="^" line="206" column="41" />
         <mark key="." line="206" column="34" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Nova/Department.php" timestamp="1549557458163">
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="22" />
-        <mark key="." line="60" column="22" />
-        <mark key="^" line="60" column="22" />
+      <file name="C:/inetpub/new_SU/app/Nova/Department.php" timestamp="1549562691053">
+        <mark key="[" line="56" column="82" />
+        <mark key="]" line="56" column="89" />
+        <mark key="." line="56" column="89" />
+        <mark key="^" line="56" column="89" />
       </file>
       <file name="C:/inetpub/new_SU/database/migrations/2019_02_06_171039_create_brp_documents_table.php" timestamp="1549493337916">
         <mark key="[" line="16" column="36" />
@@ -500,7 +500,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">V2hhdCA=</text>
+        <text>'not', null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LT4=</text>
@@ -509,31 +509,37 @@
         <text encoding="base64">CQkJCQkJJ0RlcGFydG1lbnQgTGVhZGVyJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJW10K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQknRW1wX0lEJyAgICAgICAgICAgICAgID0+ICdpbnRlZ2VyJywK</text>
+      <register name="2" type="4">
+        <text>[
+						'Department Leader',
+						'Department Supervisor',
+						'State Manager',
+						'State Supervisor',
+						'State Leader',
+					]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCSAgIC0+d2l0aE1ldGEoWyd2YWx1ZSc9PiR0aGlzLT5wb3NpdGlvbl0pLAo=</text>
+        <text encoding="base64">CQkJCQkJJHRoaXMtPlBvc2l0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJJycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlUZXh0OjptYWtlKCdQb3NpdGlvbicsJ1Bvc2l0aW9uJyksCg==</text>
+        <text encoding="base64">CQknRW1wX0lEJyAgICAgICAgICAgICAgID0+ICdpbnRlZ2VyJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJJ0RlcGFydG1lbnQgU3VwZXJ2aXNvcicK</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCSAgIC0+d2l0aE1ldGEoWyd2YWx1ZSc9PiR0aGlzLT5wb3NpdGlvbl0pLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlTZWxlY3Q6Om1ha2UoJ0RlcGFydG1lbnQnLCdEZXBhcnRtZW50JykK</text>
+        <text encoding="base64">CQkJCQkJJycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJU2VsZWN0OjptYWtlKCdEZXBhcnRtZW50JywnRGVwYXJ0bWVudCcpCg==</text>
+        <text encoding="base64">CQkJCQlUZXh0OjptYWtlKCdQb3NpdGlvbicsJ1Bvc2l0aW9uJyksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUQ6Om1ha2UoJ0RlcHRfSUQnLCdEZXB0X0lEJyktPnNvcnRhYmxlKCksCgkJCVRleHQ6Om1ha2UoJ0RlcGFydG1lbnQnLCdEZXBhcnRtZW50JyksCgkJCVRleHQ6Om1ha2UoJ0xpc3RpbmcnLCdMaXN0aW5nJyktPmhpZGVGcm9tRGV0YWlsKCksCgoJCQlCZWxvbmdzVG9NYW55OjptYWtlKCdUZXN0cycpLAo=</text>
+        <text encoding="base64">CQkJCQkJJ0RlcGFydG1lbnQgU3VwZXJ2aXNvcicK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
