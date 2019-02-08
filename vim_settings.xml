@@ -115,12 +115,11 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="11" />
       </file>
-      <file name="C:/inetpub/new_SU/app/TestSeries.php" timestamp="1549576507757">
-        <mark key="'" line="30" column="38" />
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="33" column="8" />
-        <mark key="." line="33" column="8" />
-        <mark key="^" line="33" column="8" />
+      <file name="C:/inetpub/new_SU/app/TestSeries.php" timestamp="1549642621249">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="47" column="42" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="C:/inetpub/new_SU/resources/views/vendor/nova/partials/user.blade.php" timestamp="1549481781271">
         <mark key="[" line="3" column="32" />
@@ -131,7 +130,7 @@
       <file name="/main.answers [database.sqlite]" timestamp="1549489065535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/main.employee_test_series [database.sqlite]" timestamp="1549576749239">
+      <file name="/main.employee_test_series [database.sqlite]" timestamp="1549641561817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/inetpub/new_SU/app/EmployeeTestSeries.php" timestamp="1549577024206">
@@ -173,6 +172,13 @@
         <mark key="]" line="30" column="4" />
         <mark key="^" line="30" column="4" />
         <mark key="." line="30" column="4" />
+      </file>
+      <file name="C:/inetpub/new_SU/tests/Unit/TestSeriesTests.php" timestamp="1549643019498">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="17" column="49" />
+        <mark key="." line="17" column="49" />
+        <mark key="^" line="17" column="49" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/partials/MainNavigation.vue" timestamp="1549637910567">
         <mark key="'" line="27" column="0" />
@@ -339,7 +345,7 @@
       <file name="/main.department_test [database.sqlite]" timestamp="1549569587356">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1549576749443">
+      <file name="/dummy.sql" timestamp="1549641562097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/partials/SubNavigationMenu.vue" timestamp="1549634539823">
@@ -401,11 +407,11 @@
         <mark key="." line="59" column="21" />
         <mark key="^" line="59" column="22" />
       </file>
-      <file name="C:/inetpub/new_SU/app/Nova/Actions/Employees/AddToTestSeries.php" timestamp="1549640186018">
-        <mark key="[" line="41" column="55" />
-        <mark key="]" line="41" column="72" />
-        <mark key="." line="41" column="55" />
-        <mark key="^" line="41" column="54" />
+      <file name="C:/inetpub/new_SU/app/Nova/Actions/Employees/AddToTestSeries.php" timestamp="1549641637827">
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="43" column="20" />
+        <mark key="." line="43" column="20" />
+        <mark key="^" line="43" column="20" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/routed/tests/Required.vue" timestamp="1548796754785">
         <mark key="[" line="36" column="27" />
@@ -467,10 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="40" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
-      <jump line="241" column="8" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
-      <jump line="258" column="2" filename="C:/inetpub/new_SU/resources/assets/js/app.js" />
-      <jump line="29" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/routed/tests/index.vue" />
       <jump line="70" column="19" filename="C:/inetpub/new_SU/resources/assets/js/components/routed/tests/item.vue" />
       <jump line="83" column="12" filename="C:/inetpub/new_SU/resources/assets/js/components/routed/tests/item.vue" />
       <jump line="4" column="19" filename="C:/inetpub/new_SU/resources/assets/js/components/routed/tests/item.vue" />
@@ -567,43 +569,47 @@
       <jump line="27" column="0" filename="C:/inetpub/new_SU/resources/assets/js/components/partials/MainNavigation.vue" />
       <jump line="32" column="5" filename="C:/inetpub/new_SU/app/Nova/Actions/TestSeries/AttachEmployeesInDepartment.php" />
       <jump line="51" column="28" filename="C:/inetpub/new_SU/app/Nova/Employee.php" />
+      <jump line="6" column="0" filename="C:/inetpub/new_SU/app/TestSeries.php" />
+      <jump line="10" column="2" filename="C:/inetpub/new_SU/app/TestSeries.php" />
+      <jump line="47" column="39" filename="C:/inetpub/new_SU/app/TestSeries.php" />
+      <jump line="14" column="28" filename="C:/inetpub/new_SU/tests/Unit/TestSeriesTests.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">JHNlcmllcy0+aW50ZXJ2YWw=</text>
+        <text encoding="base64">LT5hdHRhY2goJHRlc3RzLT50b0FycmF5KCkpOw==</text>
       </register>
       <register name="/" type="4">
         <text>compu</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LT5oaWRlRnJvbUluZGV4KCk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCSdjdXJyZW50X3Rlc3RfaWQnID0+ICRzZXJpZXMtPnRlc3RzLT5maXJzdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkc2VyaWVzLT50ZXN0cy0+aW5zCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ci8vCQkJCQlCZWxvbmdzVG86Om1ha2UoJ0N1cnJlbnQgVGVzdCcsIG51bGwsIFRlc3Q6OmNsYXNzKSwKLy8JCQkJCUJlbG9uZ3NUbzo6bWFrZSgnTmV4dCBUZXN0JywgbnVsbCwgVGVzdDo6Y2xhc3MpLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyB0ZXN0IGV4YW1wbGUuCiAgICAgKgogICAgICogQHJldHVybiB2b2lkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0RXhhbXBsZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPmFzc2VydFRydWUodHJ1ZSk7CiAgICB9</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJTG9nOjppbmZvKCJBZGRpbmcgJG1vZGVsLT5OYW1lIHRvIHRoZSAkc2VyaWVzLT5uYW1lIHRlc3Qgc2VyaWVzIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJTG9nOjppbmZvKCJBZGRpbmcgJG1vZGVsLT5OYW1lIHRvIHRoZSAkc2VyaWVzLT5uYW1lIHRlc3Qgc2VyaWVzIik7Cg==</text>
+        <text encoding="base64">CQkkY3VycmVudCA9ICR0aGlzLT5jdXJyZW50X3Rlc3Q7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJTG9nOjppbmZvKCRtb2RlbC0+TmFtZSk7Cg==</text>
+        <text encoding="base64">CQkkbmV4dCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">CQkkdGVzdHNfYXJyYXkgPSAkdGhpcy0+dGVzdHMtPnRvQXJyYXkoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAJSGFzTWFueTo6bWFrZSgnRW1wbG95ZWVzJywgbnVsbCwgRW1wbG95ZWU6OmNsYXNzKQo=</text>
+        <text encoding="base64">CQkkdGVzdHNfYXJyYXktPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxOb3ZhXEFjdGlvbnNcVGVzdFNlcmllc1xBZGRUb1Rlc3RTZXJpZXM7Cg==</text>
+        <text encoding="base64">CQkkdGhpcy0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>29</text>
