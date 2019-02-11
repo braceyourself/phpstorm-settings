@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/inetpub/new_SU/app/Nova/Question.php" timestamp="1549895667710">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="C:/inetpub/new_SU/app/Nova/Question.php" timestamp="1549897597212">
+        <mark key="[" line="52" column="46" />
+        <mark key="]" line="52" column="46" />
+        <mark key="." line="52" column="46" />
+        <mark key="^" line="52" column="62" />
       </file>
       <file name="C:/inetpub/new_SU/resources/assets/js/components/routed/tests/_id.vue" timestamp="1549892041025">
         <mark key="'" line="9" column="41" />
@@ -57,11 +58,6 @@
         <mark key="." line="19" column="53" />
         <mark key="^" line="19" column="53" />
       </file>
-      <file name="C:/inetpub/new_SU/database/factories/TestSeriesFactory.php" timestamp="1549575031165">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="C:/inetpub/new_SU/app/TestAttempt.php" timestamp="1549394929895">
         <mark key="[" line="64" column="49" />
         <mark key="]" line="64" column="49" />
@@ -103,16 +99,6 @@
         <mark key="]" line="16" column="37" />
         <mark key="^" line="41" column="30" />
         <mark key="." line="16" column="37" />
-      </file>
-      <file name="C:/inetpub/new_SU/.env" timestamp="1549489509732">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1549564516046">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/main.Department [database.sqlite]" timestamp="1549564529120">
         <mark key="[" line="0" column="0" />
@@ -421,11 +407,6 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="63" column="0" />
       </file>
-      <file name="C:/inetpub/new_SU/app/brp/Image.php" timestamp="1549493820779">
-        <mark key="[" line="50" column="23" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="C:/inetpub/new_SU/app/Nova/Actions/Employees/AddToTestSeries.php" timestamp="1549641637827">
         <mark key="[" line="43" column="17" />
         <mark key="]" line="43" column="20" />
@@ -595,7 +576,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>null</text>
+        <text>'correct_answer'</text>
       </register>
       <register name="/" type="4">
         <text>compu</text>
