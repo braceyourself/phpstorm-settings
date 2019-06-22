@@ -26,12 +26,12 @@
       <file name="/main.oauth_refresh_tokens [database.sqlite]" timestamp="1560526942142">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" timestamp="1561222775312">
-        <mark key="'" line="119" column="10" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
-        <mark key="^" line="118" column="26" />
+      <file name="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" timestamp="1561224184849">
+        <mark key="'" line="130" column="10" />
+        <mark key="[" line="51" column="10" />
+        <mark key="]" line="53" column="33" />
+        <mark key="." line="53" column="33" />
+        <mark key="^" line="53" column="33" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Cornerstone/Transaction.php" timestamp="1561035556048">
         <mark key="[" line="3" column="0" />
@@ -134,11 +134,11 @@
         <mark key="^" line="58" column="19" />
         <mark key="." line="58" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/api-consumer/src/Http/ApiResponse.php" timestamp="1561221806103">
+      <file name="$USER_HOME$/Code/api-consumer/src/Http/ApiResponse.php" timestamp="1561223938119">
         <mark key="'" line="6" column="31" />
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="68" column="5" />
+        <mark key="." line="53" column="0" />
         <mark key="^" line="3" column="35" />
       </file>
       <file name="$USER_HOME$/Code/api-consumer/phpunit.xml" timestamp="1561217304860" />
@@ -368,11 +368,11 @@
       <file name="/main.oauth_personal_access_clients [database.sqlite]" timestamp="1559333540490">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-consumer/src/Contracts/ApiCallContract.php" timestamp="1561223000883">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="13" column="24" />
+      <file name="$USER_HOME$/Code/api-consumer/src/Contracts/ApiCallContract.php" timestamp="1561223055447">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="14" column="34" />
+        <mark key="." line="14" column="27" />
+        <mark key="^" line="12" column="30" />
       </file>
       <file name="/main.users [database.sqlite]" timestamp="1560343331459">
         <mark key="[" line="0" column="0" />
@@ -402,12 +402,18 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" timestamp="1561222807602">
-        <mark key="'" line="25" column="37" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="50" column="35" />
+      <file name="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" timestamp="1561224709284">
+        <mark key="'" line="63" column="25" />
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="52" column="36" />
+        <mark key="^" line="52" column="36" />
+        <mark key="." line="52" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/api-consumer/src/Contracts/ApiRequestContract.php" timestamp="1561223456243">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="46" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="14" column="46" />
       </file>
       <file name="/main.oauth_access_tokens [database.sqlite]" timestamp="1559333536770">
         <mark key="[" line="0" column="0" />
@@ -499,13 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="21" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="133" column="21" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="93" column="22" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="258" column="7" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="23" column="4" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="260" column="67" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
       <jump line="41" column="0" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
       <jump line="12" column="0" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
       <jump line="22" column="13" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
@@ -588,7 +587,6 @@
       <jump line="231" column="0" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
       <jump line="8" column="0" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
       <jump line="44" column="4" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
-      <jump line="11" column="4" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
       <jump line="3" column="35" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiResponse.php" />
       <jump line="53" column="0" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiResponse.php" />
       <jump line="6" column="31" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiResponse.php" />
@@ -599,57 +597,63 @@
       <jump line="25" column="23" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
       <jump line="23" column="37" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
       <jump line="119" column="10" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
+      <jump line="11" column="45" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="90" column="21" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="83" column="72" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="39" column="35" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="38" column="14" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="75" column="0" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="60" column="25" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>patch</text>
+        <text encoding="base64">JHRoaXMtPmNsaWVudCA9IA==</text>
       </register>
       <register name="/" type="4">
-        <text>setHeaders</text>
+        <text>prepare</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwYXRjaCgkcGFyYW1zID0gW10sICRkYXRhID0gW10pIDogQXBpUmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFwaVJlc3BvbnNlKAogICAgICAgICAgICAkdGhpcy0+Y2xpZW50LT5wdXQoJHBhdGgsICRwYXJhbXMpCiAgICAgICAgKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-        
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gX19jYWxsU3RhdGljKCRtZXRob2QsICRhcmd1bWVudHMpCiAgICB7CiAgICAgICAgJGNsaWVudCA9IG5ldyBQZW5kaW5nWnR0cFJlcXVlc3QoKTsKICAgICAgICAKICAgICAgICByZXR1cm4gJGNsaWVudC0+JG1ldGhvZCguLi4kYXJndW1lbnRzKTsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gc2V0Qm9keUZvcm1hdCgpCiAgICB7CgogICAgICAgICR0aGlzLT5jbGllbnQtPmJvZHlGb3JtYXQgPSAkdGhpcy0+Ym9keV9mb3JtYXQ7CgogICAgICAgIHJldHVybiAkdGhpczsKICAgIH0KCiAgICBwcml2YXRlIGZ1bmN0aW9uIHNldEhlYWRlcnMoKQogICAgewoKICAgICAgICAkdGhpcy0+Y2xpZW50ID0gJHRoaXMtPmNsaWVudC0+d2l0aEhlYWRlcnMoJHRoaXMtPmhlYWRlcnMpOwoKICAgICAgICByZXR1cm4gJHRoaXM7CgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZW5kcG9pbnQtPnByZQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+b3B0aW9ucyA9IGFycmF5X21lcmdlX3JlY3Vyc2l2ZSgkdGhpcy0+b3B0aW9ucywgJGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX19jYWxsU3RhdGljKCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">Ci8vICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NhbGwoKQovLyAgICB7Ci8vICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gcG9zdCgkcGF0aCwgJHBhcmFtcyA9IFtdKTogQXBpUmVzcG9uc2UKICAgIHsKICAgICAgICByZXR1cm4gbmV3IEFwaVJlc3BvbnNlKAogICAgICAgICAgICAkdGhpcy0+Y2xpZW50LT5wb3N0KCRwYXRoLCAkcGFyYW1zKQogICAgICAgICk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHB1dCgkcGF0aCwgJHBhcmFtcyA9IFtdKTogQXBpUmVzcG9uc2UKICAgIHsKICAgICAgICByZXR1cm4gbmV3IEFwaVJlc3BvbnNlKAogICAgICAgICAgICAkdGhpcy0+Y2xpZW50LT5wdXQoJHBhdGgsICRwYXJhbXMpCiAgICAgICAgKTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gcGF0Y2goJHBhdGgsICRwYXJhbXMgPSBbXSk6IEFwaVJlc3BvbnNlCiAgICB7CiAgICAgICAgcmV0dXJuIG5ldyBBcGlSZXNwb25zZSgKICAgICAgICAgICAgJHRoaXMtPmNsaWVudC0+cGF0Y2goJHBhdGgsICRwYXJhbXMpCiAgICAgICAgKTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gZGVsZXRlKCRwYXRoLCAkcGFyYW1zID0gW10pOiBBcGlSZXNwb25zZQogICAgewogICAgICAgIHJldHVybiBuZXcgQXBpUmVzcG9uc2UoCiAgICAgICAgICAgICR0aGlzLT5jbGllbnQtPmRlbGV0ZSgkcGF0aCwgJHBhcmFtcykKICAgICAgICApOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX19jYWxsKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZW5kcG9pbnQtPnByZXBhcmVSZXF1ZXN0KCRkYXRhKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBuZXcgQXBpUmVzcG9uc2UoCi8vICAgICAgICAgICAgJHRoaXMtPmNsaWVudC0+Z2V0KCRwYXRoLCAkcGFyYW1zKQovLyAgICAgICAgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NhbGxnZXQoJHBhdGgsICRwYXJhbXMgPSBbXSk6IEFwaVJlc3BvbnNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoJG1ldGhvZCwgJHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXQoJHBhdGgsICRwYXJhbXMgPSBbXSk6IEFwaVJlc3BvbnNlCiAgICB7CiAgICAgICAgcmV0dXJuIG5ldyBBcGlSZXNwb25zZSgKICAgICAgICAgICAgJHRoaXMtPmNsaWVudC0+Z2V0KCRwYXRoLCAkcGFyYW1zKQogICAgICAgICk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHBvc3QoJHBhdGgsICRwYXJhbXMgPSBbXSk6IEFwaVJlc3BvbnNlCiAgICB7CiAgICAgICAgcmV0dXJuIG5ldyBBcGlSZXNwb25zZSgKICAgICAgICAgICAgJHRoaXMtPmNsaWVudC0+cG9zdCgkcGF0aCwgJHBhcmFtcykKICAgICAgICApOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBwdXQoJHBhdGgsICRwYXJhbXMgPSBbXSk6IEFwaVJlc3BvbnNlCiAgICB7CiAgICAgICAgcmV0dXJuIG5ldyBBcGlSZXNwb25zZSgKICAgICAgICAgICAgJHRoaXMtPmNsaWVudC0+cHV0KCRwYXRoLCAkcGFyYW1zKQogICAgICAgICk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHBhdGNoKCRwYXRoLCAkcGFyYW1zID0gW10pOiBBcGlSZXNwb25zZQogICAgewogICAgICAgIHJldHVybiBuZXcgQXBpUmVzcG9uc2UoCiAgICAgICAgICAgICR0aGlzLT5jbGllbnQtPnBhdGNoKCRwYXRoLCAkcGFyYW1zKQogICAgICAgICk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGRlbGV0ZSgkcGF0aCwgJHBhcmFtcyA9IFtdKTogQXBpUmVzcG9uc2UKICAgIHsKICAgICAgICByZXR1cm4gbmV3IEFwaVJlc3BvbnNlKAogICAgICAgICAgICAkdGhpcy0+Y2xpZW50LT5kZWxldGUoJHBhdGgsICRwYXJhbXMpCiAgICAgICAgKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>setHeaders</last-search>
+      <last-search>prepare</last-search>
       <last-offset />
-      <last-pattern>setHeaders</last-pattern>
+      <last-pattern>prepare</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -668,13 +672,13 @@
         <entry>url</entry>
         <entry>config(</entry>
         <entry encoding="base64">JHRoaXMtPmNsaWVudA==</entry>
-        <entry>prepare</entry>
         <entry>options</entry>
         <entry>validate</entry>
         <entry>valida</entry>
         <entry>sendReq</entry>
         <entry>$client</entry>
         <entry>setHeaders</entry>
+        <entry>prepare</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
@@ -684,7 +688,6 @@
         <entry>60</entry>
         <entry>89</entry>
         <entry>2722</entry>
-        <entry>wq</entry>
         <entry>103</entry>
         <entry>reod</entry>
         <entry>redo</entry>
@@ -692,6 +695,7 @@
         <entry>w</entry>
         <entry>q</entry>
         <entry>nohlsearch</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
