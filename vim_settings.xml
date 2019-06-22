@@ -26,11 +26,12 @@
       <file name="/main.oauth_refresh_tokens [database.sqlite]" timestamp="1560526942142">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" timestamp="1561221224597">
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="39" />
-        <mark key="^" line="17" column="39" />
-        <mark key="." line="17" column="39" />
+      <file name="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" timestamp="1561222775312">
+        <mark key="'" line="119" column="10" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
+        <mark key="^" line="118" column="26" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Cornerstone/Transaction.php" timestamp="1561035556048">
         <mark key="[" line="3" column="0" />
@@ -132,6 +133,13 @@
         <mark key="]" line="61" column="8" />
         <mark key="^" line="58" column="19" />
         <mark key="." line="58" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/api-consumer/src/Http/ApiResponse.php" timestamp="1561221806103">
+        <mark key="'" line="6" column="31" />
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+        <mark key="^" line="3" column="35" />
       </file>
       <file name="$USER_HOME$/Code/api-consumer/phpunit.xml" timestamp="1561217304860" />
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/CornerstoneApiTests.php" timestamp="1561150554000">
@@ -360,6 +368,12 @@
       <file name="/main.oauth_personal_access_clients [database.sqlite]" timestamp="1559333540490">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/api-consumer/src/Contracts/ApiCallContract.php" timestamp="1561223000883">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="13" column="24" />
+      </file>
       <file name="/main.users [database.sqlite]" timestamp="1560343331459">
         <mark key="[" line="0" column="0" />
       </file>
@@ -387,6 +401,13 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" timestamp="1561222807602">
+        <mark key="'" line="25" column="37" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="50" column="35" />
       </file>
       <file name="/main.oauth_access_tokens [database.sqlite]" timestamp="1559333536770">
         <mark key="[" line="0" column="0" />
@@ -434,7 +455,7 @@
       <file name="/dummy.sql" timestamp="1560947500467">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561220668518">
+      <file name="/Dummy.txt" timestamp="1561222842712">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/ApiConsumers/AE/AE.php" timestamp="1561044761844">
@@ -442,12 +463,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-consumer/src/Endpoint.php" timestamp="1561221309682">
+      <file name="$USER_HOME$/Code/api-consumer/src/Endpoint.php" timestamp="1561221492326">
         <mark key="'" line="14" column="24" />
-        <mark key="[" line="14" column="50" />
-        <mark key="]" line="14" column="49" />
-        <mark key="." line="14" column="49" />
-        <mark key="^" line="14" column="49" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/src/Http/ApiResponse.php" timestamp="1561127523090">
         <mark key="'" line="4" column="31" />
@@ -478,27 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="0" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="236" column="0" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="49" column="36" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="237" column="35" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="189" column="36" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="48" column="4" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="72" column="44" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="77" column="30" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="183" column="55" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="12" column="25" filename="$USER_HOME$/code/laravel-api-consumer/src/Http/EndpointResponse.php" />
-      <jump line="16" column="24" filename="$USER_HOME$/code/laravel-api-consumer/src/Http/EndpointResponse.php" />
-      <jump line="160" column="4" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="68" column="42" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="174" column="23" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="230" column="42" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="70" column="21" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="120" column="34" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="167" column="32" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="119" column="29" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="98" column="24" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="231" column="37" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
       <jump line="168" column="21" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
       <jump line="133" column="21" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
       <jump line="93" column="22" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
@@ -578,70 +578,85 @@
       <jump line="63" column="0" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiConsumer.php" />
       <jump line="9" column="33" filename="$USER_HOME$/Code/api-consumer/src/Endpoint.php" />
       <jump line="14" column="24" filename="$USER_HOME$/Code/api-consumer/src/Endpoint.php" />
+      <jump line="101" column="12" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
+      <jump line="22" column="36" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="183" column="0" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
+      <jump line="188" column="23" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
+      <jump line="27" column="23" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
+      <jump line="233" column="21" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="231" column="0" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
+      <jump line="44" column="4" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="11" column="4" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="3" column="35" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiResponse.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiResponse.php" />
+      <jump line="6" column="31" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiResponse.php" />
+      <jump line="29" column="15" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
+      <jump line="31" column="44" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="67" column="4" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="68" column="8" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="25" column="23" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="23" column="37" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
+      <jump line="119" column="10" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>BelongsTo::</text>
+        <text>patch</text>
       </register>
       <register name="/" type="4">
-        <text>config(</text>
+        <text>setHeaders</text>
       </register>
-      <register name="0" type="4">
-        <text>BaseTestCase</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBwYXRjaCgkcGFyYW1zID0gW10sICRkYXRhID0gW10pIDogQXBpUmVzcG9uc2U7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGY6OmNsYXNzKTo6JHN0cmluZygpLT5nZXQoKTsK</text>
+      <register name="1" type="4">
+        <text>{
+        
+    }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gX19jYWxsU3RhdGljKCRtZXRob2QsICRhcmd1bWVudHMpCiAgICB7CiAgICAgICAgJGNsaWVudCA9IG5ldyBQZW5kaW5nWnR0cFJlcXVlc3QoKTsKICAgICAgICAKICAgICAgICByZXR1cm4gJGNsaWVudC0+JG1ldGhvZCguLi4kYXJndW1lbnRzKTsKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gc2V0Qm9keUZvcm1hdCgpCiAgICB7CgogICAgICAgICR0aGlzLT5jbGllbnQtPmJvZHlGb3JtYXQgPSAkdGhpcy0+Ym9keV9mb3JtYXQ7CgogICAgICAgIHJldHVybiAkdGhpczsKICAgIH0KCiAgICBwcml2YXRlIGZ1bmN0aW9uIHNldEhlYWRlcnMoKQogICAgewoKICAgICAgICAkdGhpcy0+Y2xpZW50ID0gJHRoaXMtPmNsaWVudC0+d2l0aEhlYWRlcnMoJHRoaXMtPmhlYWRlcnMpOwoKICAgICAgICByZXR1cm4gJHRoaXM7CgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKHNlbGY6OmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZW5kcG9pbnQtPnByZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgoc2VsZjo6Y2xhc3MpOjokc3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgX19jYWxsU3RhdGljKCkgbWV0aG9kLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZChzZWxmOjpjbGFzcyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkZW5kcG9pbnQtPnByZXBhcmVSZXF1ZXN0KCRkYXRhKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRFbmRwb2ludHNBdHRyaWJ1dGUoKQogICAgewogICAgICAgIHJldHVybiBwYXJlbnQ6OmdldEVuZHBvaW50c0F0dHJpYnV0ZSgpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1YgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRFbmRwb2ludHNBdHRyaWJ1dGUoKXsKICAgICAgICByZXR1cm4gJ3Rlc3Rpbic7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoJG1ldGhvZCwgJHJlc3BvbnNlKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>config(</last-search>
+      <last-search>setHeaders</last-search>
       <last-offset />
-      <last-pattern>config(</last-pattern>
+      <last-pattern>setHeaders</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>public</entry>
-        <entry>options</entry>
-        <entry>$client</entry>
-        <entry>getOption</entry>
-        <entry encoding="base64">JHRoaXMtPmNvbmZpZw==</entry>
-        <entry>buildUri</entry>
-        <entry>build</entry>
         <entry>request</entry>
         <entry>get</entry>
-        <entry>validate</entry>
         <entry>cache</entry>
         <entry>handleRespons</entry>
         <entry>json</entry>
@@ -652,6 +667,14 @@
         <entry>find</entry>
         <entry>url</entry>
         <entry>config(</entry>
+        <entry encoding="base64">JHRoaXMtPmNsaWVudA==</entry>
+        <entry>prepare</entry>
+        <entry>options</entry>
+        <entry>validate</entry>
+        <entry>valida</entry>
+        <entry>sendReq</entry>
+        <entry>$client</entry>
+        <entry>setHeaders</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
@@ -668,6 +691,7 @@
         <entry>123</entry>
         <entry>w</entry>
         <entry>q</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -711,6 +735,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
