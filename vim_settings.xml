@@ -402,18 +402,18 @@
       <file name="/failed_jobs [database.sqlite]" timestamp="1560353616024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api-consumer/tests/Unit/ApiVendorTests.php" timestamp="1561297443743">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="25" />
-        <mark key="." line="25" column="25" />
-        <mark key="^" line="25" column="25" />
+      <file name="$USER_HOME$/Code/api-consumer/tests/Unit/ApiVendorTests.php" timestamp="1561319596100">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/api-consumer/src/Support/ApiVendor.php" timestamp="1561297546573">
+      <file name="$USER_HOME$/Code/api-consumer/src/Support/ApiVendor.php" timestamp="1561319572423">
         <mark key="'" line="103" column="10" />
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="17" column="11" />
-        <mark key="." line="17" column="11" />
-        <mark key="^" line="17" column="11" />
+        <mark key="[" line="17" column="60" />
+        <mark key="]" line="17" column="60" />
+        <mark key="." line="17" column="60" />
+        <mark key="^" line="17" column="65" />
       </file>
       <file name="/main.oauth_personal_access_clients [database.sqlite]" timestamp="1559333540490">
         <mark key="[" line="0" column="0" />
@@ -667,7 +667,7 @@
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>$config</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>otter</text>
@@ -676,31 +676,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ2Jhc2VfdXJsJywgJHZlbmRvci0+Y29uZmlnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBcUHJvdmlkZXJzXE90dGVyU2VydmljZVByb3ZpZGVyOjpjbGFzcywK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdmVuZG9yLT5jb25maWcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yaWVzIjogWwogICAgewogICAgICAidHlwZSI6ICJwYXRoIiwKICAgICAgInVybCI6ICIuLi9vdHRlciIKICAgIH0KICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICBBcHBcUHJvdmlkZXJzXE90dGVyU2VydmljZVByb3ZpZGVyOjpjbGFzcywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJwb293Zi9vdHRlciI6ICIqIiwK</text>
+        <text encoding="base64">ICAicmVwb3NpdG9yaWVzIjogWwogICAgewogICAgICAidHlwZSI6ICJwYXRoIiwKICAgICAgInVybCI6ICIuLi9vdHRlciIKICAgIH0KICBdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY29uZmlnID0gOwo=</text>
+        <text encoding="base64">ICAgICJwb293Zi9vdHRlciI6ICIqIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZChjb25maWcoJHRoaXMtPmNvbmZpZ0tleSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29uZmlnID0gOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0RW5kcG9pbnQoc3RyaW5nICRwYXRoKSA6IEVuZHBvaW50CiAgICB7CiAgICAgICAgLy8gY2hlY2sgaWYgaXQgaXMgYWxyZWFkeSBkZWZpbmVkLCBvdGhlcndpc2UgY3JlYXRlIGEgbmV3IG9uZQoKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChjb25maWcoJHRoaXMtPmNvbmZpZ0tleSgpKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gc2V0RW5kcG9pbnQoc3RyaW5nICRrZXksICR2YWx1ZSkKICAgIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0RW5kcG9pbnQoc3RyaW5nICRwYXRoKSA6IEVuZHBvaW50CiAgICB7CiAgICAgICAgLy8gY2hlY2sgaWYgaXQgaXMgYWxyZWFkeSBkZWZpbmVkLCBvdGhlcndpc2UgY3JlYXRlIGEgbmV3IG9uZQoKCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gc2V0RW5kcG9pbnQoc3RyaW5nICRrZXksICR2YWx1ZSkKICAgIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRDb25maWdBdHRyaWJ1dGUoKXsKICAgICAgICByZXR1cm4gJHRoaXMtPmF0dHJpYnV0ZXNbJ2NvbmZpZyddOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
