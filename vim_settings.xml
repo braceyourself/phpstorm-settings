@@ -235,6 +235,13 @@
         <mark key="^" line="13" column="58" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/api-consumer/tests/Unit/ApiEndpointTests.php" timestamp="1561296035843">
+        <mark key="'" line="27" column="25" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="27" column="29" />
+        <mark key="^" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+      </file>
       <file name="/main.ip_addresses [database.sqlite]" timestamp="1560259167384">
         <mark key="[" line="0" column="0" />
       </file>
@@ -279,6 +286,11 @@
       </file>
       <file name="/main.roles [database.sqlite]" timestamp="1560526931961">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/api-consumer/config/api-consumers.php" timestamp="1561295905196">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Code/api-consumer/src/ApiEndpoint.php" timestamp="1561236538975">
         <mark key="[" line="10" column="23" />
@@ -423,11 +435,11 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" timestamp="1561237967791">
+      <file name="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" timestamp="1561295652971">
         <mark key="'" line="109" column="52" />
-        <mark key="[" line="109" column="8" />
-        <mark key="]" line="109" column="14" />
-        <mark key="." line="109" column="14" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
         <mark key="^" line="109" column="14" />
       </file>
       <file name="$USER_HOME$/Code/api-consumer/src/Contracts/ApiRequestContract.php" timestamp="1561223456243">
@@ -462,11 +474,11 @@
         <mark key="." line="0" column="75" />
         <mark key="^" line="0" column="75" />
       </file>
-      <file name="$USER_HOME$/Code/api-consumer/src/Support/ApiEndpoint.php" timestamp="1561241323376">
+      <file name="$USER_HOME$/Code/api-consumer/src/Support/ApiEndpoint.php" timestamp="1561295649017">
         <mark key="'" line="109" column="21" />
-        <mark key="[" line="83" column="18" />
-        <mark key="]" line="83" column="25" />
-        <mark key="." line="83" column="25" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
         <mark key="^" line="83" column="25" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/vendor/kitetail/zttp/src/Zttp.php" timestamp="1561139734640">
@@ -531,7 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiConsumer.php" />
       <jump line="14" column="24" filename="$USER_HOME$/Code/api-consumer/src/Endpoint.php" />
       <jump line="101" column="12" filename="$USER_HOME$/Code/api-consumer/src/Support/BaseEndpoint.php" />
       <jump line="22" column="36" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
@@ -631,6 +642,7 @@
       <jump line="72" column="20" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiEndpoint.php" />
       <jump line="107" column="61" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiEndpoint.php" />
       <jump line="109" column="21" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiEndpoint.php" />
+      <jump line="27" column="25" filename="$USER_HOME$/Code/api-consumer/tests/Unit/ApiEndpointTests.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -646,34 +658,34 @@
         <text encoding="base64">dXNlIEJsYWNrQml0c1xBcGlDb25zdW1lclxUZXN0c1xUZXN0Q2FzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXJpLCAkcGFyYW1zKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbGlzdCA9ICR0cmFuc2FjdGlvbnMtPjsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+dmVuZG9yLT5iYXNlX3VybCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhGYWtlcjsKdXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+dmVuZG9yLT5iYXNlX3VybCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEJsYWNrQml0c1xBcGlDb25zdW1lclxTdXBwb3J0XEFwaUVuZHBvaW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+dmVuZG9yLT5iYXNlX3VybCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SXNBcnJheSgkbGlzdC0+dG9BcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbGlzdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbGlzdCA9ICR0cmFuc2FjdGlvbnMtPjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIFRlc3RzXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhGYWtlcjsKdXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIFRlc3RzXFRlc3RDYXNlOwo=</text>
+        <text encoding="base64">dXNlIEJsYWNrQml0c1xBcGlDb25zdW1lclxTdXBwb3J0XEFwaUVuZHBvaW50Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SXNBcnJheSgkbGlzdC0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -720,9 +732,9 @@
         <entry>123</entry>
         <entry>nohlsearch</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>101</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
