@@ -48,10 +48,10 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" timestamp="1561462480472">
-        <mark key="'" line="252" column="14" />
-        <mark key="[" line="1279" column="86" />
-        <mark key="]" line="1279" column="107" />
+      <file name="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" timestamp="1561464930301">
+        <mark key="'" line="1373" column="35" />
+        <mark key="[" line="1392" column="0" />
+        <mark key="]" line="1404" column="9" />
       </file>
       <file name="/main.oauth_refresh_tokens [database.sqlite]" timestamp="1560526942142">
         <mark key="[" line="0" column="0" />
@@ -345,11 +345,11 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1561462517826">
-        <mark key="[" line="0" column="55" />
-        <mark key="]" line="0" column="60" />
-        <mark key="." line="0" column="55" />
-        <mark key="^" line="0" column="54" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1561464122198">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/vendor/kitetail/zttp/src/Zttp.php" timestamp="1561139734640">
         <mark key="'" line="2" column="12" />
@@ -481,15 +481,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="29" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="98" column="24" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="231" column="37" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="168" column="21" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="133" column="21" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="93" column="22" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="258" column="7" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
-      <jump line="23" column="4" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
       <jump line="260" column="67" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
       <jump line="41" column="0" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
       <jump line="12" column="0" filename="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseEndpoint.php" />
@@ -581,66 +572,72 @@
       <jump line="46" column="35" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
       <jump line="250" column="25" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
       <jump line="252" column="14" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
+      <jump line="1372" column="19" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
+      <jump line="1396" column="14" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
+      <jump line="1398" column="73" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
+      <jump line="1406" column="43" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
+      <jump line="1512" column="25" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
+      <jump line="1420" column="37" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
+      <jump line="1425" column="34" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
+      <jump line="2224" column="51" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
+      <jump line="1373" column="35" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text>method.METHOD_ID m_id,err.*, err.METHOD_ID err_id</text>
       </register>
       <register name="/" type="4">
-        <text>check_imported_data</text>
+        <text>VSD_RESTART</text>
       </register>
-      <register name="0" type="4">
-        <text>get_method_error_count</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlpZgoJCSgKCQkJLS0gSWYgdGhlcmUgYXJlIGVycm9ycywgd2UgcHJlc3VtZSB0aGUgb3JpZ2luYWwgY2FsbGluZyBwcm9jZWR1cmUgc2h1dCBpdHNlbGYgZG93biBhbmQgaXMgbm8gbG9uZ2VyIHJ1bm5pbmcKCQkJZXJyb3JDb3VudCA+IDAKCQkJYW5kCgkJCSgKCQkJCS0tIE1ldGhvZCBJRCByb3dzIGVpdGhlciBmaW5pc2gsIG9yIGV4Y2VlZCB0aGUgYWxsb3dlZCBlcnJvcnMgYW5kIHN0b3AuCgkJCQktLSBFaXRoZXIgd2F5LCB0aGUgUmVxdWVzdCBEb3dubG9hZCBwcm9jZXNzIG5lZWRzIHRvIHJlc3RhcnQgdG8gZG93bmxvYWQgb3V0c3RhbmRpbmcgbWV0aG9kIHJlcXVlc3RzCgkJCQlzdGF0dXNDb2RlID0gJ1ZTRF9FUlJPUicKCQkJCW9yCgkJCQlzdGF0dXNDb2RlID0gJ1ZTRF9ET05FJwoJCQkpCgkJKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGlubmVyIGpvaW4gUVVPUlVNX1JFUVVFU1RfRVJST1IgZXJyIG9uIGVycl9pZCA9IG1faWQK</text>
+      </register>
+      <register name="2" type="4">
         <text>select *
 from QUORUM_REQUEST_ERROR
 order by ACTIVITY_DATE desc;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgcHJvY2VkdXJlIGVhYl9wcm9jZWR1cmVfdGVzdAo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgcHJvY2VkdXJlIGVhYl9wcm9jZWR1cmVfdGVzdAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gRUFCX1RFU1RJTkcgCg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW5zZXJ0IGludG8gRUFCX1RFU1RJTkcgCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBFQUJfVEVTVElORwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZGVjbGFyZQoKICAgIGJlZ2luRGF0ZQkJZGF0ZQkJCQkJCQkJCQk6PSAnMjgtU2VwLTE3JzsKICAgIGVuZERhdGUJCQlkYXRlCQkJCQkJCQkJCTo9IHN5c2RhdGU7Ci0tIE91dHB1dCBGaWxlIFZhcmlhYmxlcwogICAgZmlsZVBhdGhOYW1lICBvdXRwdXRfZmlsZXBhdGguZmlsZXBhdGgldHlwZSA6PSBmaWxlX21nbXQuZ2V0X291dHB1dF9maWxlcGF0aCgnUVVPUlVNJyk7CiAgICBvdXRUZXh0ICAgICAgIHZhcmNoYXIyKDIwMDApOwogICAgZmlsZU5hbWUgICAgICB2YXJjaGFyMig1MCkgICAgICAgICAgICAgICAgICA6PSAnUXVvcnVtX0NvbnRhY3RzLicgfHwgZ2V0X2luc3RhbmNlX25hbWUgfHwgJy5jc3YnOwogICAgb3V0RmlsZSAgICAgICB1dGxfZmlsZS5maWxlX3R5cGU7CgogICAgLS0gRHluYW1pYyBTUUwgVmFyaWFibGVzCiAgICB0eXBlIGdlbmVyaWNDdXJzb3JUeXBlIGlzIHJlZiBjdXJzb3I7CiAgICBnZW5lcmljQ3Vyc29yIGdlbmVyaWNDdXJzb3JUeXBlOwogICAgZGV0YWlsUmVjICAgICB2ZW5kb3JfZW1haWxfcGVyc29uX3ZpZXclcm93dHlwZTsKICAgIHJ1blN0YXRlbWVudCAgdmFyY2hhcjIoMjAwMCk7CiAgICBkYkxpbmtOYW1lICAgIHZhcmNoYXIyKDEwKSAgICAgICAgICAgICAgICAgIDo9IGV4dGVybmFsX2RiX21nbXQuZGVmYXVsdF9leHRlcm5hbF9kYl9saW5rKCdZJyk7CiAgICBzdGF0ZW1lbnRUZXh0IHZhcmNoYXIyKDIwMDApOwoKICAgIC0tIERhdGEgVmFyaWFibGVzCiAgICBkYkxpbmsgICAgICAgIHZhcmNoYXIyKDEwKTsKICAgIHZlbmRvcklkICAgICAgdmVuZG9yX2VtYWlsX2FjY291bnQudmVuZG9yX2lkJXR5cGU7CiAgICB1bnN1YkZsYWcgICAgIHZhcmNoYXIyKDEwKTsKICAgIGFsZXJ0RmxhZyAgICAgdmFyY2hhcjIoMTApOwogICAgYnJhbmRDb2RlICAgICBiYXRjaF9hcnJpdmFsLmJyYW5kX2NvZGUldHlwZSA6PSAnUVVPJzsKICAgIGxhc3RHaWZ0RGF0ZSAgZGF0ZTsKICAgIGxhc3RHaWZ0QW10ICAgZ2lmdC5naWZ0X2Ftb3VudCV0eXBlOwoKICAgIGN1cnNvciB2ZW5kb3JDdXJzb3IgaXMKICAgICAgICBzZWxlY3QgdmVuZG9yX2lkLAogICAgICAgICAgICAgICBsb3dlcih1cHBlcl9lbWFpbF9hZGRyZXNzKSBlbWFpbF9hZGRyZXNzLAogICAgICAgICAgICAgICByZW1vdmVfZGF0ZSwKICAgICAgICAgICAgICAgbnZsKGFjY291bnRfaWQsIDApICAgICAgICAgYWNjb3VudF9pZCwKICAgICAgICAgICAgICAgbnZsKHBlcnNvbmFsX2lkLCAwKSAgICAgICAgcGVyc29uYWxfaWQsCiAgICAgICAgICAgICAgIGV4dGVybmFsX2RhdGFiYXNlCiAgICAgICAgZnJvbSB2ZW5kb3JfZW1haWxfYWNjb3VudAogICAgICAgIHdoZXJlIGJyYW5kX2NvZGUgPSBicmFuZENvZGUKICAgICAgICAgIGFuZCBhY3Rpdml0eV9kYXRlIGJldHdlZW4gYmVnaW5EYXRlIGFuZCBlbmREYXRlOwpiZWdpbgoKICAgIC0tIE9wZW4gT3V0cHV0IEZpbGUgYW5kIFdyaXRlIFRvcCBTZWN0aW9uCiAgICBvdXRGaWxlIDo9IHV0bF9maWxlLmZvcGVuKGZpbGVQYXRoTmFtZSwgZmlsZU5hbWUsICdXJywgMTUwMDApOwogICAgb3V0VGV4dCA6PQogICAgICAgICAgICAgICAgJyJGdWxsIE5hbWUiLCJGaXJzdCBOYW1lIiwiTWlkZGxlIE5hbWUiLCJMYXN0IE5hbWUiLCJUaXRsZSIsIlByZWZpeCIsIlN1ZmZpeCIsIlByZWZlcnJlZCBOYW1lIiwnIHx8CiAgICAgICAgICAgICAgICAnIkVtYWlsIiwiU2Vjb25kYXJ5IEVtYWlsIiwiT3JnYW5pemF0aW9uIiwiUGhvbmUgTnVtYmVyIiwiUGhvbmUgRXh0ZW5zaW9uIiwiU2Vjb25kYXJ5IFBob25lIE51bWJlciIsIldlYnNpdGUiLCcgfHwKICAgICAgICAgICAgICAgICciRnVsbCBBZGRyZXNzIiwiU3RyZWV0IEFkZHJlc3MiLCJTdHJlZXQgQWRkcmVzcyAyIiwiU3RyZWV0IEFkZHJlc3MgMyIsIkNpdHkiLCJTdGF0ZSIsIlppcCBDb2RlIiwnIHx8CiAgICAgICAgICAgICAgICAnIkRlc2NyaXB0aW9uIiwiQXNzaWdubWVudCIsIlVuaXF1ZSBJZGVudGlmaWVyIiwiVW5zdWJzY3JpYmVkIiwiUGFzc3dvcmQiLCJJcyBhIEdyYXNzcm9vdHMgQ29udGFjdCIsIklzIGEgU3Rha2Vob2xkZXIgQ29udGFjdCIsJyB8fAogICAgICAgICAgICAgICAgJyJDb25zdGl0dWVudCBUeXBlKHMpIiwiTGFzdCBHaWZ0IERhdGUiLCJMYXN0IEdpZnQgQW1vdW50Iic7CiAgICB1dGxfZmlsZS5wdXRmKG91dEZpbGUsICclc1xuJywgb3V0VGV4dCk7CgogICAgLS0gTG9vcCBPdmVyIFZhbGlkLCBNYWlsYWJsZSBBY2NvdW50cwogICAgZm9yIHZlbmRvclJlYyBpbiB2ZW5kb3JDdXJzb3IKICAgICAgICBsb29wCgogICAgICAgICAgICAtLSBTZXQgVmVuZG9yIElECiAgICAgICAgICAgIHZlbmRvcklkIDo9IHZlbmRvclJlYy52ZW5kb3JfaWQ7CgogICAgICAgICAgICAtLSBDaGVjayBSZW1vdmUgRGF0ZQogICAgICAgICAgICBpZiB2ZW5kb3JSZWMucmVtb3ZlX2RhdGUgaXMgbnVsbAogICAgICAgICAgICB0aGVuCiAgICAgICAgICAgICAgICB1bnN1YkZsYWcgOj0gJyc7CiAgICAgICAgICAgICAgICBhbGVydEZsYWcgOj0gJ3llcyc7CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIHVuc3ViRmxhZyA6PSAneWVzJzsKICAgICAgICAgICAgICAgIGFsZXJ0RmxhZyA6PSAnJzsKICAgICAgICAgICAgZW5kIGlmOwoKICAgICAgICAgICAgLS0gU2V0IERCIExpbmsgZm9yIEV4dGVybmFsIERhdGFiYXNlCiAgICAgICAgICAgIGlmIHZlbmRvclJlYy5leHRlcm5hbF9kYXRhYmFzZSBpcyBub3QgbnVsbAogICAgICAgICAgICB0aGVuCiAgICAgICAgICAgICAgICBkYkxpbmsgOj0gZGJMaW5rTmFtZTsKICAgICAgICAgICAgZWxzZQogICAgICAgICAgICAgICAgZGJMaW5rIDo9IG51bGw7CiAgICAgICAgICAgIGVuZCBpZjsKCiAgICAgICAgICAgIC0tIE1lcmdlIElEcyBJbnRvIFN0YXRlbWVudAogICAgICAgICAgICBydW5TdGF0ZW1lbnQgOj0KICAgICAgICAgICAgICAgICAgICAgICAgJ3NlbGVjdAkqICcgfHwKICAgICAgICAgICAgICAgICAgICAgICAgJ2Zyb20JdmVuZG9yX2VtYWlsX3BlcnNvbl92aWV3PGRiTGluaz4gJyB8fAogICAgICAgICAgICAgICAgICAgICAgICAnd2hlcmUJYWNjb3VudF9pZCA9IDxhY2N0SWQ+ICcgfHwKICAgICAgICAgICAgICAgICAgICAgICAgJwkJYW5kIHBlcnNvbmFsX2lkID0gPHBlcnNJZD4nOwogICAgICAgICAgICBydW5TdGF0ZW1lbnQgOj0gcmVwbGFjZShydW5TdGF0ZW1lbnQsICc8ZGJMaW5rPicsIGRiTGluayk7CiAgICAgICAgICAgIHJ1blN0YXRlbWVudCA6PSByZXBsYWNlKHJ1blN0YXRlbWVudCwgJzxhY2N0SWQ+JywgdmVuZG9yUmVjLmFjY291bnRfaWQpOwogICAgICAgICAgICBydW5TdGF0ZW1lbnQgOj0gcmVwbGFjZShydW5TdGF0ZW1lbnQsICc8cGVyc0lkPicsIHZlbmRvclJlYy5wZXJzb25hbF9pZCk7CgogICAgICAgICAgICAtLSBGZXRjaCBSZWNvcmQgZnJvbSBMb2NhbCBvciBSZW1vdGUgRGF0YWJhc2UKICAgICAgICAgICAgb3BlbiBnZW5lcmljQ3Vyc29yIGZvciBydW5TdGF0ZW1lbnQ7CiAgICAgICAgICAgIGZldGNoIGdlbmVyaWNDdXJzb3IgaW50byBkZXRhaWxSZWM7CgogICAgICAgICAgICAtLSBJZiBEYXRhIEZvdW5kIFdyaXRlIG91dCBhIFJlY29yZAogICAgICAgICAgICBpZiBnZW5lcmljQ3Vyc29yJWZvdW5kCiAgICAgICAgICAgIHRoZW4KCiAgICAgICAgICAgICAgICAtLSBXcml0ZSBvdXQgdGhlIHJlY29yZCBmb3IgQWRkcmVzcwogICAgICAgICAgICAgICAgb3V0VGV4dCA6PQogICAgICAgICAgICAgICAgICAgICAgICAgICAgJyInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRhaWxSZWMuZnVsbF9uYW1lIC0tIEZ1bGwgTmFtZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgJyIsIicgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldGFpbFJlYy5maXJzdF9uYW1lIC0tIEZpcnN0IE5hbWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRhaWxSZWMubWlkZGxlX25hbWUgLS0gTWlkZGxlIE5hbWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRhaWxSZWMubGFzdF9uYW1lIC0tIExhc3QgTmFtZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgJyIsIicgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldGFpbFJlYy50aXRsZSAtLSBUaXRsZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgJyIsIicgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldGFpbFJlYy5zYWx1dGF0aW9uX2Rlc2MgLS0gUHJlZml4CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAnIiwiJyB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGV0YWlsUmVjLnN1ZmZpeF9kZXNjIC0tIFN1ZmZpeAogICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgJyIsIicgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldGFpbFJlYy5kZWFyX25hbWUgLS0gUHJlZmVycmVkIE5hbWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZW5kb3JSZWMuZW1haWxfYWRkcmVzcyAtLSBFbWFpbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgJyIsIicgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGwgLS0gU2Vjb25kYXJ5IEVtYWlsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAnIiwiJyB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGV0YWlsUmVjLmFjY291bnRfbmFtZSAtLSBPcmdhbml6YXRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRhaWxSZWMuaG9tZV9waG9uZSAtLSBQaG9uZSBOdW1iZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsIC0tIFBob25lIEV4dGVuc2lvbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgJyIsIicgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldGFpbFJlYy5idXNpbmVzc19waG9uZSAtLSBTZWNvbmRhcnkgUGhvbmUgTnVtYmVyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAnIiwiJyB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGV0YWlsUmVjLndlYnNpdGVfdXJsIC0tIFdlYnNpdGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRhaWxSZWMuZnVsbF9hZGRyZXNzIC0tIEZ1bGwgQWRkcmVzcwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgJyIsIicgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldGFpbFJlYy5hZGRyXzEgLS0gU3RyZWV0IEFkZHJlc3MKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRhaWxSZWMuYWRkcl8yIC0tIFN0cmVldCBBZGRyZXNzIDIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsIC0tIFN0cmVldCBBZGRyZXNzIDMKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRhaWxSZWMuY2l0eSAtLSBDaXR5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAnIiwiJyB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGV0YWlsUmVjLnN0YXRlIC0tIFN0YXRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAnIiwiJyB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGV0YWlsUmVjLnppcCAtLSBaaXAgQ29kZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgJyIsIicgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGwgLS0gRGVzY3JpcHRpb24KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsIC0tIEFzc2lnbm1lbnQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZW5kb3JJZCAtLSBVbmlxdWUgSWRlbnRpZmllcgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwgJyIsIicgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVuc3ViRmxhZyAtLSBVbnN1YnNjcmliZWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsIC0tIFBhc3N3b3JkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAnIiwiJyB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnRGbGFnIC0tIElzIGEgR3Jhc3Nyb290cyBDb250YWN0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAnIiwiJyB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVsbCAtLSBJcyBhIFN0YWtlaG9sZGVyIENvbnRhY3QKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsIC0tIENvbnN0aXR1ZW50IFR5cGUocykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRhaWxSZWMubGFzdF9naWZ0X2RhdGUgLS0gTGFzdCBHaWZ0IERhdGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXRhaWxSZWMubGFzdF9naWZ0X2Ftb3VudCAtLSBMYXN0IEdpZnQgQW1vdW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAnIic7CgogICAgICAgICAgICAgICAgLS0gSWYgTm90aGluZyBGb3VuZCBXcml0ZSBvdXQgYSBSZW1vdmFsCiAgICAgICAgICAgIGVsc2UKCiAgICAgICAgICAgICAgICB1bnN1YkZsYWcgOj0gJ3llcyc7CiAgICAgICAgICAgICAgICBhbGVydEZsYWcgOj0gJyc7CiAgICAgICAgICAgICAgICBvdXRUZXh0IDo9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnIiIsIiIsIiIsIiIsIiIsIiIsIiIsIiIsIicKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZW5kb3JSZWMuZW1haWxfYWRkcmVzcyAtLSBFbWFpbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICciLCIiLCIiLCIiLCIiLCIiLCIiLCIiLCIiLCIiLCIiLCIiLCIiLCIiLCIiLCIiLCInCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmVuZG9ySWQgLS0gVW5pcXVlIElkZW50aWZpZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8ICciLCInIHx8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1bnN1YkZsYWcgLS0gVW5zdWJzY3JpYmVkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAnIiwiIiwiJyB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnRGbGFnIC0tIElzIGEgR3Jhc3Nyb290cyBDb250YWN0CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB8fCAnIic7CgogICAgICAgICAgICBlbmQgaWY7CgogICAgICAgICAgICBjbG9zZSBnZW5lcmljQ3Vyc29yOwoKICAgICAgICAgICAgLS0gV3JpdGUgUmVjb3JkIHRvIEZpbGUKICAgICAgICAgICAgdXRsX2ZpbGUucHV0ZihvdXRGaWxlLCAnJXNcbicsIG91dFRleHQpOwoKICAgICAgICBlbmQgbG9vcDsKCiAgICAtLSBDbG9zZSBPdXRwdXQgRmlsZQogICAgdXRsX2ZpbGUuZmNsb3NlKG91dEZpbGUpOwoKICAgIC0tIFdyaXRlIEFMTEVNQUlMIExpc3QgdG8gU0ZUUCBTZXJ2ZXIKICAgIGFwaV9xdW9ydW0ud3JpdGVfcXVvcnVtX2FsbGVtYWlsOwoKICAgIC0tIEVtYWlsIHRoZSBEQiBndXlzIHNvIHRoZXkga25vdyB0aGlzIHJhbgogICAgZV9tYWlsLnJlc2V0OwogICAgZV9tYWlsLnNldF9zZW5kZXIoZ2V0X3N5c3RlbV9lbWFpbF9hZGRyZXNzKCdTWVNFTV9NQUlOJykpOwogICAgZV9tYWlsLnNldF9yZWNpcGllbnQoJ2VhYkBmcmMub3JnJyk7CiAgICBlX21haWwuc2V0X3N1YmplY3QoZ2V0X2luc3RhbmNlX25hbWUgfHwgJyBEYXRhYmFzZTogUXVvcnVtIEZpbGUgUnVuJyk7CiAgICBlX21haWwuc2V0X21lc3NhZ2UoJ0FjY291bnQgZGF0YSBoYXMgYmVlbiBzYXZlZCBpbiAnIHx8IGZpbGVOYW1lIHx8ICcuJyk7CiAgICBlX21haWwuc2VuZDsKCmV4Y2VwdGlvbgogICAgd2hlbiBvdGhlcnMKICAgICAgICB0aGVuCiAgICAgICAgICAgIGRlY2xhcmUKICAgICAgICAgICAgICAgIG9yYU1zZyAgICAgICB2YXJjaGFyMigyMDApICAgICAgICAgICAgICAgICA6PSBzcWxlcnJtOwogICAgICAgICAgICAgICAgZXJyTXNnICAgICAgIHZhcmNoYXIyKDUwMCkgICAgICAgICAgICAgICAgIDo9IG51bGw7CiAgICAgICAgICAgICAgICBzdWJqZWN0TXNnICAgdmFyY2hhcjIoNTAwKSAgICAgICAgICAgICAgICAgOj0gJyBEYXRhYmFzZTogRXJyb3IgUnVubmluZyBRdW9ydW0gQWNjb3VudHMnOwogICAgICAgICAgICAgICAgaG9zdE5hbWUgICAgIHYkaW5zdGFuY2UuaG9zdF9uYW1lJXR5cGUgICAgIDo9IGdldF9ob3N0X25hbWU7CiAgICAgICAgICAgICAgICBpbnN0YW5jZU5hbWUgdiRpbnN0YW5jZS5pbnN0YW5jZV9uYW1lJXR5cGUgOj0gZ2V0X2luc3RhbmNlX25hbWU7CiAgICAgICAgICAgIGJlZ2luCiAgICAgICAgICAgICAgICAtLSBTZW5kIGFuIGVtYWlsIHRvIHRoZSBEQiBndXlzIHRvIGluZm9ybSB0aGVtIG9mIHRoZSBwcm9jZWR1cmUgZmFpbHVyZQogICAgICAgICAgICAgICAgZXJyTXNnIDo9ICdFcnJvciBpbiBwcm9jZWR1cmUgYXBpX3F1b3J1bS53cml0ZV9xdW9ydW1fY29udGFjdHMgcnVubmluZyBmb3IgdmVuZG9yIElEICcgfHwgdmVuZG9ySWQgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICAnIG9uIGluc3RhbmNlL2hvc3QgWycKICAgICAgICAgICAgICAgICAgICB8fCBpbnN0YW5jZU5hbWUgfHwgJy8nIHx8IGhvc3ROYW1lIHx8ICddOiAgJyB8fCBvcmFNc2c7CiAgICAgICAgICAgICAgICBlX21haWwucmVzZXQ7CiAgICAgICAgICAgICAgICBlX21haWwuc2V0X3NlbmRlcihnZXRfc3lzdGVtX2VtYWlsX2FkZHJlc3MoJ1NZU0VNX01BSU4nKSk7CiAgICAgICAgICAgICAgICBlX21haWwuc2V0X3JlY2lwaWVudCgnZWFiQGZyYy5vcmcnKTsKICAgICAgICAgICAgICAgIGVfbWFpbC5zZXRfc3ViamVjdChpbnN0YW5jZU5hbWUgfHwgc3ViamVjdE1zZyk7CiAgICAgICAgICAgICAgICBlX21haWwuc2V0X21lc3NhZ2UoZXJyTXNnKTsKICAgICAgICAgICAgICAgIGVfbWFpbC5zZW5kOwogICAgICAgICAgICBlbmQ7CmVuZDsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>select *
 from ACCOUNT;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBRVU9SVU1fUkVRVUVTVF9FUlJPUjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>check_imported_data</last-search>
+      <last-search>VSD_RESTART</last-search>
       <last-offset />
-      <last-pattern>check_imported_data</last-pattern>
+      <last-pattern>VSD_RESTART</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>request</entry>
-        <entry>get</entry>
-        <entry>validate</entry>
         <entry>cache</entry>
         <entry>handleRespons</entry>
         <entry>json</entry>
@@ -658,6 +655,9 @@ from ACCOUNT;</text>
         <entry>download_details</entry>
         <entry>Error on Quorum</entry>
         <entry>check_imported_data</entry>
+        <entry>download_by_date</entry>
+        <entry>vsd_restart</entry>
+        <entry>VSD_RESTART</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
