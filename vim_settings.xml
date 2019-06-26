@@ -404,6 +404,13 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="92" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" timestamp="1561494637186">
+        <mark key="'" line="106" column="18" />
+        <mark key="[" line="106" column="45" />
+        <mark key="]" line="106" column="45" />
+        <mark key="." line="106" column="45" />
+        <mark key="^" line="106" column="45" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" timestamp="1561480900086">
         <mark key="'" line="43" column="30" />
         <mark key="[" line="35" column="0" />
@@ -456,13 +463,6 @@
         <mark key="]" line="2" column="24" />
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1561482516684">
-        <mark key="'" line="453" column="18" />
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="399" column="11" />
-        <mark key="." line="399" column="11" />
-        <mark key="^" line="399" column="11" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/tests/ApiConsumerTest.php" timestamp="1561125406040">
         <mark key="'" line="12" column="19" />
@@ -585,8 +585,15 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561396610734">
+      <file name="/Dummy.txt" timestamp="1561494929314">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/CheckForNewEftFile.php" timestamp="1561495955989">
+        <mark key="'" line="44" column="58" />
+        <mark key="[" line="40" column="46" />
+        <mark key="]" line="41" column="11" />
+        <mark key="." line="41" column="11" />
+        <mark key="^" line="41" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1561391759143">
         <mark key="[" line="0" column="20" />
@@ -647,6 +654,12 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Notifications/NewEftFileCreated.php" timestamp="1561495876106">
+        <mark key="[" line="49" column="66" />
+        <mark key="]" line="49" column="76" />
+        <mark key="." line="49" column="76" />
+        <mark key="^" line="49" column="76" />
+      </file>
       <file name="/api_braceyourself_solutions_dev.api_auth_types [as1]" timestamp="1561381280118">
         <mark key="[" line="0" column="0" />
       </file>
@@ -659,16 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="22" filename="$USER_HOME$/Code/api-consumer/src/Http/ApiRequest.php" />
-      <jump line="31" column="32" filename="$USER_HOME$/Code/api-consumer/tests/Unit/ApiEndpointTests.php" />
-      <jump line="158" column="34" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiEndpoint.php" />
-      <jump line="30" column="16" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiEndpoint.php" />
-      <jump line="78" column="37" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiEndpoint.php" />
-      <jump line="34" column="14" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiEndpoint.php" />
-      <jump line="28" column="31" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiVendor.php" />
-      <jump line="38" column="6" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiVendor.php" />
-      <jump line="9" column="25" filename="$USER_HOME$/Code/api-consumer/src/Endpoint.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiEndpoint.php" />
       <jump line="19" column="21" filename="$USER_HOME$/Code/api-consumer/src/Support/ApiEndpoint.php" />
       <jump line="8" column="18" filename="$USER_HOME$/Code/api-consumer/src/Traits/HasEloquentAttributes.php" />
       <jump line="9" column="0" filename="$USER_HOME$/Code/api-consumer/src/Traits/HasEloquentAttributes.php" />
@@ -759,47 +762,58 @@
       <jump line="1110" column="34" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
       <jump line="1111" column="16" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
       <jump line="33" column="0" filename="$USER_HOME$/code/api-frc-org/config/filesystems.php" />
+      <jump line="36" column="28" filename="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" />
+      <jump line="34" column="16" filename="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" />
+      <jump line="40" column="42" filename="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" />
+      <jump line="35" column="17" filename="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" />
+      <jump line="106" column="18" filename="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" />
+      <jump line="38" column="22" filename="$USER_HOME$/code/api-frc-org/app/Jobs/CheckForNewEftFile.php" />
+      <jump line="40" column="22" filename="$USER_HOME$/code/api-frc-org/app/Jobs/CheckForNewEftFile.php" />
+      <jump line="45" column="8" filename="$USER_HOME$/code/api-frc-org/app/Jobs/CheckForNewEftFile.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/api-frc-org/app/Jobs/CheckForNewEftFile.php" />
+      <jump line="43" column="58" filename="$USER_HOME$/code/api-frc-org/app/Jobs/CheckForNewEftFile.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>sftp</text>
+        <text>files/</text>
       </register>
       <register name="/" type="4">
         <text>e_mail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnbWRzJyA9PiBbCiAgICAgICAgICAgICdkcml2ZXInID0+ICdzZnRwJywKICAgICAgICAgICAgJ2hvc3QnID0+ICdmdHAubWRzY29tLmNvbScsCiAgICAgICAgICAgICd1c2VybmFtZScgPT4gJ0ZSQycsCiAgICAgICAgICAgICdwcml2YXRlS2V5JyA9PiBzdG9yYWdlX3BhdGgoJ21kc2Z0cF9pZF9yc2EnKQogICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2c6OmluZm8oJ25ldyBmaWxlIGNyZWF0ZWQ6ICcgLiAkZmlsZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2hlcmUgQlJBTkRfQ09ERSA9ICdBQ1QnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBORVdfQUNDT1VOVF9MT0FEIG9yZGVyIGJ5IExPQURfREFURSBkZXNjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJzLT5ub3RpZnkoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0IHZkYS5MT0FEX0RBVEUsIHZkYS4qIGZyb20gVkVORE9SX0RBVEFfQVJDSElWRSB2ZGEgb3JkZXIgYnkgdmRhLkxPQURfREFURSBkZXNjCg==</text>
+        <text encoding="base64">dXNlIG5ldFxhdXRob3JpemVcdXRpbFxMb2c7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBKT0JfREFJTFlfU0NIRURVTEVfVklFVyB3aGVyZSBQUk9DRURVUkVfQ0FMTCBsaWtlICclYWN0JScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>select * from ACTENGAGE_DATA_ARCHIVE
-order by LOAD_DATE desc</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmFjdGlvbigkdGhpcy0+ZmlsZSwgdXJsKCcvJykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBRVU9SVU1fWE1MCndoZXJlIFNUQVRVU19DT0RFID0gJ1ZTUF9FUlJPUicKYW5kIFJPV05VTSA8IDEwMApvcmRlciBieSBBQ1RJVklUWV9EQVRFIGRlc2MKCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZmlsZSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CgoKCnNlbGVjdCAqCmZyb20gUVVPUlVNX1JFUVVFU1RfTUVUSE9EIG1ldGhvZAp3aGVyZSBtZXRob2QuTUVUSE9EX0lEIGluICgKICAgICk7Ci0tIHVwZGF0ZSBRVU9SVU1fUkVRVUVTVF9NRVRIT0QKLS0gc2V0IFNUQVRVU19DT0RFID0gJ1ZTRF9SRVNUQVJUJwotLSB3aGVyZSBNRVRIT0RfSUQgaW4gKCcxMTAyMScsJzExMDIyJywnMTEwMjMnLCAnMTEwMjQnLCAnMTEwMjUnLCAnMTEwMjYnLCAnMTEwMjcnKQoKCnNlbGVjdCAqCmZyb20gSk9CX0RBSUxZX1NDSEVEVUxFX1ZJRVcKd2hlcmUgUFJPQ0VEVVJFX0NBTEwgbGlrZSAnJXF1b3J1bSUnCgotLSBiZWdpbgotLSAgICAgQVBJX1FVT1JVTS5JTVBPUlRfREFUQSgpOwotLQotLSBlbmQ7CgoKCg==</text>
+      <register name="7" type="4">
+        <text>[
+                    
+                ]</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -848,12 +862,13 @@ order by LOAD_DATE desc</text>
         <entry>reod</entry>
         <entry>redo</entry>
         <entry>123</entry>
-        <entry>q</entry>
         <entry>45</entry>
         <entry>62</entry>
         <entry>20</entry>
         <entry>84</entry>
         <entry>1967</entry>
+        <entry>q</entry>
+        <entry>50</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
