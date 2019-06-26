@@ -155,12 +155,6 @@
       <file name="/main.vendors [database.sqlite]" timestamp="1560343334794">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api.frc.org/app/Providers/ApiServiceProvider.php" timestamp="1561429895231">
-        <mark key="[" line="29" column="56" />
-        <mark key="]" line="29" column="56" />
-        <mark key="." line="29" column="56" />
-        <mark key="^" line="29" column="58" />
-      </file>
       <file name="/main.notifications [database.sqlite]" timestamp="1560526944807">
         <mark key="[" line="0" column="0" />
       </file>
@@ -389,6 +383,9 @@
         <mark key="^" line="7" column="46" />
         <mark key="." line="7" column="46" />
       </file>
+      <file name="$USER_HOME$/Code/api.frc.org/vendor/tcg/voyager/src/Widgets/BaseDimmer.php" timestamp="1561393996064">
+        <mark key="'" line="6" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/api-vendors/src/ApiVendorServiceProvider.php" timestamp="1561408452631">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="24" />
@@ -397,9 +394,9 @@
       </file>
       <file name="$USER_HOME$/Code/api.frc.org/config/api-clients.php" timestamp="1561411405837">
         <mark key="[" line="2" column="4" />
-        <mark key="]" line="6" column="58" />
-        <mark key="^" line="6" column="58" />
-        <mark key="." line="6" column="58" />
+        <mark key="]" line="10" column="58" />
+        <mark key="^" line="10" column="58" />
+        <mark key="." line="10" column="58" />
       </file>
       <file name="/main.migrations [database.sqlite]" timestamp="1560526947221">
         <mark key="[" line="0" column="0" />
@@ -454,10 +451,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api.frc.org/tests/Feature/CornerstoneApiTests.php" timestamp="1561456679295">
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="38" />
-        <mark key="^" line="24" column="38" />
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+        <mark key="^" line="25" column="38" />
       </file>
       <file name="$USER_HOME$/Code/api-vendors/src/Traits/HasEloquentAttributes.php" timestamp="1561406800886">
         <mark key="'" line="2" column="24" />
@@ -718,6 +715,9 @@
         <mark key="." line="115" column="63" />
         <mark key="^" line="115" column="63" />
       </file>
+      <file name="Z:/FRESCO32/DDL/Packages/api_quorum.sql" timestamp="1561539677503">
+        <mark key="'" line="1375" column="35" />
+      </file>
       <file name="$USER_HOME$/Code/api-consumer/src/Contracts/ApiRequestContract.php" timestamp="1561223456243">
         <mark key="[" line="14" column="46" />
         <mark key="]" line="14" column="46" />
@@ -786,6 +786,12 @@
         <mark key="]" line="7" column="33" />
         <mark key="." line="7" column="33" />
         <mark key="^" line="7" column="33" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1561539625684">
+        <mark key="[" line="1" column="79" />
+        <mark key="]" line="1" column="109" />
+        <mark key="^" line="1" column="109" />
+        <mark key="." line="1" column="109" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/vendor/kitetail/zttp/src/Zttp.php" timestamp="1561139734640">
         <mark key="'" line="2" column="12" />
@@ -907,9 +913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="18" filename="$USER_HOME$/Code/api-vendors/tests/Unit/ApiVendorTests.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/Code/api.frc.org/bootstrap/cache/packages.php" />
-      <jump line="12" column="49" filename="$USER_HOME$/Code/api.frc.org/app/Cornerstone/BaseModel.php" />
       <jump line="1202" column="49" filename="$USER_HOME$/Code/api.frc.org/vendor/torann/remote-model/src/Torann/RemoteModel/Model.php" />
       <jump line="11" column="15" filename="$USER_HOME$/Code/api.frc.org/tests/Feature/RemoteModelTests.php" />
       <jump line="6" column="32" filename="$USER_HOME$/Code/api.frc.org/app/Cornerstone/Transaction.php" />
@@ -1007,6 +1010,9 @@
       <jump line="60" column="26" filename="$USER_HOME$/Code/api.frc.org/app/Cornerstone/Endpoints/BaseModel.php" />
       <jump line="11" column="24" filename="$USER_HOME$/Code/api.frc.org/app/Cornerstone/Endpoints/Transaction.php" />
       <jump line="1694" column="38" filename="$USER_HOME$/Code/api.frc.org/vendor/torann/remote-model/src/Torann/RemoteModel/Model.php" />
+      <jump line="1400" column="30" filename="Z:/FRESCO32/DDL/Packages/api_quorum.sql" />
+      <jump line="1373" column="35" filename="Z:/FRESCO32/DDL/Packages/api_quorum.sql" />
+      <jump line="1375" column="35" filename="Z:/FRESCO32/DDL/Packages/api_quorum.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1016,52 +1022,51 @@
         <text>items</text>
       </register>
       <register name="/" type="4">
-        <text>hydrate(</text>
+        <text>VSD_ERROR</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkaXRlbXMgYXMgJGtleSA9PiAkdmFsdWUpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHJhbnNhY3Rpb25zLT5maXJzdCgpKTsK</text>
+        <text encoding="base64">aW5uZXIgam9pbiBRVU9SVU1fUkVRVUVTVF9FUlJPUiBlIG9uIGUuTUVUSE9EX0lEID0gbS5NRVRIT0RfSUQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkaW5zdGFuY2UgPSBuZXcgc3RhdGljOwo=</text>
+        <text encoding="base64">b3JkZXIgYnkgQUNUSVZJVFlfREFURSBkZXNjCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdHJhbnNhY3Rpb25zLT5maXJzdCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1ldGhvZF9leGlzdHMoJGluc3RhbmNlLCAka2V5KSkgewogICAgICAgICAgICAgICAgJHJlbGF0aW9uQ2xhc3MgPSAkaW5zdGFuY2UtPiRrZXkoKTsKICAgICAgICAgICAgICAgICRpdGVtc1ska2V5XSA9IG5ldyAkcmVsYXRpb25DbGFzcygkdmFsdWUpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaW5zdGFuY2UgPSBuZXcgc3RhdGljOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGtleXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaXRlbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1ldGhvZF9leGlzdHMoJGluc3RhbmNlLCAka2V5KSkgewogICAgICAgICAgICAgICAgJHJlbGF0aW9uQ2xhc3MgPSAkaW5zdGFuY2UtPiRrZXkoKTsKICAgICAgICAgICAgICAgICRpdGVtc1ska2V5XSA9IG5ldyAkcmVsYXRpb25DbGFzcygkdmFsdWUpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGtleXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAoJGl0ZW0gYXMgJGtleSA9PiAkdmFsdWUpIHsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaXRlbXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAobWV0aG9kX2V4aXN0cygkaW5zdGFuY2UsICRrZXkpLCAka2V5LCAkdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>hydrate(</last-search>
+      <last-search>VSD_ERROR</last-search>
       <last-offset />
-      <last-pattern>hydrate(</last-pattern>
+      <last-pattern>VSD_ERROR</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getCon</entry>
         <entry>config</entry>
         <entry>call(</entry>
         <entry>__con</entry>
@@ -1081,6 +1086,7 @@
         <entry>pull</entry>
         <entry>hydrate</entry>
         <entry>hydrate(</entry>
+        <entry>VSD_ERROR</entry>
       </history-search>
       <history-cmd>
         <entry>e .env.e</entry>
