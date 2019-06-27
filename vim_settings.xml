@@ -457,8 +457,8 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1561656904295">
-        <mark key="'" line="2006" column="4" />
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1561662172055">
+        <mark key="'" line="944" column="26" />
         <mark key="[" line="2007" column="0" />
         <mark key="]" line="2008" column="31" />
         <mark key="^" line="2008" column="31" />
@@ -574,12 +574,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" timestamp="1561659954823">
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" timestamp="1561662431310">
         <mark key="'" line="52" column="41" />
-        <mark key="[" line="50" column="34" />
-        <mark key="]" line="50" column="34" />
-        <mark key="^" line="49" column="44" />
-        <mark key="." line="50" column="34" />
+        <mark key="[" line="82" column="57" />
+        <mark key="]" line="82" column="64" />
+        <mark key="^" line="82" column="64" />
+        <mark key="." line="82" column="64" />
       </file>
       <file name="/Dummy.txt" timestamp="1561561389069">
         <mark key="[" line="0" column="0" />
@@ -672,9 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="23" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Routing/Router.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" />
-      <jump line="47" column="41" filename="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" />
       <jump line="84" column="31" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" />
       <jump line="78" column="33" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiClient.php" />
       <jump line="31" column="30" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiClient.php" />
@@ -772,61 +769,63 @@
       <jump line="2280" column="90" filename="/mnt/g/FRESCO32/DDL/Packages/api_quorum.sql" />
       <jump line="50" column="48" filename="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" />
       <jump line="52" column="41" filename="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="1105" column="26" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="944" column="26" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>cat-fact.herokuapp.com/facts</text>
+        <text>dump</text>
       </register>
       <register name="/" type="4">
-        <text>i\.</text>
+        <text>first()</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZWFjaENsYXNzKGNhbGxhYmxlICRtZXRob2QpewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtcwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBSZW1vdGVNb2RlbCAkZW5kcG9pbnQgKi8K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICdsaW1pdCcgPT4gMQogICAgICAgICAgICAgICAgXQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoqICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogQHZhciBRdW9ydW1CYXNlRW5kcG9pbnQgJGVuZHBvaW50ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVjb3JkID0gCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtcwo=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICdsaW1pdCcgPT4gMQogICAgICAgICAgICAgICAgXQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBRdW9ydW1CYXNlRW5kcG9pbnQgJGVuZHBvaW50ICovCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICdsaW1pdCcgPT4gMQogICAgICAgICAgICAgICAgXQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFic3RyYWN0IGZ1bmN0aW9uIHByb2Nlc3MoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>81</text>
       </register>
     </registers>
     <search>
-      <last-search>i\.</last-search>
+      <last-search>first()</last-search>
       <last-offset />
-      <last-pattern>i\.</last-pattern>
+      <last-pattern>first()</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setParam</entry>
         <entry>params</entry>
         <entry>parame</entry>
         <entry>getParam</entry>
@@ -846,6 +845,7 @@
         <entry encoding="base64">JHRoaXMtPnBhdGg=</entry>
         <entry>process(</entry>
         <entry>i\.</entry>
+        <entry>first()</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>
