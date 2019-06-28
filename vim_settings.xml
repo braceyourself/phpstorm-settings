@@ -432,12 +432,12 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" timestamp="1561664758564">
-        <mark key="'" line="32" column="20" />
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="36" column="43" />
-        <mark key="." line="36" column="43" />
-        <mark key="^" line="36" column="43" />
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" timestamp="1561717741536">
+        <mark key="'" line="35" column="36" />
+        <mark key="[" line="52" column="29" />
+        <mark key="]" line="52" column="47" />
+        <mark key="." line="52" column="47" />
+        <mark key="^" line="52" column="47" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/ApiManager.php" timestamp="1561556397047">
         <mark key="'" line="31" column="32" />
@@ -673,7 +673,6 @@
     </filemarks>
     <jumps>
       <jump line="70" column="23" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiClient.php" />
-      <jump line="35" column="15" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
       <jump line="19" column="21" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
       <jump line="24" column="15" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
       <jump line="85" column="34" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" />
@@ -772,16 +771,17 @@
       <jump line="41" column="25" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
       <jump line="82" column="28" filename="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" />
       <jump line="32" column="20" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="35" column="36" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>count($gathered)</text>
       </register>
       <register name="/" type="4">
-        <text>all(</text>
+        <text>gathered</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkY2xhc3MgPSAkY2xhc3MgPzogc3RhdGljOjpjbGFzczsKICAgICAgICAkaXRlbXMgPSBhcnJheV9tYXAoZnVuY3Rpb24gKCRpdGVtKSB1c2UgKCRjbGFzcykgewoKCiAgICAgICAgICAgIC8vIEFjY291bnQgZm9yIElEIG9ubHkKICAgICAgICAgICAgaWYgKGdldHR5cGUoJGl0ZW0pID09PSAnc3RyaW5nJykgewogICAgICAgICAgICAgICAgJGl0ZW0gPSBbCiAgICAgICAgICAgICAgICAgICAgJ2lkJyA9PiAkaXRlbSwKICAgICAgICAgICAgICAgIF07CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIFNpbmdsZSBjbGFzcyBnaXZlbgogICAgICAgICAgICBpZiAoZ2V0dHlwZSgkY2xhc3MpID09PSAnc3RyaW5nJykgewogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyAkY2xhc3MoJGl0ZW0gPz8gW10pOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBNYXAgYW4gYXJyYXkgb2YgY2xhc3NlcwogICAgICAgICAgICBpZiAoZ2V0dHlwZSgkY2xhc3MpID09PSAnYXJyYXknKSB7CgogICAgICAgICAgICAgICAgaWYgKGlzc2V0KCRpdGVtWyd0eXBlJ10pICYmIGlzc2V0KCRjbGFzc1skaXRlbVsndHlwZSddXSkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3ICRjbGFzc1skaXRlbVsndHlwZSddXSgkaXRlbSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBuZXcgc3RhdGljKCRpdGVtLCBzdGF0aWM6OmdldFBhcmVudElEKCkpOwoKICAgICAgICB9LCAkaXRlbXMpOwoKICAgICAgICAkaHlkcmF0ZWRJdGVtcyA9IHN0YXRpYzo6aHlkcmF0ZVJlbGF0aW9ucygkaXRlbXMpOwoKICAgICAgICByZXR1cm4gY29sbGVjdCgkaHlkcmF0ZWRJdGVtcyk7Cg==</text>
@@ -818,15 +818,14 @@
       </register>
     </registers>
     <search>
-      <last-search>all(</last-search>
+      <last-search>gathered</last-search>
       <last-offset />
-      <last-pattern>all(</last-pattern>
+      <last-pattern>gathered</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>parame</entry>
         <entry>getParam</entry>
         <entry>api(</entry>
         <entry>pullP</entry>
@@ -846,6 +845,7 @@
         <entry>i\.</entry>
         <entry>first()</entry>
         <entry>all(</entry>
+        <entry>gathered</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>
