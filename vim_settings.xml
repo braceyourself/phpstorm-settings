@@ -70,12 +70,12 @@
       <file name="/api_braceyourself_solutions_dev.roles [as1]" timestamp="1561385537764">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/Messageevent.php" timestamp="1561655363406">
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/Messageevent.php" timestamp="1561718379707">
         <mark key="'" line="8" column="42" />
-        <mark key="[" line="16" column="45" />
-        <mark key="]" line="16" column="49" />
-        <mark key="." line="16" column="49" />
-        <mark key="^" line="16" column="49" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="65" />
       </file>
       <file name="$USER_HOME$/Code/api.frc.org/database/seeds/DatabaseSeeder.php" timestamp="1561390726568">
         <mark key="'" line="22" column="16" />
@@ -432,12 +432,12 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" timestamp="1561717741536">
-        <mark key="'" line="35" column="36" />
-        <mark key="[" line="52" column="29" />
-        <mark key="]" line="52" column="47" />
-        <mark key="." line="52" column="47" />
-        <mark key="^" line="52" column="47" />
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" timestamp="1561719226871">
+        <mark key="'" line="35" column="37" />
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="45" column="32" />
+        <mark key="." line="45" column="32" />
+        <mark key="^" line="45" column="32" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/ApiManager.php" timestamp="1561556397047">
         <mark key="'" line="31" column="32" />
@@ -457,8 +457,8 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1561662718194">
-        <mark key="'" line="944" column="26" />
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1561718336793">
+        <mark key="'" line="284" column="28" />
         <mark key="[" line="401" column="0" />
         <mark key="]" line="433" column="39" />
         <mark key="^" line="2008" column="31" />
@@ -574,12 +574,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" timestamp="1561663170288">
-        <mark key="'" line="82" column="28" />
-        <mark key="[" line="82" column="31" />
-        <mark key="]" line="82" column="30" />
-        <mark key="^" line="82" column="30" />
-        <mark key="." line="82" column="30" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" timestamp="1561719240670">
+        <mark key="'" line="88" column="12" />
+        <mark key="[" line="88" column="27" />
+        <mark key="]" line="88" column="33" />
+        <mark key="^" line="88" column="26" />
+        <mark key="." line="88" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1561561389069">
         <mark key="[" line="0" column="0" />
@@ -672,12 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="23" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiClient.php" />
-      <jump line="19" column="21" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
-      <jump line="24" column="15" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
-      <jump line="85" column="34" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" />
-      <jump line="1818" column="0" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
-      <jump line="77" column="6" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" />
       <jump line="60" column="15" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" />
       <jump line="92" column="0" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" />
       <jump line="96" column="20" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" />
@@ -769,64 +763,69 @@
       <jump line="944" column="26" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="25" column="24" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
       <jump line="41" column="25" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
-      <jump line="82" column="28" filename="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" />
       <jump line="32" column="20" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
-      <jump line="35" column="36" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="82" column="27" filename="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" />
+      <jump line="35" column="37" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="1818" column="24" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="1825" column="44" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="284" column="28" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="80" column="25" filename="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" />
+      <jump line="59" column="13" filename="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" />
+      <jump line="88" column="12" filename="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>count($gathered)</text>
+        <text>$first</text>
       </register>
       <register name="/" type="4">
-        <text>gathered</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xhc3MgPSAkY2xhc3MgPzogc3RhdGljOjpjbGFzczsKICAgICAgICAkaXRlbXMgPSBhcnJheV9tYXAoZnVuY3Rpb24gKCRpdGVtKSB1c2UgKCRjbGFzcykgewoKCiAgICAgICAgICAgIC8vIEFjY291bnQgZm9yIElEIG9ubHkKICAgICAgICAgICAgaWYgKGdldHR5cGUoJGl0ZW0pID09PSAnc3RyaW5nJykgewogICAgICAgICAgICAgICAgJGl0ZW0gPSBbCiAgICAgICAgICAgICAgICAgICAgJ2lkJyA9PiAkaXRlbSwKICAgICAgICAgICAgICAgIF07CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIFNpbmdsZSBjbGFzcyBnaXZlbgogICAgICAgICAgICBpZiAoZ2V0dHlwZSgkY2xhc3MpID09PSAnc3RyaW5nJykgewogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyAkY2xhc3MoJGl0ZW0gPz8gW10pOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBNYXAgYW4gYXJyYXkgb2YgY2xhc3NlcwogICAgICAgICAgICBpZiAoZ2V0dHlwZSgkY2xhc3MpID09PSAnYXJyYXknKSB7CgogICAgICAgICAgICAgICAgaWYgKGlzc2V0KCRpdGVtWyd0eXBlJ10pICYmIGlzc2V0KCRjbGFzc1skaXRlbVsndHlwZSddXSkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3ICRjbGFzc1skaXRlbVsndHlwZSddXSgkaXRlbSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBuZXcgc3RhdGljKCRpdGVtLCBzdGF0aWM6OmdldFBhcmVudElEKCkpOwoKICAgICAgICB9LCAkaXRlbXMpOwoKICAgICAgICAkaHlkcmF0ZWRJdGVtcyA9IHN0YXRpYzo6aHlkcmF0ZVJlbGF0aW9ucygkaXRlbXMpOwoKICAgICAgICByZXR1cm4gY29sbGVjdCgkaHlkcmF0ZWRJdGVtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAnZXZlbnRfdGltZXN0YW1wX19ndCcgPT4gQ2FyYm9uOjp5ZXN0ZXJkYXkoKS0+Zm9ybWF0KCdZLW0tZCcpLAogICAgICAgICAgICAnZXZlbnRfdGltZXN0YW1wX19sdCcgPT4gQ2FyYm9uOjp0b2RheSgpLT5mb3JtYXQoJ1ktbS1kJyksCiAgICAgICAgXTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snb2Zmc2V0J10gPSAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">JGVuZHBvaW50OjphbGwoWwogICAgICAgICAgICAgICAgJ2V2ZW50X3RpbWVzdGFtcF9fZ3QnID0+IENhcmJvbjo6eWVzdGVyZGF5KCktPnN1YkRheSgpLT5mb3JtYXQoJ1ktbS1kJyksCiAgICAgICAgICAgICAgICAnZXZlbnRfdGltZXN0YW1wX19sdCcgPT4gQ2FyYm9uOjp0b2RheSgpLT5zdWJEYXkoKS0+Zm9ybWF0KCdZLW0tZCcpLAogICAgICAgICAgICBdKS0+Zmlyc3QoKQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdG90YWwgPSBudWxsOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2V2ZW50X3RpbWVzdGFtcF9fZ3QnID0+IENhcmJvbjo6eWVzdGVyZGF5KCktPmZvcm1hdCgnWS1tLWQnKSwKICAgICAgICAgICAgICAgICdldmVudF90aW1lc3RhbXBfX2x0JyA9PiBDYXJib246OnRvZGF5KCktPmZvcm1hdCgnWS1tLWQnKSwKICAgICAgICAgICAgXQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snbGltaXQnXSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5leHQgPSAkcmVzcG9uc2UtPmpzb24oKVsnbWV0YSddWyduZXh0J107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgKICAgICAgICAgICAgICAgICRtZXRhLCAncmVjZWl2ZWQnLiRvYmplY3RzLT5jb3VudCgpCiAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5leHQgPSBleHBsb2RlKCdhcGkvJywgJHJlc3BvbnNlLT5qc29uKClbJ21ldGEnXVsnbmV4dCddKVsxXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgKICAgICAgICAgICAgICAgICJHYXRoZXJlZDogIi4gJGdhdGhlcmVkLT5jb3VudCgpLAogICAgICAgICAgICAgICAgJG1ldGEsICRwYXJhbXMKLy8gICAgICAgICAgICAgICAgJGdhdGhlcmVkW2NvdW50KCRnYXRoZXJlZCktMV0KICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1tdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snb2Zmc2V0J10gPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdG90YWwgPSBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snbGltaXQnXSA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyYXlfY29tYmluZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG5leHQgPSAkcmVzcG9uc2UtPmpzb24oKVsnbWV0YSddWyduZXh0J107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>81</text>
       </register>
     </registers>
     <search>
-      <last-search>gathered</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>gathered</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getParam</entry>
         <entry>api(</entry>
         <entry>pullP</entry>
         <entry>download_detials</entry>
@@ -846,6 +845,7 @@
         <entry>first()</entry>
         <entry>all(</entry>
         <entry>gathered</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>
