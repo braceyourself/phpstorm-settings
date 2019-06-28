@@ -422,12 +422,12 @@
         <mark key="." line="106" column="45" />
         <mark key="^" line="106" column="45" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" timestamp="1561736815143">
-        <mark key="'" line="49" column="30" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="27" />
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" timestamp="1561737557607">
+        <mark key="'" line="56" column="42" />
+        <mark key="[" line="56" column="33" />
+        <mark key="]" line="56" column="40" />
+        <mark key="." line="56" column="40" />
+        <mark key="^" line="56" column="40" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseResponseShape.php" timestamp="1561138166167">
         <mark key="'" line="29" column="31" />
@@ -465,12 +465,12 @@
       <file name="/main.files [database.sqlite]" timestamp="1560774396052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1561736841669">
-        <mark key="'" line="1823" column="21" />
-        <mark key="[" line="1835" column="27" />
-        <mark key="]" line="1835" column="34" />
-        <mark key="." line="1835" column="34" />
-        <mark key="^" line="1835" column="34" />
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1561737591042">
+        <mark key="'" line="337" column="20" />
+        <mark key="[" line="340" column="16" />
+        <mark key="]" line="340" column="23" />
+        <mark key="." line="340" column="23" />
+        <mark key="^" line="340" column="23" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/tests/ApiConsumerTest.php" timestamp="1561125406040">
         <mark key="'" line="12" column="19" />
@@ -689,10 +689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="12" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
-      <jump line="54" column="34" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
-      <jump line="727" column="0" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
-      <jump line="2010" column="3" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="2013" column="12" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="71" column="27" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
       <jump line="414" column="27" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
@@ -789,6 +785,10 @@
       <jump line="1810" column="19" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="1822" column="9" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="1823" column="21" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="56" column="42" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" />
+      <jump line="335" column="27" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="336" column="28" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="337" column="20" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -798,7 +798,7 @@
         <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>instance</text>
+        <text>this</text>
       </register>
       <register name="0" type="4">
         <text>env('SQUARE_TOKEN')</text>
@@ -835,9 +835,9 @@
       </register>
     </registers>
     <search>
-      <last-search>instance</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>instance</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-replace>'\1',</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -845,7 +845,6 @@
     </search>
     <history>
       <history-search>
-        <entry>(.*)</entry>
         <entry>\(.*\)</entry>
         <entry>vendor_data_arvhive</entry>
         <entry>vendor_data_archive</entry>
@@ -865,6 +864,7 @@
         <entry>request(</entry>
         <entry>$this</entry>
         <entry>instance</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
