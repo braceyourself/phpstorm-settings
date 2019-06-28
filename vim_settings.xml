@@ -524,8 +524,8 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" timestamp="1561739036404">
-        <mark key="'" line="1197" column="57" />
+      <file name="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" timestamp="1561744356589">
+        <mark key="'" line="861" column="49" />
         <mark key="[" line="686" column="14" />
         <mark key="]" line="686" column="32" />
       </file>
@@ -677,13 +677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
-      <jump line="21" column="25" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
-      <jump line="177" column="20" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
-      <jump line="36" column="32" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" />
-      <jump line="35" column="36" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" />
-      <jump line="1827" column="30" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
-      <jump line="28" column="16" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="21" column="4" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiClient.php" />
       <jump line="22" column="20" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiClient.php" />
       <jump line="13" column="14" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiClient.php" />
@@ -777,6 +770,13 @@
       <jump line="684" column="25" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
       <jump line="686" column="14" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
       <jump line="1197" column="57" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
+      <jump line="703" column="28" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
+      <jump line="870" column="44" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
+      <jump line="869" column="44" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
+      <jump line="712" column="15" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
+      <jump line="856" column="26" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
+      <jump line="859" column="27" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
+      <jump line="861" column="49" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -786,7 +786,7 @@
         <text>protected</text>
       </register>
       <register name="/" type="4">
-        <text>move_actengage_data</text>
+        <text>newRec</text>
       </register>
       <register name="0" type="4">
         <text>move_actengage_data</text>
@@ -823,9 +823,9 @@
       </register>
     </registers>
     <search>
-      <last-search>move_actengage_data</last-search>
+      <last-search>newRec</last-search>
       <last-offset />
-      <last-pattern>move_actengage_data</last-pattern>
+      <last-pattern>newRec</last-pattern>
       <last-replace>'\1',</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -833,9 +833,6 @@
     </search>
     <history>
       <history-search>
-        <entry>headers</entry>
-        <entry>prepareR</entry>
-        <entry>config</entry>
         <entry>prepare</entry>
         <entry>request(</entry>
         <entry>$this</entry>
@@ -853,6 +850,9 @@
         <entry>process_actengage_data</entry>
         <entry>get_actengage_data</entry>
         <entry>move_actengage_data</entry>
+        <entry>externalUid</entry>
+        <entry>newDataCursor</entry>
+        <entry>newRec</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
