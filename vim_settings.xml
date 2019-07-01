@@ -63,11 +63,11 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/FileDownloadJob.php" timestamp="1561990353061">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="56" column="12" />
-        <mark key="." line="56" column="12" />
-        <mark key="^" line="56" column="12" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/FileDownloadJob.php" timestamp="1561991391035">
+        <mark key="[" line="77" column="38" />
+        <mark key="]" line="77" column="38" />
+        <mark key="." line="77" column="38" />
+        <mark key="^" line="77" column="38" />
       </file>
       <file name="$USER_HOME$/Code/api.frc.org/database/seeds/DatabaseSeeder.php" timestamp="1561390726568">
         <mark key="'" line="22" column="16" />
@@ -103,12 +103,12 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" timestamp="1561990225998">
-        <mark key="'" line="102" column="41" />
-        <mark key="[" line="103" column="37" />
-        <mark key="]" line="103" column="46" />
-        <mark key="." line="103" column="46" />
-        <mark key="^" line="103" column="46" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" timestamp="1561990927536">
+        <mark key="'" line="105" column="41" />
+        <mark key="[" line="61" column="82" />
+        <mark key="]" line="61" column="94" />
+        <mark key="." line="61" column="82" />
+        <mark key="^" line="61" column="82" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/ApiVendors/ApiClient.php" timestamp="1561472462050">
         <mark key="[" line="3" column="14" />
@@ -370,12 +370,12 @@
         <mark key="]" line="59" column="48" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/MdsTests.php" timestamp="1561987377913">
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/MdsTests.php" timestamp="1561990942520">
         <mark key="'" line="39" column="23" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="14" />
+        <mark key="^" line="40" column="14" />
+        <mark key="." line="40" column="14" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseResponseShape.php" timestamp="1561138166167">
         <mark key="'" line="29" column="31" />
@@ -708,25 +708,25 @@
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>File</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c3RycG9zKCRmaWxlLCAnOicpIDwgMA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZighY29uZmlnKCJmaWxlc3lzdGVtcy5kaXNrcy4kdGhpcy0+ZGlzayIpKXsKICAgICAgICAgICAgdGhyb3cgbmV3IFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24oIlRoZSBnaXZlbiBkaXNrIG5hbWUgaXMgaW52YWxpZC4gJHRoaXMtPmRpc2sgZG9lcyBub3QgZXhpc3QuIEFkZCBpdCB0byB0aGUgZmlsZXN5c3RlbSBjb25maWcuIik7CgogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1ldGhvZCA9ICR0aGlzLT5kZWxldGUgPyAnbW92ZVRvJyA6ICdjb3B5VG8nOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmZpbGUtPiRtZXRob2QoJHRoaXMtPmRpc2ssICR0aGlzLT5wYXRoLCBudWxsLCAkdGhpcy0+b3ZlcndyaXRlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZGlzaywgJHRoaXMtPmZpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RvcmFnZTo6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZChzdHJwb3MoJGZpbGUsICc6JykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -735,13 +735,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIFN0b3JhZ2U6OmRpc2soJHRoaXMtPmRpc2spOwogICAgICAgIH0gY2F0Y2ggKFxJbnZhbGlkQXJndW1lbnRFeGNlcHRpb24gJGUpIHsKICAgICAgICAgICAgZGQoImNvdWxkbid0IGZpbmQgZGlzayAkdGhpcy0+ZGlzayIpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlOjpvYnNlcnZlKEZpbGVPYnNlcnZlcjo6Y2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChTdG9yYWdlOjpkaXNrKCR0aGlzLT5kaXNrKS0+YWxsRmlsZXMoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
