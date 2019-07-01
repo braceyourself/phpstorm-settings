@@ -63,6 +63,11 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/FileDownloadJob.php" timestamp="1561988550696">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/api.frc.org/database/seeds/DatabaseSeeder.php" timestamp="1561390726568">
         <mark key="'" line="22" column="16" />
         <mark key="[" line="35" column="8" />
@@ -97,12 +102,12 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" timestamp="1561985213437">
-        <mark key="'" line="136" column="20" />
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="60" column="7" />
-        <mark key="^" line="60" column="7" />
-        <mark key="." line="60" column="7" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" timestamp="1561988549181">
+        <mark key="'" line="102" column="30" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="103" column="23" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/ApiVendors/ApiClient.php" timestamp="1561472462050">
         <mark key="[" line="3" column="14" />
@@ -336,6 +341,9 @@
         <mark key="." line="58" column="24" />
         <mark key="^" line="58" column="24" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/File.php" timestamp="1561989715561">
+        <mark key="'" line="69" column="33" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/ApiConnectionInterface.php" timestamp="1561476408642">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -349,11 +357,11 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="92" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" timestamp="1561985461915">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="58" column="15" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" timestamp="1561986118762">
+        <mark key="[" line="60" column="26" />
+        <mark key="]" line="60" column="56" />
+        <mark key="^" line="60" column="56" />
+        <mark key="." line="60" column="56" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" timestamp="1561737664935">
         <mark key="'" line="56" column="42" />
@@ -361,12 +369,12 @@
         <mark key="]" line="59" column="48" />
         <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/MdsTests.php" timestamp="1561982772159">
-        <mark key="'" line="45" column="23" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="6" column="52" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/MdsTests.php" timestamp="1561987377913">
+        <mark key="'" line="39" column="23" />
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/src/Support/BaseResponseShape.php" timestamp="1561138166167">
         <mark key="'" line="29" column="31" />
@@ -533,6 +541,11 @@
         <mark key="." line="40" column="24" />
         <mark key="^" line="40" column="23" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/database/migrations/2019_06_14_094118_create__files_table.php" timestamp="1561989069445">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/MakeFrcModel.php" timestamp="1560958950182">
         <mark key="'" line="7" column="42" />
         <mark key="[" line="32" column="0" />
@@ -574,15 +587,14 @@
         <mark key="." line="8" column="50" />
         <mark key="^" line="8" column="50" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Notifications/FileDownloadErrorNotification.php" timestamp="1561986625438">
+        <mark key="[" line="67" column="37" />
+        <mark key="]" line="67" column="85" />
+        <mark key="^" line="67" column="85" />
+        <mark key="." line="67" column="85" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="684" column="25" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
-      <jump line="686" column="14" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
-      <jump line="1197" column="57" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
-      <jump line="703" column="28" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
-      <jump line="870" column="44" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
-      <jump line="869" column="44" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
-      <jump line="712" column="15" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
       <jump line="859" column="27" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
       <jump line="861" column="49" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
       <jump line="51" column="0" filename="/mnt/g/FRESCO32/DDL/Packages/api_resourceone.sql" />
@@ -665,7 +677,6 @@
       <jump line="848" column="16" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
       <jump line="49" column="45" filename="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" />
       <jump line="44" column="23" filename="$USER_HOME$/code/api-frc-org/tests/Feature/MdsTests.php" />
-      <jump line="58" column="20" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
       <jump line="101" column="34" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
       <jump line="129" column="49" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
       <jump line="130" column="32" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
@@ -676,55 +687,63 @@
       <jump line="135" column="20" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
       <jump line="49" column="0" filename="$USER_HOME$/code/api-frc-org/.env" />
       <jump line="21" column="0" filename="$USER_HOME$/code/api-frc-org/.env" />
+      <jump line="58" column="99" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
+      <jump line="60" column="132" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
+      <jump line="45" column="24" filename="$USER_HOME$/code/api-frc-org/tests/Feature/MdsTests.php" />
+      <jump line="105" column="36" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
+      <jump line="39" column="23" filename="$USER_HOME$/code/api-frc-org/tests/Feature/MdsTests.php" />
+      <jump line="94" column="0" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
+      <jump line="102" column="30" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
+      <jump line="61" column="33" filename="$USER_HOME$/code/api-frc-org/app/File.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>disk</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
-        <text>REDIS</text>
+        <text>dump</text>
       </register>
-      <register name="0" type="4">
-        <text>QuorumGrassrootsArchive</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZzo6aW5mbygkZS0+Z2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZmlsZV9leGlzdHMgPSBTdG9yYWdlOjpkaXNrKCRkaXNrKS0+ZXhpc3RzKCRsb2NhbF9kZXN0aW5hdGlvbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjZCAiL091dGdvaW5nL0NyZWRpdCBDYXJkcy8iCi8vICAgICAgICAgICAgbGNkICIvaG9tZS9mdHBfY2xpZW50cy9tZHMvT3V0Z29pbmcvQ3JlZGl0IENhcmRzLyIKLy8gICAgICAgICAgICBtZ2V0ICoucGdwCi8vICAgICAgICAgICAgbWdldCAqLkNTVgovLyAgICAgICAgICAgIHJtICoucGdwCi8vICAgICAgICAgICAgcm0gKi5DU1YKCi8vICAgICAgICAgICAgY2QgIi9PdXRnb2luZy9TZW5kYmFja3MvIgovLyAgICAgICAgICAgIGxjZCAiL2hvbWUvZnRwX2NsaWVudHMvbWRzL091dGdvaW5nL1NlbmRiYWNrcy8iCi8vICAgICAgICAgICAgbWdldCAqLnppcAovLyAgICAgICAgICAgIG1nZXQgKi5aSVAKLy8gICAgICAgICAgICBybSAqLnppcAovLyAgICAgICAgICAgIHJtICouWklQCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBjZCAiL091dGdvaW5nIgovLyAgICAgICAgICAgIGxjZCAiL2hvbWUvZnRwX2NsaWVudHMvbWRzL091dGdvaW5nL1BsZWRnZXMvIgovLyAgICAgICAgICAgIG1nZXQgKi5jc3YKLy8gICAgICAgICAgICBtZ2V0ICouQ1NWCi8vICAgICAgICAgICAgcm0gKi5jc3YKLy8gICAgICAgICAgICBybSAqLkNTVgo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVsZXRlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZm9yZWFjaCAoRW5kcG9pbnRDYWxsU2NoZWR1bGU6OmFsbCgpIGFzICR0YXNrKSB7CgkJCQlpZiAoJHRhc2stPmVuZHBvaW50ICE9PSBudWxsICYmICR0YXNrLT5lbmRwb2ludC0+ZW5hYmxlZCkgewoJCQkJCSRzY2hlZHVsZS0+am9iKAoJCQkJCQluZXcgQ2FsbEFwaUVuZHBvaW50KCR0YXNrLT5lbmRwb2ludCkKCQkJCQkpLT5jcm9uKCR0YXNrLT5jcm9uKTsKCQkJCX0KCQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICAgICAgTG9nOjppbmZvKCRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICAgICAgTG9nOjppbmZvKCRlLT5nZXRGaWxlKCkgLiAnOicgLiAkZS0+Z2V0TGluZSgpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8JCQkJCUNyZWF0ZVF1b3J1bUNvbnRhY3RzRmlsZTo6Y2xhc3MgPT4gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEQjo6dGFibGUoJ2ZpbGVzJyktPnRydW5jYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5iaWdJbmNyZW1lbnRzKCdpZCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>REDIS</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>REDIS</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>'\1',</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -732,9 +751,6 @@
     </search>
     <history>
       <history-search>
-        <entry>newDataCursor</entry>
-        <entry>newRec</entry>
-        <entry>import_</entry>
         <entry>fixDataCursor</entry>
         <entry>client</entry>
         <entry>callStat</entry>
@@ -752,10 +768,11 @@
         <entry>QUEYE</entry>
         <entry>QUEUE</entry>
         <entry>REDIS</entry>
+        <entry>delete</entry>
+        <entry>dump(</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
-        <entry>1967</entry>
-        <entry>50</entry>
         <entry>1813</entry>
         <entry>84</entry>
         <entry>1811</entry>
@@ -773,6 +790,8 @@
         <entry>wq</entry>
         <entry>1830</entry>
         <entry>q</entry>
+        <entry>79</entry>
+        <entry>:</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
