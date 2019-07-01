@@ -63,10 +63,11 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/FileDownloadJob.php" timestamp="1561988550696">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/FileDownloadJob.php" timestamp="1561990353061">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="56" column="12" />
+        <mark key="." line="56" column="12" />
+        <mark key="^" line="56" column="12" />
       </file>
       <file name="$USER_HOME$/Code/api.frc.org/database/seeds/DatabaseSeeder.php" timestamp="1561390726568">
         <mark key="'" line="22" column="16" />
@@ -102,12 +103,12 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" timestamp="1561988549181">
-        <mark key="'" line="102" column="30" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="103" column="23" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" timestamp="1561990225998">
+        <mark key="'" line="102" column="41" />
+        <mark key="[" line="103" column="37" />
+        <mark key="]" line="103" column="46" />
+        <mark key="." line="103" column="46" />
+        <mark key="^" line="103" column="46" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/ApiVendors/ApiClient.php" timestamp="1561472462050">
         <mark key="[" line="3" column="14" />
@@ -567,6 +568,12 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Providers/AppServiceProvider.php" timestamp="1561989997588">
+        <mark key="'" line="19" column="6" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Notifications/NewEftFileCreated.php" timestamp="1561495876106">
         <mark key="[" line="49" column="66" />
         <mark key="]" line="49" column="76" />
@@ -595,7 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="859" column="27" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
       <jump line="861" column="49" filename="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" />
       <jump line="51" column="0" filename="/mnt/g/FRESCO32/DDL/Packages/api_resourceone.sql" />
       <jump line="297" column="8" filename="/mnt/g/FRESCO32/DDL/Packages/api_resourceone.sql" />
@@ -693,57 +699,58 @@
       <jump line="105" column="36" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
       <jump line="39" column="23" filename="$USER_HOME$/code/api-frc-org/tests/Feature/MdsTests.php" />
       <jump line="94" column="0" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
-      <jump line="102" column="30" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
       <jump line="61" column="33" filename="$USER_HOME$/code/api-frc-org/app/File.php" />
+      <jump line="19" column="6" filename="$USER_HOME$/code/api-frc-org/app/Providers/AppServiceProvider.php" />
+      <jump line="102" column="41" filename="$USER_HOME$/code/api-frc-org/app/Jobs/BulkFileDownloadJob.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>dump</text>
+        <text>File</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZzo6aW5mbygkZS0+Z2V0TWVzc2FnZSgpKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">c3RycG9zKCRmaWxlLCAnOicpIDwgMA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlsZV9leGlzdHMgPSBTdG9yYWdlOjpkaXNrKCRkaXNrKS0+ZXhpc3RzKCRsb2NhbF9kZXN0aW5hdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGVsZXRlKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICAgICAgTG9nOjppbmZvKCRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICAgICAgTG9nOjppbmZvKCRlLT5nZXRGaWxlKCkgLiAnOicgLiAkZS0+Z2V0TGluZSgpKTsKICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZGlzaywgJHRoaXMtPmZpbGUpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZChzdHJwb3MoJGZpbGUsICc6JykpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5iaWdJbmNyZW1lbnRzKCdpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGaWxlOjpvYnNlcnZlKEZpbGVPYnNlcnZlcjo6Y2xhc3MpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dump</last-search>
+      <last-search>File</last-search>
       <last-offset />
-      <last-pattern>dump</last-pattern>
+      <last-pattern>File</last-pattern>
       <last-replace>'\1',</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -764,16 +771,15 @@
         <entry>_load</entry>
         <entry>insert_actengage</entry>
         <entry>files</entry>
-        <entry>File</entry>
         <entry>QUEYE</entry>
         <entry>QUEUE</entry>
         <entry>REDIS</entry>
         <entry>delete</entry>
         <entry>dump(</entry>
         <entry>dump</entry>
+        <entry>File</entry>
       </history-search>
       <history-cmd>
-        <entry>1813</entry>
         <entry>84</entry>
         <entry>1811</entry>
         <entry>1974</entry>
@@ -792,6 +798,7 @@
         <entry>q</entry>
         <entry>79</entry>
         <entry>:</entry>
+        <entry>53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
