@@ -586,6 +586,12 @@
         <mark key="^" line="35" column="33" />
         <mark key="." line="35" column="33" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/EftFileCheckTests.php" timestamp="1562344579069">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="7" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/TestCase.php" timestamp="1562155424513">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -1173,7 +1179,7 @@
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>,[]</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
@@ -1182,27 +1188,25 @@
         <text encoding="base64">d2hlcmUgbmEuQkFUQ0hfTk8gaW4gKDc5MDE3LDc5MDE2LDc5MDE4LDc5MDE5KSBhbmQgbmEuQUREUl8xIGlzIG51bGwgYW5kIHZkYS5BRERSXzEgaXMgbm90IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LS0K</text>
+        <text encoding="base64">ICAgICAgICAkZGlzayA9IFN0b3JhZ2U6OmRpc2soJ2Z0cC1zZXJ2ZXInKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0KLS0KLS0KLS0KYmVnaW4KICAgIEFQSV9BQ1RFTkdBR0UuTU9WRV9BQ1RFTkdBR0VfREFUQSgpOwplbmQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZmlsZXMgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>and na.EXTERNAL_UID in (
-    select EXTERNAL_UID from VENDOR_DATA_ARCHIVE where 
-    );</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZGlzay0+YWxsRGlyZWN0b3JpZXMoKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LS0gc2VsZWN0ICogZnJvbSBWRU5ET1JfREFUQV9BUkNISVZFIHZkYQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyBmZWF0dXJlIHRlc3QgZXhhbXBsZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RFeGFtcGxlKCkKICAgIHsKICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0KCcvJyk7CgogICAgICAgICRyZXNwb25zZS0+YXNzZXJ0U3RhdHVzKDIwMCk7CiAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlubmVyIGpvaW4gQUNURU5HQUdFX0RBVEFfTE9BRCBhZGwgb24gYWRsLkVYVEVSTkFMX1VJRCA9IHZkYS5FWFRFUk5BTF9VSUQK</text>
+        <text encoding="base64">LS0KLS0KLS0KLS0KYmVnaW4KICAgIEFQSV9BQ1RFTkdBR0UuTU9WRV9BQ1RFTkdBR0VfREFUQSgpOwplbmQ7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1363,10 +1367,12 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5uZXIgam9pbiBORVdfQUNDT1VOVFMgbmEgb24gbmEuQkFUQ0hfTk8gPSBicC5CQVRDSF9OTwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW5uZXIgam9pbiBCQVRDSF9QSUVDRSBicCBvbiBicC5CQVRDSF9OTyA9IGIuQkFUQ0hfTk8K</text>
+      <register name="9" type="4">
+        <text>and na.EXTERNAL_UID in (
+    select EXTERNAL_UID from VENDOR_DATA_ARCHIVE where 
+    );</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
