@@ -251,6 +251,12 @@
       <file name="/main.permissions [database.sqlite]" timestamp="1560526939279">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/config/horizon.php" timestamp="1562519388676">
+        <mark key="[" line="96" column="20" />
+        <mark key="]" line="96" column="23" />
+        <mark key="." line="96" column="23" />
+        <mark key="^" line="96" column="23" />
+      </file>
       <file name="$USER_HOME$/Code/api-consumer/src/Commands/ApiModelMakeCommand.php" timestamp="1561403797569">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="7" column="12" />
@@ -586,11 +592,12 @@
         <mark key="^" line="35" column="33" />
         <mark key="." line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/EftFileCheckTests.php" timestamp="1562344579069">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="21" />
-        <mark key="." line="16" column="21" />
-        <mark key="^" line="16" column="7" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/EftFileCheckTests.php" timestamp="1562519706339">
+        <mark key="'" line="19" column="38" />
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="19" column="52" />
+        <mark key="." line="19" column="52" />
+        <mark key="^" line="19" column="52" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/TestCase.php" timestamp="1562155424513">
         <mark key="[" line="14" column="0" />
@@ -985,12 +992,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/CheckForNewEftFile.php" timestamp="1561495955989">
-        <mark key="'" line="44" column="58" />
-        <mark key="[" line="40" column="46" />
-        <mark key="]" line="41" column="11" />
-        <mark key="." line="41" column="11" />
-        <mark key="^" line="41" column="11" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/CheckForNewEftFile.php" timestamp="1562519664338">
+        <mark key="'" line="45" column="58" />
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="^" line="27" column="46" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Jobs/UpdateVendorDataTests.php" timestamp="1562182746477">
         <mark key="'" line="25" column="25" />
@@ -1073,7 +1080,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="28" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="402" column="27" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="443" column="47" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="322" column="35" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
@@ -1173,13 +1179,14 @@
       <jump line="13" column="55" filename="$USER_HOME$/code/api-frc-org/app/Console/Commands/DispatchJob.php" />
       <jump line="40" column="26" filename="$USER_HOME$/code/api-frc-org/app/Console/Commands/DispatchJob.php" />
       <jump line="22" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" />
+      <jump line="19" column="38" filename="$USER_HOME$/code/api-frc-org/tests/Feature/EftFileCheckTests.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>$pattern</text>
       </register>
       <register name="/" type="4">
         <text>param</text>
@@ -1188,25 +1195,25 @@
         <text encoding="base64">d2hlcmUgbmEuQkFUQ0hfTk8gaW4gKDc5MDE3LDc5MDE2LDc5MDE4LDc5MDE5KSBhbmQgbmEuQUREUl8xIGlzIG51bGwgYW5kIHZkYS5BRERSXzEgaXMgbm90IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkZGlzayA9IFN0b3JhZ2U6OmRpc2soJ2Z0cC1zZXJ2ZXInKTsK</text>
+        <text encoding="base64">ICAgICAgICAkZmlsZSA9ICdmaWxlcy9uZXdGaWxlLnRlc3QnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZmlsZXMgPSAK</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICRkaXNrLT5wdXQoJ3Rlc3QtZmlsZS5jc3YnLCciZ2lmdF9ubyIsImJhbmtBY2N0X251bWJlciIsInJvdXRpbmdfbnVtYmVyIiwiZ2lmdF9hbW91bnQiLCI1Nzc0MjkiLCI4NzYxNDA2Nzk5IiwiMzIyMjcxNjI3IiwiNTAwIicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGlzay0+YWxsRGlyZWN0b3JpZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGlzayA9IFN0b3JhZ2U6OmRpc2soJ2Z0cC1zZXJ2ZXInKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyBmZWF0dXJlIHRlc3QgZXhhbXBsZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RFeGFtcGxlKCkKICAgIHsKICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0KCcvJyk7CgogICAgICAgICRyZXNwb25zZS0+YXNzZXJ0U3RhdHVzKDIwMCk7CiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkZmlsZXMgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0KLS0KLS0KLS0KYmVnaW4KICAgIEFQSV9BQ1RFTkdBR0UuTU9WRV9BQ1RFTkdBR0VfREFUQSgpOwplbmQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGlzay0+YWxsRGlyZWN0b3JpZXMoKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1366,13 +1373,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQSBiYXNpYyBmZWF0dXJlIHRlc3QgZXhhbXBsZS4KICAgICAqCiAgICAgKiBAcmV0dXJuIHZvaWQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHRlc3RFeGFtcGxlKCkKICAgIHsKICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+Z2V0KCcvJyk7CgogICAgICAgICRyZXNwb25zZS0+YXNzZXJ0U3RhdHVzKDIwMCk7CiAgICB9</text>
       </register>
-      <register name="9" type="4">
-        <text>and na.EXTERNAL_UID in (
-    select EXTERNAL_UID from VENDOR_DATA_ARCHIVE where 
-    );</text>
+      <register name="9" type="2">
+        <text encoding="base64">LS0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
