@@ -10,6 +10,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="Macro.big arrow">
     <keyboard-shortcut first-keystroke="alt equals" />
   </action>
