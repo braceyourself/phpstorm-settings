@@ -317,6 +317,12 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/api.frc.org/app/Jobs/ProcessEftFiles.php" timestamp="1562612964372">
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="59" column="54" />
+        <mark key="." line="59" column="54" />
+        <mark key="^" line="59" column="54" />
+      </file>
       <file name="/a.sql" timestamp="1561390494694">
         <mark key="[" line="0" column="0" />
       </file>
@@ -471,6 +477,12 @@
       <file name="/main.roles [database.sqlite]" timestamp="1560526931961">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/api.frc.org/app/Exports/EftFileExport.php" timestamp="1562613007101">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+      </file>
       <file name="$USER_HOME$/Code/api-consumer/src/Commands/ApiModelMakeCommand.php" timestamp="1561403797569">
         <mark key="'" line="76" column="0" />
         <mark key="[" line="7" column="12" />
@@ -489,12 +501,6 @@
       </file>
       <file name="/main.jobs [database.sqlite]" timestamp="1560542400209">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/api.frc.org/app/Jobs/UpdateVendorDataJob.php" timestamp="1562206363725">
-        <mark key="[" line="42" column="40" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="33" />
-        <mark key="^" line="43" column="33" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Cornerstone/Customer.php" timestamp="1561117008539">
         <mark key="'" line="10" column="27" />
@@ -584,12 +590,12 @@
       <file name="/main.oauth_clients [database.sqlite]" timestamp="1559333539453">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" timestamp="1561928949953">
-        <mark key="'" line="1693" column="21" />
-        <mark key="[" line="1827" column="8" />
-        <mark key="]" line="1827" column="11" />
-        <mark key="." line="1827" column="11" />
-        <mark key="^" line="1827" column="11" />
+      <file name="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" timestamp="1562612612273">
+        <mark key="'" line="1800" column="24" />
+        <mark key="[" line="1359" column="15" />
+        <mark key="]" line="1359" column="26" />
+        <mark key="." line="1359" column="26" />
+        <mark key="^" line="1359" column="26" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/ApiVendors/Cornerstone/Client.php" timestamp="1561472440424">
         <mark key="[" line="2" column="14" />
@@ -758,13 +764,6 @@
       <file name="/Dummy.txt" timestamp="1562059559378">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api.frc.org/tests/Unit/Imports/FrcaTransactionImportTests.php" timestamp="1562244563963">
-        <mark key="'" line="21" column="63" />
-        <mark key="[" line="28" column="46" />
-        <mark key="]" line="29" column="50" />
-        <mark key="." line="29" column="50" />
-        <mark key="^" line="29" column="50" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/ApiVendors/ApiManager.php" timestamp="1561474694280">
         <mark key="'" line="29" column="24" />
         <mark key="[" line="40" column="46" />
@@ -845,16 +844,20 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
+      <file name="databaseSettings.xml" timestamp="1562591500782">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/api.frc.org/app/Imports/EftCsvImport.php" timestamp="1562612854084">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="20" column="44" />
+      </file>
       <file name="/api_braceyourself_solutions_dev.api_auth_types [as1]" timestamp="1561381280118">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1808" column="30" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
-      <jump line="186" column="22" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
-      <jump line="47" column="23" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/Relation.php" />
-      <jump line="23" column="15" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
-      <jump line="308" column="22" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="1695" column="30" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="172" column="20" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="1398" column="0" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
@@ -950,37 +953,42 @@
       <jump line="18" column="33" filename="$USER_HOME$/Code/api.frc.org/tests/Unit/Imports/FrcaTransactionImportTests.php" />
       <jump line="17" column="63" filename="$USER_HOME$/Code/api.frc.org/tests/Unit/Imports/FrcaTransactionImportTests.php" />
       <jump line="66" column="0" filename="$USER_HOME$/Code/api.frc.org/config/filesystems.php" />
+      <jump line="18" column="36" filename="$USER_HOME$/Code/api.frc.org/app/Imports/EftCsvImport.php" />
+      <jump line="17" column="51" filename="$USER_HOME$/Code/api.frc.org/app/Imports/EftCsvImport.php" />
+      <jump line="26" column="33" filename="$USER_HOME$/Code/api.frc.org/app/Imports/EftCsvImport.php" />
+      <jump line="571" column="22" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="1800" column="24" filename="$USER_HOME$/Code/api.frc.org/app/VendorApis/Support/RemoteModel.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>acten</text>
+        <text>__get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBCQVRDSCB3aGVyZSBCQVRDSF9OTyBpbiAoNzkwMTYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZXJyb3InID0+ICRyZXNwb25zZVsnZXJyb3InXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkcm93KTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJG1hdGNoZXMpID4gMCkKICAgICAgICAgICAgTm90aWZpY2F0aW9uOjpzZW5kKFVzZXI6OmFsbCgpLAogICAgICAgICAgICAgICAgbmV3IFNpbXBsZU5vdGlmaWNhdGlvbignTmV3IEVGVCBmaWxlcycsCiAgICAgICAgICAgICAgICAgICAgJ1RoZXNlIEZpbGVzIGhhdmUgYmVlbiBtb3ZlZCB0byB0aGUgQXBpIFNlcnZlciBmb3IgcHJvY2Vzc2luZycsCiAgICAgICAgICAgICAgICAgICAgLi4uJG1hdGNoZXMKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJvdyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkZmlsZV9yb3dzLT5jb3VudCgpLicgcm93cycpOwogICAgICAgICAgICBmb3JlYWNoICgkZmlsZV9yb3dzIGFzICRyb3cpIHsKICAgICAgICAgICAgICAgIGRkKCRyb3cpOwogICAgICAgICAgICAgICAgJGFyY2hpdmVkID0gVmVuZG9yRGF0YUFyY2hpdmU6OndoZXJlKCdleHRlcm5hbF91aWQnLCAkcm93WydpZCddKS0+Z2V0KCk7CiAgICAgICAgICAgICAgICBkZCgkYXJjaGl2ZWQtPmdldEF0dHJpYnV0ZXMoKSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpbGVfcm93cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuLi4kcmVzcG9uc2UK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWUtPmFsbERpcmVjdG9yaWVzKCkpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnZXJyb3InID0+ICRyZXNwb25zZVsnZXJyb3InXSwKICAgICAgICAgICAgICAgICAgICAncmVhc29uJyA9PiAkcmVzcG9uc2VbJ2Vycm9yJ10=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZChjb25maWcoJ2ZpbGVzeXN0ZW1zLmRpc2tzLmFjdGVuZ2FnZS5yb290JykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1144,19 +1152,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdC0+cmF3UmVzcG9uc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBFeGNlbDo6YXNzZXJ0SW1wb3J0ZWQoJGZpbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoVXNlcjo6YWxsKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>acten</last-search>
+      <last-search>__get</last-search>
       <last-offset />
-      <last-pattern>acten</last-pattern>
+      <last-pattern>__get</last-pattern>
       <last-replace>'\1',</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1164,7 +1172,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parent</entry>
         <entry>setParent</entry>
         <entry>setParentId</entry>
         <entry>hasMan</entry>
@@ -1184,6 +1191,7 @@
         <entry>useapi</entry>
         <entry>e_mail</entry>
         <entry>acten</entry>
+        <entry>__get</entry>
       </history-search>
       <history-cmd>
         <entry>1811</entry>
