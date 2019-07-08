@@ -268,13 +268,13 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1562608991539">
-        <mark key="'" line="1113" column="8" />
-        <mark key="k" line="1895" column="16" />
-        <mark key="[" line="466" column="16" />
-        <mark key="]" line="466" column="16" />
-        <mark key="." line="466" column="16" />
-        <mark key="^" line="466" column="29" />
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1562611511023">
+        <mark key="'" line="802" column="27" />
+        <mark key="k" line="1898" column="16" />
+        <mark key="[" line="320" column="67" />
+        <mark key="]" line="321" column="11" />
+        <mark key="^" line="321" column="11" />
+        <mark key="." line="321" column="11" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/config/api-clients.php" timestamp="1561736244868">
         <mark key="[" line="34" column="41" />
@@ -656,11 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="486" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/08cb2572-307e-47e4-877b-3ad8a1c6c20b/console.sql" />
-      <jump line="487" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/08cb2572-307e-47e4-877b-3ad8a1c6c20b/console.sql" />
-      <jump line="489" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/08cb2572-307e-47e4-877b-3ad8a1c6c20b/console.sql" />
-      <jump line="490" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/08cb2572-307e-47e4-877b-3ad8a1c6c20b/console.sql" />
-      <jump line="491" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/08cb2572-307e-47e4-877b-3ad8a1c6c20b/console.sql" />
       <jump line="510" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/08cb2572-307e-47e4-877b-3ad8a1c6c20b/console.sql" />
       <jump line="511" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/08cb2572-307e-47e4-877b-3ad8a1c6c20b/console.sql" />
       <jump line="512" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/08cb2572-307e-47e4-877b-3ad8a1c6c20b/console.sql" />
@@ -756,40 +751,45 @@
       <jump line="1083" column="25" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="1087" column="45" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="1112" column="8" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="470" column="16" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="35" column="38" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="584" column="25" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="793" column="18" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="799" column="27" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>errorresponceK</text>
+        <text>validation</text>
       </register>
       <register name="/" type="4">
-        <text>dd(</text>
+        <text>performCreate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsaWRhdG9yTWV0aG9kID0gJG1ldGhvZC4nUnVsZXMnOwogICAgICAgIGlmIChtZXRob2RfZXhpc3RzKHN0YXRpYzo6Y2xhc3MsICR2YWxpZGF0b3JNZXRob2QpKSB7CiAgICAgICAgICAgIHJldHVybiBWYWxpZGF0b3I6Om1ha2Uoc3RhdGljOjpnZXRQYXJhbXMoKSwgc3RhdGljOjokdmFsaWRhdG9yTWV0aG9kKCkpLT52YWxpZGF0ZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJ1bGVzID0gJHZhbGlkYXRpb25bJG1ldGhvZF1bJ3J1bGVzJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGl0ZW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHZhbGlkYXRpb24sICRtZXNzYWdlcywgJGN1c3RvbSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZXJyb3JSZXNwb25zZUtleXMgPSBbCiAgICAgICAgJ2Vycm9yJywgJ3JlYXNvbicKICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWyR2YWxpZGF0aW9uLCAkbWVzc2FnZXMsICRjdXN0b21dID0gJHZhbGlkYXRpb25bJG1ldGhvZF07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZnVuY3Rpb24gYmFkUmVzcG9uc2VDYWxsYmFjayhWYWxpZGF0b3IgJHZhbGlkYXRvciwgJG1ldGhvZCkKICAgIHsKICAgICAgICBOb3RpZmljYXRpb246OnNlbmQoVXNlcjo6YWxsKCksIG5ldyBTaW1wbGVOb3RpZmljYXRpb24oCiAgICAgICAgICAgICcnCiAgICAgICAgKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2VzID0gJHJ1bGVzWyRtZXRob2RdWydtZXNzYWdlcyddOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb246OmZha2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OmJhZFJlc3BvbnNlQ2FsbGJhY2soJHZhbGlkYXRvcik7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGl0ZW1zKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZXJyb3JSZXNwb25zZUtleXMgPSBbCiAgICAgICAgJ2Vycm9yJywgJ3JlYXNvbicKICAgIF07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZnVuY3Rpb24gYmFkUmVzcG9uc2VDYWxsYmFjayhWYWxpZGF0b3IgJHZhbGlkYXRvciwgJG1ldGhvZCkKICAgIHsKICAgICAgICBOb3RpZmljYXRpb246OnNlbmQoVXNlcjo6YWxsKCksIG5ldyBTaW1wbGVOb3RpZmljYXRpb24oCiAgICAgICAgICAgICcnCiAgICAgICAgKSk7CiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -950,19 +950,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb246OmZha2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdlcnJvcicgPT4gJ25vdF9wcmVzZW50Jwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OmJhZFJlc3BvbnNlQ2FsbGJhY2soJHZhbGlkYXRvcik7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
       </register>
     </registers>
     <search>
-      <last-search>dd(</last-search>
+      <last-search>performCreate</last-search>
       <last-offset />
-      <last-pattern>dd(</last-pattern>
+      <last-pattern>performCreate</last-pattern>
       <last-replace>'\1',</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -970,19 +970,15 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
-        <entry>__con</entry>
         <entry>test-file</entry>
         <entry>hand</entry>
         <entry>filen</entry>
         <entry>disk</entry>
         <entry>reate</entry>
         <entry>save(</entry>
-        <entry>create</entry>
         <entry>dump</entry>
         <entry>api</entry>
         <entry>A</entry>
-        <entry>performCreate</entry>
         <entry>validateC</entry>
         <entry>validate</entry>
         <entry>$client</entry>
@@ -990,6 +986,10 @@
         <entry>validateResp</entry>
         <entry>dd</entry>
         <entry>dd(</entry>
+        <entry>errorResp</entry>
+        <entry>makeRequest</entry>
+        <entry>create</entry>
+        <entry>performCreate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvJyQxJy8=</entry>
