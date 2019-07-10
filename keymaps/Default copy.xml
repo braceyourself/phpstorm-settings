@@ -22,5 +22,11 @@
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
+  <action id="Terminal.MoveToolWindowTabLeft">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabRight">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
   <action id="Vcs.QuickListPopupAction" />
 </keymap>
