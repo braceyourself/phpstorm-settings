@@ -43,12 +43,6 @@
       <file name="/api_braceyourself_solutions_dev.roles [as1]" timestamp="1561385537764">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/ActengageImportTests.php" timestamp="1562006522031">
-        <mark key="'" line="15" column="42" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Imports/Actengage.php" timestamp="1562016168340">
         <mark key="'" line="16" column="77" />
         <mark key="[" line="61" column="0" />
@@ -131,8 +125,12 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/config/queue.php" timestamp="1562940441402">
-        <mark key="'" line="48" column="28" />
+      <file name="$USER_HOME$/code/api-frc-org/config/queue.php" timestamp="1562945421066">
+        <mark key="'" line="66" column="28" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="53" column="7" />
+        <mark key="." line="53" column="7" />
+        <mark key="^" line="53" column="7" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/ApiVendors/ApiClient.php" timestamp="1561472462050">
         <mark key="[" line="3" column="14" />
@@ -437,11 +435,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/FlushRedisDb.php" timestamp="1562944170161">
-        <mark key="[" line="40" column="88" />
-        <mark key="]" line="40" column="88" />
-        <mark key="^" line="40" column="88" />
-        <mark key="." line="40" column="88" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/FlushRedisDb.php" timestamp="1562944949049">
+        <mark key="'" line="34" column="5" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/ApiVendors/Cornerstone/Client.php" timestamp="1561472440424">
         <mark key="[" line="2" column="14" />
@@ -563,12 +562,6 @@
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Routing/Router.php" timestamp="1561562473419">
         <mark key="'" line="31" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1562878311822">
-        <mark key="'" line="321" column="26" />
-        <mark key="[" line="328" column="0" />
-        <mark key="]" line="328" column="0" />
-        <mark key="." line="328" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/horizon/resources/views/layout.blade.php" timestamp="1562933153449" />
       <file name="/main.oauth_auth_codes [database.sqlite]" timestamp="1559333538370">
@@ -797,12 +790,6 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOne.php" timestamp="1562776965320">
-        <mark key="'" line="8" column="22" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ProcessEfts.php" timestamp="1562090429937">
         <mark key="'" line="50" column="12" />
         <mark key="[" line="44" column="21" />
@@ -928,6 +915,13 @@
         <mark key="]" line="215" column="0" />
         <mark key="^" line="87" column="12" />
         <mark key="." line="215" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/FlushRedisFailedJobs.php" timestamp="1562944993727">
+        <mark key="'" line="6" column="25" />
+        <mark key="[" line="44" column="49" />
+        <mark key="]" line="44" column="53" />
+        <mark key="^" line="44" column="53" />
+        <mark key="." line="44" column="53" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/CopyToDisk.php" timestamp="1562588426428">
         <mark key="'" line="50" column="0" />
@@ -1115,8 +1109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2021" column="23" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
-      <jump line="1401" column="28" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="2027" column="23" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="1569" column="0" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="2028" column="24" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
@@ -1215,40 +1207,42 @@
       <jump line="29" column="6" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/redis/Redis.php" />
       <jump line="105" column="36" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/redis/Redis.php" />
       <jump line="106" column="33" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/redis/Redis.php" />
+      <jump line="34" column="5" filename="$USER_HOME$/code/api-frc-org/app/Console/Commands/FlushRedisDb.php" />
+      <jump line="6" column="25" filename="$USER_HOME$/code/api-frc-org/app/Console/Commands/FlushRedisFailedJobs.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>:*</text>
       </register>
       <register name="/" type="4">
         <text>command(</text>
       </register>
-      <register name="0" type="4">
-        <text>101g0u7sDmyJj0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBcUmVkaXM6OmNvbm5lY3Rpb24oKS0+ZGVsKCdob3Jpem9uOmZhaWxlZDoqJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAncmVkaXMtbG9uZy1ydW5uaW5nJyA9PiBbCiAgICAgICAgICAgICdkcml2ZXInID0+ICdyZWRpcycsCiAgICAgICAgICAgICdjb25uZWN0aW9uJyA9PiAnZGVmYXVsdCcsCiAgICAgICAgICAgICdxdWV1ZScgPT4gJ2RlZmF1bHRfbG9uZycsCiAgICAgICAgICAgICdyZXRyeV9hZnRlcicgPT4gMzYwMCwKICAgICAgICAgICAgJ2Jsb2NrX2ZvcicgPT4gbnVsbCwKICAgICAgICBdLAogICAgICAgICdyZWRpcycgPT4gWwogICAgICAgICAgICAnZHJpdmVyJyA9PiAncmVkaXMnLAogICAgICAgICAgICAnY29ubmVjdGlvbicgPT4gJ2RlZmF1bHQnLAogICAgICAgICAgICAncXVldWUnID0+IGVudignUkVESVNfUVVFVUUnLCAnZGVmYXVsdCcpLAogICAgICAgICAgICAncmV0cnlfYWZ0ZXInID0+IDkwLAogICAgICAgICAgICAnYmxvY2tfZm9yJyA9PiBudWxsLAogICAgICAgIF0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRqbwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkbWF4Cg==</text>
+        <text encoding="base64">ICAgICRqbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgJHVuZ3VhcmRlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkbWF4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgJHVuZ3VhcmRlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1409,13 +1403,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBpc1JldHJ5UmVmcmVzaCgpOiBib29sCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXRyeV9yZWZyZXNoOwogICAgfQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBpc1JldHJ5UmVmcmVzaCgpOiBib29sCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXRyeV9yZWZyZXNoOwogICAgfQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1467,10 +1461,10 @@
         <entry>150</entry>
         <entry>133</entry>
         <entry>452</entry>
-        <entry>wq</entry>
         <entry>redo</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
