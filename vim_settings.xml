@@ -40,11 +40,11 @@
       <file name="/main.oauth_refresh_tokens [database.sqlite]" timestamp="1560526942142">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" timestamp="1562938535764">
-        <mark key="'" line="142" column="17" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" timestamp="1562939797094">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="/api_braceyourself_solutions_dev.roles [as1]" timestamp="1561385537764">
         <mark key="[" line="0" column="0" />
@@ -427,12 +427,12 @@
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1562939060647">
-        <mark key="'" line="592" column="0" />
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="32" column="19" />
-        <mark key="." line="32" column="19" />
-        <mark key="^" line="32" column="19" />
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1562939710503">
+        <mark key="'" line="29" column="3" />
+        <mark key="[" line="2327" column="37" />
+        <mark key="]" line="2327" column="38" />
+        <mark key="." line="2327" column="38" />
+        <mark key="^" line="2328" column="76" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/config/api-clients.php" timestamp="1562690083324">
         <mark key="[" line="8" column="31" />
@@ -590,12 +590,11 @@
         <mark key="^" line="33" column="65" />
         <mark key="." line="33" column="65" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerston/EftTransactionTests.php" timestamp="1562938388079">
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerston/EftTransactionTests.php" timestamp="1562939792667">
         <mark key="'" line="166" column="30" />
-        <mark key="[" line="166" column="35" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-        <mark key="^" line="158" column="69" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="/main.vendors [database.sqlite]" timestamp="1560343334794">
         <mark key="[" line="0" column="0" />
@@ -1086,10 +1085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="37" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerston/EftTransactionTests.php" />
-      <jump line="379" column="4" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" />
-      <jump line="213" column="0" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" />
-      <jump line="214" column="45" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" />
       <jump line="378" column="29" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" />
       <jump line="163" column="28" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerston/EftTransactionTests.php" />
       <jump line="26" column="15" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
@@ -1122,7 +1117,6 @@
       <jump line="2126" column="30" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="51" column="20" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiClient.php" />
       <jump line="117" column="36" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" />
-      <jump line="142" column="19" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" />
       <jump line="2347" column="26" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="2351" column="22" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="594" column="31" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
@@ -1186,40 +1180,45 @@
       <jump line="581" column="28" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="2319" column="40" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
       <jump line="592" column="0" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="2322" column="11" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="153" column="8" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" />
+      <jump line="29" column="3" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
+      <jump line="142" column="8" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" />
+      <jump line="32" column="31" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>'sleeping...'</text>
+        <text encoding="base64">ID4gMA==</text>
       </register>
       <register name="/" type="4">
-        <text>refresh(</text>
+        <text>dump(</text>
       </register>
       <register name="0" type="4">
         <text>101g0u7sDmyJj0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgJHVuZ3VhcmRlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoMik7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBib29sCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBpc1JldHJ5UmVmcmVzaCgpOiBib29sCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXRyeV9yZWZyZXNoOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgnc2xlZXBpbmcuLi4nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCdzbGVlcGluZy4uLicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihlbXB0eSgkbmV3X2F0dHJ1YnR1ZXMpKXsKICAgICAgICAgICAgJHRoaXMtPnJhd1Jlc3BvbnNlID0gWwogICAgICAgICAgICAgICAgJ2Vycm9yJyA9PiAiY291bGQgbm90IGZpbmQgIi4gY2xhc3NfYmFzZW5hbWUoc3RhdGljOjpjbGFzcykgLiAiIHdpdGggaWQgJyR0aGlzLT5pZCciCiAgICAgICAgICAgIF07CiAgICAgICAgICAgIGR1bXAoJHRoaXMtPnJhd1Jlc3BvbnNlKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkdHJhbnNhY3Rpb24tPmdldFJhd1Jlc3BvbnNlKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICRyZXRyeQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1380,19 +1379,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkb3sKICAgICAgICAgICAgCiAgICAgICAgICAgICRuZXdfYXR0cnVidHVlcyA9IHN0YXRpYzo6ZmluZCgkdGhpcy0+aWQpLT5nZXRBdHRyaWJ1dGVzKCk7CgogICAgICAgICAgICBpZiAoZW1wdHkoJG5ld19hdHRydWJ0dWVzKSkgewogICAgICAgICAgICAgICAgZHVtcCgnc2xlZXBpbmcuLi4nKTsKICAgICAgICAgICAgICAgIHNsZWVwKCRyZXRyeV9pbnRlcnZhbCk7CiAgICAgICAgICAgIH0KICAgICAgICB9IHdoaWxlKGVtcHR5KCRuZXdfYXR0cnVidHVlcykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
       </register>
     </registers>
     <search>
-      <last-search>refresh(</last-search>
+      <last-search>dump(</last-search>
       <last-offset />
-      <last-pattern>refresh(</last-pattern>
+      <last-pattern>dump(</last-pattern>
       <last-replace>boo</last-replace>
       <last-substitute>trans</last-substitute>
       <last-dir>1</last-dir>
@@ -1400,8 +1399,6 @@
     </search>
     <history>
       <history-search>
-        <entry>customer(</entry>
-        <entry>processT</entry>
         <entry>__set</entry>
         <entry>fill(</entry>
         <entry>gift</entry>
@@ -1420,6 +1417,8 @@
         <entry>find(</entry>
         <entry>refresh</entry>
         <entry>refresh(</entry>
+        <entry>dd(</entry>
+        <entry>dump(</entry>
       </history-search>
       <history-cmd>
         <entry>322</entry>
