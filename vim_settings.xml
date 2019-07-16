@@ -424,11 +424,11 @@
       <file name="/FRC.ZIP_REGION [FRC]" timestamp="1562860341715">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Imports/ActengageTransactionImport.php" timestamp="1563305648713">
-        <mark key="[" line="8" column="56" />
-        <mark key="]" line="8" column="56" />
-        <mark key="^" line="30" column="25" />
-        <mark key="." line="8" column="56" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Imports/ActengageTransactionImport.php" timestamp="1563306098143">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="95" />
+        <mark key="^" line="9" column="94" />
+        <mark key="." line="9" column="94" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Mail/ErrorNotification.php" timestamp="1562686200664">
         <mark key="[" line="33" column="54" />
@@ -731,11 +731,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Imports/Actengage/TransactionsImport.php" timestamp="1563300382293">
-        <mark key="[" line="11" column="66" />
-        <mark key="]" line="11" column="82" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Imports/Actengage/TransactionsImport.php" timestamp="1563306192256">
+        <mark key="[" line="11" column="68" />
+        <mark key="]" line="11" column="68" />
         <mark key="^" line="11" column="82" />
-        <mark key="." line="11" column="82" />
+        <mark key="." line="11" column="68" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/database/migrations/2019_07_10_084252_create_vendor_eft_transactions_table.php" timestamp="1563202706442">
         <mark key="'" line="16" column="25" />
@@ -779,12 +779,12 @@
       <file name="/FRC.LISTS_EMAIL_VIEW [Dev FRC]" timestamp="1562157061162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Exports/UnbatchedActengageAccounts.php" timestamp="1563305913324">
-        <mark key="'" line="67" column="123" />
-        <mark key="[" line="67" column="95" />
-        <mark key="]" line="67" column="98" />
-        <mark key="." line="67" column="98" />
-        <mark key="^" line="67" column="98" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Exports/UnbatchedActengageAccounts.php" timestamp="1563306609911">
+        <mark key="'" line="72" column="51" />
+        <mark key="[" line="72" column="85" />
+        <mark key="]" line="72" column="93" />
+        <mark key="." line="72" column="93" />
+        <mark key="^" line="72" column="93" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/resources/js/pages/cornerstone/index.vue" timestamp="1563196444485">
         <mark key="[" line="23" column="31" />
@@ -940,47 +940,47 @@
       <jump line="11" column="71" filename="$USER_HOME$/code/api-frc-org/app/Exports/UnbatchedActengageAccounts.php" />
       <jump line="83" column="27" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Excel/Exports/UnbatchedActengageAccountsTests.php" />
       <jump line="31" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Excel/Exports/UnbatchedActengageAccountsTests.php" />
-      <jump line="67" column="123" filename="$USER_HOME$/code/api-frc-org/app/Exports/UnbatchedActengageAccounts.php" />
       <jump line="126" column="4" filename="$USER_HOME$/code/api-frc-org/config/excel.php" />
       <jump line="31" column="25" filename="$USER_HOME$/code/api-frc-org/config/excel.php" />
       <jump line="108" column="30" filename="$USER_HOME$/code/api-frc-org/config/excel.php" />
       <jump line="19" column="22" filename="$USER_HOME$/code/api-frc-org/vendor/maatwebsite/excel/src/Excel.php" />
       <jump line="17" column="22" filename="$USER_HOME$/code/api-frc-org/vendor/maatwebsite/excel/src/Excel.php" />
       <jump line="11" column="34" filename="$USER_HOME$/code/api-frc-org/vendor/maatwebsite/excel/src/Excel.php" />
+      <jump line="67" column="51" filename="$USER_HOME$/code/api-frc-org/app/Exports/UnbatchedActengageAccounts.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>\Maatwebsite\Excel\Excel::TSV</text>
+        <text encoding="base64">LT53aGVyZUluKCdpZCcsICRyZXN1bHRzLT5wbHVjaygnZXh0ZXJuYWxfdWlkJykpLT5hbGwoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>CSV</text>
       </register>
       <register name="0" type="4">
-        <text>select * from WEB_URL</text>
+        <text encoding="base64">JHJlc3VsdHMtPnBsdWNrKCdleHRlcm5hbF91aWQnKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdHMtPnBsdWNrKCdleHRlcm5hbF91aWQnKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0Q3N2U2V0dGluZ3MoKSBtZXRob2QuCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0cy0+cGx1Y2soJ2V4dGVybmFsX3VpZCcpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnI6OnBsdWNrKCRyZXN1bHRzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNvbGxlY3Rpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0cy0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciAgJHJlc3VsdHMgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRmaWxlX3Jvd3MgPSBFeGNlbDo6dG9Db2xsZWN0aW9uKG5ldyBBY3RlbmdhZ2VUcmFuc2FjdGlvbkltcG9ydCgpLCAkZmlsZSk7CiAgICAgICAgICAgICAgICAkbGluZSA9ICRmaWxlX3Jvd3MtPmZpcnN0KCktPndoZXJlKCcnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1141,10 +1141,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpbGVfcm93cy0+Zmlyc3QoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRoYXNfdWlkID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBhcnJheQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gbWFwcGluZygpOiBhcnJheQogICAgewogICAgICAgIC8vIFRPRE86IEltcGxlbWVudCBtYXBwaW5nKCkgbWV0aG9kLgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
