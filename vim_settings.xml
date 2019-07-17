@@ -422,6 +422,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="57" column="17" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" timestamp="1563370806350">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="43" column="41" />
+        <mark key="^" line="45" column="26" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiModel.php" timestamp="1563281847864">
         <mark key="'" line="18" column="25" />
         <mark key="[" line="21" column="0" />
@@ -464,12 +470,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1563369471121">
-        <mark key="'" line="1965" column="30" />
-        <mark key="[" line="1971" column="20" />
-        <mark key="]" line="1971" column="21" />
-        <mark key="." line="1971" column="21" />
-        <mark key="^" line="1971" column="21" />
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1563370500929">
+        <mark key="'" line="1954" column="30" />
+        <mark key="[" line="1960" column="0" />
+        <mark key="]" line="1960" column="0" />
+        <mark key="." line="1960" column="0" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/tests/ApiConsumerTest.php" timestamp="1561125406040">
         <mark key="'" line="12" column="19" />
@@ -515,12 +520,12 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Cornerstone/MoveEftDataFiles.php" timestamp="1563285148157">
-        <mark key="'" line="56" column="34" />
-        <mark key="[" line="80" column="39" />
-        <mark key="]" line="81" column="37" />
-        <mark key="^" line="81" column="37" />
-        <mark key="." line="81" column="37" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Cornerstone/MoveEftDataFiles.php" timestamp="1563370754504">
+        <mark key="'" line="55" column="34" />
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="55" column="28" />
+        <mark key="^" line="55" column="28" />
+        <mark key="." line="55" column="28" />
       </file>
       <file name="/dummy.sql" timestamp="1563276422033">
         <mark key="[" line="0" column="0" />
@@ -774,12 +779,12 @@
       <file name="/FRC.VENDOR_CC_TRANSACTION [Dev FRC]" timestamp="1562858776097">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/TransactionTestCase.php" timestamp="1563368256514">
-        <mark key="'" line="181" column="33" />
-        <mark key="[" line="181" column="41" />
-        <mark key="]" line="181" column="40" />
-        <mark key="." line="181" column="40" />
-        <mark key="^" line="181" column="40" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/TransactionTestCase.php" timestamp="1563370997835">
+        <mark key="'" line="180" column="33" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="34" column="38" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/black-bits/laravel-api-consumer/src/Support/BaseEndpointShape.php" timestamp="1561129018057">
         <mark key="'" line="6" column="55" />
@@ -1130,13 +1135,6 @@
         <mark key="." line="31" column="58" />
         <mark key="^" line="31" column="58" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Imports/Traits/OracleConnections.php" timestamp="1563285944487">
-        <mark key="'" line="21" column="27" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="46" column="10" />
-      </file>
       <file name="/FRC.LISTS_EMAIL_VIEW [Dev FRC]" timestamp="1562157061162">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1396,7 +1394,7 @@
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>m/d/Y</text>
+        <text>$import</text>
       </register>
       <register name="/" type="4">
         <text>CSV</text>
@@ -1405,25 +1403,25 @@
         <text>&quot;01/01/2019-&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAncmFuZ2UnID0+ICIwMS8wMS8yMDE5LSIuQ2FyYm9uOjp0b2RheSgpLT5mb3JtYXQoJ20vZC9ZJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VwcGVyJyA9PiBDYXJib246OnRvZGF5KCktPmZvcm1hdCgnbS9kL1knKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGltcG9ydCA9IDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAnc3RhcnQtZGF0ZScgPT4gIjAxLzAxLzIwMTkiCiAgICAgICAgXQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkbG9jYWwgPSBTdG9yYWdlOjpkaXNrKCdsb2NhbCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKFZlbmRvckVmdFRyYW5zYWN0aW9uQmFzZTo6Y29ubmVjdGlvbigkdGVtcC0+ZGF0YWJhc2UpLT5maW5kKCR0ZW1wLT50cmFuc2FjdGlvbl9pZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPmpzb24oKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKG5ldyBzdGF0aWMpLT5hc3luY19yZXF1ZXN0cykgewogICAgICAgICAgICAkd2ViX3JlcXVlc3QgPSBuZXcgV2ViUmVxdWVzdChbCgogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgIHJldHVybiBTZW5kV2ViUmVxdWVzdDo6d2l0aENoYWluKFsKICAgICAgICAgICAgICAgIG5ldyBIYW5kbGVSZXNwb25zZSgkd2ViX3JlcXVlc3QpCgogICAgICAgICAgICBdKS0+ZGlzcGF0Y2goJHdlYl9yZXF1ZXN0KTsKCiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1584,10 +1582,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW1zKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAncmFuZ2UnID0+ICIwMS8wMS8yMDE5LSIuQ2FyYm9uOjp0b2RheSgpLT5mb3JtYXQoJ20vZC9ZJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VwcGVyJyA9PiBDYXJib246OnRvZGF5KCktPmZvcm1hdCgnbS9kL1knKSwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
