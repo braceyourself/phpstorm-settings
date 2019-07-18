@@ -494,6 +494,12 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/deploy.sh" timestamp="1563466715053">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" timestamp="1563454465378">
         <mark key="'" line="1940" column="29" />
         <mark key="[" line="179" column="38" />
@@ -1483,36 +1489,34 @@
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>++</text>
+        <text>git</text>
       </register>
       <register name="/" type="4">
         <text>ChargeAll</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09STkVSU1RPTkVfQVBJX1VTRVJOQU1FPXRlc3RfM2tkeU40TGVwU1F4S1lGeDJ1WWEKQ09STkVSU1RPTkVfQVBJX1BBU1NXT1JEPXRlc3RfUFI1T01nSjQ5OHdOUkdydjR0TGd3Rkh1YgoKU1FVQVJFX0lEPXNhbmRib3gtc3EwaWRwLTJDLWRwa3RibHNSR3E1U0tUOVJlVmcKU1FVQVJFX1RPS0VOPUVBQUFFSmNmRVAwQ3QxR2Faek1uRWNLNkNSeTF4cTlzdkRPNEZVc2dnTmRtcGw5andzd3drd05yRzFWTzFCZEQKCgpWQVVMVF9NT1VOVF9MT0NBVElPTj0vbW50L2cvdmF1bHQKQUVfRlRQX01PVU5UX0xPQ0FUSU9OPS9tbnQvZi9hY3RlbmdhZ2UKTURTX0xPQ0FMX1JPT1Q9L21udC9mL21kcwo=</text>
+        <text encoding="base64">cGhwIGFydGlzYW4gdmlldzpjYWNoZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">YmluZ2JvbmcgdGVzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCk7Cg==</text>
+        <text encoding="base64">dGVzdGluZyBoZWxsbyB3b3JsZHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ZWNobyAiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxBcnI7CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcQ29sbGVjdGlvbjsKdXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxOb3RpZmljYXRpb25zXEVycm9yTm90aWZpY2F0aW9uOwp1c2UgQXBwXE5vdGlmaWNhdGlvbnNcTmV3RWZ0RmlsZUNyZWF0ZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YXJndW1lbnRzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>[
-
-        ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxBcnI7CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcQ29sbGVjdGlvbjsKdXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1673,13 +1677,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
+        <text encoding="base64">dXNlIEFwcFxOb3RpZmljYXRpb25zXEVycm9yTm90aWZpY2F0aW9uOwp1c2UgQXBwXE5vdGlmaWNhdGlvbnNcTmV3RWZ0RmlsZUNyZWF0ZWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YXJndW1lbnRzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>141</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1731,10 +1735,10 @@
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvXDEv</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvIlwxIiwv</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>87</entry>
         <entry>204</entry>
         <entry>141</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
