@@ -191,12 +191,12 @@
       <file name="/FRC.VENDOR_EFT_TRANSACTION [Dev FRCA]" timestamp="1563219442278">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Cornerstone/ImportEftData.php" timestamp="1563447894431">
-        <mark key="'" line="37" column="35" />
-        <mark key="[" line="37" column="58" />
-        <mark key="]" line="38" column="11" />
-        <mark key="." line="38" column="11" />
-        <mark key="^" line="38" column="11" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Cornerstone/ImportEftData.php" timestamp="1563449308337">
+        <mark key="'" line="38" column="35" />
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+        <mark key="." line="37" column="11" />
       </file>
       <file name="/a.sql" timestamp="1563302801906">
         <mark key="[" line="0" column="0" />
@@ -482,12 +482,12 @@
       <file name="/main.users [database.sqlite]" timestamp="1563198138907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" timestamp="1563448562701">
-        <mark key="'" line="126" column="25" />
-        <mark key="[" line="131" column="38" />
-        <mark key="]" line="131" column="44" />
-        <mark key="." line="131" column="44" />
-        <mark key="^" line="131" column="44" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" timestamp="1563449464131">
+        <mark key="'" line="41" column="23" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="^" line="124" column="56" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/FlushRedisDb.php" timestamp="1562944949049">
         <mark key="'" line="34" column="5" />
@@ -788,12 +788,12 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/ImportTestCase.php" timestamp="1563448581136">
-        <mark key="'" line="46" column="26" />
-        <mark key="[" line="36" column="48" />
-        <mark key="]" line="36" column="54" />
-        <mark key="." line="36" column="54" />
-        <mark key="^" line="36" column="54" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/ImportTestCase.php" timestamp="1563449475899">
+        <mark key="'" line="46" column="27" />
+        <mark key="[" line="48" column="41" />
+        <mark key="]" line="49" column="11" />
+        <mark key="." line="49" column="11" />
+        <mark key="^" line="49" column="11" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Actengage/Donation.php" timestamp="1563281966187">
         <mark key="[" line="6" column="0" />
@@ -1313,9 +1313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="28" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/RemoteModel.php" />
-      <jump line="48" column="41" filename="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" />
-      <jump line="55" column="36" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Cornerstone/ImportEftDataFiles.php" />
       <jump line="29" column="27" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/ImportTests.php" />
       <jump line="45" column="24" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTests.php" />
       <jump line="70" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTests.php" />
@@ -1409,44 +1406,47 @@
       <jump line="49" column="68" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/TransactionTestCase.php" />
       <jump line="275" column="16" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/TransactionTestCase.php" />
       <jump line="103" column="20" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
-      <jump line="123" column="29" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
-      <jump line="45" column="26" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/ImportTestCase.php" />
-      <jump line="46" column="26" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/ImportTestCase.php" />
       <jump line="126" column="25" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
+      <jump line="131" column="41" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
+      <jump line="123" column="23" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
+      <jump line="45" column="26" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/ImportTestCase.php" />
+      <jump line="132" column="41" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
+      <jump line="41" column="23" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
+      <jump line="46" column="27" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/ImportTestCase.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>temp</text>
+        <text>'local'</text>
       </register>
       <register name="/" type="4">
-        <text>temp_eft_transactions</text>
+        <text>expectsJobs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2JhbmtBY2N0X251bWJlcicgPT4gbnVsbCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0RmlsZW5hbWVXaXRoQ29ubmVjdGlvbigkZmlsZSkKICAgIHsKICAgICAgICAkZGlybmFtZSA9IHBhdGhpbmZvKCRmaWxlKVsnZGlybmFtZSddOwogICAgICAgICRkaXJuYW1lX3BhcnRzID0gZXhwbG9kZSgnLycsICRkaXJuYW1lKTsKICAgICAgICAkZGlyID0gZXhwbG9kZSgnLycsICRkaXJuYW1lKVtjb3VudCgkZGlybmFtZV9wYXJ0cykgLSAxXTsKICAgICAgICAkZmlsZSA9IGJhc2VuYW1lKCRmaWxlKTsKICAgICAgICByZXR1cm4gIiRkaXIvJGZpbGUiOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRmaWxlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCJJbXBvcnRpbmcgJGZpbGUiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgiSW1wb3J0aW5nICRmaWxlIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRpcm5hbWUgPSBwYXRoaW5mbygkZmlsZSlbJ2Rpcm5hbWUnXTsKICAgICAgICAgICAgJGRpcm5hbWVfcGFydHMgPSBleHBsb2RlKCcvJywgJGRpcm5hbWUpOwogICAgICAgICAgICAkZGlyID0gZXhwbG9kZSgnLycsICRkaXJuYW1lKVtjb3VudCgkZGlybmFtZV9wYXJ0cykgLSAxXTsKICAgICAgICAgICAgJGZpbGUgPSBiYXNlbmFtZSgkZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRmaWxlCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBpc19pbXBvcnRlZCgkZmlsZSl7CgogICAgICAgICRpbXBvcnQgPSBuZXcgRWZ0Q3N2SW1wb3J0KCRmaWxlKTsKICAgICAgICAKICAgICAgICAkZmlsZV9saW5lcyA9IEV4Y2VsOjp0b0NvbGxlY3Rpb24oJGltcG9ydCwgJGZpbGUsICdsb2NhbCcpLT5maXJzdCgpLT5hbGwoKTsKICAgICAgICBmb3JlYWNoICgkZmlsZV9saW5lcyBhcyAkbGluZSkgewogICAgICAgICAgICAkdGhpcy0+YXNzZXJ0RGF0YWJhc2VIYXMoJ3RlbXBfZWZ0X3RyYW5zYWN0aW9ucycsICRsaW5lLT50b0FycmF5KCkpOwogICAgICAgIH0KCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+bG9jYWxfZGlzay0+YWxsRmlsZXMoKSwgJGZpbGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV9zcGxpY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRmaWxlKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1607,19 +1607,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkZmlsZSwgJHByb2Nlc3NlZF9wYXRoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2VtYWlsX2FkZHJlc3MnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>87</text>
       </register>
     </registers>
     <search>
-      <last-search>temp_eft_transactions</last-search>
+      <last-search>expectsJobs</last-search>
       <last-offset />
-      <last-pattern>temp_eft_transactions</last-pattern>
+      <last-pattern>expectsJobs</last-pattern>
       <last-replace>&quot;\1&quot;,</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1627,7 +1627,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hiddenK</entry>
         <entry>appends</entry>
         <entry>dates</entry>
         <entry>eachFile</entry>
@@ -1647,6 +1646,7 @@
         <entry>basename</entry>
         <entry>$dir\/</entry>
         <entry>temp_eft_transactions</entry>
+        <entry>expectsJobs</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
