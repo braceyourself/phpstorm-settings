@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/mnt/g/FRESCO32/DDL/Packages/api_mobilecause.sql" timestamp="1562780325011">
-        <mark key="'" line="13" column="63" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Notifications/FilesDownloadingNotification.php" timestamp="1561992726527">
+        <mark key="[" line="28" column="118" />
+        <mark key="]" line="28" column="125" />
+        <mark key="^" line="28" column="125" />
+        <mark key="." line="28" column="125" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Admin/Actions/ChargePendingTransaction.php" timestamp="1563535171468">
         <mark key="[" line="34" column="44" />
@@ -33,11 +36,23 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/maatwebsite/excel/src/Excel.php" timestamp="1563305832859">
-        <mark key="'" line="11" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0a175d32-d706-4d69-b374-baadb43fb352/console.sql" timestamp="1562332053685">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Admin/Widgets/JobsWidget.php" timestamp="1562077839163">
-        <mark key="'" line="9" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c03b9c47-658f-47fa-9fab-3b327be33fb8/console_1.sql" timestamp="1562156372635">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Policies/UserPolicy.php" timestamp="1562084246676">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/database/migrations/2019_07_15_115601_create_pending_eft_transactions_table.php" timestamp="1563451329976">
         <mark key="'" line="15" column="24" />
@@ -46,11 +61,11 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="24" column="54" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Frc/Email.php" timestamp="1562150094824">
-        <mark key="'" line="4" column="10" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Queue/Queue.php" timestamp="1562957895620">
-        <mark key="'" line="47" column="37" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/SendWebRequest.php" timestamp="1563211430898">
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="14" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ProcessEftFiles.php" timestamp="1563205997633">
         <mark key="'" line="44" column="41" />
@@ -58,6 +73,12 @@
         <mark key="]" line="81" column="47" />
         <mark key="^" line="81" column="47" />
         <mark key="." line="81" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorCCTransactionLoadBase.php" timestamp="1562960236421">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Cornerstone/ImportEftData.php" timestamp="1563451632924">
         <mark key="[" line="45" column="0" />
@@ -72,26 +93,49 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/storage/stubs/FrcaModel.stub" timestamp="1562152967937">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Http/Middleware/IsInvited.php" timestamp="1563552079375">
+        <mark key="'" line="21" column="20" />
+        <mark key="[" line="25" column="44" />
+        <mark key="]" line="25" column="56" />
+        <mark key="." line="25" column="56" />
+        <mark key="^" line="25" column="56" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console_2.sql" timestamp="1562274748300">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Unit/ApiModelTests.php" timestamp="1563282178500">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="12" column="18" />
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/User.php" timestamp="1563197466677">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="49" column="21" />
-        <mark key="]" line="49" column="32" />
-        <mark key="^" line="49" column="20" />
-        <mark key="." line="49" column="21" />
+      <file name="$USER_HOME$/code/api-frc-org/app/FrcAction/ActengageEmailClickLoad.php" timestamp="1562009189249">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="32" />
       </file>
-      <file name="/mnt/g/FRESCO32/DDL/Packages/api_call.sql" timestamp="1563534018722">
-        <mark key="a" line="1870" column="31" />
-        <mark key="'" line="216" column="48" />
-        <mark key="[" line="1777" column="0" />
-        <mark key="]" line="1777" column="37" />
-        <mark key="^" line="1870" column="30" />
-        <mark key="." line="1870" column="30" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/UpdateVendorData.php" timestamp="1562172427584">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="38" column="100" />
+        <mark key="." line="38" column="100" />
+        <mark key="^" line="38" column="100" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/User.php" timestamp="1563553926143">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="57" column="24" />
+        <mark key="]" line="57" column="27" />
+        <mark key="^" line="57" column="27" />
+        <mark key="." line="57" column="27" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/config/horizon.php" timestamp="1563204117670">
         <mark key="'" line="54" column="16" />
@@ -100,8 +144,18 @@
         <mark key="." line="153" column="32" />
         <mark key="^" line="146" column="31" />
       </file>
-      <file name="/mnt/g/FRESCO32/DDL/Packages/list_info.sql" timestamp="1562096290362">
-        <mark key="'" line="705" column="54" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Http/Controllers/UserController.php" timestamp="1563554684305">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="31" />
+        <mark key="." line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/horizon/composer.json" timestamp="1562934703528">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/resources/views/email/notifications/basic.blade.php" timestamp="1563391324161">
         <mark key="[" line="0" column="4" />
@@ -115,14 +169,23 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/ListsEmailViewBase.php" timestamp="1562153059108">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Notifications/Invite.php" timestamp="1563542047693">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="45" column="65" />
         <mark key="." line="45" column="65" />
         <mark key="^" line="45" column="65" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php" timestamp="1562957964754">
-        <mark key="'" line="18" column="28" />
+      <file name="$USER_HOME$/code/api-frc-org/resources/js/layouts/partials/Navbar.vue" timestamp="1563555525634">
+        <mark key="[" line="59" column="42" />
+        <mark key="]" line="59" column="48" />
+        <mark key="." line="59" column="48" />
+        <mark key="^" line="59" column="48" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/.env.example" timestamp="1563479360154">
         <mark key="'" line="37" column="23" />
@@ -138,9 +201,6 @@
         <mark key="^" line="23" column="41" />
         <mark key="." line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/File.php" timestamp="1561989715561">
-        <mark key="'" line="69" column="33" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/08cb2572-307e-47e4-877b-3ad8a1c6c20b/console_2.sql" timestamp="1563201595257">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="0" column="0" />
@@ -148,8 +208,17 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="57" column="17" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Support/Traits/Macroable.php" timestamp="1561562459685">
-        <mark key="'" line="13" column="5" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" timestamp="1563553081467">
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="48" column="43" />
+        <mark key="." line="48" column="43" />
+        <mark key="^" line="48" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Imports/Actengage/UpdateVdaAddress.php" timestamp="1562332439953">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="99" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="87" column="36" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Client.php" timestamp="1563281977244">
         <mark key="[" line="5" column="0" />
@@ -164,11 +233,18 @@
         <mark key="^" line="40" column="61" />
         <mark key="." line="40" column="61" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/resources/js/pages/invite.vue" timestamp="1563480027689">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="7" />
+      <file name="$USER_HOME$/code/api-frc-org/resources/js/pages/invite.vue" timestamp="1563555263855">
+        <mark key="'" line="53" column="49" />
+        <mark key="[" line="70" column="40" />
+        <mark key="]" line="70" column="40" />
+        <mark key="." line="70" column="40" />
+        <mark key="^" line="70" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Model.php" timestamp="1562152670082">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/deploy.sh" timestamp="1563468099171">
         <mark key="[" line="5" column="41" />
@@ -182,17 +258,35 @@
         <mark key="." line="1987" column="53" />
         <mark key="^" line="1987" column="53" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Invite.php" timestamp="1563542742023">
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="26" column="39" />
-        <mark key="." line="26" column="39" />
-        <mark key="^" line="26" column="39" />
+      <file name="$USER_HOME$/code/api-frc-org/config/api-clients.php" timestamp="1562690083324">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="8" column="64" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/maatwebsite/excel/src/Sheet.php" timestamp="1562013084502">
-        <mark key="'" line="166" column="64" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Invite.php" timestamp="1563551577409">
+        <mark key="[" line="36" column="77" />
+        <mark key="]" line="37" column="7" />
+        <mark key="." line="37" column="7" />
+        <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1562775226997">
-        <mark key="'" line="20" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Http/Kernel.php" timestamp="1563545943316">
+        <mark key="[" line="71" column="23" />
+        <mark key="]" line="71" column="39" />
+        <mark key="^" line="71" column="39" />
+        <mark key="." line="71" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Imports/ActengageEmailAppeal.php" timestamp="1562010520112">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="62" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/resources/js/router/routes.js" timestamp="1563552676959">
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="68" column="54" />
+        <mark key="^" line="68" column="54" />
+        <mark key="." line="68" column="54" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" timestamp="1563282165564">
         <mark key="[" line="32" column="25" />
@@ -200,15 +294,23 @@
         <mark key="." line="33" column="35" />
         <mark key="^" line="33" column="35" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/InviteUser.php" timestamp="1563542601983">
-        <mark key="'" line="55" column="12" />
-        <mark key="[" line="56" column="34" />
-        <mark key="]" line="56" column="34" />
-        <mark key="." line="56" column="34" />
-        <mark key="^" line="56" column="34" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/InviteUser.php" timestamp="1563545154188">
+        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="38" />
+        <mark key="^" line="55" column="38" />
+        <mark key="." line="55" column="38" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/tcg/voyager/resources/assets/js/helpers.js" timestamp="1563540959437">
-        <mark key="'" line="79" column="24" />
+      <file name="$USER_HOME$/code/api-frc-org/app/FrcAction/ActengageEmailOpenLoad.php" timestamp="1562009227536">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/resources/js/pages/home/index.vue" timestamp="1563552880540">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/Cornerstone/ProcessEfts.php" timestamp="1563485160607">
         <mark key="'" line="46" column="42" />
@@ -216,9 +318,6 @@
         <mark key="]" line="16" column="74" />
         <mark key="." line="16" column="74" />
         <mark key="^" line="16" column="74" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/redis/Redis.php" timestamp="1562944092634">
-        <mark key="'" line="106" column="33" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Notifications/ErrorNotification.php" timestamp="1563458738466">
         <mark key="'" line="6" column="5" />
@@ -233,6 +332,12 @@
         <mark key="." line="37" column="59" />
         <mark key="^" line="37" column="59" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerston/Efts/EftTransactionTests.php" timestamp="1563209384402">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="45" />
+        <mark key="^" line="0" column="45" />
+        <mark key="." line="0" column="45" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/TransactionTests.php" timestamp="1563282521700">
         <mark key="'" line="163" column="38" />
         <mark key="[" line="176" column="0" />
@@ -240,8 +345,11 @@
         <mark key="^" line="170" column="3" />
         <mark key="." line="176" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Routing/Router.php" timestamp="1561562473419">
-        <mark key="'" line="31" column="23" />
+      <file name="$USER_HOME$/code/api-frc-org/resources/js/pages/OAuth.vue" timestamp="1563553239254">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Notifications/InviteNotification.php" timestamp="1563542151525">
         <mark key="[" line="39" column="43" />
@@ -274,6 +382,12 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="233" column="3" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/storage/stubs/AbstractModel.stub" timestamp="1562152982868">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Jobs/SendWebRequest.php" timestamp="1563212296930">
         <mark key="[" line="24" column="44" />
         <mark key="]" line="24" column="50" />
@@ -287,8 +401,17 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="39" column="43" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php" timestamp="1561994680871">
-        <mark key="'" line="10" column="53" />
+      <file name="$USER_HOME$/code/api-frc-org/app/EftFile.php" timestamp="1562699355890">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+        <mark key="^" line="12" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/database/seeds/RolesTableSeeder.php" timestamp="1563553691827">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="29" column="43" />
+        <mark key="." line="29" column="43" />
+        <mark key="^" line="29" column="43" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/config/excel.php" timestamp="1563305812750">
         <mark key="'" line="108" column="30" />
@@ -297,12 +420,12 @@
         <mark key="^" line="71" column="41" />
         <mark key="." line="71" column="41" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/routes/api.php" timestamp="1563534908596">
-        <mark key="'" line="31" column="84" />
-        <mark key="[" line="31" column="101" />
-        <mark key="]" line="32" column="3" />
-        <mark key="." line="32" column="3" />
-        <mark key="^" line="32" column="3" />
+      <file name="$USER_HOME$/code/api-frc-org/routes/api.php" timestamp="1563549714630">
+        <mark key="'" line="33" column="84" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="70" />
+        <mark key="^" line="31" column="70" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Square/SquareEndpoint.php" timestamp="1563282087984">
         <mark key="[" line="6" column="0" />
@@ -317,8 +440,17 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
       </file>
-      <file name="/mnt/g/FRESCO32/DDL/Packages/api_resourceone.sql" timestamp="1561745030716">
-        <mark key="'" line="251" column="15" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Procedures/CreditCardManagement/ImportVendorCreditCardData.php" timestamp="1562955037770">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="33" column="36" />
+        <mark key="^" line="33" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/FrcAction/ActengageEmailBounceLoad.php" timestamp="1562009157148">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+        <mark key="^" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/database/factories/EftExportFactory.php" timestamp="1563537310588">
         <mark key="[" line="15" column="8" />
@@ -340,8 +472,17 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Queue/QueueManager.php" timestamp="1562957930990">
-        <mark key="'" line="60" column="24" />
+      <file name="$USER_HOME$/code/api-frc-org/app/helpers.php" timestamp="1563217653323">
+        <mark key="[" line="11" column="119" />
+        <mark key="]" line="11" column="119" />
+        <mark key="." line="11" column="119" />
+        <mark key="^" line="11" column="119" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/resources/js/pages/ManageApis/index.vue" timestamp="1563552691261">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+        <mark key="^" line="27" column="29" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Actengage/Donation.php" timestamp="1563281966187">
         <mark key="[" line="6" column="0" />
@@ -362,8 +503,17 @@
         <mark key="." line="31" column="56" />
         <mark key="^" line="31" column="56" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Pivot.php" timestamp="1562698193894">
-        <mark key="'" line="9" column="9" />
+      <file name="$USER_HOME$/code/api-frc-org/database/migrations/2019_07_08_160900_create_errors_table.php" timestamp="1562674910021">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/storage/stubs/FrcModel.stub" timestamp="1562152950197">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/WebRequest.php" timestamp="1563211403334">
         <mark key="[" line="12" column="12" />
@@ -371,8 +521,17 @@
         <mark key="^" line="21" column="49" />
         <mark key="." line="21" column="49" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/tcg/voyager/resources/views/tools/database/vue-components/database-table-editor.blade.php" timestamp="1563540944315">
-        <mark key="'" line="124" column="34" />
+      <file name="$USER_HOME$/code/api-frc-org/resources/views/admin/error/fields/data.blade.php" timestamp="1563475307068">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a0131f24-fcb1-4a9d-a50e-b5ed01438b90/console.sql" timestamp="1562861320489">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorEftTransactionBase.php" timestamp="1563365669053">
         <mark key="'" line="29" column="29" />
@@ -381,24 +540,24 @@
         <mark key="." line="33" column="85" />
         <mark key="^" line="33" column="85" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/SPL/SPL.php" timestamp="1562784228405">
-        <mark key="'" line="61" column="31" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Models/MakeRequest.php" timestamp="1563213580346">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="8" column="3" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
-      <file name="/mnt/g/FRESCO32/DDL/Packages/dup_mgmt.sql" timestamp="1562157849633">
-        <mark key="'" line="1549" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/.env" timestamp="1563485001852">
+      <file name="$USER_HOME$/code/api-frc-org/.env" timestamp="1563546955756">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Actengage/ImportActengageData.php" timestamp="1563301152628">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="27" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Error.php" timestamp="1563534375736">
         <mark key="[" line="34" column="35" />
@@ -406,20 +565,23 @@
         <mark key="." line="34" column="33" />
         <mark key="^" line="34" column="33" />
       </file>
+      <file name="$USER_HOME$/code/horizon/resources/views/layout.blade.php" timestamp="1562931461378">
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="30" column="47" />
+        <mark key="^" line="30" column="47" />
+        <mark key="." line="30" column="47" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Square/Transaction.php" timestamp="1563282126604">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="9" column="36" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/yajra/laravel-pdo-via-oci8/src/Pdo/Oci8/Exceptions/Oci8Exception.php" timestamp="1562784224073">
-        <mark key="'" line="6" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Frc/Account.php" timestamp="1562150203063">
-        <mark key="'" line="4" column="10" />
-      </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/PDO/PDO.php" timestamp="1562784226370">
-        <mark key="'" line="10" column="27" />
+      <file name="$USER_HOME$/code/api-frc-org/database/factories/ErrorFactory.php" timestamp="1563457105552">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTests.php" timestamp="1563285986451">
         <mark key="[" line="33" column="4" />
@@ -427,11 +589,23 @@
         <mark key="." line="33" column="12" />
         <mark key="^" line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php" timestamp="1562876294894">
-        <mark key="'" line="186" column="27" />
+      <file name="$USER_HOME$/code/api-frc-org/resources/js/pages/users/index.vue" timestamp="1563553229201">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="32" column="28" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php" timestamp="1562149839505">
-        <mark key="'" line="6" column="36" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Imports/ActengageEmailClick.php" timestamp="1562010505322">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/EftFileRow.php" timestamp="1562777863678">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="40" column="39" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="34" column="41" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" timestamp="1563282137045">
         <mark key="'" line="17" column="38" />
@@ -446,8 +620,11 @@
         <mark key="^" line="24" column="50" />
         <mark key="." line="24" column="50" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core.php" timestamp="1562772253617">
-        <mark key="'" line="349" column="11" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Imports/UpdateVendorData.php" timestamp="1562171381822">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="32" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/ActengageTransaction.php" timestamp="1563291885957">
         <mark key="[" line="68" column="22" />
@@ -461,6 +638,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Imports/ActengageEmailBounce.php" timestamp="1562010511446">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Imports/Actengage/TransactionsImport.php" timestamp="1563306192256">
         <mark key="[" line="11" column="68" />
@@ -488,6 +671,12 @@
         <mark key="." line="31" column="58" />
         <mark key="^" line="31" column="58" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/FrcAction/ActengageEmailOptoutLoad.php" timestamp="1562015795029">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/ErrorNotificationTests.php" timestamp="1563460852416">
         <mark key="'" line="66" column="20" />
         <mark key="[" line="11" column="0" />
@@ -502,17 +691,17 @@
         <mark key="." line="24" column="6" />
         <mark key="^" line="24" column="6" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Console/Command.php" timestamp="1562786217804">
-        <mark key="'" line="270" column="34" />
+      <file name="$USER_HOME$/code/api-frc-org/resources/js/pages/cornerstone/index.vue" timestamp="1563196444485">
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+        <mark key="." line="24" column="28" />
       </file>
-      <file name="/RemoteModel.php" timestamp="1561550539707">
-        <mark key="'" line="381" column="16" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/migrations/2019_07_18_160200_create_invites_table.php" timestamp="1563480502711">
-        <mark key="[" line="20" column="96" />
-        <mark key="]" line="20" column="103" />
-        <mark key="^" line="20" column="103" />
-        <mark key="." line="20" column="103" />
+      <file name="$USER_HOME$/code/api-frc-org/database/migrations/2019_07_18_160200_create_invites_table.php" timestamp="1563555060418">
+        <mark key="[" line="20" column="76" />
+        <mark key="]" line="20" column="76" />
+        <mark key="^" line="20" column="76" />
+        <mark key="." line="20" column="76" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1563304484987">
         <mark key="'" line="110" column="0" />
@@ -521,6 +710,12 @@
         <mark key="^" line="110" column="28" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ProcessableFile.php" timestamp="1562088608003">
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="38" column="7" />
+        <mark key="." line="38" column="7" />
+        <mark key="^" line="38" column="7" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/UnbatchedAccountsViewBase.php" timestamp="1563287317381">
         <mark key="'" line="7" column="15" />
         <mark key="[" line="14" column="10" />
@@ -528,27 +723,39 @@
         <mark key="^" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/FrcAction/ActengageEmailAppealLoad.php" timestamp="1562009115098">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="9" column="52" />
+        <mark key="." line="9" column="52" />
+        <mark key="^" line="9" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Models/WebRequest.php" timestamp="1563213445228">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiClient.php" timestamp="1563368619422">
         <mark key="[" line="55" column="15" />
         <mark key="]" line="55" column="26" />
         <mark key="." line="55" column="26" />
         <mark key="^" line="55" column="26" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/seeds/DatabaseSeeder.php" timestamp="1563470147154">
+      <file name="$USER_HOME$/code/api-frc-org/app/Notifications/NewEftFileCreated.php" timestamp="1562586671713">
+        <mark key="[" line="26" column="17" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="26" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/database/seeds/DatabaseSeeder.php" timestamp="1563555370731">
         <mark key="'" line="35" column="12" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="3" />
-        <mark key="." line="58" column="3" />
-        <mark key="^" line="58" column="3" />
+        <mark key="[" line="54" column="43" />
+        <mark key="]" line="56" column="68" />
+        <mark key="." line="56" column="68" />
+        <mark key="^" line="56" column="68" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="43" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/TransactionTestCase.php" />
-      <jump line="49" column="68" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/TransactionTestCase.php" />
-      <jump line="275" column="16" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/TransactionTestCase.php" />
-      <jump line="103" column="20" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
-      <jump line="126" column="25" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
-      <jump line="131" column="41" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
       <jump line="123" column="23" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
       <jump line="132" column="41" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
       <jump line="41" column="23" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerstone/Efts/BaseTransactionTestCase.php" />
@@ -643,40 +850,46 @@
       <jump line="54" column="40" filename="$USER_HOME$/code/api-frc-org/app/Console/Commands/InviteUser.php" />
       <jump line="11" column="0" filename="$USER_HOME$/code/api-frc-org/app/Console/Commands/InviteUser.php" />
       <jump line="55" column="12" filename="$USER_HOME$/code/api-frc-org/app/Console/Commands/InviteUser.php" />
+      <jump line="58" column="21" filename="$USER_HOME$/code/api-frc-org/resources/js/pages/invite.vue" />
+      <jump line="21" column="20" filename="$USER_HOME$/code/api-frc-org/app/Http/Middleware/IsInvited.php" />
+      <jump line="50" column="49" filename="$USER_HOME$/code/api-frc-org/resources/js/pages/invite.vue" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/api-frc-org/app/Http/Controllers/UserController.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/code/api-frc-org/app/User.php" />
+      <jump line="35" column="12" filename="$USER_HOME$/code/api-frc-org/database/seeds/DatabaseSeeder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
-        <text>alert</text>
+        <text>Admin</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">anNvbl9lbmNvZGUoJHRoaXMtPmRhdGEp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iZHJvcGRvd24taXRlbSBwb2ludGVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LWlmPSJ1c2VyLmFkbWluIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBocmVmPSIvYWRtaW4iPkFkbWluPC9hPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRFbWFpbEF0dHJpYnV0ZSgpewogICAgICAgIHJldHVybiAkdGhpcy0+dXNlci0+ZW1haWw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgiOmlucHV0IikuY2hhbmdlKCgpPT57CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygkKHRoaXMpLnRleHQoKSkKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZW1haWwgPSAkdGhpcy0+ZW1haWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLmVycm9ycy5wdXNoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZXJyb3JzLnB1c2goXy52YWx1ZXMoZSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJz0+ICR1c2VyLT5lbWFpbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChsZXQgZSBpbiBkYXRhLmVycm9ycyl7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5lcnJvcnMgPSBkYXRhLmVycm9yczsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -837,19 +1050,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXI6Om1ha2UoWwogICAgICAgICAgICAnZW1haWwnID0+ICR0aGlzLT5hcmd1bWVudCgnZW1haWwnKQogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXJyYXkuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlciA9ICR1c2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IHYtZWxzZT4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>alert</last-search>
+      <last-search>Admin</last-search>
       <last-offset />
-      <last-pattern>alert</last-pattern>
+      <last-pattern>Admin</last-pattern>
       <last-replace>&quot;\1&quot;,</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
@@ -857,9 +1070,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Csv</entry>
-        <entry>csv</entry>
-        <entry>TSV</entry>
         <entry>CSV</entry>
         <entry>charge</entry>
         <entry>rules</entry>
@@ -877,13 +1087,15 @@
         <entry>with(</entry>
         <entry>delete</entry>
         <entry>alert</entry>
+        <entry>middleware</entry>
+        <entry>Middleware</entry>
+        <entry>Admin</entry>
       </history-search>
       <history-cmd>
         <entry>101</entry>
         <entry>132</entry>
         <entry>175</entry>
         <entry>2499</entry>
-        <entry>wq</entry>
         <entry>71</entry>
         <entry encoding="base64">JzwsJz4gcy8qL3Rlc3Qv</entry>
         <entry encoding="base64">JzwsJz4gcy8uKi90ZXN0Lw==</entry>
@@ -898,6 +1110,7 @@
         <entry>204</entry>
         <entry>141</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
