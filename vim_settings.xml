@@ -309,12 +309,12 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/PendingEftTransaction.php" timestamp="1564074534351">
+      <file name="$USER_HOME$/code/api-frc-org/app/PendingEftTransaction.php" timestamp="1564077061381">
         <mark key="'" line="273" column="20" />
-        <mark key="[" line="374" column="21" />
-        <mark key="]" line="374" column="20" />
-        <mark key="." line="374" column="20" />
-        <mark key="^" line="374" column="20" />
+        <mark key="[" line="368" column="5" />
+        <mark key="]" line="369" column="3" />
+        <mark key="." line="369" column="3" />
+        <mark key="^" line="369" column="3" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/helpers.php" timestamp="1563217653323">
         <mark key="[" line="11" column="119" />
@@ -922,11 +922,11 @@
         <mark key="." line="33" column="12" />
         <mark key="^" line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/resources/views/admin/pending-eft-transactions/fields/gift_no.blade.php" timestamp="1564072283257">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="8" />
-        <mark key="^" line="8" column="9" />
-        <mark key="." line="8" column="8" />
+      <file name="$USER_HOME$/code/api-frc-org/resources/views/admin/pending-eft-transactions/fields/gift_no.blade.php" timestamp="1564077031178">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Imports/ActengageEmailClick.php" timestamp="1562010505322">
         <mark key="[" line="9" column="0" />
@@ -1167,7 +1167,7 @@
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>101iFV831ZE2cc</text>
+        <text>/** @var \App\PendingEftTransaction $data */</text>
       </register>
       <register name="/" type="4">
         <text>getIsR</text>
@@ -1176,25 +1176,25 @@
         <text>101iG07kWeswMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVmdW4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzY29wZU5vdFJlZnVuZGVkKCRxdWVyeSl7CiAgICAgICAgcmV0dXJuICRxdWVyeTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBnaWZ0CndoZXJlIFZFTkRPUl9UUkFOU0FDVElPTl9OTyA9ICcxMDFpRlk3dHpGWWJuNicKLS0gd2hlcmUgR0lGVF9OTyA9IDMzNjIwMDcK</text>
+        <text encoding="base64">LyoqIEB2YXIgXEFwcFxQZW5kaW5nRWZ0VHJhbnNhY3Rpb24gJGRhdGFUeXBlQ29udGVudCAqLwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LCBbCiAgICAgICAgICAgICdzdGF0dXNfY29kZScgPT4gInJlZnVuZCBwcm9jZXNzaW5nIgogICAgICAgIF0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYoIWlzc2V0KCRkYXRhKSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdmFyIFRZUEVfTkFNRSAkZGF0YVR5cGVDb250ZW50ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKICAgICAgICAkdmVuZG9yX2RhdGEtPnN0YXR1c19jb2RlID0gInBlbmRpbmcgcmVmdW5kIjsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVmdW4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1355,10 +1355,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBnaWZ0CndoZXJlIFZFTkRPUl9UUkFOU0FDVElPTl9OTyA9ICcxMDFpRlk3dHpGWWJuNicKLS0gd2hlcmUgR0lGVF9OTyA9IDMzNjIwMDcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
