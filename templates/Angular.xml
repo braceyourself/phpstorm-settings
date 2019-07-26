@@ -177,9 +177,4 @@
     <variable name="property" expression="" defaultValue="&quot;property&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="a-ngrx-data-entity-collection-data-service" value="import { Injectable } from '@angular/core';&#10;import {&#10;  EntityCollectionServiceBase,&#10;  EntityCollectionServiceElementsFactory&#10;} from 'ngrx-data';&#10;import { $Model$ } from '$2$';&#10;&#10;@Injectable({ providedIn: 'root' })&#10;export class $Model$Service extends EntityCollectionServiceBase&lt;$Model$&gt; {&#10;  constructor(serviceElementsFactory: EntityCollectionServiceElementsFactory) {&#10;    super('$Model$', serviceElementsFactory);&#10;  }&#10;}" description="NgRx Data Entity Collection Data Service" toReformat="true" toShortenFQNames="true">
-    <variable name="2" expression="" defaultValue="&quot;../core&quot;" alwaysStopAt="true" />
-    <variable name="Model" expression="" defaultValue="&quot;Model&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
 </templateSet>
