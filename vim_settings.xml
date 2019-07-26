@@ -864,11 +864,10 @@
         <mark key="^" line="13" column="32" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/seeds/PendingEftSeeder.php" timestamp="1564141635646">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="24" column="24" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/database/seeds/PendingEftSeeder.php" timestamp="1564149124774">
+        <mark key="[" line="22" column="62" />
+        <mark key="]" line="22" column="62" />
+        <mark key="." line="22" column="62" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Admin/Actions/UpdatePendingTransaction.php" timestamp="1564070570779">
         <mark key="'" line="21" column="7" />
@@ -1470,11 +1469,11 @@
         <mark key="^" line="31" column="30" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/PendingEftTransactionFactory.php" timestamp="1564145788766">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="25" column="28" />
-        <mark key="." line="25" column="21" />
-        <mark key="^" line="25" column="20" />
+      <file name="$USER_HOME$/code/api-frc-org/database/factories/PendingEftTransactionFactory.php" timestamp="1564149171602">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="63" />
+        <mark key="." line="13" column="63" />
+        <mark key="^" line="13" column="63" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/EftFileCheckTests.php" timestamp="1562588457541">
         <mark key="'" line="27" column="41" />
@@ -1563,9 +1562,9 @@
       <file name="/main.temp_eft_transactions [database.sqlite]" timestamp="1563276421635">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/EftExportFactory.php" timestamp="1563537310588">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="7" />
+      <file name="$USER_HOME$/code/api-frc-org/database/factories/EftExportFactory.php" timestamp="1564148947691">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="56" />
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
@@ -2096,34 +2095,34 @@
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>'%Invalid Bank%' or STATUS_CODE like</text>
+        <text>$existing = PendingEftTransaction::all()</text>
       </register>
       <register name="/" type="4">
         <text>Attribute</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGRpc3RpbmN0IHZldC5HSUZUX05PLCBwLkZJUlNUX05BTUUgfHwgJyAnIHx8IHAuTEFTVF9OQU1FIG5hbWUsIGcuR0lGVF9BTU9VTlQKZnJvbSBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OIHZldAogICAgICAgICBpbm5lciBqb2luIGdpZnQgZyBvbiBnLkdJRlRfTk8gPSB2ZXQuR0lGVF9OTwogICAgICAgICBpbm5lciBqb2luIHBlcnNvbiBwIG9uIHAuUEVSU09OQUxfSUQgPSBnLlBFUlNPTkFMX0lECndoZXJlIFNUQVRVU19DT0RFIGxpa2UgJyVJbnZhbGlkIEJhbmslJwpvcmRlciBieSBnLkdJRlRfQU1PVU5UIGRlc2M7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnZ2lmdF9hbW91bnQnID0+ICRmYWtlci0+bnVtYmVyQmV0d2VlbigxLCAxMDAwKSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0IGRpc3RpbmN0IHZldC5HSUZUX05PLCBwLkZJUlNUX05BTUUgfHwgJyAnIHx8IHAuTEFTVF9OQU1FIG5hbWUsIGcuVkVORE9SX1RSQU5TQUNUSU9OX05PIGNvcm5lcnN0b25lX2lkLCBnLkdJRlRfQU1PVU5UCmZyb20gVkVORE9SX0VGVF9UUkFOU0FDVElPTiB2ZXQKICAgIGlubmVyIGpvaW4gZ2lmdCBnIG9uIGcuR0lGVF9OTyA9IHZldC5HSUZUX05PCiAgICBpbm5lciBqb2luIHBlcnNvbiBwIG9uIHAuUEVSU09OQUxfSUQgPSBnLlBFUlNPTkFMX0lECndoZXJlIFNUQVRVU19DT0RFIGxpa2UgJyVJbnZhbGlkIEJhbmslJyA7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgICdnaWZ0X25vJyA9PiAkZ2lmdF9ubwogICAgICAgICAgICAgICAgXQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3N0YXR1cycpLT5kZWZhdWx0KCdwZW5kaW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgIGRkKCRxdWVyeSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCdwZW5kaW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICRleGlzdGluZy0+YWRkKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCdwZW5kaW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICRleGlzdGluZy0+YWRkKCRnaWZ0X25vID0gREI6OmNvbm5lY3Rpb24oJGRiKS0+c2VsZWN0T25lKCRxdWVyeSktPmdpZnRfbm8pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2dpZnRfbm8nKS0+dW5pcXVlKCktPmNoYW5nZSgpOwo=</text>
+        <text encoding="base64">ICAgIGlmICgkZ2lmdHMtPmlzTm90RW1wdHkoKSkgewogICAgICAgICRxdWVyeSAuPSAiYW5kIEdJRlRfTk8gbm90IGluICgiIC4gaW1wbG9kZSgiLCIsICRnaWZ0cy0+dG9BcnJheSgpKSAuICIpIjsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRxdWVyeSA9ICIKICAgICAgICAgICAgICAgICAgICBzZWxlY3QgKiBmcm9tIGdpZnQgc2FtcGxlICgxKQogICAgICAgICAgICAgICAgICAgIHdoZXJlIEdJRlRfTk8gaXMgbm90IG51bGwKICAgICAgICAgICAgICAgICI7CiAgICAgICAgICAgICAgICBpZiAoJGdpZnRzLT5pc05vdEVtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICAkcXVlcnkgLj0gImFuZCBHSUZUX05PIG5vdCBpbiAoIiAuIGltcGxvZGUoIiwiLCAkZ2lmdHMtPnRvQXJyYXkoKSkgLiAiKSI7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgJGdpZnRzLT5hZGQoJGdpZnRfbm8gPSBEQjo6Y29ubmVjdGlvbigkZGIpLT5zZWxlY3RPbmUoJHF1ZXJ5KS0+Z2lmdF9ubyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZHJvcCB0YWJsZSBzcWxpdGVfc2VxdWVuY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiZ2lmdF9hbW91bnQiID0+ICcxMjMnLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2284,10 +2283,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAidG9rZW4iID0+IG51bGwsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZHJvcCB0YWJsZSBzcWxpdGVfbWFzdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAidHJhbnNhY3Rpb25faWQiID0+IG51bGwsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
