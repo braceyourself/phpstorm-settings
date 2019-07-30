@@ -628,7 +628,7 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" timestamp="1564486521876">
+      <file name="/mnt/g/FRESCO32/DDL/Packages/api_actengage.sql" timestamp="1564488933157">
         <mark key="'" line="1165" column="26" />
         <mark key="[" line="1135" column="23" />
         <mark key="]" line="1135" column="42" />
@@ -730,8 +730,8 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/mnt/g/FRESCO32/DDL/Packages/batch_mgmt.sql" timestamp="1564486534921">
-        <mark key="'" line="530" column="8" />
+      <file name="/mnt/g/FRESCO32/DDL/Packages/batch_mgmt.sql" timestamp="1564488843935">
+        <mark key="'" line="594" column="26" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/src/Http/EndpointResponse.php" timestamp="1561137736716">
         <mark key="'" line="16" column="24" />
@@ -1220,8 +1220,8 @@
         <mark key="." line="24" column="33" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="/mnt/g/FRESCO32/DDL/Packages/batch_new_accounts.sql" timestamp="1564483409118">
-        <mark key="'" line="826" column="20" />
+      <file name="/mnt/g/FRESCO32/DDL/Packages/batch_new_accounts.sql" timestamp="1564488682421">
+        <mark key="'" line="790" column="26" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/ApiVendors/ApiManager.php" timestamp="1561474694280">
         <mark key="'" line="29" column="24" />
@@ -1320,10 +1320,11 @@
         <mark key="^" line="57" column="28" />
         <mark key="." line="57" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1564487771355">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1564488450394">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/vendor/kitetail/zttp/src/Zttp.php" timestamp="1561139734640">
         <mark key="'" line="2" column="12" />
@@ -1466,14 +1467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="29" filename="$USER_HOME$/code/api-frc-org/resources/js/components/cornerstone/transactions/TransactionRowGroup.vue" />
-      <jump line="26" column="28" filename="$USER_HOME$/code/api-frc-org/resources/js/components/cornerstone/transactions/TransactionRowGroup.vue" />
-      <jump line="30" column="29" filename="$USER_HOME$/code/api-frc-org/resources/js/components/cornerstone/transactions/TransactionRowGroup.vue" />
-      <jump line="33" column="12" filename="$USER_HOME$/code/api-frc-org/resources/js/components/cornerstone/transactions/TransactionRowGroup.vue" />
-      <jump line="38" column="24" filename="$USER_HOME$/code/api-frc-org/resources/js/components/cornerstone/transactions/TransactionRowGroup.vue" />
-      <jump line="3" column="16" filename="$USER_HOME$/code/api-frc-org/resources/js/components/cornerstone/transactions/TransactionRowGroup.vue" />
-      <jump line="5" column="32" filename="$USER_HOME$/code/api-frc-org/resources/js/components/cornerstone/transactions/TransactionRowGroup.vue" />
-      <jump line="7" column="43" filename="$USER_HOME$/code/api-frc-org/resources/js/components/cornerstone/transactions/TransactionRowGroup.vue" />
       <jump line="8" column="26" filename="$USER_HOME$/code/api-frc-org/resources/js/components/cornerstone/transactions/TransactionRowGroup.vue" />
       <jump line="16" column="55" filename="$USER_HOME$/code/api-frc-org/resources/js/components/cornerstone/transactions/TransactionRowGroup.vue" />
       <jump line="17" column="56" filename="$USER_HOME$/code/api-frc-org/resources/js/components/cornerstone/transactions/TransactionRowGroup.vue" />
@@ -1566,16 +1559,24 @@
       <jump line="826" column="20" filename="/mnt/g/FRESCO32/DDL/Packages/batch_new_accounts.sql" />
       <jump line="500" column="12" filename="/mnt/g/FRESCO32/DDL/Packages/batch_mgmt.sql" />
       <jump line="530" column="8" filename="/mnt/g/FRESCO32/DDL/Packages/batch_mgmt.sql" />
+      <jump line="324" column="30" filename="/mnt/g/FRESCO32/DDL/Packages/batch_new_accounts.sql" />
+      <jump line="547" column="28" filename="/mnt/g/FRESCO32/DDL/Packages/batch_new_accounts.sql" />
+      <jump line="548" column="16" filename="/mnt/g/FRESCO32/DDL/Packages/batch_new_accounts.sql" />
+      <jump line="628" column="10" filename="/mnt/g/FRESCO32/DDL/Packages/batch_new_accounts.sql" />
+      <jump line="669" column="13" filename="/mnt/g/FRESCO32/DDL/Packages/batch_new_accounts.sql" />
+      <jump line="790" column="26" filename="/mnt/g/FRESCO32/DDL/Packages/batch_new_accounts.sql" />
+      <jump line="517" column="29" filename="/mnt/g/FRESCO32/DDL/Packages/batch_mgmt.sql" />
+      <jump line="594" column="26" filename="/mnt/g/FRESCO32/DDL/Packages/batch_mgmt.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>n.BATCH_NO</text>
       </register>
       <register name="/" type="4">
-        <text>insert_batch_arrival</text>
+        <text>reconcile_batch</text>
       </register>
       <register name="0" type="4">
         <text>ACTIVITY_DATE</text>
@@ -1770,9 +1771,9 @@
       </register>
     </registers>
     <search>
-      <last-search>insert_batch_arrival</last-search>
+      <last-search>reconcile_batch</last-search>
       <last-offset />
-      <last-pattern>insert_batch_arrival</last-pattern>
+      <last-pattern>reconcile_batch</last-pattern>
       <last-replace>&quot;\1&quot;,</last-replace>
       <last-substitute>Browse</last-substitute>
       <last-dir>1</last-dir>
@@ -1780,7 +1781,6 @@
     </search>
     <history>
       <history-search>
-        <entry>show_s</entry>
         <entry>div</entry>
         <entry>files</entry>
         <entry>ref</entry>
@@ -1798,8 +1798,9 @@
         <entry>batchNo</entry>
         <entry>batch_no</entry>
         <entry>move_actengage_arch</entry>
-        <entry>batch_data</entry>
         <entry>insert_batch_arrival</entry>
+        <entry>batch_data</entry>
+        <entry>reconcile_batch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy8uKi8xLw==</entry>
