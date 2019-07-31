@@ -1305,12 +1305,12 @@
         <mark key="^" line="167" column="63" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa33f25b-4ee1-4d97-80a6-cf66c25a0ba1/console.sql" timestamp="1564595351520">
-        <mark key="'" line="37" column="1" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="31" column="62" />
-        <mark key="^" line="31" column="62" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa33f25b-4ee1-4d97-80a6-cf66c25a0ba1/console.sql" timestamp="1564596758737">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="54" />
+        <mark key="." line="24" column="54" />
+        <mark key="^" line="24" column="54" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/resources/sass/app.scss" timestamp="1564571491026">
         <mark key="'" line="7" column="0" />
@@ -1377,12 +1377,12 @@
         <mark key="^" line="57" column="28" />
         <mark key="." line="57" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1564595389002">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="27" column="45" />
-        <mark key="." line="27" column="45" />
-        <mark key="^" line="27" column="45" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1564596727988">
+        <mark key="'" line="19" column="52" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="19" column="56" />
+        <mark key="." line="19" column="52" />
+        <mark key="^" line="19" column="52" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/vendor/kitetail/zttp/src/Zttp.php" timestamp="1561139734640">
         <mark key="'" line="2" column="12" />
@@ -1532,8 +1532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="45" filename="$USER_HOME$/code/api-frc-org/app/Traits/AbstractRelationships.php" />
-      <jump line="48" column="27" filename="$USER_HOME$/code/api-frc-org/app/Traits/AbstractRelationships.php" />
       <jump line="55" column="27" filename="$USER_HOME$/code/api-frc-org/app/Traits/AbstractRelationships.php" />
       <jump line="53" column="0" filename="$USER_HOME$/code/api-frc-org/app/Traits/AbstractRelationships.php" />
       <jump line="22" column="36" filename="$USER_HOME$/code/api-frc-org/app/Traits/AbstractRelationships.php" />
@@ -1632,19 +1630,21 @@
       <jump line="0" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" />
       <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" />
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" />
+      <jump line="19" column="52" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" />
+      <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fa33f25b-4ee1-4d97-80a6-cf66c25a0ba1/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>Invalid</text>
       </register>
       <register name="/" type="4">
         <text>all(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OIHJlYwotLSAvdXBkYXRlIFZFTkRPUl9FRlRfVFJBTlNBQ1RJT04gcmVjIHNldCByZWMuU1RBVFVTX0NPREUgPSAnR2lmdCBQcm9jZXNzZWQgYnkgQ2hlbWljYWwgQmFuaycKd2hlcmUgcmVjLkdJRlRfTk8gaW4gKHNlbGVjdCBnLkdJRlRfTk8gZnJvbSBnaWZ0IGcKICAgIHdoZXJlIGcuQkFUQ0hfTk8gaW4gKDI1NTMxMSwgMjU1MzEwKSkKCgovCmNvbW1pdDsK</text>
+        <text encoding="base64">c2VsZWN0IGcuQkFUQ0hfTk8KICAgICAsCiAgICBHSUZUX05PCiAgICAgLCBHSUZUX0FNT1VOVAogICAgICwgZy5UUkFOU0FDVElPTl9OTwogICAgICAgICxicC4qCmZyb20gZ2lmdCBnCi0tICAgICAgICAgICAgICAgICAgIC91cGRhdGUgR0lGVCBnCi0tIHNldCBnLkJBVENIX05PID0gJzc5MzExJwogICAgICAgICBpbm5lciBqb2luIEJBVENIX1BJRUNFIGJwIG9uIGJwLlRSQU5TQUNUSU9OX05PID0gZy5UUkFOU0FDVElPTl9OTwotLSAvIHNlbGVjdCBicC5UUkFOU0FDVElPTl9OTyBmcm9tIEJBVENIX1BJRUNFIGJwCi0tIC8gZGVsZXRlIGZyb20gQkFUQ0hfUElFQ0UgYnAKLS0gICAgICAgICAgICAgIGlubmVyIGpvaW4gR0lGVCBnIG9uIGcuVFJBTlNBQ1RJT05fTk8gPSBicC5UUkFOU0FDVElPTl9OTwp3aGVyZSBnLkdJRlRfTk8gaW4gKHNlbGVjdCBnLkdJRlRfTk8KLS0gICAgIHdoZXJlIGJwLlRSQU5TQUNUSU9OX05PIGluIChzZWxlY3QgZy5UUkFOU0FDVElPTl9OTwogICAgICAgICAgICAgICAgICAgIGZyb20gVkVORE9SX0VGVF9UUkFOU0FDVElPTiByZWMKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGdpZnQgZyBvbiBnLkdJRlRfTk8gPSByZWMuR0lGVF9OTwogICAgICAgICAgICAgICAgICAgIHdoZXJlIHJlYy5TVEFUVVNfQ09ERSBsaWtlICclQ2hlbSUnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgaW5uZXIgam9pbiBnaWZ0IGcgb24gZy5HSUZUX05PID0gcmVjLkdJRlRfTk8K</text>
