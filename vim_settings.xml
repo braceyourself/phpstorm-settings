@@ -1240,11 +1240,11 @@
         <mark key="^" line="57" column="28" />
         <mark key="." line="57" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1564838918652">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="12" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1564948590488">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/vendor/kitetail/zttp/src/Zttp.php" timestamp="1561139734640">
         <mark key="'" line="2" column="12" />
@@ -1494,34 +1494,37 @@
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPiR0aGlzS2V5</text>
+        <text>VENDOR_EFT_TRANSACTION vet</text>
       </register>
       <register name="/" type="4">
         <text>like</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICdzdGF0ZScgPT4gJ3N0YXRlJywK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBnaWZ0IGcKd2hlcmUgZy5CQVRDSF9OTyA9IDc5MzExCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGlubmVyIGpvaW4gZ2lmdCBnIG9uIGcuR0lGVF9OTyA9IHZldC5HSUZUX05PCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>select count(* )
+-- /delete
+from VENDOR_EFT_TRANSACTION;
+commit;</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndoZXJlKCd6aXAnLCAkdGhpcy0+emlwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndoZXJlKCdzdGF0ZScsICR0aGlzLT5zdGF0ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndoZXJlKCdjaXR5JywgJHRoaXMtPmNpdHkpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPndoZXJlKCd6aXAnLCAkdGhpcy0+emlwKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1682,10 +1685,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndoZXJlKCdhZGRyXzEnLCAkdGhpcy0+YWRkcmVzcykK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPndoZXJlKCdzdGF0ZScsICR0aGlzLT5zdGF0ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndoZXJlKCdsYXN0X25hbWUnLCAkdGhpcy0+bGFzdF9uYW1lKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAtPndoZXJlKCdjaXR5JywgJHRoaXMtPmNpdHkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
