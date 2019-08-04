@@ -57,12 +57,12 @@
         <mark key="^" line="58" column="43" />
         <mark key="." line="58" column="43" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" timestamp="1564938259166">
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" timestamp="1564945923477">
         <mark key="'" line="89" column="23" />
-        <mark key="[" line="101" column="51" />
-        <mark key="]" line="101" column="58" />
-        <mark key="." line="101" column="58" />
-        <mark key="^" line="101" column="58" />
+        <mark key="[" line="101" column="36" />
+        <mark key="]" line="101" column="36" />
+        <mark key="." line="101" column="36" />
+        <mark key="^" line="101" column="35" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/MakeFrcModelBase.php" timestamp="1560959409347">
         <mark key="'" line="29" column="4" />
@@ -1494,7 +1494,7 @@
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>item[$rowKey]</text>
+        <text>$thisKey</text>
       </register>
       <register name="/" type="4">
         <text>like</text>
