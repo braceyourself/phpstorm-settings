@@ -92,12 +92,11 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Imports/EftCsvImport.php" timestamp="1564842384119">
-        <mark key="'" line="76" column="27" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="49" column="42" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Imports/EftCsvImport.php" timestamp="1565005486656">
+        <mark key="'" line="72" column="27" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="46" column="10" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Unit/RemoteModelTests.php" timestamp="1563282197889">
         <mark key="'" line="14" column="25" />
@@ -751,6 +750,11 @@
         <mark key="^" line="29" column="66" />
         <mark key="." line="29" column="66" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Http/Requests/DynamicDbRequest.php" timestamp="1564602637179">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cornerston/EftTransactionTests.php" timestamp="1563209339338">
         <mark key="'" line="74" column="0" />
         <mark key="[" line="69" column="0" />
@@ -1171,11 +1175,10 @@
         <mark key="^" line="167" column="63" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa33f25b-4ee1-4d97-80a6-cf66c25a0ba1/console.sql" timestamp="1565001757168">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa33f25b-4ee1-4d97-80a6-cf66c25a0ba1/console.sql" timestamp="1565005337767">
         <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/resources/sass/app.scss" timestamp="1564571491026">
         <mark key="'" line="7" column="0" />
@@ -1240,11 +1243,11 @@
         <mark key="^" line="57" column="28" />
         <mark key="." line="57" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1565001847567">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="32" />
-        <mark key="." line="7" column="32" />
-        <mark key="^" line="7" column="32" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1565005335936">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/code/laravel-api-consumer/vendor/kitetail/zttp/src/Zttp.php" timestamp="1561139734640">
         <mark key="'" line="2" column="12" />
@@ -1494,37 +1497,34 @@
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>GIFT_NO</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>like</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OCiAgICB3aGVyZSBHSUZUX05PIGlzIG51bGwK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uOjoK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gVkVORE9SX0VGVF9UUkFOU0FDVElPTgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlubmVyIGpvaW4gZ2lmdCBnIG9uIGcuR0lGVF9OTyA9IHZldC5HSUZUX05PCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiAkZSkgewogICAgICAgICAgICBMb2c6OmVycm9yKCRlLT5nZXRNZXNzYWdlKCkuIlxuIi4kZS0+Z2V0RmlsZSgpLic6Jy4kZS0+Z2V0TGluZSgpKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>select count(* )
--- /delete
-from VENDOR_EFT_TRANSACTION;
-commit;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmZpbGVuYW1lID0gJGZpbGVuYW1lOwogICAgICAgICAgICAkcGF0aF9wYXJ0cyA9IGV4cGxvZGUoJy8nLCBwYXRoaW5mbygkdGhpcy0+ZmlsZW5hbWUpWydkaXJuYW1lJ10pOwoKICAgICAgICAgICAgJHRoaXMtPnNldE9yYWNsZUNvbm5lY3Rpb24oCiAgICAgICAgICAgICAgICBpc3NldCgkY29ubmVjdGlvbikgPyBbJGNvbm5lY3Rpb25dIDogJHBhdGhfcGFydHMKICAgICAgICAgICAgKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OCiAgICB3aGVyZSBHSUZUX05PIGlzIG51bGwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">d2hlcmUgVkVORE9SX1RSQU5TQUNUSU9OX05PID0gJzEwMWlGZEc4WFlROUV3Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">LS0gL3VwZGF0ZSBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OIHNldCBHSUZUX05PID0gJ1RFU1RfVFJBTlMnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9uOjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopIGZyb20gVkVORE9SX0VGVF9UUkFOU0FDVElPTgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1685,10 +1685,13 @@ commit;</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlubmVyIGpvaW4gZ2lmdCBnIG9uIGcuR0lGVF9OTyA9IHZldC5HSUZUX05PCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPndoZXJlKCd6aXAnLCAkdGhpcy0+emlwKQo=</text>
+      <register name="9" type="4">
+        <text>select count(* )
+-- /delete
+from VENDOR_EFT_TRANSACTION;
+commit;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
