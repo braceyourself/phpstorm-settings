@@ -6,15 +6,23 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
-  <template name="/***" value="/**********************************************&#10; * $text$&#10; **********************************************/&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="Test" value="/** @test */ // $name$ &#10;public function $snake_name$(){&#10;    $END$&#10;}" description="create a phpunit test method" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="snake_name" expression="snakeCase(name)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="Test" value="/** @test */ // $name$ &#10;public function $snake_name$(){&#10;    $END$&#10;}" description="create a phpunit test method" toReformat="false" toShortenFQNames="true">
-    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="snake_name" expression="snakeCase(name)" defaultValue="" alwaysStopAt="false" />
+  <template name="psf" value="public static function $function_name$($parameters$){&#10;    $END$&#10;}&#10;" description="public static function" toReformat="false" toShortenFQNames="true">
+    <variable name="function_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="parameters" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="case" value="case $value$:&#10;    $expression$&#10;    break;" toReformat="false" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="expression" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
