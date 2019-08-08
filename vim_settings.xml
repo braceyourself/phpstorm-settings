@@ -49,11 +49,11 @@
         <mark key="." line="50" column="68" />
         <mark key="^" line="50" column="68" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/CreateVuePage.php" timestamp="1565263805989">
-        <mark key="[" line="49" column="35" />
-        <mark key="]" line="49" column="46" />
-        <mark key="." line="49" column="41" />
-        <mark key="^" line="49" column="41" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/CreateVuePage.php" timestamp="1565271796852">
+        <mark key="[" line="47" column="60" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="59" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/resources/js/pages/login.vue" timestamp="1565263475951">
         <mark key="'" line="78" column="16" />
@@ -85,11 +85,11 @@
         <mark key="." line="134" column="74" />
         <mark key="^" line="134" column="74" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/storage/stubs/VuePage.stub" timestamp="1565263860661">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="10" column="27" />
+      <file name="$USER_HOME$/code/api-frc-org/storage/stubs/VuePage.stub" timestamp="1565271706631">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/QuorumApiTests.php" timestamp="1565217446030">
         <mark key="[" line="14" column="5" />
@@ -202,7 +202,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text>, $matches</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
@@ -211,31 +211,31 @@
         <text encoding="base64">PHRlbXBsYXRlPgogICAgCjwvdGVtcGxhdGU+Cgo8c2NyaXB0PgogICAgZXhwb3J0IGRlZmF1bHQgewogICAgICAgIG5hbWU6ICJBY3RpdmVFbmdhZ2VtZW50IiwKICAgICAgICBkYXRhKCl7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICBtZXRhOnsKICAgICAgICAgICAgICAgICAgICBhdXRoOidkZXYnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgfQo8L3NjcmlwdD4KCjxzdHlsZSBzY29wZWQ+Cgo8L3N0eWxlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIFBFUlNPTl9GSVJTVF9OQU1FIHx8ICcgJyB8fCBQRVJTT05fTEFTVF9OQU1FIG5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAkbWF0Y2hlcyA9IG51bGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJfcmVwbGFjZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICBmcm9tIE5FV19BQ0NPVU5UUyBuYQp3aGVyZSBFWFRFUk5BTF9VSUQgaXMgbm90IG51bGwKYW5kIEJSQU5EX05BTUUoKQotLSAgICAgaW5uZXIgam9pbiBnaWZ0IGcgb24gZy5hY2NvdQotLSB3aGVyZQo=</text>
+        <text encoding="base64">ICAgIHNldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhKCkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgIFBFUlNPTl9GSVJTVF9OQU1FIHx8ICcgJyB8fCBQRVJTT05fTEFTVF9OQU1FIG5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc3VibWl0dGVkID0gdHJ1ZTsK</text>
+        <text encoding="base64">c2VsZWN0ICBmcm9tIE5FV19BQ0NPVU5UUyBuYQp3aGVyZSBFWFRFUk5BTF9VSUQgaXMgbm90IG51bGwKYW5kIEJSQU5EX05BTUUoKQotLSAgICAgaW5uZXIgam9pbiBnaWZ0IGcgb24gZy5hY2NvdQotLSB3aGVyZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc3VibWl0TG9naW4odGhpcy5sb2dpbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -295,6 +295,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
