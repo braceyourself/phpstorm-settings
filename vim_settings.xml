@@ -62,10 +62,11 @@
         <mark key="." line="79" column="45" />
         <mark key="^" line="79" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1565264538016">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" timestamp="1565265536524">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/resources/js/store/index.js" timestamp="1565263413541">
         <mark key="[" line="62" column="0" />
@@ -201,7 +202,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>BRAND_NAME</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>method</text>
@@ -210,31 +211,31 @@
         <text encoding="base64">PHRlbXBsYXRlPgogICAgCjwvdGVtcGxhdGU+Cgo8c2NyaXB0PgogICAgZXhwb3J0IGRlZmF1bHQgewogICAgICAgIG5hbWU6ICJBY3RpdmVFbmdhZ2VtZW50IiwKICAgICAgICBkYXRhKCl7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICBtZXRhOnsKICAgICAgICAgICAgICAgICAgICBhdXRoOidkZXYnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgfQo8L3NjcmlwdD4KCjxzdHlsZSBzY29wZWQ+Cgo8L3N0eWxlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICBmcm9tIE5FV19BQ0NPVU5UUyBuYQp3aGVyZSBFWFRFUk5BTF9VSUQgaXMgbm90IG51bGwKYW5kIEJSQU5EX05BTUUoKQotLSAgICAgaW5uZXIgam9pbiBnaWZ0IGcgb24gZy5hY2NvdQotLSB3aGVyZQo=</text>
+        <text encoding="base64">ICAgICAgIFBFUlNPTl9GSVJTVF9OQU1FIHx8ICcgJyB8fCBQRVJTT05fTEFTVF9OQU1FIG5hbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhKCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">c2VsZWN0ICBmcm9tIE5FV19BQ0NPVU5UUyBuYQp3aGVyZSBFWFRFUk5BTF9VSUQgaXMgbm90IG51bGwKYW5kIEJSQU5EX05BTUUoKQotLSAgICAgaW5uZXIgam9pbiBnaWZ0IGcgb24gZy5hY2NvdQotLSB3aGVyZQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc3VibWl0dGVkID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc3VibWl0TG9naW4odGhpcy5sb2dpbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXhpb3MucG9zdCgnbG9naW4nLCBwYXlsb2FkKS50aGVuKHJlcyA9PiB7CiAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVwbGFjZSgnL2hvbWUnKTsKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc3VibWl0dGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc3VibWl0dGVkID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc3VibWl0TG9naW4odGhpcy5sb2dpbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
