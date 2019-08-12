@@ -40,7 +40,7 @@
       <file name="/main.pending_eft_transactions [api.frc.org]" timestamp="1563899533611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5cd3f5a5-644a-40be-ba36-37652a11ab06/console_1.sql" timestamp="1565628130994">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5cd3f5a5-644a-40be-ba36-37652a11ab06/console_1.sql" timestamp="1565635261259">
         <mark key="[" line="13" column="7" />
         <mark key="]" line="13" column="34" />
         <mark key="." line="13" column="34" />
@@ -133,11 +133,12 @@
       <file name="/VENDOR_EFT_TRANSACTION [FRC]" timestamp="1565627457244">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" timestamp="1565633645648">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" timestamp="1565635531287">
+        <mark key="'" line="7" column="3" />
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="^" line="26" column="3" />
       </file>
       <file name="/FRC.NEW_ACCOUNTS [FRCA]" timestamp="1564255720893">
         <mark key="[" line="0" column="0" />
@@ -200,7 +201,7 @@
       <file name="/FRC.CREDIT_CARD [Dev FRCA]" timestamp="1564246268179">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1565627532876">
+      <file name="/dummy.sql" timestamp="1565635266989">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/api_braceyourself_solutions_dev.users [as1]" timestamp="1561385537130">
@@ -291,13 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Code/api.frc.org/app/Http/Controllers/PendingEftTransactionController.php" />
-      <jump line="53" column="89" filename="$USER_HOME$/Code/api.frc.org/app/Admin/Actions/SetPrimaryGift.php" />
-      <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fa33f25b-4ee1-4d97-80a6-cf66c25a0ba1/console.sql" />
-      <jump line="41" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c0542f17-1709-4fcb-b7a4-90b674b92a43/console.sql" />
-      <jump line="1284" column="30" filename="Z:/FRESCO32/DDL/Packages/api_call.sql" />
-      <jump line="1405" column="13" filename="Z:/FRESCO32/DDL/Packages/api_call.sql" />
-      <jump line="1393" column="51" filename="Z:/FRESCO32/DDL/Packages/api_call.sql" />
       <jump line="1387" column="51" filename="Z:/FRESCO32/DDL/Packages/api_call.sql" />
       <jump line="1386" column="51" filename="Z:/FRESCO32/DDL/Packages/api_call.sql" />
       <jump line="1336" column="33" filename="Z:/FRESCO32/DDL/Packages/api_call.sql" />
@@ -387,44 +381,51 @@
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
       <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
       <jump line="32" column="90" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
-      <jump line="17" column="90" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
       <jump line="22" column="90" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
+      <jump line="14" column="103" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
+      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
+      <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
+      <jump line="16" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
+      <jump line="2" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
+      <jump line="4" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
+      <jump line="7" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>, sum(</text>
       </register>
       <register name="/" type="4">
-        <text>like</text>
+        <text>.*</text>
       </register>
       <register name="0" type="4">
         <text>REFUNDED</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlubmVyIGpvaW4gZ2lmdCBnIG9uIGcuR0lGVF9OTyA9IHZldC5naWZ0X25vCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29tbWl0OwpzZWxlY3QgZGlzdGluY3QgU1RBVFVTX0NPREUKZnJvbSBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OOwoKc2VsZWN0IGNvdW50KGRpc3RpbmN0IEdJRlRfTk8pCmZyb20gVkVORE9SX0VGVF9UUkFOU0FDVElPTgp3aGVyZSBHSUZUX05PIGluICgKICAgICAgICAgICAgICAgICAgNTc5Njg4LAogICAgICAgICAgICAgICAgICA1Nzk2ODIsCiAgICAgICAgICAgICAgICAgIDU3OTY4MywKICAgICAgICAgICAgICAgICAgNTc5NjU0LAogICAgICAgICAgICAgICAgICA1Nzk2ODcsCiAgICAgICAgICAgICAgICAgIDU3OTY2NywKICAgICAgICAgICAgICAgICAgNTc5NjU1LAogICAgICAgICAgICAgICAgICA1Nzk2NTcsCiAgICAgICAgICAgICAgICAgIDU3OTY2NSwKICAgICAgICAgICAgICAgICAgNTc5NjcwLAogICAgICAgICAgICAgICAgICA1Nzk2OTEsCiAgICAgICAgICAgICAgICAgIDU3OTY2NCwKICAgICAgICAgICAgICAgICAgNTc5NjgxCiAgICApCmFuZCBTVEFUVVNfQ09ERSBsaWtlICdJbnZhJScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dW5pb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgpzZWxlY3QgZGlzdGluY3QgdmV0LnN0YXR1c19jb2RlLCBzdW0oZy5HSUZUX0FNT1VOVCkgdG90YWwKZnJvbSBnaWZ0IGcKICAgICAgICAgaW5uZXIgam9pbiBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OIHZldCBvbiB2ZXQuR0lGVF9OTyA9IGcuR0lGVF9OTwp3aGVyZSBnLkdJRlRfTk8gaW4gKHNlbGVjdCBkaXN0aW5jdCBHSUZUX05PIGZyb20gVkVORE9SX0VGVF9UUkFOU0FDVElPTikKZ3JvdXAgYnkgdmV0LnN0YXR1c19jb2RlOwoKCnNlbGVjdCB2ZXQuU1RBVFVTX0NPREUsIHN1bShnLkdJRlRfQU1PVU5UKQpmcm9tIFZFTkRPUl9FRlRfVFJBTlNBQ1RJT04gdmV0CiAgICAgICAgIGlubmVyIGpvaW4gZ2lmdCBnIG9uIGcuR0lGVF9OTyA9IHZldC5HSUZUX05PCndoZXJlIHZldC5HSUZUX05PIGlzIG5vdCBudWxsCmdyb3VwIGJ5IHZldC5HSUZUX05PLCB2ZXQuU1RBVFVTX0NPREU7CgoKc2VsZWN0IGcuVkVORE9SX1RSQU5TQUNUSU9OX05PLCB2ZXQuU1RBVFVTX0NPREUKZnJvbSBnaWZ0IGcKICAgICAgICAgaW5uZXIgam9pbiBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OIHZldCBvbiB2ZXQuR0lGVF9OTyA9IGcuR0lGVF9OTwp3aGVyZSBnLkdJRlRfTk8gaW4gKAogICAgc2VsZWN0IGRpc3RpbmN0IEdJRlRfTk8gZnJvbSBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OCikKYW5kIGcuVkVORE9SX1RSQU5TQUNUSU9OX05PIG5vdCBsaWtlICcxMDElJwoKCi8KCi0tIHNlbGVjdCAnSW52YWxpZCcsIHN1bShnLkdJRlRfQU1PVU5UKQpzZWxlY3QgKgpmcm9tIGdpZnQgZwp3aGVyZSBnLkdJRlRfTk8gaW4gKHNlbGVjdCBkaXN0aW5jdCBHSUZUX05PIGZyb20gVkVORE9SX0VGVF9UUkFOU0FDVElPTiB3aGVyZSBTVEFUVVNfQ09ERSBsaWtlICdJbnZhbGlkJScpCgp1bmlvbgoKc2VsZWN0ICdDaGVtaWNhbCcsIHN1bShnLkdJRlRfQU1PVU5UKQpmcm9tIGdpZnQgZwp3aGVyZSBnLkdJRlRfTk8gaW4gKHNlbGVjdCBkaXN0aW5jdCBHSUZUX05PIGZyb20gVkVORE9SX0VGVF9UUkFOU0FDVElPTiB3aGVyZSBTVEFUVVNfQ09ERSA9ICdDSEVNSUNBTCcpCnVuaW9uCgpzZWxlY3QgJ0FQUFJPVkVEJywgc3VtKGcuR0lGVF9BTU9VTlQpCmZyb20gZ2lmdCBnCndoZXJlIGcuR0lGVF9OTyBpbiAoc2VsZWN0IGRpc3RpbmN0IEdJRlRfTk8gZnJvbSBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OIHdoZXJlIFNUQVRVU19DT0RFID0gJ0FQUFJPVkVEJykKdW5pb24KCnNlbGVjdCAnUkVGVU5ERUQnLCBzdW0oZy5HSUZUX0FNT1VOVCkKZnJvbSBnaWZ0IGcKd2hlcmUgZy5HSUZUX05PIGluIChzZWxlY3QgZGlzdGluY3QgR0lGVF9OTyBmcm9tIFZFTkRPUl9FRlRfVFJBTlNBQ1RJT04gd2hlcmUgU1RBVFVTX0NPREUgPSAnUkVGVU5ERUQnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbmQgZy5HSUZUX05PIGluICgKICAgIHNlbGVjdCBkaXN0aW5jdCBHSUZUX05PIGZyb20gVkVORE9SX0VGVF9UUkFOU0FDVElPTiB3aGVyZSBTVEFUVVNfQ09ERSA9ICdBUFBST1ZFRCcKKQogIGFuZCBnLkdJRlRfTk8gaW4gKAogICAgc2VsZWN0IGRpc3RpbmN0IEdJRlRfTk8gZnJvbSBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OIHdoZXJlIFNUQVRVU19DT0RFID0gJ1JFRlVOREVEJwopCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgdmV0LlNUQVRVU19DT0RFCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CnNlbGVjdCB2ZXQuU1RBVFVTX0NPREUsIHN1bShnLkdJRlRfQU1PVU5UKSBmcm9tIFZFTkRPUl9FRlRfVFJBTlNBQ1RJT04gdmV0CiAgICBpbm5lciBqb2luIGdpZnQgZyBvbiBnLkdJRlRfTk8gPSB2ZXQuR0lGVF9OTwp3aGVyZSBTVEFUVVNfQ09ERSBpbiAoJ0FQUFJPVkVEJywnUkVGVU5ERUQnKQpncm91cCBieSAgU1RBVFVTX0NPREU7CgoKCnNlbGVjdCBnLkdJRlRfTk8sIEdJRlRfQU1PVU5UIGZyb20gZ2lmdCBnCndoZXJlIGcuR0lGVF9OTyBpbiAoc2VsZWN0IGRpc3RpbmN0IEdJRlRfTk8gZnJvbSBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OIHdoZXJlIFNUQVRVU19DT0RFID0gJ0FQUFJPVkVEJyk7CnNlbGVjdCBzdW0oZy5HSUZUX0FNT1VOVCkgZnJvbSBnaWZ0IGcKd2hlcmUgZy5HSUZUX05PIGluIChzZWxlY3QgZGlzdGluY3QgR0lGVF9OTyBmcm9tIFZFTkRPUl9FRlRfVFJBTlNBQ1RJT04gd2hlcmUgU1RBVFVTX0NPREUgPSAnQVBQUk9WRUQnKTsKLS0gYXBwcm92ZWQKCnNlbGVjdCBnLkdJRlRfTk8sIEdJRlRfQU1PVU5UIGZyb20gZ2lmdCBnCndoZXJlIGcuR0lGVF9OTyBpbiAoc2VsZWN0IGRpc3RpbmN0IEdJRlRfTk8gZnJvbSBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OIHdoZXJlIFNUQVRVU19DT0RFID0gJ1JFRlVOREVEJyk7CnNlbGVjdCBzdW0oZy5HSUZUX0FNT1VOVCkgZnJvbSBnaWZ0IGcKd2hlcmUgZy5HSUZUX05PIGluIChzZWxlY3QgZGlzdGluY3QgR0lGVF9OTyBmcm9tIFZFTkRPUl9FRlRfVFJBTlNBQ1RJT04gd2hlcmUgU1RBVFVTX0NPREUgPSAnUkVGVU5ERUQnKTsKLS0gcmVmdW5kZWQKCnNlbGVjdCBnLkdJRlRfTk8sIEdJRlRfQU1PVU5UIGZyb20gZ2lmdCBnCndoZXJlIGcuR0lGVF9OTyBpbiAoc2VsZWN0IGRpc3RpbmN0IEdJRlRfTk8gZnJvbSBWRU5ET1JfRUZUX1RSQU5TQUNUSU9OIHdoZXJlIFNUQVRVU19DT0RFID0gJ0NIRU1JQ0FMJyk7CnNlbGVjdCBzdW0oZy5HSUZUX0FNT1VOVCkgZnJvbSBnaWZ0IGcKd2hlcmUgZy5HSUZUX05PIGluIChzZWxlY3QgZGlzdGluY3QgR0lGVF9OTyBmcm9tIFZFTkRPUl9FRlRfVFJBTlNBQ1RJT04gd2hlcmUgU1RBVFVTX0NPREUgPSAnQ0hFTUlDQUwnKTsKLS0gZmlyc3QgaW52YWxpZCBiYXRjaCBzZW50IHRvIGNoZW1pY2FsIHRvdGFsID0gMjE1CgoKc2VsZWN0IGcuR0lGVF9OTywgR0lGVF9BTU9VTlQgZnJvbSBnaWZ0IGcKd2hlcmUgZy5HSUZUX05PIGluIChzZWxlY3QgZGlzdGluY3QgR0lGVF9OTyBmcm9tIFZFTkRPUl9FRlRfVFJBTlNBQ1RJT04gd2hlcmUgU1RBVFVTX0NPREUgbGlrZSAnSW52YWxpZCUnKTsKc2VsZWN0IHN1bShnLkdJRlRfQU1PVU5UKSBmcm9tIGdpZnQgZwp3aGVyZSBnLkdJRlRfTk8gaW4gKHNlbGVjdCBkaXN0aW5jdCBHSUZUX05PIGZyb20gVkVORE9SX0VGVF9UUkFOU0FDVElPTiB3aGVyZSBTVEFUVVNfQ09ERSBsaWtlICdJbnZhbGlkJScpOwotLSBzZWNvbmQgYmF0Y2ggc2VudCB0byBjaGVtaWNhbDogdG90YWwgPSAxMjAKCi0tIHRvdGFsIGFtb3VudCBzZW50IHRvIGNoZW1pY2FsOjMzNQoKLS0gMjQwCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JvdXAgYnkgZy5HSUZUX05PLCB2ZXQuU1RBVFVTX0NPREU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -585,27 +586,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0IHZldC5TVEFUVVNfQ09ERSwgIHN1bShnLkdJRlRfQU1PVU5UKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">dW5pb24K</text>
       </register>
       <register name=":" type="4">
-        <text>redo</text>
+        <text encoding="base64">JzwsJz4=</text>
       </register>
     </registers>
     <search>
-      <last-search>like</last-search>
+      <last-search>.*</last-search>
       <last-offset />
-      <last-pattern>like</last-pattern>
-      <last-replace>'\1',</last-replace>
-      <last-substitute>\(.*\)</last-substitute>
+      <last-pattern>.*</last-pattern>
+      <last-replace>\0,</last-replace>
+      <last-substitute>.*</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>__co</entry>
         <entry>__con</entry>
         <entry>getStatus</entry>
         <entry>extern</entry>
@@ -625,10 +625,9 @@
         <entry>auth_net_re</entry>
         <entry>charge_cc_gifts</entry>
         <entry>like</entry>
+        <entry>.*</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4gcy8uKi8nXCUxJy8=</entry>
-        <entry encoding="base64">JzwsJz4gcy8oLiopLydcJTEnLw==</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvJ1wlMScv</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvJyUxJy8=</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvJyQxJy8=</entry>
@@ -647,6 +646,8 @@
         <entry>CtrlPBufTag</entry>
         <entry>w</entry>
         <entry>redo</entry>
+        <entry encoding="base64">JzwsJz4gcy8uKi9cMCwv</entry>
+        <entry encoding="base64">JzwsJz4=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
