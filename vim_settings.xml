@@ -94,12 +94,12 @@
       <file name="/FRC.EXTERNAL_ITEM_TRANSACTION_LOG [FRCA]" timestamp="1564246680741">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5cd3f5a5-644a-40be-ba36-37652a11ab06/console.sql" timestamp="1565639335462">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5cd3f5a5-644a-40be-ba36-37652a11ab06/console.sql" timestamp="1565650589055">
         <mark key="'" line="283" column="7" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="21" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
         <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/main.oauth_clients [database.sqlite]" timestamp="1559333539453">
         <mark key="[" line="0" column="0" />
@@ -399,7 +399,7 @@
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>count(distinct GIFT_NO) from VENDOR_EFT_TRANSACTION where GIFT_NO in</text>
+        <text>--</text>
       </register>
       <register name="/" type="4">
         <text>.*</text>
