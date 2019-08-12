@@ -20,7 +20,7 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
-  <template name="case" value="case $value$:&#10;    $expression$&#10;    break;" toReformat="false" toShortenFQNames="true">
+  <template name="case" value="case $value$:&#10;    $expression$&#10;    break;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="expression" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
