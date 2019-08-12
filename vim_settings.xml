@@ -133,11 +133,11 @@
       <file name="/VENDOR_EFT_TRANSACTION [FRC]" timestamp="1565627457244">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" timestamp="1565633012174">
-        <mark key="[" line="25" column="3" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f7de5f14-c419-465c-a277-67903653ede2/console.sql" timestamp="1565633645648">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
       </file>
       <file name="/FRC.NEW_ACCOUNTS [FRCA]" timestamp="1564255720893">
         <mark key="[" line="0" column="0" />
@@ -397,13 +397,13 @@
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>CHEMICAL</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>like</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IGcuR0lGVF9OTywgR0lGVF9BTU9VTlQgZnJvbSBnaWZ0IGcKd2hlcmUgZy5HSUZUX05PIGluIChzZWxlY3QgZGlzdGluY3QgR0lGVF9OTyBmcm9tIFZFTkRPUl9FRlRfVFJBTlNBQ1RJT04gd2hlcmUgU1RBVFVTX0NPREUgPSAnQ0hFTUlDQUwnKTsKc2VsZWN0IHN1bShnLkdJRlRfQU1PVU5UKSBmcm9tIGdpZnQgZwp3aGVyZSBnLkdJRlRfTk8gaW4gKHNlbGVjdCBkaXN0aW5jdCBHSUZUX05PIGZyb20gVkVORE9SX0VGVF9UUkFOU0FDVElPTiB3aGVyZSBTVEFUVVNfQ09ERSA9ICdDSEVNSUNBTCcpOwo=</text>
+      <register name="0" type="4">
+        <text>REFUNDED</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
