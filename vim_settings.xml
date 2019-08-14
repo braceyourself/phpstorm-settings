@@ -15,12 +15,6 @@
       <file name="/main.jobs [database.sqlite]" timestamp="1560542400209">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa33f25b-4ee1-4d97-80a6-cf66c25a0ba1/console.sql" timestamp="1565188220108">
-        <mark key="'" line="16" column="35" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="/ACTENGAGE_DATA_LOAD [FRCA]" timestamp="1562614037327">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,6 +125,12 @@
       <file name="/FRC.GIFT [Dev FRCA]" timestamp="1564245087798">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/api.frc.org/resources/js/app.js" timestamp="1565803672104">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/VENDOR_EFT_TRANSACTION [FRC]" timestamp="1565627457244">
         <mark key="[" line="0" column="0" />
       </file>
@@ -170,6 +170,9 @@
       </file>
       <file name="/console" timestamp="1565797492249">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/api.frc.org/package.json" timestamp="1565804667481">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/main.oauth_access_tokens [database.sqlite]" timestamp="1559333536770">
         <mark key="[" line="0" column="0" />
@@ -229,11 +232,12 @@
       <file name="/main.sessions [database.sqlite]" timestamp="1560526929743">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/api.frc.org/resources/js/pages/cornerstone/index.vue" timestamp="1565801528468">
+      <file name="$USER_HOME$/Code/api.frc.org/resources/js/pages/cornerstone/index.vue" timestamp="1565803649787">
         <mark key="'" line="323" column="0" />
-        <mark key="[" line="183" column="72" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
+        <mark key="[" line="184" column="4" />
+        <mark key="]" line="184" column="3" />
+        <mark key="." line="184" column="3" />
+        <mark key="^" line="184" column="3" />
       </file>
       <file name="$USER_HOME$/Code/api.frc.org/app/Jobs/Cornerstone/ImportEftData.php" timestamp="1565798918365" />
       <file name="$USER_HOME$/Code/api.frc.org/app/Admin/Actions/SetPrimaryGift.php" timestamp="1563909277023">
@@ -299,7 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1609" column="20" filename="Z:/FRESCO32/DDL/Packages/new_acct_mgmt.sql" />
       <jump line="1649" column="81" filename="Z:/FRESCO32/DDL/Packages/new_acct_mgmt.sql" />
       <jump line="1658" column="63" filename="Z:/FRESCO32/DDL/Packages/new_acct_mgmt.sql" />
       <jump line="1660" column="27" filename="Z:/FRESCO32/DDL/Packages/new_acct_mgmt.sql" />
@@ -399,6 +402,7 @@
       <jump line="18" column="78" filename="$USER_HOME$/Code/api.frc.org/resources/js/pages/cornerstone/index.vue" />
       <jump line="312" column="40" filename="$USER_HOME$/Code/api.frc.org/resources/js/pages/cornerstone/index.vue" />
       <jump line="323" column="0" filename="$USER_HOME$/Code/api.frc.org/resources/js/pages/cornerstone/index.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/api.frc.org/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -414,25 +418,25 @@
         <text>ImportEftDataCommand</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBtb21lbnQgZnJvbSAnbW9tJzsK</text>
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb20nCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JGluc3QtPmV4aXN0cygpID8gbnVsbAogICAgICAgICAgICA6IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNodW5rU2l6ZSgpOiBpbnQKICAgIHsKICAgICAgICByZXR1cm4gMTAwOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBtb21lbnQgZnJvbSAnfm1vJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb25zb2xlXENvbW1hbmRzXENvcm5lcnN0b25lXEltcG9ydEVmdERhdGFDb21tYW5kOwo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBtb21lbnQgZnJvbSAnbW8nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb25zb2xlXENvcm5lcnN0b25lXENvbW1hbmRzXEltcG9ydEVmdERhdGFDb21tYW5kOwo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCBtb21lbnQgZnJvbSAnbW9tJzsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxDb25zb2xlXENvbW1hbmRzXEltcG9ydEVmdERhdGFDb21tYW5kOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">JGluc3QtPmV4aXN0cygpID8gbnVsbAogICAgICAgICAgICA6IA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2hlcmUgZy5HSUZUX05PID0gJzMzNjE5OTYnCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBpbnQKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNodW5rU2l6ZSgpOiBpbnQKICAgIHsKICAgICAgICByZXR1cm4gMTAwOwogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -593,10 +597,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbm5lciBqb2luICBwZXJzb24gcCBvbiBwLlBFUlNPTkFMX0lEID0gZy5QRVJTT05BTF9JRAo=</text>
+        <text encoding="base64">dXNlIEFwcFxDb25zb2xlXENvbW1hbmRzXENvcm5lcnN0b25lXEltcG9ydEVmdERhdGFDb21tYW5kOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IHdoZXJlIHZldC5HSUZUX05PID0gJzMzNjIwNDcnCg==</text>
+        <text encoding="base64">dXNlIEFwcFxDb25zb2xlXENvcm5lcnN0b25lXENvbW1hbmRzXEltcG9ydEVmdERhdGFDb21tYW5kOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
