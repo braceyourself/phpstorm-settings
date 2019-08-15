@@ -6,19 +6,45 @@
       <file name="/Dummy.txt" timestamp="1565870148347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/NewAccountBase.php" timestamp="1565876783502">
-        <mark key="'" line="97" column="56" />
-        <mark key="[" line="96" column="32" />
-        <mark key="]" line="96" column="33" />
-        <mark key="^" line="96" column="33" />
-        <mark key="." line="96" column="33" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1565874891610">
         <mark key="'" line="1050" column="43" />
         <mark key="[" line="1050" column="47" />
         <mark key="]" line="1050" column="46" />
         <mark key="^" line="1050" column="46" />
         <mark key="." line="1050" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Frc/NewAccount.php" timestamp="1565874862000">
+        <mark key="'" line="5" column="38" />
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa33f25b-4ee1-4d97-80a6-cf66c25a0ba1/console.sql" timestamp="1565878922673">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/vendor/yajra/laravel-oci8/src/Oci8/Query/OracleBuilder.php" timestamp="1565873810885">
+        <mark key="'" line="19" column="8" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Journity/SendIpGroupData.php" timestamp="1565883449909">
+        <mark key="'" line="38" column="40" />
+        <mark key="[" line="38" column="43" />
+        <mark key="]" line="38" column="47" />
+        <mark key="." line="38" column="47" />
+        <mark key="^" line="38" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/NewAccountBase.php" timestamp="1565876783502">
+        <mark key="'" line="97" column="56" />
+        <mark key="[" line="96" column="32" />
+        <mark key="]" line="96" column="33" />
+        <mark key="^" line="96" column="33" />
+        <mark key="." line="96" column="33" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/NewAccountGiftBase.php" timestamp="1565873544484">
         <mark key="'" line="44" column="16" />
@@ -40,12 +66,11 @@
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Frc/NewAccount.php" timestamp="1565874862000">
-        <mark key="'" line="5" column="38" />
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-        <mark key="." line="5" column="38" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Exports/Journity/IpGroupsCsvExport.php" timestamp="1565883476873">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="9" column="41" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/storage/stubs/AbstractModel.stub" timestamp="1565872871271">
         <mark key="[" line="1" column="0" />
@@ -53,24 +78,12 @@
         <mark key="." line="1" column="46" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fa33f25b-4ee1-4d97-80a6-cf66c25a0ba1/console.sql" timestamp="1565878922673">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/IpGroupDataTests.php" timestamp="1565882263075">
-        <mark key="'" line="43" column="47" />
-        <mark key="[" line="49" column="22" />
-        <mark key="]" line="49" column="26" />
-        <mark key="." line="49" column="26" />
-        <mark key="^" line="49" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/yajra/laravel-oci8/src/Oci8/Query/OracleBuilder.php" timestamp="1565873810885">
-        <mark key="'" line="19" column="8" />
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="9" />
-        <mark key="." line="20" column="9" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/IpGroupDataTests.php" timestamp="1565883280645">
+        <mark key="'" line="36" column="16" />
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="34" column="56" />
+        <mark key="." line="34" column="56" />
+        <mark key="^" line="34" column="56" />
       </file>
     </filemarks>
     <jumps>
@@ -114,43 +127,46 @@
       <jump line="35" column="61" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/IpGroupDataTests.php" />
       <jump line="41" column="25" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/IpGroupDataTests.php" />
       <jump line="43" column="47" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/IpGroupDataTests.php" />
+      <jump line="22" column="24" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/IpGroupDataTests.php" />
+      <jump line="36" column="16" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/IpGroupDataTests.php" />
+      <jump line="38" column="40" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Journity/SendIpGroupData.php" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>count</text>
+        <text>array</text>
       </register>
       <register name="/" type="4">
         <text>nac</text>
       </register>
       <register name="0" type="4">
-        <text>campaign_code</text>
+        <text>SendIpGroupData</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+ZGlzdGluY3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLT5jaHVuaygxMDAwLCBmdW5jdGlvbiAoJGNodW5rKXVzZSAoJiRhbGxfbmV3X2FjY291bnRzKSB7Ci8vICAgICAgICAgICAgICAgICAgICAkYWxsX25ld19hY2NvdW50cyA9ICRhbGxfbmV3X2FjY291bnRzLT5tZXJnZSgkY2h1bmstPmxvYWQoJ2dpZnRzJywgJ2NvcnJlc3BvbmRlbmNlJykpOwovLyAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIGR1bXAoY29sbGVjdChEQjo6Y29ubmVjdGlvbigkZGIpLT5nZXRRdWVyeUxvZygpKS0+cGx1Y2soJ3F1ZXJ5JykpOwoKICAgICAgICAgICAgZHVtcCgiQWxsOiAiLiRhbGxfbmV3X2FjY291bnRzLT5jb3VudCgpKTsKCiAgICAgICAgICAgICRhbGxfbmV3X2FjY291bnRzID0gJGFsbF9uZXdfYWNjb3VudHMtPmZpbHRlcihmdW5jdGlvbiAoTmV3QWNjb3VudEJhc2UgJG5hKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJG5hLT5naWZ0cy0+Y291bnQoKSA+IDAgfHwgJG5hLT5jb3JyZXNwb25kZW5jZS0+Y291bnQoKSA+IDA7CiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgZHVtcCgiRmlsdGVyZWQ6ICIuJGFsbF9uZXdfYWNjb3VudHMtPmNvdW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaE5vdygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0IGRpc3RpbmN0IHN0YXR1cyBmcm9tIE5FV19BQ0NPVU5UX0dJRlRTCg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LS0gRlJDIExnIERvbm9yIOKAkyBCYXRjaCAyNTU1NTgg4oCTIDQgcGNzLiAtICQxNDUwLjAwCi0tIEZSQyBSZWcuIERvbm9yIOKAkyBCYXRjaCAyNTU1NTkg4oCTIDM3IHBjcy4gLSAkMTAwNC4wMAotLSBhZGQgR2lmdCAzMzYyMDQ3IHRvIGJhdGNoIDI1NTU1OT8KLS0gSGXigJlzIHRoZSBvbmUgdGhhdCBnb3QgY2hhcmdlZCAzIHRpbWVzIGFuZCByZWZ1bmRlZCAzIHRpbWVzIC0gJDI1LjAwLgotLSBJZiBub3QsIGxldCBtZSBrbm93IGFuZCB3ZeKAmWxsIGhhdmUgdG8gYWRkIGFub3RoZXIgYmF0Y2ggZm9yIGhpbS4KCnNlbGVjdAotLSAgICAgICAgc3VtKEdJRlRfQU1PVU5UKQpHSUZUX0FNT1VOVApmcm9tIGdpZnQgZwp3aGVyZSBHSUZUX05PIGluICgKICAgIHNlbGVjdCBkaXN0aW5jdCBHSUZUX05PCiAgICBmcm9tIFZFTkRPUl9FRlRfVFJBTlNBQ1RJT04KICAgIHdoZXJlIFNUQVRVU19DT0RFIGxpa2UgJyVJbnZhbGlkJScKKSBhbmQgZy5HSUZUX0FNT1VOVCA8IDEwMDAKCgpzZWxlY3QgKiBmcm9tIEVYVEVSTkFMX1NZU1RFTV9BVFRSSUJVVEU=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBcTWFhdHdlYnNpdGVcRXhjZWxcRXhjZWw6OmV4cGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2VsZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhjZWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXhwZWN0cyhTZW5kSXBHcm91cERhdGE6OmNsYXNzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkam9iLT5oYW5kbGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
