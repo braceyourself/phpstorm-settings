@@ -6,18 +6,35 @@
       <file name="/Dummy.txt" timestamp="1565870148347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/NewAccountBase.php" timestamp="1565872915601">
-        <mark key="'" line="4" column="24" />
+      <file name="$USER_HOME$/code/api-frc-org/app/NewAccountBase.php" timestamp="1565873553549">
+        <mark key="'" line="96" column="55" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="84" column="51" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/yajra/laravel-oci8/src/Oci8/Eloquent/OracleEloquent.php" timestamp="1565872929658">
-        <mark key="'" line="122" column="5" />
+      <file name="$USER_HOME$/code/api-frc-org/app/NewAccountGiftBase.php" timestamp="1565873544484">
+        <mark key="'" line="44" column="16" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Frc/NewAccount.php" timestamp="1565872910337">
-        <mark key="'" line="5" column="26" />
+      <file name="$USER_HOME$/code/api-frc-org/app/NewAccountCorrespondenceBase.php" timestamp="1565873562718">
+        <mark key="'" line="3" column="25" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/vendor/yajra/laravel-oci8/src/Oci8/Eloquent/OracleEloquent.php" timestamp="1565873653579">
+        <mark key="'" line="165" column="23" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Frc/NewAccount.php" timestamp="1565873549093">
+        <mark key="'" line="5" column="37" />
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="38" />
         <mark key="^" line="5" column="38" />
@@ -29,12 +46,18 @@
         <mark key="." line="1" column="46" />
         <mark key="^" line="1" column="46" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/IpGroupDataTests.php" timestamp="1565872907200">
-        <mark key="'" line="27" column="26" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
-        <mark key="^" line="27" column="33" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/IpGroupDataTests.php" timestamp="1565873547349">
+        <mark key="'" line="27" column="27" />
+        <mark key="[" line="28" column="45" />
+        <mark key="]" line="29" column="11" />
+        <mark key="." line="29" column="11" />
+        <mark key="^" line="29" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/vendor/yajra/laravel-oci8/src/Oci8/Query/OracleBuilder.php" timestamp="1565873810885">
+        <mark key="'" line="19" column="8" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -42,20 +65,35 @@
       <jump line="79" column="24" filename="$USER_HOME$/code/api-frc-org/app/NewAccountBase.php" />
       <jump line="86" column="50" filename="$USER_HOME$/code/api-frc-org/app/NewAccountBase.php" />
       <jump line="85" column="42" filename="$USER_HOME$/code/api-frc-org/app/NewAccountBase.php" />
-      <jump line="27" column="26" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/IpGroupDataTests.php" />
-      <jump line="5" column="26" filename="$USER_HOME$/code/api-frc-org/app/Frc/NewAccount.php" />
       <jump line="84" column="39" filename="$USER_HOME$/code/api-frc-org/app/NewAccountBase.php" />
       <jump line="4" column="24" filename="$USER_HOME$/code/api-frc-org/app/NewAccountBase.php" />
       <jump line="37" column="6" filename="$USER_HOME$/code/api-frc-org/vendor/yajra/laravel-oci8/src/Oci8/Eloquent/OracleEloquent.php" />
       <jump line="213" column="20" filename="$USER_HOME$/code/api-frc-org/vendor/yajra/laravel-oci8/src/Oci8/Eloquent/OracleEloquent.php" />
       <jump line="122" column="5" filename="$USER_HOME$/code/api-frc-org/vendor/yajra/laravel-oci8/src/Oci8/Eloquent/OracleEloquent.php" />
+      <jump line="42" column="3" filename="$USER_HOME$/code/api-frc-org/app/NewAccountGiftBase.php" />
+      <jump line="92" column="32" filename="$USER_HOME$/code/api-frc-org/app/NewAccountBase.php" />
+      <jump line="44" column="16" filename="$USER_HOME$/code/api-frc-org/app/NewAccountGiftBase.php" />
+      <jump line="27" column="27" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/IpGroupDataTests.php" />
+      <jump line="5" column="37" filename="$USER_HOME$/code/api-frc-org/app/Frc/NewAccount.php" />
+      <jump line="96" column="55" filename="$USER_HOME$/code/api-frc-org/app/NewAccountBase.php" />
+      <jump line="37" column="56" filename="$USER_HOME$/code/api-frc-org/app/NewAccountCorrespondenceBase.php" />
+      <jump line="3" column="25" filename="$USER_HOME$/code/api-frc-org/app/NewAccountCorrespondenceBase.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/api-frc-org/vendor/yajra/laravel-oci8/src/Oci8/Eloquent/OracleEloquent.php" />
+      <jump line="165" column="23" filename="$USER_HOME$/code/api-frc-org/vendor/yajra/laravel-oci8/src/Oci8/Eloquent/OracleEloquent.php" />
+      <jump line="19" column="8" filename="$USER_HOME$/code/api-frc-org/vendor/yajra/laravel-oci8/src/Oci8/Query/OracleBuilder.php" />
     </jumps>
     <registers>
+      <register name="-" type="4">
+        <text>$grammar</text>
+      </register>
+      <register name="/" type="4">
+        <text>whereIn</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlIFlhanJhXE9jaThcRWxvcXVlbnRcT3JhY2xlRWxvcXVlbnQgYXMgTW9kZWw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcjsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29ubik7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7Cg==</text>
@@ -63,35 +101,32 @@
       <register name="3" type="2">
         <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbmV3X2FjY291bnRzID0gbmV3IENvbGxlY3Rpb24oKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Y2h1bmsoMTAwMCxmdW5jdGlvbigkY2h1bmspewogICAgICAgIH0pLT4=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LT5jaHVuaygxMDAwLCBmdW5jdGlvbigkbmV3X2FjY291bnRfY2h1bmspdXNlICgmJG5ld19hY2NvdW50cyl7CiAgICAgICAgfSk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRjaHVuazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqIEB2YXIgQ29sbGVjdGlvbiAkbmV3X2FjY291bnRfY2h1bmsgKi8KICAgICAgICAgICAgJG5ld19hY2NvdW50X2NodW5rID0gJG5ld19hY2NvdW50X2NodW5rLT5sb2FkKCdnaWZ0cycpOwoKCgogICAgICAgICAgICAkbmV3X2FjY291bnRzID0gJG5ld19hY2NvdW50cy0+bWVyZ2UoKTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkbmV3X2FjY291bnRfY2h1bmspCg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRuZXdfYWNjb3VudF9jaHVuay0+Zmlyc3QoKS0+Z2lmdHMtPmNvdW50KCkgPT0gMCkgewogICAgICAgICAgICAgICAgZGQoJG5ld19hY2NvdW50X2NodW5rLT5maXJzdCgpLT5naWZ0cyk7CiAgICAgICAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5ld19hY2NvdW50X2NodW5rLT53aGVyZSgnZ2lmdHMnLCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbmV3X2FjY291bnRzID0gbmV3IENvbGxlY3Rpb24oKTsK</text>
       </register>
-      <register name="-" type="4">
-        <text>Model</text>
-      </register>
-      <register name="/" type="4">
-        <text>get(</text>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get(</last-search>
+      <last-search>whereIn</last-search>
       <last-offset />
-      <last-pattern>get(</last-pattern>
+      <last-pattern>whereIn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -100,8 +135,12 @@
         <entry>gifts</entry>
         <entry>with</entry>
         <entry>get(</entry>
+        <entry>newBaseQ</entry>
+        <entry>whereIn</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
