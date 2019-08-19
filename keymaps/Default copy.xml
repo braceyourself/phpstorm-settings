@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateDatabaseConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
@@ -7,9 +10,7 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
-  </action>
+  <action id="ActivateTerminalToolWindow" />
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
