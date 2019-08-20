@@ -304,11 +304,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="19" column="20" />
       </file>
-      <file name="$USER_HOME$/Code/dentalstaffingnetwork.com/resources/js/app.js" timestamp="1566143506789">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="43" />
-        <mark key="^" line="32" column="43" />
-        <mark key="." line="32" column="43" />
+      <file name="$USER_HOME$/Code/dentalstaffingnetwork.com/resources/js/app.js" timestamp="1566293268632">
+        <mark key="'" line="0" column="18" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="30" />
       </file>
       <file name="/main.media [database.sqlite]" timestamp="1560526882958">
         <mark key="[" line="0" column="0" />
@@ -353,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1639" column="28" filename="Z:/FRESCO32/DDL/Packages/api_call.sql" />
       <jump line="1714" column="28" filename="Z:/FRESCO32/DDL/Packages/api_call.sql" />
       <jump line="187" column="121" filename="Z:/FRESCO32/DDL/Packages/new_acct_mgmt.sql" />
       <jump line="385" column="14" filename="Z:/FRESCO32/DDL/Packages/new_acct_mgmt.sql" />
@@ -453,13 +453,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/Code/dentalstaffingnetwork.com/resources/sass/app.scss" />
       <jump line="58" column="7" filename="$USER_HOME$/Code/dentalstaffingnetwork.com/resources/sass/app.scss" />
       <jump line="47" column="6" filename="$USER_HOME$/Code/dentalstaffingnetwork.com/resources/views/welcome.blade.php" />
+      <jump line="0" column="18" filename="$USER_HOME$/Code/dentalstaffingnetwork.com/resources/js/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>api.frc.org.test:8080</text>
       </register>
       <register name="-" type="4">
-        <text>styles</text>
+        <text>vue-comonent-autoload</text>
       </register>
       <register name="/" type="4">
         <text>transactions</text>
@@ -468,25 +469,25 @@
         <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgIm1vbWVudCI6ICJeMi4yNC4wIiwKICAgICJ0b2FzdHIiOiAiXjIuMS40IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNtYWluewogICAgfQo=</text>
+        <text encoding="base64">bG9hZGVyKCcuL2NvbXBvbmVudHMnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAkcHJpbWFyeTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC53ZWJwYWNrQ29uZmlnKHsKICAgICAgICAvLyB0ZXN0Oi9cLnNjc3MkLywKICAgICAgICB1c2U6WwogICAgICAgICAgICAndnVlLXN0eWxlLWxvYWRlcicsCiAgICAgICAgICAgICdjc3MtbG9hZGVyJywKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbG9hZGVyOidzYXNzLWxvYWRlcicsCiAgICAgICAgICAgICAgICBvcHRpb25zOnsKICAgICAgICAgICAgICAgICAgICBkYXRhOiBgCiAgICAgICAgICAgICAgICAgICAgICAgIEBpbXBvcnQgInJlc291cmNlcy9zY3NzL192YXJpYWJsZXMuc2NzcyI7CiAgICAgICAgICAgICAgICAgICAgYAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgXQogICAgfSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvYWRlciBmcm9tICd2dWUtY29tcG9uZW50LWF1dG9sb2FkJzsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICByZXNvbHZlOnsKICAgICAgICAgICAgYWxpYXM6ewogICAgICAgICAgICAgICAgJ0AnOnBhdGgucmVzb2x2ZSgncmVzb3VyY2VzL3Nhc3MnKQogICAgICAgICAgICB9CgogICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gY29uc3QgZmlsZXMgPSByZXF1aXJlLmNvbnRleHQoJy4vJywgdHJ1ZSwgL1wudnVlJC9pKTsKLy8gZmlsZXMua2V5cygpLm1hcChrZXkgPT4gVnVlLmNvbXBvbmVudChrZXkuc3BsaXQoJy8nKS5wb3AoKS5zcGxpdCgnLicpWzBdLCBmaWxlcyhrZXkpLmRlZmF1bHQpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">cmVxdWlyZSgndnVlLWNvbXBvbmVudC1hdXRvbG9hZCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNtYWluewogICAgfQo=</text>
+        <text encoding="base64">LyoqCiAqIEZpcnN0IHdlIHdpbGwgbG9hZCBhbGwgb2YgdGhpcyBwcm9qZWN0J3MgSmF2YVNjcmlwdCBkZXBlbmRlbmNpZXMgd2hpY2gKICogaW5jbHVkZXMgVnVlIGFuZCBvdGhlciBsaWJyYXJpZXMuIEl0IGlzIGEgZ3JlYXQgc3RhcnRpbmcgcG9pbnQgd2hlbgogKiBidWlsZGluZyByb2J1c3QsIHBvd2VyZnVsIHdlYiBhcHBsaWNhdGlvbnMgdXNpbmcgVnVlIGFuZCBMYXJhdmVsLgogKi8KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoqCiAqIFRoZSBmb2xsb3dpbmcgYmxvY2sgb2YgY29kZSBtYXkgYmUgdXNlZCB0byBhdXRvbWF0aWNhbGx5IHJlZ2lzdGVyIHlvdXIKICogVnVlIGNvbXBvbmVudHMuIEl0IHdpbGwgcmVjdXJzaXZlbHkgc2NhbiB0aGlzIGRpcmVjdG9yeSBmb3IgdGhlIFZ1ZQogKiBjb21wb25lbnRzIGFuZCBhdXRvbWF0aWNhbGx5IHJlZ2lzdGVyIHRoZW0gd2l0aCB0aGVpciAiYmFzZW5hbWUiLgogKgogKiBFZy4gLi9jb21wb25lbnRzL0FwcC52dWUgLT4gPGV4YW1wbGUtY29tcG9uZW50PjwvZXhhbXBsZS1jb21wb25lbnQ+CiAqLwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -647,10 +648,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ci8qKgogKiBOZXh0LCB3ZSB3aWxsIGNyZWF0ZSBhIGZyZXNoIFZ1ZSBhcHBsaWNhdGlvbiBpbnN0YW5jZSBhbmQgYXR0YWNoIGl0IHRvCiAqIHRoZSBwYWdlLiBUaGVuLCB5b3UgbWF5IGJlZ2luIGFkZGluZyBjb21wb25lbnRzIHRvIHRoaXMgYXBwbGljYXRpb24KICogb3IgY3VzdG9taXplIHRoZSBKYXZhU2NyaXB0IHNjYWZmb2xkaW5nIHRvIGZpdCB5b3VyIHVuaXF1ZSBuZWVkcy4KICovCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICdjc3M6eycgKwogICAgICAgICcn</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICNtYWluewogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -701,13 +702,13 @@
         <entry>sbnext</entry>
         <entry>nohlsearch</entry>
         <entry>178</entry>
-        <entry>q</entry>
         <entry>m .-2</entry>
         <entry>m .+1</entry>
         <entry>redo</entry>
         <entry>CtrlPBufTag</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
