@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <MySQLCodeStyleSettings version="2">
+    <option name="IMP_COMMON_WRAP_EVERY_STATEMENT" value="true" />
+  </MySQLCodeStyleSettings>
   <OracleCodeStyleSettings version="2">
     <option name="INSERT_EL_WRAP" value="0" />
     <option name="SET_EL_WRAP" value="0" />
@@ -15,6 +18,7 @@
     <option name="ROUTINE_ARG_WRAP" value="0" />
     <option name="ROUTINE_ARG_ALIGN_TYPES" value="true" />
     <option name="IMP_DECLARE_ALIGN_DEFAULT" value="true" />
+    <option name="IMP_IF_THEN_COLLAPSE" value="false" />
     <option name="IMP_LOOP_LOOP_INDENT" value="false" />
     <option name="EXPR_BINARY_OP_ALIGN" value="false" />
     <option name="EXPR_CASE_THEN_WRAP" value="true" />
