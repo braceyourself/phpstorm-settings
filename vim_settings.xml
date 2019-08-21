@@ -288,12 +288,12 @@
         <mark key="." line="20" column="19" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="Z:/FRESCO32/DDL/Packages/api_frc.sql" timestamp="1566406371018">
+      <file name="Z:/FRESCO32/DDL/Packages/api_frc.sql" timestamp="1566407376597">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="52" column="27" />
-        <mark key="^" line="52" column="27" />
-        <mark key="." line="52" column="27" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="53" column="27" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Code/api.frc.org/app/Admin/Actions/SetPrimaryGift.php" timestamp="1563909277023">
         <mark key="'" line="53" column="89" />
@@ -375,7 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1609" column="20" filename="Z:/FRESCO32/DDL/Packages/new_acct_mgmt.sql" />
       <jump line="1649" column="81" filename="Z:/FRESCO32/DDL/Packages/new_acct_mgmt.sql" />
       <jump line="1658" column="63" filename="Z:/FRESCO32/DDL/Packages/new_acct_mgmt.sql" />
       <jump line="1660" column="27" filename="Z:/FRESCO32/DDL/Packages/new_acct_mgmt.sql" />
@@ -474,6 +473,7 @@
       <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/08cb2572-307e-47e4-877b-3ad8a1c6c20b/console.sql" />
       <jump line="81" column="8" filename="Z:/FRESCO32/DDL/Packages/api_frc.sql" />
       <jump line="53" column="20" filename="Z:/FRESCO32/DDL/Packages/api_frc.sql" />
+      <jump line="24" column="25" filename="Z:/FRESCO32/DDL/Packages/api_frc.sql" />
       <jump line="0" column="0" filename="Z:/FRESCO32/DDL/Packages/api_frc.sql" />
     </jumps>
     <registers>
@@ -486,29 +486,29 @@
       <register name="/" type="4">
         <text>loda</text>
       </register>
-      <register name="0" type="4">
-        <text>api_frc.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGNhbGxfZW5kcG9pbnQKICAgICgKICAgICAgICBlbmRwb2ludCAgICAgdmFyY2hhcjIsCiAgICAgICAgbWV0aG9kICAgICAgIHZhcmNoYXIyIDo9ICdHRVQnLAogICAgICAgIGRhdGEgICAgICAgICBjbG9iIDo9ICc9JywKICAgICAgICBhdXRoICAgICAgICAgYm9vbGVhbiA6PSBudWxsLAogICAgICAgIGNvbnRlbnRfdHlwZSB2YXJjaGFyMiA6PSAnYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkJywKICAgICAgICBhY2NlcHQgICAgICAgdmFyY2hhcjIgOj0gJ2FwcGxpY2F0aW9uL2pzb24nLAogICAgICAgIHVzZXJfYWdlbnQgICB2YXJjaGFyMiA6PSAnTW96aWxsYS80LjAnCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGNhbGxfZW5kcG9pbnQKICAgICgKICAgICAgICBlbmRwb2ludCBpbiAgICAgIHZhcmNoYXIyLAogICAgICAgIG1ldGhvZCBpbiAgICAgICAgdmFyY2hhcjIgOj0gJ0dFVCcsCiAgICAgICAgZGF0YSBpbiAgICAgICAgICBjbG9iIDo9ICc9JywKICAgICAgICByZXF1aXJlc19hdXRoIGluIGJvb2xlYW4gOj0gZmFsc2UsCiAgICAgICAgY29udGVudF90eXBlIGluICB2YXJjaGFyMiA6PSAnYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkJywKICAgICAgICBhY2NlcHQgaW4gICAgICAgIHZhcmNoYXIyIDo9ICdhcHBsaWNhdGlvbi9qc29uJywKICAgICAgICB1c2VyX2FnZW50IGluICAgIHZhcmNoYXIyIDo9ICdNb3ppbGxhLzQuMCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgpkCmRlY2xhcmUgZAogICAgZAogICAgZGVjbGFyZSBkCiAgICBkCiAgICAKICAgIGQKICAgIGQKICAgIGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnNlbGVjdCAqIGZyb20gVkVORE9SX0RBVEFfQVJDSElWRQp3aGVyZSBBRERSXzEgaXMgbnVsbAogIGFuZCBMT0FEX0RBVEUgPiAnMDMtSlVOLTIwMTknCg==</text>
+        <text encoding="base64">CgpkCmRlY2xhcmUgZAogICAgZAogICAgZGVjbGFyZSBkCiAgICBkCiAgICAKICAgIGQKICAgIGQKICAgIGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhbmQgQlJBTkRfQ09ERSA9ICdBQ1QnOwo=</text>
+        <text encoding="base64">CnNlbGVjdCAqIGZyb20gVkVORE9SX0RBVEFfQVJDSElWRQp3aGVyZSBBRERSXzEgaXMgbnVsbAogIGFuZCBMT0FEX0RBVEUgPiAnMDMtSlVOLTIwMTknCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vYnJhY2V5b3Vyc2VsZi92dWUtY29tcG9uZW50LWF1dG9sb2FkLmdpdCIKICB9LAo=</text>
+        <text encoding="base64">ICBhbmQgQlJBTkRfQ09ERSA9ICdBQ1QnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ2dpbmcgPSBvcHRzLmxvZ2dpbmc7Cg==</text>
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vYnJhY2V5b3Vyc2VsZi92dWUtY29tcG9uZW50LWF1dG9sb2FkLmdpdCIKICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucyA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIG9wdGlvbnMgPSB7fTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ2dpbmcgPSBvcHRzLmxvZ2dpbmc7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -669,10 +669,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAob3B0aW9ucyA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIG9wdGlvbnMgPSB7fTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbG9nKC4uLmFyZ3MpewogICAgaWYKfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
