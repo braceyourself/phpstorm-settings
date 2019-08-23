@@ -3,4 +3,7 @@
     <variable name="label" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="btn" value="&lt;button class=&quot;btn&quot;&gt;$END$&lt;/button&gt;" description="&lt;button&gt;...&lt;/button&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
