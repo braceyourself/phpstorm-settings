@@ -4,6 +4,7 @@
     <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
     </context>
   </template>
   <template name="Test" value="/** @test */ // $name$ &#10;public function $snake_name$(){&#10;    $END$&#10;}" description="create a phpunit test method" toReformat="false" toShortenFQNames="true">
