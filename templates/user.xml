@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="helper" value="if (!function_exists('$function_name$')) {&#10;    function $function_name$($args$)&#10;    {&#10;        $END$&#10;    }&#10;}&#10;" description="Create global helper function" toReformat="false" toShortenFQNames="true">
+    <variable name="function_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
