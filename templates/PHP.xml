@@ -35,7 +35,7 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
-  <template name="set" value="/**&#10; * Accessor for $variable$&#10; * @param $value&#10; */&#10;public function set$camel_variable$Attribute($value)&#10;{&#10;    $this-&gt;attributes['$snake_variable$'] = $value;&#10;}&#10;" description="Create Laravel attribute mutator" toReformat="false" toShortenFQNames="true">
+  <template name="set" value="/**&#10; * Muattor for $variable$&#10; * @param $value&#10; */&#10;public function set$camel_variable$Attribute($value)&#10;{&#10;    $this-&gt;attributes['$snake_variable$'] = $value;&#10;}&#10;" description="Create Laravel attribute mutator" toReformat="false" toShortenFQNames="true">
     <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="camel_variable" expression="capitalize(camelCase(variable))" defaultValue="" alwaysStopAt="false" />
     <variable name="snake_variable" expression="snakeCase(variable)" defaultValue="" alwaysStopAt="false" />
