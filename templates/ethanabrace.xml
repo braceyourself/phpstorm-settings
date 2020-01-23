@@ -273,4 +273,12 @@
       <option name="PHP Trait Member" value="true" />
     </context>
   </template>
+  <template name="belongsto" value="public function $method_name$()&#10;{&#10;    return $this-&gt;belongsTo($class_name$::class$END$);&#10;}" description="create BelongsTo relationship on eloquent model" toReformat="false" toShortenFQNames="true">
+    <variable name="method_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class_name" expression="capitalize(camelCase(method_name))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
+    </context>
+  </template>
 </templateSet>
