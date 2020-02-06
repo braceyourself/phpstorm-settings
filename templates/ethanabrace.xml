@@ -281,4 +281,12 @@
       <option name="PHP Trait Member" value="true" />
     </context>
   </template>
+  <template name="make" value="$field$::make('$field_name$'$args$),$END$&#10;" description="laravel nova field" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="field_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
