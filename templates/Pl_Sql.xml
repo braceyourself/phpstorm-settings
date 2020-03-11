@@ -11,4 +11,10 @@
       <option name="SQL" value="true" />
     </context>
   </template>
+  <template name="con" value="constructor function $NAME$ return self as result as&#10;begin&#10;    $END$&#10;    return;&#10;end;&#10;" description="type implementation constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
 </templateSet>
