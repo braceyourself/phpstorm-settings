@@ -1,0 +1,14 @@
+<templateSet group="Pl/Sql">
+  <template name="typedec" value="create or replace type $type_name$ as object (&#10;    $END$&#10;);&#10;" description="Pl/Sql type declaration" toReformat="false" toShortenFQNames="true">
+    <variable name="type_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="typebody" value="create or replace type body $name$ as&#10;    $END$&#10;end;&#10;" description="Type body" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>
