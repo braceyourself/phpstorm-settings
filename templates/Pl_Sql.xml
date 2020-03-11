@@ -23,4 +23,9 @@
       <option name="SQL" value="true" />
     </context>
   </template>
+  <template name="---" value="-- -----------------------------------------------------------------------&#10;-- $END$&#10;-- -----------------------------------------------------------------------" description="block comment for procedures/functions" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
 </templateSet>
