@@ -17,4 +17,10 @@
       <option name="SQL" value="true" />
     </context>
   </template>
+  <template name="mpro" value="member procedure $name$ as&#10;begin&#10;    $END$&#10;end;&#10;" description="member procedure" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
 </templateSet>
