@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>brand</entry>
-        <entry>brand_code</entry>
         <entry>gift_amount</entry>
         <entry>getarchi</entry>
         <entry>vendor_data</entry>
@@ -25,6 +23,8 @@
         <entry>MOBILECAUSE</entry>
         <entry>loadTransactions</entry>
         <entry>external_uid</entry>
+        <entry>Attributes</entry>
+        <entry>batchdata</entry>
       </history-search>
       <history-cmd>
         <entry>m .-2</entry>
@@ -42,11 +42,11 @@
         <entry>97</entry>
         <entry>88</entry>
         <entry>qw</entry>
-        <entry>wq</entry>
         <entry>124</entry>
         <entry>redo</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -133,12 +133,12 @@
         <mark key="]" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" timestamp="1586793090901">
-        <mark key="'" line="140" column="21" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="146" column="22" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" timestamp="1586795573177">
+        <mark key="'" line="90" column="20" />
+        <mark key="[" line="90" column="8" />
+        <mark key="]" line="90" column="8" />
+        <mark key="." line="90" column="7" />
+        <mark key="^" line="90" column="8" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/Mobilecause/TransactionReport.php" timestamp="1586793453577">
         <mark key="'" line="169" column="36" />
@@ -149,13 +149,6 @@
       </file>
       <file name="/console" timestamp="1586792110688">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/.env" timestamp="1586690480921">
-        <mark key="'" line="69" column="38" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="79" column="0" />
-        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Mobilecause/RequestTransactionReports.php" timestamp="1586792585894">
         <mark key="'" line="38" column="91" />
@@ -179,30 +172,28 @@
       <file name="/BATCH_ARRIVAL [Frc]" timestamp="1586793660230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1586793715792">
+      <file name="/dummy.sql" timestamp="1586793884985">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586792346513">
+      <file name="/Dummy.txt" timestamp="1586795199689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Mobilecause/ReportRepository.php" timestamp="1586691079040">
-        <mark key="'" line="81" column="22" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="10" />
-        <mark key="^" line="23" column="10" />
-        <mark key="." line="23" column="9" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Mobilecause/MobilecauseTests.php" timestamp="1586794428666">
+        <mark key="'" line="125" column="47" />
+        <mark key="[" line="144" column="48" />
+        <mark key="]" line="144" column="75" />
+        <mark key="." line="144" column="74" />
+        <mark key="^" line="144" column="75" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Mobilecause/MobilecauseTests.php" timestamp="1586792088695">
-        <mark key="'" line="73" column="34" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" timestamp="1586794112035">
+        <mark key="[" line="0" column="62" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="32" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" timestamp="1586793711513">
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="0" column="51" />
-        <mark key="." line="0" column="50" />
-        <mark key="^" line="0" column="51" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Exceptions/Handler.php" timestamp="1586795420761">
+        <mark key="'" line="53" column="17" />
+        <mark key="[" line="48" column="9" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Imports/Actengage/UpdateVdaAddress.php" timestamp="1586792889417">
         <mark key="'" line="70" column="26" />
@@ -231,17 +222,15 @@
         <mark key="^" line="1" column="79" />
         <mark key="." line="1" column="78" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Exceptions/BatchArrivalException.php" timestamp="1586795522731">
+        <mark key="'" line="7" column="43" />
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="3" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
-      <jump line="135" column="22" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
-      <jump line="192" column="9" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="15" column="19" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="78" column="35" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="86" column="22" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="90" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="489" column="24" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
       <jump line="86" column="41" filename="$USER_HOME$/code/api-frc-org/app/Models/Mobilecause/TransactionReport.php" />
       <jump line="74" column="32" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
       <jump line="144" column="32" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
@@ -269,7 +258,6 @@
       <jump line="152" column="28" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
       <jump line="178" column="24" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
       <jump line="153" column="27" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="196" column="45" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/api-frc-org/phpunit.xml" />
       <jump line="208" column="27" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
       <jump line="171" column="31" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mobilecause/MobilecauseTests.php" />
@@ -333,71 +321,69 @@
       <jump line="61" column="38" filename="$USER_HOME$/code/api-frc-org/app/Observers/TransactionReportObserver.php" />
       <jump line="6" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" />
+      <jump line="196" column="54" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
+      <jump line="21" column="21" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
+      <jump line="125" column="47" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mobilecause/MobilecauseTests.php" />
+      <jump line="23" column="33" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
+      <jump line="24" column="2" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
+      <jump line="87" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
+      <jump line="51" column="17" filename="$USER_HOME$/code/api-frc-org/app/Exceptions/Handler.php" />
+      <jump line="90" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
+      <jump line="6" column="43" filename="$USER_HOME$/code/api-frc-org/app/Exceptions/BatchArrivalException.php" />
+      <jump line="7" column="43" filename="$USER_HOME$/code/api-frc-org/app/Exceptions/BatchArrivalException.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text>declare
-    emails varchar2(200);
-begin
-	emails := LIST_INFO.GET_LIST_EMAIL_STRING('MP_NOTICE');
-	dbms_output.PUT_LINE(emails);
-
-end;</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>arrival</text>
+        <text>Batc</text>
       </register>
       <register name="/" type="4">
-        <text>external_uid</text>
+        <text>batchdata</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQb3N0QXJyaXZhbEpvYjo6ZGlzcGF0Y2goJGFycml2YWwpOwo=</text>
+      <register name="0" type="4">
+        <text>batch_data_type</text>
       </register>
       <register name="1" type="2">
-        <text>declare
-    emails varchar2(200);
-begin
-	emails := LIST_INFO.GET_LIST_EMAIL_STRING('MP_NOTICE');
-	dbms_output.PUT_LINE(emails);
-
-end;</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJ0aXNhbjo6Y2FsbChQcm9jZXNzQXJyaXZhbDo6Y2xhc3MsIFskcmVwb3J0LT5hcnJpdmFsX25vLCAnZnJjJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcihzdGF0aWM6OmNsYXNzLCApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlcG9ydC0+YmF0Y2hfYXJyaXZhbC0+bW92ZV92ZW5kb3JfYXJjaGl2ZV9kYXRhKCk7CgogICAgICAgICAgICAkcmVwb3J0LT5iYXRjaF9hcnJpdmFsLT51cGRhdGVDb3VudHMoKTsK</text>
+        <text encoding="base64">ICAgIGhhbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvY2Vzc0FycmkK</text>
+        <text encoding="base64">ICAgIGhhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXJjaGl2ZWQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLyAvLyBNUF9OT1RJQ0UgZW1haWxzCiAgICBwdWJsaWMgZnVuY3Rpb24gbXBfbm90aWNlX2VtYWlscygpCiAgICB7CiAgICAgICAgJGVtYWlscyA9IChuZXcgT3JhY2xlUGFja2FnZShEQjo6Y29ubmVjdGlvbignZnJjJyksICdsaXN0X2luZm8nKSkKICAgICAgICAgICAgLT5nZXRfbGlzdF9lbWFpbF9zdHJpbmcoJ0xJQlYxJyk7CiAgICAgICAgZGQoJGVtYWlscyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRkZXNjcmlwdGlvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkdHlwZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>external_uid</last-search>
+      <last-search>batchdata</last-search>
       <last-offset />
-      <last-pattern>external_uid</last-pattern>
+      <last-pattern>batchdata</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
