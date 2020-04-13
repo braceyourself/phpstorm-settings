@@ -142,12 +142,12 @@
         <mark key="^" line="87" column="19" />
         <mark key="." line="87" column="18" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" timestamp="1586802440603">
-        <mark key="'" line="141" column="36" />
-        <mark key="[" line="161" column="65" />
-        <mark key="]" line="161" column="65" />
-        <mark key="." line="161" column="65" />
-        <mark key="^" line="161" column="52" />
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" timestamp="1586804418780">
+        <mark key="'" line="139" column="22" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="^" line="136" column="60" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/Messageevent.php" timestamp="1586801936155">
         <mark key="'" line="17" column="43" />
@@ -155,12 +155,6 @@
         <mark key="]" line="17" column="45" />
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="44" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Observers/TransactionReportObserver.php" timestamp="1586793616303">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="62" column="59" />
       </file>
       <file name="/FRC.BATCH_ARRIVAL" timestamp="1586793660242">
         <mark key="[" line="0" column="0" />
@@ -170,12 +164,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" timestamp="1586801988897">
-        <mark key="'" line="36" column="9" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="35" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" timestamp="1586804295875">
+        <mark key="'" line="47" column="68" />
+        <mark key="[" line="54" column="60" />
+        <mark key="]" line="54" column="69" />
+        <mark key="." line="54" column="68" />
+        <mark key="^" line="54" column="69" />
       </file>
       <file name="/BATCH_ARRIVAL [Frc]" timestamp="1586793660230">
         <mark key="[" line="0" column="0" />
@@ -222,14 +216,23 @@
         <mark key="^" line="7" column="51" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/ProcessArrival.php" timestamp="1586793598461">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="43" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Http/Responses/ApiResponse.php" timestamp="1586804412084">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+        <mark key="." line="7" column="4" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" timestamp="1586799872562">
         <mark key="[" line="315" column="0" />
         <mark key="]" line="315" column="0" />
         <mark key="." line="315" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Http/Responses/QuorumApiResponse.php" timestamp="1586804403050">
+        <mark key="'" line="8" column="41" />
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="8" column="42" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Exceptions/BatchArrivalException.php" timestamp="1586795522731">
         <mark key="'" line="7" column="43" />
@@ -240,15 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="42" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="150" column="33" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="183" column="29" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="151" column="28" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="171" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="152" column="28" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="178" column="24" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="153" column="27" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/api-frc-org/phpunit.xml" />
       <jump line="208" column="27" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
       <jump line="171" column="31" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mobilecause/MobilecauseTests.php" />
       <jump line="212" column="22" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
@@ -339,49 +333,58 @@
       <jump line="67" column="23" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
       <jump line="66" column="23" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
       <jump line="36" column="9" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" />
-      <jump line="141" column="36" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="141" column="28" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="156" column="31" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="25" column="23" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/QuorumApiResponse.php" />
+      <jump line="137" column="61" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="43" column="95" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" />
+      <jump line="47" column="68" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" />
+      <jump line="56" column="4" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="75" column="23" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="8" column="41" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/QuorumApiResponse.php" />
+      <jump line="139" column="22" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>['']</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXNwb25zZS0+Y29sbGVjdCgpLT5oYXMoJ2Vycm9yJykpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oJHJlc3BvbnNlLT5nZXQoJ2Vycm9yJyksIFsKICAgICAgICAgICAgICAgICAgICAnY2xhc3MnID0+IHN0YXRpYzo6Y2xhc3MsCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVlc3RfcGFyYW1zJyA9PiAkcGFyYW1zLAogICAgICAgICAgICAgICAgICAgICdyZXNwb25zZScgPT4gJHJlc3BvbnNlCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgfQoKCiAgICAgICAgICAgIGlmICghJHJlc3BvbnNlLT5tZXRhKCkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oIm1ldGEga2V5IG5vdCBmb3VuZCBpbiBRdW9ydW0gcmVzcG9uc2UiLCBbCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVlc3RfcGFyYW1zJyA9PiAkcGFyYW1zLAogICAgICAgICAgICAgICAgICAgICdyZXNwb25zZScgPT4gJHJlc3BvbnNlLT5qc29uKCkKICAgICAgICAgICAgICAgIF0pOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>['']</text>
+        <text>Sendemail</text>
       </register>
       <register name="/" type="4">
         <text>all(</text>
       </register>
-      <register name="0" type="4">
-        <text>batch_data_type</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihTZW5kZW1haWxSZXBvc2l0b3J5OjpjbGFzcywgU2VuZGVtYWlsOjppbml0aWFsaXplUmVwb3NpdG9yeSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG1ldGEgPSAkcmVzcG9uc2UtPmdldCgnbWV0YScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXNwb25zZS0+Y29sbGVjdCgpLT5oYXMoJ2Vycm9yJykpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oJHJlc3BvbnNlLT5nZXQoJ2Vycm9yJyksIFsKICAgICAgICAgICAgICAgICAgICAnY2xhc3MnID0+IHN0YXRpYzo6Y2xhc3MsCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVlc3RfcGFyYW1zJyA9PiAkcGFyYW1zLAogICAgICAgICAgICAgICAgICAgICdyZXNwb25zZScgPT4gJHJlc3BvbnNlCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgfQoKCiAgICAgICAgICAgIGlmICghJHJlc3BvbnNlLT5tZXRhKCkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oIm1ldGEga2V5IG5vdCBmb3VuZCBpbiBRdW9ydW0gcmVzcG9uc2UiLCBbCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVlc3RfcGFyYW1zJyA9PiAkcGFyYW1zLAogICAgICAgICAgICAgICAgICAgICdyZXNwb25zZScgPT4gJHJlc3BvbnNlLT5qc29uKCkKICAgICAgICAgICAgICAgIF0pOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oJGUtPmdldE1lc3NhZ2UoKSwgWwogICAgICAgICAgICAgICAgICAgICdleGNlcHRpb25fdHJhY2UnID0+ICRlLT5nZXRUcmFjZSgpLAogICAgICAgICAgICAgICAgXSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRtZXRhID0gJHJlc3BvbnNlLT5nZXQoJ21ldGEnKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpc3NldCgkcGFyYW1zWydsaW1pdCddKSkgewogICAgICAgICAgICAgICAgJHBhcmFtc1snbGltaXQnXSA9ICRkaWZmIDwgMTAwMCA/ICRkaWZmIDogMTAwMDsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkaWZmID0gJHRvdGFsX2NvdW50IC0gJGdhdGhlcmVkLT5jb3VudCgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVwb3NpdG9yeV9jbGFzcyA9ICJcQXBwXFJlcG9zaXRvcmllc1xcIi5jbGFzc19iYXNlbmFtZShzdGF0aWM6OmNsYXNzKS4iUmVwb3NpdG9yeSI7CiAgICAgICAgJHJlcG8gPSAkcmVwb3NpdG9yeV9jbGFzczo6aW5pdCgpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGpzb24gPSAkcmVzcG9uc2UtPmdldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXNwb25zZS0+Y29sbGVjdCgpLT5oYXMoJ2Vycm9yJykpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oJHJlc3BvbnNlLT5nZXQoJ2Vycm9yJyksIFsKICAgICAgICAgICAgICAgICAgICAnY2xhc3MnID0+IHN0YXRpYzo6Y2xhc3MsCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVlc3RfcGFyYW1zJyA9PiAkcGFyYW1zLAogICAgICAgICAgICAgICAgICAgICdyZXNwb25zZScgPT4gJHJlc3BvbnNlCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
