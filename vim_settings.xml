@@ -42,11 +42,11 @@
         <entry>88</entry>
         <entry>qw</entry>
         <entry>124</entry>
-        <entry>redo</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>146</entry>
         <entry>w</entry>
+        <entry>redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -142,12 +142,12 @@
         <mark key="^" line="87" column="19" />
         <mark key="." line="87" column="18" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" timestamp="1586804418780">
-        <mark key="'" line="139" column="22" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="136" column="60" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" timestamp="1586804675103">
+        <mark key="'" line="53" column="26" />
+        <mark key="[" line="53" column="20" />
+        <mark key="]" line="53" column="29" />
+        <mark key="^" line="53" column="29" />
+        <mark key="." line="53" column="28" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/Messageevent.php" timestamp="1586801936155">
         <mark key="'" line="17" column="43" />
@@ -180,12 +180,11 @@
       <file name="/Dummy.txt" timestamp="1586795199689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" timestamp="1586799949311">
-        <mark key="'" line="12" column="31" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="33" />
-        <mark key="^" line="14" column="33" />
-        <mark key="." line="14" column="32" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" timestamp="1586804872702">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="39" column="67" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiRepositoryTests.php" timestamp="1586797396900">
         <mark key="[" line="5" column="0" />
@@ -222,17 +221,11 @@
         <mark key="^" line="7" column="5" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" timestamp="1586799872562">
-        <mark key="[" line="315" column="0" />
-        <mark key="]" line="315" column="0" />
-        <mark key="." line="315" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Http/Responses/QuorumApiResponse.php" timestamp="1586804403050">
-        <mark key="'" line="8" column="41" />
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="43" />
-        <mark key="^" line="8" column="43" />
-        <mark key="." line="8" column="42" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" timestamp="1586804753485">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="13" />
+        <mark key="^" line="28" column="14" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Exceptions/BatchArrivalException.php" timestamp="1586795522731">
         <mark key="'" line="7" column="43" />
@@ -243,11 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="27" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="171" column="31" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mobilecause/MobilecauseTests.php" />
-      <jump line="212" column="22" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="11" column="6" filename="$USER_HOME$/code/api-frc-org/app/Providers/EventServiceProvider.php" />
-      <jump line="217" column="27" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
       <jump line="181" column="19" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mobilecause/MobilecauseTests.php" />
       <jump line="149" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
       <jump line="213" column="27" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
@@ -343,15 +331,20 @@
       <jump line="75" column="23" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
       <jump line="8" column="41" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/QuorumApiResponse.php" />
       <jump line="139" column="22" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="106" column="22" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/QuorumApiResponse.php" />
+      <jump line="140" column="46" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="132" column="41" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="53" column="26" filename="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" />
+      <jump line="37" column="47" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXNwb25zZS0+Y29sbGVjdCgpLT5oYXMoJ2Vycm9yJykpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oJHJlc3BvbnNlLT5nZXQoJ2Vycm9yJyksIFsKICAgICAgICAgICAgICAgICAgICAnY2xhc3MnID0+IHN0YXRpYzo6Y2xhc3MsCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVlc3RfcGFyYW1zJyA9PiAkcGFyYW1zLAogICAgICAgICAgICAgICAgICAgICdyZXNwb25zZScgPT4gJHJlc3BvbnNlCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgfQoKCiAgICAgICAgICAgIGlmICghJHJlc3BvbnNlLT5tZXRhKCkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oIm1ldGEga2V5IG5vdCBmb3VuZCBpbiBRdW9ydW0gcmVzcG9uc2UiLCBbCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVlc3RfcGFyYW1zJyA9PiAkcGFyYW1zLAogICAgICAgICAgICAgICAgICAgICdyZXNwb25zZScgPT4gJHJlc3BvbnNlLT5qc29uKCkKICAgICAgICAgICAgICAgIF0pOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Sendemail</text>
+        <text>&quot;meta key not found in Quorum response&quot;</text>
       </register>
       <register name="/" type="4">
         <text>all(</text>
@@ -360,34 +353,34 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihTZW5kZW1haWxSZXBvc2l0b3J5OjpjbGFzcywgU2VuZGVtYWlsOjppbml0aWFsaXplUmVwb3NpdG9yeSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXNwb25zZS0+Y29sbGVjdCgpLT5oYXMoJ2Vycm9yJykpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oJHJlc3BvbnNlLT5nZXQoJ2Vycm9yJyksIFsKICAgICAgICAgICAgICAgICAgICAnY2xhc3MnID0+IHN0YXRpYzo6Y2xhc3MsCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVlc3RfcGFyYW1zJyA9PiAkcGFyYW1zLAogICAgICAgICAgICAgICAgICAgICdyZXNwb25zZScgPT4gJHJlc3BvbnNlCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgfQoKCiAgICAgICAgICAgIGlmICghJHJlc3BvbnNlLT5tZXRhKCkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oIm1ldGEga2V5IG5vdCBmb3VuZCBpbiBRdW9ydW0gcmVzcG9uc2UiLCBbCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVlc3RfcGFyYW1zJyA9PiAkcGFyYW1zLAogICAgICAgICAgICAgICAgICAgICdyZXNwb25zZScgPT4gJHJlc3BvbnNlLT5qc29uKCkKICAgICAgICAgICAgICAgIF0pOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oLCBbCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVlc3RfcGFyYW1zJyA9PiAkdGhpcy0+cXVlcnksCiAgICAgICAgICAgICAgICAgICAgJ3Jlc3BvbnNlJyA9PiAkcmVzcG9uc2UtPmpzb24oKQogICAgICAgICAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oJHJlc3BvbnNlLT5nZXQoJ2Vycm9yJyksIFsKICAgICAgICAgICAgICAgICAgICAnY2xhc3MnID0+IHN0YXRpYzo6Y2xhc3MsCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVlc3RfcXVlcnknID0+ICR0aGlzLT5xdWVyeSwKICAgICAgICAgICAgICAgICAgICAncmVxdWVzdF9kYXRhJyA9PiAkdGhpcy0+ZGF0YSwKICAgICAgICAgICAgICAgICAgICAncmVzcG9uc2UnID0+ICRyZXNwb25zZS0+anNvbigpCiAgICAgICAgICAgICAgICBdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpc3NldCgkcGFyYW1zWydsaW1pdCddKSkgewogICAgICAgICAgICAgICAgJHBhcmFtc1snbGltaXQnXSA9ICRkaWZmIDwgMTAwMCA/ICRkaWZmIDogMTAwMDsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkaWZmID0gJHRvdGFsX2NvdW50IC0gJGdhdGhlcmVkLT5jb3VudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlc3BvbnNlLT5jb2xsZWN0KCktPmhhcygnZXJyb3InKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgQXBpRXhjZXB0aW9uKCRyZXNwb25zZS0+Z2V0KCdlcnJvcicpLCBbCiAgICAgICAgICAgICAgICAnY2xhc3MnID0+IHN0YXRpYzo6Y2xhc3MsCiAgICAgICAgICAgICAgICAncmVxdWVzdF9wYXJhbXMnID0+ICRwYXJhbXMsCiAgICAgICAgICAgICAgICAncmVzcG9uc2UnID0+ICRyZXNwb25zZQogICAgICAgICAgICBdKTsKICAgICAgICB9CgoKICAgICAgICBpZiAoISRyZXNwb25zZS0+bWV0YSgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oIm1ldGEga2V5IG5vdCBmb3VuZCBpbiBRdW9ydW0gcmVzcG9uc2UiLCBbCiAgICAgICAgICAgICAgICAncmVxdWVzdF9wYXJhbXMnID0+ICRwYXJhbXMsCiAgICAgICAgICAgICAgICAncmVzcG9uc2UnID0+ICRyZXNwb25zZS0+anNvbigpCiAgICAgICAgICAgIF0pOwogICAgICAgIH0KICAgICAgICByZXR1cm4gJHJlc3BvbnNlOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVwb3NpdG9yeV9jbGFzcyA9ICJcQXBwXFJlcG9zaXRvcmllc1xcIi5jbGFzc19iYXNlbmFtZShzdGF0aWM6OmNsYXNzKS4iUmVwb3NpdG9yeSI7CiAgICAgICAgJHJlcG8gPSAkcmVwb3NpdG9yeV9jbGFzczo6aW5pdCgpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmICgkcmVzcG9uc2UtPmNvbGxlY3QoKS0+aGFzKCdlcnJvcicpKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQXBpRXhjZXB0aW9uKCRyZXNwb25zZS0+Z2V0KCdlcnJvcicpLCBbCiAgICAgICAgICAgICAgICAgICAgJ2NsYXNzJyA9PiBzdGF0aWM6OmNsYXNzLAogICAgICAgICAgICAgICAgICAgICdyZXF1ZXN0X3BhcmFtcycgPT4gJHBhcmFtcywKICAgICAgICAgICAgICAgICAgICAncmVzcG9uc2UnID0+ICRyZXNwb25zZQogICAgICAgICAgICAgICAgXSk7CiAgICAgICAgICAgIH0KCgogICAgICAgICAgICBpZiAoISRyZXNwb25zZS0+bWV0YSgpKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgQXBpRXhjZXB0aW9uKCJtZXRhIGtleSBub3QgZm91bmQgaW4gUXVvcnVtIHJlc3BvbnNlIiwgWwogICAgICAgICAgICAgICAgICAgICdyZXF1ZXN0X3BhcmFtcycgPT4gJHBhcmFtcywKICAgICAgICAgICAgICAgICAgICAncmVzcG9uc2UnID0+ICRyZXNwb25zZS0+anNvbigpCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXNwb25zZS0+Y29sbGVjdCgpLT5oYXMoJ2Vycm9yJykpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oJHJlc3BvbnNlLT5nZXQoJ2Vycm9yJyksIFsKICAgICAgICAgICAgICAgICAgICAnY2xhc3MnID0+IHN0YXRpYzo6Y2xhc3MsCiAgICAgICAgICAgICAgICAgICAgJ3JlcXVlc3RfcGFyYW1zJyA9PiAkcGFyYW1zLAogICAgICAgICAgICAgICAgICAgICdyZXNwb25zZScgPT4gJHJlc3BvbnNlCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>redo</text>
       </register>
     </registers>
   </component>
