@@ -149,6 +149,12 @@
         <mark key="^" line="87" column="19" />
         <mark key="." line="87" column="18" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" timestamp="1586797611734">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="136" column="30" />
+        <mark key="^" line="136" column="30" />
+        <mark key="." line="136" column="29" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Observers/TransactionReportObserver.php" timestamp="1586793616303">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -209,6 +215,11 @@
       <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/ProcessArrival.php" timestamp="1586793598461">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" timestamp="1586797563115">
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="316" column="0" />
+        <mark key="." line="316" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Exceptions/BatchArrivalException.php" timestamp="1586795522731">
         <mark key="'" line="7" column="43" />
@@ -324,7 +335,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">dXNlIEFwcFxKb2JzXFF1b3J1bVxMb2FkTWlzc2luZ0RhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChzdGF0aWM6OmNsYXNzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>collect</text>
@@ -336,31 +347,31 @@
         <text>batch_data_type</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxKb2JzXFF1b3J1bVxMb2FkTWlzc2luZ0RhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChzdGF0aWM6OmNsYXNzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxKb2JzXFF1b3J1bVxRdW9ydW1EYXRhSW1wb3J0Owo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY2xpZW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxGYWNhZGVzXEFwaUNsaWVudDsK</text>
+        <text encoding="base64">dXNlIEFwcFxKb2JzXFF1b3J1bVxMb2FkTWlzc2luZ0RhdGE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
+        <text encoding="base64">dXNlIEFwcFxKb2JzXFF1b3J1bVxRdW9ydW1EYXRhSW1wb3J0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhGYWtlcjsK</text>
+        <text encoding="base64">dXNlIEFwcFxGYWNhZGVzXEFwaUNsaWVudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29uc29sZVxTY2hlZHVsaW5nXE1hbmFnZXNGcmVxdWVuY2llczsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFJlZnJlc2hEYXRhYmFzZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29uc29sZVxTY2hlZHVsaW5nXENhbGxiYWNrRXZlbnQ7Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhGYWtlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxOb3RpZmljYXRpb25zXFNpbXBsZU5vdGlmaWNhdGlvbjsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29uc29sZVxTY2hlZHVsaW5nXE1hbmFnZXNGcmVxdWVuY2llczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwcFxFcnJvcjsKdXNlIEFwcFxKb2JzXEltcG9ydEZyY1RyYW5zYWN0aW9uczsKdXNlIEFwcFxKb2JzXE1vYmlsZWNhdXNlXFJlcXVlc3RUcmFuc2FjdGlvblJlcG9ydHM7CnVzZSBBcHBcSm9ic1xRdW9ydW1cUXVvcnVtRGF0YUltcG9ydDsKdXNlIENhcmJvblxDYXJib247CnVzZSBBcHBcSm9ic1xUYWJsZUNsZWFuVXBKb2I7CnVzZSBBcHBcSm9ic1xFeGVjdXRlUHJvY2VkdXJlOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29uc29sZVxTY2hlZHVsaW5nXENhbGxiYWNrRXZlbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
