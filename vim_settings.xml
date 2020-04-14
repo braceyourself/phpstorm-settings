@@ -128,12 +128,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/Mobilecause/CleanUpTransactionReports.php" timestamp="1586870230439">
-        <mark key="'" line="51" column="38" />
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="55" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="46" column="62" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/Mobilecause/CleanUpTransactionReports.php" timestamp="1586873053838">
+        <mark key="'" line="10" column="46" />
+        <mark key="[" line="61" column="20" />
+        <mark key="]" line="61" column="56" />
+        <mark key="." line="61" column="55" />
+        <mark key="^" line="61" column="56" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/JobScheduleFrequency.php" timestamp="1586872869923">
+        <mark key="[" line="44" column="97" />
+        <mark key="]" line="44" column="100" />
+        <mark key="." line="44" column="99" />
+        <mark key="^" line="44" column="100" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Support/ApiConnection.php" timestamp="1586862518314">
         <mark key="[" line="47" column="0" />
@@ -152,17 +158,11 @@
         <mark key="." line="254" column="0" />
       </file>
       <file name="$USER_HOME$/code/akaunting/resources/views/banking/accounts/index.blade.php" timestamp="1586856629119" />
-      <file name="$USER_HOME$/code/api-frc-org/app/JobSchedule.php" timestamp="1586870283210">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="^" line="152" column="64" />
-        <mark key="." line="154" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/akaunting/tests/Feature/Plaid/AccountTests.php" timestamp="1586830179006">
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="8" />
-        <mark key="." line="38" column="7" />
-        <mark key="^" line="38" column="8" />
+      <file name="$USER_HOME$/code/api-frc-org/app/JobSchedule.php" timestamp="1586872480416">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="153" column="50" />
       </file>
       <file name="$USER_HOME$/code/fresco32/DDL/Packages/new_acct_mgmt.sql" timestamp="1586859646029">
         <mark key="'" line="6951" column="60" />
@@ -223,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="4" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mobilecause/MobilecauseTests.php" />
       <jump line="51" column="39" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mobilecause/MobilecauseTests.php" />
       <jump line="77" column="35" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Mobilecause/ReportRepository.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/api-frc-org/config/api-clients.php" />
@@ -323,15 +322,16 @@
       <jump line="254" column="25" filename="$USER_HOME$/code/api-frc-org/app/ApiVendorData.php" />
       <jump line="49" column="38" filename="$USER_HOME$/code/api-frc-org/app/Console/Commands/Mobilecause/CleanUpTransactionReports.php" />
       <jump line="70" column="63" filename="$USER_HOME$/code/api-frc-org/app/Nova/JobSchedule.php" />
+      <jump line="8" column="46" filename="$USER_HOME$/code/api-frc-org/app/Console/Commands/Mobilecause/CleanUpTransactionReports.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRjb21tYW5kKTsK</text>
+      <register name="+" type="4">
+        <text>records</text>
       </register>
       <register name="-" type="4">
-        <text>mobilecause:</text>
+        <text>records</text>
       </register>
       <register name="/" type="4">
         <text>getapikey</text>
@@ -340,31 +340,31 @@
         <text>mobilecause:clean-up-reports</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRjb21tYW5kKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5maWx0ZXIoZm4oJHJlcG9ydCkgPT4gKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5nZXRCaW5kaW5ncygpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJGNvdW50KSB7CgogICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUm9sZTo6ZmluZEJ5TmFtZSgnc3VwZXJhZG1pbicpLT51c2Vycy0+ZWFjaC0+bm90aWZ5KG5ldyBTaW1wbGVOb3RpZmljYXRpb24oJ01DIFRyYW5zYWN0aW9uIFJlcG9ydCBjbGVhbnVwJywgWwoKICAgICAgICAgICAgICAgICIkY291bnQgcmVjb3JkcyBoYXZlIGJlZW4gcmVtb3ZlZCIKICAgICAgICAgICAgXSkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBSb2xlOjpmaW5kQnlOYW1lKCdzdXBlcmFkbWluJyktPnVzZXJzLT5lYWNoLT5ub3RpZnkobmV3IFNpbXBsZU5vdGlmaWNhdGlvbignTUMgVHJhbnNhY3Rpb24gUmVwb3J0IGNsZWFudXAnLCBbCiAgICAgICAgICAgIAogICAgICAgICAgICIkY291bnQgcmVjb3JkcyBoYXZlIGJlZW4gcmVtb3ZlZCIKICAgICAgICBdKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkY29tbWFuZHMpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29tbWFuZHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT50cmFuc2Zvcm0oZnVuY3Rpb24gKCRjb21tYW5kKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJGNvbW1hbmQ7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
