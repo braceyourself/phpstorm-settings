@@ -27,8 +27,6 @@
         <entry>offline-payment</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4gcy9cKFx3KikvXDEv</entry>
-        <entry encoding="base64">JzwsJz4gcy9cKFxbXHdfXSopL1wxLw==</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qKS9cMS8=</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qKS8tLS1cMS8=</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvLS0tXDEv</entry>
@@ -44,8 +42,10 @@
         <entry>wq</entry>
         <entry>146</entry>
         <entry>redo</entry>
-        <entry>q</entry>
         <entry>m .-2</entry>
+        <entry>q</entry>
+        <entry>5926</entry>
+        <entry>6935</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -134,6 +134,9 @@
         <mark key="." line="15" column="21" />
         <mark key="^" line="15" column="22" />
       </file>
+      <file name="/console" timestamp="1586856788353">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Factory.php" timestamp="1586829789746">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -149,13 +152,6 @@
         <mark key="^" line="166" column="68" />
         <mark key="." line="166" column="67" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Quorum/QuorumBaseEndpoint.php" timestamp="1586804675103">
-        <mark key="'" line="53" column="26" />
-        <mark key="[" line="53" column="20" />
-        <mark key="]" line="53" column="29" />
-        <mark key="^" line="53" column="29" />
-        <mark key="." line="53" column="28" />
-      </file>
       <file name="$USER_HOME$/code/akaunting/modules/OfflinePayments/Resources/assets/js/offline-payments.js" timestamp="1586832039525">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -167,12 +163,6 @@
         <mark key="]" line="13" column="11" />
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/akaunting/app/Console/Kernel.php" timestamp="1586825409547">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="29" column="35" />
-        <mark key="^" line="29" column="35" />
-        <mark key="." line="29" column="34" />
       </file>
       <file name="$USER_HOME$/code/akaunting/database/migrations/2017_09_14_000000_core_v1.php" timestamp="1586831450576">
         <mark key="[" line="0" column="0" />
@@ -188,12 +178,7 @@
       <file name="/Dummy.txt" timestamp="1586828833478">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" timestamp="1586804872702">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="39" column="67" />
-      </file>
+      <file name="$USER_HOME$/code/akaunting/resources/views/banking/accounts/index.blade.php" timestamp="1586856629119" />
       <file name="$USER_HOME$/code/akaunting/.env" timestamp="1586826430294">
         <mark key="[" line="37" column="13" />
         <mark key="]" line="37" column="43" />
@@ -221,6 +206,13 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="17" column="59" />
       </file>
+      <file name="$USER_HOME$/code/fresco32/DDL/Packages/new_acct_mgmt.sql" timestamp="1586859004462">
+        <mark key="'" line="6951" column="60" />
+        <mark key="[" line="6956" column="32" />
+        <mark key="]" line="6956" column="32" />
+        <mark key="^" line="6956" column="34" />
+        <mark key="." line="6956" column="32" />
+      </file>
       <file name="$USER_HOME$/code/akaunting/composer.json" timestamp="1586828527026">
         <mark key="'" line="36" column="40" />
       </file>
@@ -229,15 +221,8 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="30" column="5" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" timestamp="1586804753485">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="28" column="13" />
-        <mark key="^" line="28" column="14" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="16" filename="$USER_HOME$/code/api-frc-org/app/Models/Mobilecause/TransactionReport.php" />
       <jump line="94" column="38" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Mobilecause/ReportRepository.php" />
       <jump line="304" column="4" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="15" column="65" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
@@ -337,39 +322,40 @@
       <jump line="8" column="7" filename="$USER_HOME$/code/akaunting/modules/OfflinePayments/Resources/assets/js/offline-payments.js" />
       <jump line="0" column="0" filename="$USER_HOME$/code/akaunting/modules/OfflinePayments/Resources/assets/js/offline-payments.js" />
       <jump line="32" column="0" filename="$USER_HOME$/code/akaunting/modules/Plaid/Resources/assets/js/app.js" />
+      <jump line="6951" column="60" filename="$USER_HOME$/code/fresco32/DDL/Packages/new_acct_mgmt.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>PUBLIC_TOKEN</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>PUBLIC_TOKEN</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>offline-payment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGV0IFBVQkxJQ19UT0tFTiA9IG51bGw7Cg==</text>
+        <text encoding="base64">CQkJCQkJY2FzZSBpbnN0YW5jZU5hbWUKCQkJCQkJCXdoZW4gJ0ZSQycKCQkJCQkJCQl0aGVuIGFwaV9yZXNvdXJjZV9zbHVnIDo9ICdGcmMnIHx8IGFwaV9yZXNvdXJjZV9zbHVnOwoJCQkJCQkJd2hlbiAnRlJDQScKCQkJCQkJCQl0aGVuIGFwaV9yZXNvdXJjZV9zbHVnIDo9ICdGcmNBY3Rpb24nIHx8IGFwaV9yZXNvdXJjZV9zbHVnOwoJCQkJCQllbmQgY2FzZTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgkJCQkJCQkJ</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CWRhdGEoKSB7CgkJcmV0dXJuIHsKCQkJZm9ybTogbmV3IEZvcm0oJ3BsYWlkJyksCgkJfQoJfSwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgkJCQkJCQkJ</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CW1ldGhvZHM6ewo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgkJCQkJCQkJ</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlvbkVkaXQoZXZlbnQpIHsKCQkJdmFyIGNvZGUgPSBldmVudC50YXJnZXQuZGF0YXNldC5jb2RlOwoKCQkJdGhpcy5mb3JtLmxvYWRpbmcgPSB0cnVlOwoKCQkJYXhpb3MucG9zdCgnc2V0dGluZ3MvZ2V0JywgewoJCQkJY29kZTogY29kZQoJCQl9KQoJCQkJLnRoZW4ocmVzcG9uc2UgPT4gewoJCQkJCXRoaXMuZm9ybS5uYW1lID0gcmVzcG9uc2UuZGF0YS5kYXRhLm5hbWU7CgkJCQkJdGhpcy5mb3JtLmNvZGUgPSByZXNwb25zZS5kYXRhLmRhdGEuY29kZTsKCQkJCQl0aGlzLmZvcm0uY3VzdG9tZXIgPSByZXNwb25zZS5kYXRhLmRhdGEuY3VzdG9tZXI7CgkJCQkJdGhpcy5mb3JtLm9yZGVyID0gcmVzcG9uc2UuZGF0YS5kYXRhLm9yZGVyOwoJCQkJCXRoaXMuZm9ybS5kZXNjcmlwdGlvbiA9IHJlc3BvbnNlLmRhdGEuZGF0YS5kZXNjcmlwdGlvbjsKCQkJCQl0aGlzLmZvcm0udXBkYXRlX2NvZGUgPSByZXNwb25zZS5kYXRhLmRhdGEudXBkYXRlX2NvZGU7CgkJCQkJdGhpcy5mb3JtLmxvYWRpbmcgPSBmYWxzZTsKCQkJCX0pCgkJCQkuY2F0Y2goZXJyb3IgPT4gewoJCQkJCXRoaXMuZm9ybS5sb2FkaW5nID0gZmFsc2U7CgkJCQl9KTsKCQl9LAoKCQkvLyBBY3Rpb25zID4gRGVsZXRlCgkJY29uZmlybURlbGV0ZShjb2RlLCB0aXRsZSwgbWVzc2FnZSwgYnV0dG9uX2NhbmNlbCwgYnV0dG9uX2RlbGV0ZSkgewoJCQlsZXQgY29uZmlybSA9IHsKCQkJCWNvZGU6IGNvZGUsCgkJCQl1cmw6IHVybCwKCQkJCXRpdGxlOiB0aXRsZSwKCQkJCW1lc3NhZ2U6IG1lc3NhZ2UsCgkJCQlidXR0b25fY2FuY2VsOiBidXR0b25fY2FuY2VsLAoJCQkJYnV0dG9uX2RlbGV0ZTogYnV0dG9uX2RlbGV0ZSwKCQkJCXNob3c6IHRydWUKCQkJfTsKCgkJCXRoaXMuY29tcG9uZW50ID0gVnVlLmNvbXBvbmVudCgnYWRkLW5ldy1jb21wb25lbnQnLCAocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CgkJCQlyZXNvbHZlKHsKCQkJCQl0ZW1wbGF0ZSA6ICc8ZGl2IGlkPSJkeW5hbWljLWNvbXBvbmVudCI+PGFrYXVudGluZy1tb2RhbCB2LWlmPSJjb25maXJtLnNob3ciIDpzaG93PSJjb25maXJtLnNob3ciIDp0aXRsZT0iY29uZmlybS50aXRsZSIgOm1lc3NhZ2U9ImNvbmZpcm0ubWVzc2FnZSIgOmJ1dHRvbl9jYW5jZWw9ImNvbmZpcm0uYnV0dG9uX2NhbmNlbCIgOmJ1dHRvbl9kZWxldGU9ImNvbmZpcm0uYnV0dG9uX2RlbGV0ZSIgQGNvbmZpcm09Im9uRGVsZXRlIiBAY2FuY2VsPSJjYW5jZWxEZWxldGUiPjwvYWthdW50aW5nLW1vZGFsPjwvZGl2PicsCgoJCQkJCW1peGluczogWwoJCQkJCQlHbG9iYWwKCQkJCQldLAoKCQkJCQlkYXRhOiBmdW5jdGlvbiAoKSB7CgkJCQkJCXJldHVybiB7CgkJCQkJCQljb25maXJtOiBjb25maXJtLAoJCQkJCQl9CgkJCQkJfSwKCgkJCQkJbWV0aG9kczogewoJCQkJCQkvLyBEZWxldGUgYWN0aW9uIHBvc3QKCQkJCQkJYXN5bmMgb25EZWxldGUoKSB7CgkJCQkJCQlsZXQgcHJvbWlzZSA9IFByb21pc2UucmVzb2x2ZShheGlvcyh7CgkJCQkJCQkJbWV0aG9kOiAnREVMRVRFJywKCQkJCQkJCQl1cmw6ICdzZXR0aW5ncy9kZWxldGUnLAoJCQkJCQkJCWRhdGE6IHsKCQkJCQkJCQkJY29kZTogdGhpcy5jb25maXJtLmNvZGUKCQkJCQkJCQl9CgkJCQkJCQl9KSk7CgoJCQkJCQkJcHJvbWlzZS50aGVuKHJlc3BvbnNlID0+IHsKCQkJCQkJCQl2YXIgdHlwZSA9IChyZXNwb25zZS5kYXRhLnN1Y2Nlc3MpID8gJ3N1Y2Nlc3MnIDogJ3dhcm5pbmcnOwoKCQkJCQkJCQlpZiAocmVzcG9uc2UuZGF0YS5zdWNjZXNzKSB7CgkJCQkJCQkJCWlmIChyZXNwb25zZS5kYXRhLnJlZGlyZWN0KSB7CgkJCQkJCQkJCQkvL3dpbmRvdy5sb2NhdGlvbi5ocmVmID0gcmVzcG9uc2UuZGF0YS5yZWRpcmVjdDsKCQkJCQkJCQkJfQoKCQkJCQkJCQkJZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ21ldGhvZC0nICsgdGhpcy5jb25maXJtLmNvZGUpLnJlbW92ZSgpOwoKCQkJCQkJCQkJdGhpcy5jb25maXJtLnNob3cgPSBmYWxzZTsKCQkJCQkJCQl9CgoJCQkJCQkJCXRoaXMuJG5vdGlmeSh7CgkJCQkJCQkJCW1lc3NhZ2U6IHJlc3BvbnNlLmRhdGEubWVzc2FnZSwKCQkJCQkJCQkJdGltZW91dDogNTAwMCwKCQkJCQkJCQkJaWNvbjogJ2ZhcyBmYS1iZWxsJywKCQkJCQkJCQkJdHlwZQoJCQkJCQkJCX0pOwoJCQkJCQkJfSkKCQkJCQkJCQkuY2F0Y2goZXJyb3IgPT4gewoJCQkJCQkJCQl0aGlzLnN1Y2Nlc3MgPSBmYWxzZTsKCQkJCQkJCQl9KTsKCQkJCQkJfSwKCgkJCQkJCS8vIENsb3NlIG1vZGFsIGVtcHR5IGRlZmF1bHQgdmFsdWUKCQkJCQkJY2FuY2VsRGVsZXRlKCkgewoJCQkJCQkJdGhpcy5jb25maXJtLnNob3cgPSBmYWxzZTsKCQkJCQkJfSwKCQkJCQl9CgkJCQl9KQoJCQl9KTsKCQl9Cgl9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgkJCQkJCQkJ</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgkJCQkJCQkJ</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgkJCQkJCQk=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -378,7 +364,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi8uLi8uLi8uLi8uLi8uLi9yZXNvdXJjZXMvYXNzZXRzL2pzL2Jvb3RzdHJhcCcpOwoKaW1wb3J0IFZ1ZSBmcm9tICd2dWUnOwoKaW1wb3J0IEdsb2JhbCBmcm9tICcuLy4uLy4uLy4uLy4uLy4uL3Jlc291cmNlcy9hc3NldHMvanMvbWl4aW5zL2dsb2JhbCc7CgppbXBvcnQgRm9ybSBmcm9tICcuLy4uLy4uLy4uLy4uLy4uL3Jlc291cmNlcy9hc3NldHMvanMvcGx1Z2lucy9mb3JtJzsKCmltcG9ydCBEYXNoYm9hcmRQbHVnaW4gZnJvbSAnLi8uLi8uLi8uLi8uLi8uLi9yZXNvdXJjZXMvYXNzZXRzL2pzL3BsdWdpbnMvZGFzaGJvYXJkLXBsdWdpbic7Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
