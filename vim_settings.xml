@@ -27,7 +27,6 @@
         <entry>Bill</entry>
       </history-search>
       <history-cmd>
-        <entry>m .+1</entry>
         <entry encoding="base64">JzwsJz4gcy9cKFx3KikvXDEv</entry>
         <entry encoding="base64">JzwsJz4gcy9cKFxbXHdfXSopL1wxLw==</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qKS9cMS8=</entry>
@@ -46,6 +45,7 @@
         <entry>146</entry>
         <entry>redo</entry>
         <entry>q</entry>
+        <entry>m .-2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -128,10 +128,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/akaunting/database/factories/Bill.php" timestamp="1586829300148">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/code/akaunting/database/factories/Bill.php" timestamp="1586829834855">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Factory.php" timestamp="1586829789746">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/code/akaunting/database/factories/Account.php" timestamp="1586828972884">
         <mark key="'" line="30" column="1" />
@@ -190,10 +196,10 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="37" column="13" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/tests/TestCase.php" timestamp="1586829269058">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/code/akaunting/tests/TestCase.php" timestamp="1586829901056">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/akaunting/app/Jobs/Banking/GetAccountTransactions.php" timestamp="1586828441268">
         <mark key="[" line="34" column="8" />
@@ -201,19 +207,11 @@
         <mark key="^" line="34" column="22" />
         <mark key="." line="34" column="21" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/tests/Feature/Plaid/AccountTests.php" timestamp="1586829407495">
-        <mark key="'" line="17" column="17" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="17" column="28" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/MessageeventRepository.php" timestamp="1586799894134">
-        <mark key="'" line="7" column="49" />
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="51" />
-        <mark key="^" line="7" column="51" />
-        <mark key="." line="7" column="50" />
+      <file name="$USER_HOME$/code/akaunting/tests/Feature/Plaid/AccountTests.php" timestamp="1586830099622">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="25" />
+        <mark key="^" line="31" column="26" />
       </file>
       <file name="$USER_HOME$/code/akaunting/config/plaid.php" timestamp="1586826282534">
         <mark key="[" line="7" column="0" />
@@ -241,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="15" filename="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" />
       <jump line="40" column="24" filename="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" />
       <jump line="40" column="33" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Mobilecause/RequestTransactionReports.php" />
       <jump line="111" column="32" filename="$USER_HOME$/code/api-frc-org/app/Models/Mobilecause/TransactionReport.php" />
@@ -341,48 +338,49 @@
       <jump line="28" column="1" filename="$USER_HOME$/code/akaunting/database/factories/Account.php" />
       <jump line="30" column="1" filename="$USER_HOME$/code/akaunting/database/factories/Account.php" />
       <jump line="17" column="17" filename="$USER_HOME$/code/akaunting/tests/Feature/Plaid/AccountTests.php" />
+      <jump line="15" column="20" filename="$USER_HOME$/code/akaunting/tests/Feature/Plaid/AccountTests.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXFVzZXI7Cg==</text>
+      <register name="+" type="4">
+        <text>number</text>
       </register>
       <register name="-" type="4">
-        <text>User</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text>Bill</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQXV0aFxVc2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ251bWJlcicgPT4gMSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxBdXRoXFVzZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQXV0aFxVc2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IGZhY3RvcnkoVXNlcjo6Y2xhc3MpLT5jcmVhdGUoKTsKCiAgICAgICAgJHRoaXMtPmFjdGluZ0FzKCR1c2VyKTsKCiAgICAgICAgZmFjdG9yeShDb21wYW55OjpjbGFzcyktPmNyZWF0ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpOiB2b2lkCiAgICB7CiAgICAgICAgcGFyZW50OjpzZXRVcCgpOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQoJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkY29ubmVjdGlvbnNUb1RyYW5zYWN0ID0gWydteXNxbCcsICdmcmMnLCAnZnJjYSddOwo=</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5KEFjY291bnQ6OmNsYXNzKS0+Y3JlYXRlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBzZXRVcCgpOiB2b2lkCiAgICB7CiAgICAgICAgcGFyZW50OjpzZXRVcCgpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1YgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGF0aFRvRmFjdG9yaWVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRmaWxlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZW52ID0gY29uZmlnKCdhcHAuZW52Jyk7CiAgICAgICAgJHRlc3RpbmdfZW52aXJvbm1lbnRzID0gWwogICAgICAgICAgICAndGVzdGluZycsICdsb2NhbCcKICAgICAgICBdOwoKCiAgICAgICAgaWYgKCFpbl9hcnJheSgkZW52LCAkdGVzdGluZ19lbnZpcm9ubWVudHMpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKCJQbGVhc2Ugb25seSBydW4gdGVzdHMgaW4gdGhlIFsiIC4gaW1wbG9kZSgnLCAnLCAkdGVzdGluZ19lbnZpcm9ubWVudHMpIC4gJ10gZW52aXJvbm1lbnRzJyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
