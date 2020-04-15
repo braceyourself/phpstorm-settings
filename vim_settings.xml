@@ -164,25 +164,26 @@
         <mark key="^" line="681" column="17" />
         <mark key="." line="681" column="16" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" timestamp="1586960886839">
-        <mark key="'" line="4098" column="0" />
-        <mark key="[" line="3945" column="60" />
-        <mark key="]" line="3945" column="59" />
-        <mark key="." line="3945" column="58" />
-        <mark key="^" line="3945" column="59" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bfa1088f-399a-41f1-adac-9ba5298cd493/console.sql" timestamp="1586960752873">
+      <file name="/vendor_report_mgmt" timestamp="1586962100640">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" timestamp="1586962138476">
+        <mark key="'" line="4102" column="0" />
+        <mark key="[" line="3964" column="36" />
+        <mark key="]" line="3964" column="37" />
+        <mark key="." line="3964" column="36" />
+        <mark key="^" line="3964" column="37" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bfa1088f-399a-41f1-adac-9ba5298cd493/console.sql" timestamp="1586962133903">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="27" />
       </file>
       <file name="/a.sql" timestamp="1586957042773">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/VendorCCTransaction" timestamp="1586957387584">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ASSET_LOAD [Frc]" timestamp="1586952378393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/fresco32/DDL/Types/VendorCCTransaction.sql" timestamp="1586954245801">
@@ -194,12 +195,12 @@
       <file name="/ASSET_LOCATION [Frc]" timestamp="1586952414252">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Types/vendor_cc_transactions/spec.sql" timestamp="1586961382765">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="3" column="30" />
+      <file name="$USER_HOME$/code/fresco32/DDL/Types/vendor_cc_transactions/spec.sql" timestamp="1586961747426">
+        <mark key="'" line="0" column="80" />
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="0" column="81" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/code/fresco32/DDL/pljson/src/pljson.type.decl.sql" timestamp="1586958343682">
         <mark key="'" line="80" column="2" />
@@ -211,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4027" column="18" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="3942" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="3946" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="4082" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
@@ -310,42 +310,49 @@
       <jump line="3959" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="4055" column="45" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="4094" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/fresco32/DDL/Types/vendor_cc_transactions/spec.sql" />
+      <jump line="2" column="30" filename="$USER_HOME$/code/fresco32/DDL/Types/vendor_cc_transactions/spec.sql" />
+      <jump line="0" column="80" filename="$USER_HOME$/code/fresco32/DDL/Types/vendor_cc_transactions/spec.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="+" type="2">
+        <text encoding="base64">CQkJc2VsZWN0ICoKCQkJZnJvbSB2ZW5kb3JfZGF0YV9hcmNoaXZlIGRhdGEKCQkJCWlubmVyIGpvaW4gdmVuZG9yX2NjX3RyYW5zYWN0aW9uIGNjIG9uIGNjLlZFTkRPUl9UUkFOU0FDVElPTl9OTyA9IGRhdGEuVkVORE9SX1RSQU5TQUNUSU9OX05PCgkJCXdoZXJlIGRhdGEuYXJyaXZhbF9ubyA9IGFycml2YWxObwoJCQkgIGFuZCBkYXRhLmdpZnRfYW1vdW50IGlzIG5vdCBudWxsCgkJCSAgYW5kIGRhdGEucmlkIGlzIG51bGw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>vendcctra</text>
       </register>
       <register name="/" type="4">
         <text>creditaccount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgdHlwZSB2ZW5kb3JjY3RyYW5zYWN0aW9ucyBpcyB0YWJsZSBvZiB2ZW5kb3JfY2NfdHJhbnNhY3Rpb24ldHlwZTsK</text>
+        <text encoding="base64">CQkJc2VsZWN0ICoKCQkJZnJvbSB2ZW5kb3JfZGF0YV9hcmNoaXZlIGRhdGEKCQkJCWlubmVyIGpvaW4gdmVuZG9yX2NjX3RyYW5zYWN0aW9uIGNjIG9uIGNjLlZFTkRPUl9UUkFOU0FDVElPTl9OTyA9IGRhdGEuVkVORE9SX1RSQU5TQUNUSU9OX05PCgkJCXdoZXJlIGRhdGEuYXJyaXZhbF9ubyA9IGFycml2YWxObwoJCQkgIGFuZCBkYXRhLmdpZnRfYW1vdW50IGlzIG5vdCBudWxsCgkJCSAgYW5kIGRhdGEucmlkIGlzIG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJc2VsZWN0IHN0YXR1c19jb2RlLAoJCQkgICAgICAgY2FyZF9udW1iZXIsCgkJCSAgICAgICB2ZW5kb3Jfc2V0dGxlbWVudF9kYXRlCgkJCWZyb20gdmVuZG9yX2NjX3RyYW5zYWN0aW9uCgkJCXdoZXJlIHZlbmRvcl90cmFuc2FjdGlvbl9ubyA9IHZlbmRvclRyYW5zTm87Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmdW5jdGlvbiBmaW5kKGlkIHZlbmRvcmNjdHJhbnNhY3Rpb25zLlZFTkRPUl9UUkFOU0FDVElPTl9OTyV0eXBlKSByZXR1cm4gdmVuZG9yY2N0cmFuc2FjdGlvbnMlcm93dHlwZTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgdHlwZSB2ZW5kb3JjY3RyYW5zYWN0aW9uIGlzIHRhYmxlIG9mIHZlbmRvcl9jY190cmFuc2FjdGlvbiV0eXBlOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGJlZ2luCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBmdW5jdGlvbiBmaW5kKGlkIHZlbmRvcmNjdHJhbnNhY3Rpb25zLlZFTkRPUl9UUkFOU0FDVElPTl9OTyV0eXBlKSByZXR1cm4gdmVuZG9yY2N0cmFuc2FjdGlvbnMlcm93dHlwZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgdHlwZSB2ZW5kb3JjY3RyYW5zYWN0aW9uIGlzIHRhYmxlIG9mIHZlbmRvcl9jY190cmFuc2FjdGlvbiV0eXBlOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljcmVkaXRBY2NvdW50IGdpZnQuY3JlZGl0X2FjY291bnQldHlwZSA6PSAxLAoJCWZ1bmRDb2RlICAgICAgZnVuZF9jb2RlLmZ1bmRfY29kZSV0eXBlIDo9ICdHTicsCgkJZW50cnlDb2RlICAgICBnaWZ0LmVudHJ5X2NvZGUldHlwZSA6PSAnRycsCgkJcmVjZWlwdFR5cGUgICByZWNlaXB0X3R5cGUucmVjZWlwdF90eXBlJXR5cGUgOj0gJ1MnLAo=</text>
+        <text encoding="base64">ICAgIGJlZ2luCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQljcmVkaXRBY2NvdW50IGdpZnQuY3JlZGl0X2FjY291bnQldHlwZSA6PSAxLAoJCWZ1bmRDb2RlICAgICAgZnVuZF9jb2RlLmZ1bmRfY29kZSV0eXBlIDo9ICdHTicsCgkJZW50cnlDb2RlICAgICBnaWZ0LmVudHJ5X2NvZGUldHlwZSA6PSAnRycsCgkJcmVjZWlwdFR5cGUgICByZWNlaXB0X3R5cGUucmVjZWlwdF90eXBlJXR5cGUgOj0gJ1MnLAo=</text>
+      </register>
+      <register name="9" type="2">
         <text>select *
 from VENDOR_CC_TRANSACTION
 ;
@@ -363,12 +370,6 @@ begin
 	DBMS_OUTPUT.PUT_LINE(vcct.VENDOR_TRANSACTION_NO);
 
 end;</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgdHlwZSB2ZW5kb3JfY2NfdHJhbnNhY3Rpb25fdGFibGUgaXMgdGFibGUgb2YgdmVuZG9yX2NjX3RyYW5zYWN0aW9uJXJvd3R5cGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>21</text>
