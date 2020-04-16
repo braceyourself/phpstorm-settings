@@ -63,6 +63,16 @@
     <option name="EXPR_CASE_COLLAPSE" value="false" />
     <option name="NEW_LINE_AROUND_SEMICOLON" value="true" />
   </OracleCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
+    <option name="FROM_ALIGN_ALIASES" value="true" />
+    <option name="ROUTINE_ARG_ALIGN_TYPES" value="true" />
+    <option name="IMP_DECLARE_ALIGN_DEFAULT" value="true" />
+    <option name="EXPR_CASE_THEN_ALIGN" value="true" />
+    <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
+    <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="Oracle">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <indentOptions>
