@@ -193,11 +193,11 @@
         <mark key="^" line="131" column="31" />
         <mark key="." line="131" column="30" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/card.js" timestamp="1587295785187">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/card.js" timestamp="1587304166149">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="3" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/routes/api.php" timestamp="1587302649873">
         <mark key="'" line="17" column="29" />
@@ -223,12 +223,12 @@
         <mark key="." line="130" column="53" />
         <mark key="^" line="130" column="54" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/Card.vue" timestamp="1587302634339">
-        <mark key="'" line="7" column="54" />
-        <mark key="[" line="70" column="43" />
-        <mark key="]" line="70" column="43" />
-        <mark key="." line="70" column="42" />
-        <mark key="^" line="70" column="43" />
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/Card.vue" timestamp="1587304164080">
+        <mark key="'" line="23" column="11" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/ReadyInfo.vue" timestamp="1587295867522">
         <mark key="[" line="22" column="0" />
@@ -244,12 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1174" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8cac327e-5320-40f4-99cf-2e44c2cff177/console.sql" />
-      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8cac327e-5320-40f4-99cf-2e44c2cff177/console.sql" />
-      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8cac327e-5320-40f4-99cf-2e44c2cff177/console.sql" />
-      <jump line="1182" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="1292" column="40" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
       <jump line="122" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
       <jump line="131" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
       <jump line="820" column="4" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
@@ -344,15 +338,21 @@
       <jump line="128" column="42" filename="$USER_HOME$/code/api-frc-org/composer.json" />
       <jump line="17" column="29" filename="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/routes/api.php" />
       <jump line="66" column="6" filename="$USER_HOME$/code/api-frc-org/app/FrcTransaction.php" />
+      <jump line="70" column="30" filename="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/Card.vue" />
+      <jump line="37" column="4" filename="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/Card.vue" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/Card.vue" />
+      <jump line="72" column="27" filename="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/Card.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/Card.vue" />
+      <jump line="23" column="11" filename="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/Card.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>j</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>${}</text>
       </register>
       <register name="/" type="4">
         <text>getgi</text>
@@ -361,31 +361,31 @@
         <text encoding="base64">ICAgICAgICAiYnVpbGQtVG90YWxSZWFkeUFtb3VudCI6ICJjZCBub3ZhLWNvbXBvbmVudHMvVG90YWxSZWFkeUFtb3VudCAmJiBucG0gcnVuIGRldiIsCiAgICAgICAgImJ1aWxkLVRvdGFsUmVhZHlBbW91bnQtcHJvZCI6ICJjZCBub3ZhLWNvbXBvbmVudHMvVG90YWxSZWFkeUFtb3VudCAmJiBucG0gcnVuIHByb2QiLAogICAgICAgICJidWlsZC1UcmFuc2FjdGlvblN0YXR1c0NhcmQiOiAiY2Qgbm92YS1jb21wb25lbnRzL1RyYW5zYWN0aW9uU3RhdHVzQ2FyZCAmJiBucG0gcnVuIGRldiIsCiAgICAgICAgImJ1aWxkLVRyYW5zYWN0aW9uU3RhdHVzQ2FyZC1wcm9kIjogImNkIG5vdmEtY29tcG9uZW50cy9UcmFuc2FjdGlvblN0YXR1c0NhcmQgJiYgbnBtIHJ1biBwcm9kIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGpvYiA9ICJcQXBwXEpvYnNcXCIgLiBTdHI6OnN0dWRseSgkZXhlY19tZXRob2QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHRyeSB7Ci8vICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7Ci8vICAgICAgICAgICAgcmV0dXJuICdmYWlsZWQnOwovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCB0b3RhbCA9IE51bWJlci5wYXJzZUZsb2F0KAogICAgICAgICAgICAgICAgICAgIGBgCiAgICAgICAgICAgICAgICApLnRvRml4ZWQoMik7CgogICAgICAgICAgICAgICAgcmV0dXJuICckJytmb3JtYXR0ZXIuZm9ybWF0KE51bWJlci5wYXJzZUZsb2F0KHRvdGFsKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBfIGZyb20gJ2xvZGFzaCcK</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJlYWR5LWluZm8gOmRhdGE9ImZyY19yZWFkeSI+RnJjPC9yZWFkeS1pbmZvPgogICAgICAgICAgICA8cmVhZHktaW5mbyA6ZGF0YT0iZnJjYV9yZWFkeSI+RnJjIEFjdGlvbjwvcmVhZHktaW5mbz4KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAndGVzdCcK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
