@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>dispatch</entry>
         <entry>ResourceGr</entry>
         <entry>available</entry>
         <entry>avail</entry>
@@ -25,6 +24,7 @@
         <entry>key</entry>
         <entry>created</entry>
         <entry>groups</entry>
+        <entry>method</entry>
       </history-search>
       <history-cmd>
         <entry>97</entry>
@@ -164,11 +164,12 @@
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/src/NovaCategorise.php" timestamp="1587467199408">
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/src/NovaCategorise.php" timestamp="1587469795805">
         <mark key="'" line="25" column="27" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="36" column="50" />
+        <mark key="]" line="36" column="59" />
+        <mark key="." line="36" column="58" />
+        <mark key="^" line="36" column="59" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/Clients/Cornerstone/Transaction.php" timestamp="1587413233615">
         <mark key="'" line="78" column="22" />
@@ -234,11 +235,12 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" timestamp="1587466172282">
-        <mark key="'" line="66" column="15" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" timestamp="1587470727368">
+        <mark key="'" line="61" column="13" />
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="53" />
+        <mark key="." line="16" column="52" />
+        <mark key="^" line="16" column="53" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Console/Kernel.php" timestamp="1587412744451">
         <mark key="'" line="45" column="16" />
@@ -249,8 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="11" filename="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/Card.vue" />
-      <jump line="24" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/Card.vue" />
       <jump line="9" column="3" filename="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/card.js" />
       <jump line="33" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/Card.vue" />
       <jump line="71" column="12" filename="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/resources/js/components/Card.vue" />
@@ -346,51 +346,55 @@
       <jump line="35" column="33" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
       <jump line="11" column="9" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
       <jump line="73" column="43" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
-      <jump line="6" column="27" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
       <jump line="39" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
       <jump line="70" column="15" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
+      <jump line="6" column="76" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
+      <jump line="100" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
+      <jump line="47" column="13" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21heCcgPT4gJG1heAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1pZj0iaW5kZW50ID09IDEiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>==</text>
       </register>
       <register name="/" type="4">
-        <text>groups</text>
+        <text>method</text>
       </register>
-      <register name="0" type="4">
-        <text>indent</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cGVkLXJlc291cmNlLWxpc3QtaXRlbSA6a2V5PSJyZXNvdXJjZS5sYWJlbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2LWlmPSJpbmRlbnQgPT0gMSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6cmVzb3VyY2U9InJlc291cmNlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtZm9yPSJyZXNvdXJjZSBpbiBncm91cCIKICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21heCcgPT4gJG1heAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1pZj0iaW5kZW50ID09IDEiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dyb3VwcycgPT4gJGdyb3VwcywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwZWQtcmVzb3VyY2UtY29sbGFwc2FibGUgdi1pZj0iaW5kZW50ID09IDIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtZm9yPSJyZXNvdXJjZSBpbiB1bmlxdWVHcm91cGluZyhncm91cCwgMikiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpoZWFkZXI9InJlc291cmNlIj4KCiAgICAgICAgICAgIDwvZ3JvdXBlZC1yZXNvdXJjZS1jb2xsYXBzYWJsZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3JvdXBzID0gY29sbGVjdCgpOwoKICAgICAgICAkbWF4ID0gJGdyb3Vwcy0+bWF4KGZuKCRncikgPT4gJGdyLT5jb3VudCgpKTsKICAgICAgICAkc3RhcnQgPSAwOwoKICAgICAgICB3aGlsZSAoJHN0YXJ0IDwgJG1heCkgewogICAgICAgICAgICAkcmVzb3VyY2VzLT5wbHVjaygnZ3JvdXBpbmcnKQogICAgICAgICAgICAgICAgLT51bmlxdWUoKQogICAgICAgICAgICAgICAgLT5lYWNoKGZ1bmN0aW9uIChDb2xsZWN0aW9uICRncm91cGluZykgdXNlICgmJGdyb3VwcywgJHN0YXJ0KXsKICAgICAgICAgICAgICAgICAgICAkZmlyc3QgPSAkZ3JvdXBpbmctPmdldCgkc3RhcnQpOwoKICAgICAgICAgICAgICAgICAgICB3aGlsZSAoJGdyb3Vwcy0+aGFzKCRmaXJzdCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICRncm91cHMtPnB1c2goW10pOwogICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAkc3RhcnQrKzsKICAgICAgICB9CgovLyAgICAgICAgJGdyb3VwcyA9ICRncm91cHMtPmdyb3VwQnkoZnVuY3Rpb24gKENvbGxlY3Rpb24gJGdyKSB7Ci8vICAgICAgICAgICAgJGZpcnN0ID0gJGdyLT5maXJzdCgpOwovLyAgICAgICAgICAgICRnci0+c2hpZnQoKTsKLy8gICAgICAgICAgICByZXR1cm4gJGZpcnN0OwovLyAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cGVkLXJlc291cmNlLWNvbGxhcHNhYmxlIHYtZm9yPSJyZXNvdXJjZSBpbiB1bmlxdWVHcm91cGluZyhncm91cCwgMSkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6aGVhZGVyPSJyZXNvdXJjZSI+CgogICAgICAgICAgICAgICAgICAgIDxncm91cGVkLXJlc291cmNlLWxpc3QtaXRlbSA6a2V5PSJyZXNvdXJjZS5sYWJlbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnJlc291cmNlPSJyZXNvdXJjZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdi1mb3I9InJlc291cmNlIGluIGdyb3VwIgogICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8L2dyb3VwZWQtcmVzb3VyY2UtY29sbGFwc2FibGU+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>{
+                    ;
+                }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhnKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxncm91cGVkLXJlc291cmNlLWxpc3QtaXRlbSA6a2V5PSJyZXNvdXJjZS5sYWJlbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6cmVzb3VyY2U9InJlc291cmNlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtZm9yPSJyZXNvdXJjZSBpbiBncm91cCIKICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzb3VyY2VzLT5wbHVjaygnZ3JvdXBpbmcnKQogICAgICAgICAgICAtPnVuaXF1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGdyb3VwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
@@ -399,9 +403,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>groups</last-search>
+      <last-search>method</last-search>
       <last-offset />
-      <last-pattern>groups</last-pattern>
+      <last-pattern>method</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
