@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>test</entry>
         <entry>for</entry>
         <entry>metho</entry>
         <entry>TransactionStatu</entry>
@@ -25,9 +24,9 @@
         <entry>guesspolicyname</entry>
         <entry>guesspolicyname(</entry>
         <entry>body</entry>
+        <entry>getJob</entry>
       </history-search>
       <history-cmd>
-        <entry>97</entry>
         <entry>110</entry>
         <entry>223</entry>
         <entry>114</entry>
@@ -47,6 +46,7 @@
         <entry>w</entry>
         <entry>426</entry>
         <entry>q</entry>
+        <entry>73</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -141,24 +141,24 @@
       <file name="/console" timestamp="1587553197456">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Quorum/QuorumDataImport.php" timestamp="1587558222835">
+        <mark key="'" line="35" column="27" />
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="16" />
+        <mark key="^" line="52" column="16" />
+        <mark key="." line="52" column="15" />
+      </file>
+      <file name="/a.dummy" timestamp="1587557692301">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Quorum/DailyImport.php" timestamp="1587557724462">
+        <mark key="[" line="13" column="7" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" timestamp="1587553013805">
         <mark key="'" line="36" column="37" />
         <mark key="[" line="197" column="8" />
         <mark key="]" line="197" column="8" />
         <mark key="." line="197" column="8" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Providers/AuthServiceProvider.php" timestamp="1587551685645">
-        <mark key="'" line="44" column="15" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php" timestamp="1587550615683">
-        <mark key="'" line="570" column="25" />
-        <mark key="[" line="572" column="0" />
-        <mark key="]" line="572" column="0" />
-        <mark key="^" line="571" column="33" />
-        <mark key="." line="572" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/Quorum/Messageevent.php" timestamp="1587555384950">
         <mark key="[" line="5" column="0" />
@@ -166,12 +166,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" timestamp="1587554951054">
-        <mark key="'" line="45" column="9" />
-        <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="8" />
-        <mark key="^" line="45" column="8" />
-        <mark key="." line="45" column="7" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" timestamp="1587558983446">
+        <mark key="'" line="30" column="7" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="73" column="59" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/Quorum/Bulkemail.php" timestamp="1587555409794">
         <mark key="[" line="5" column="0" />
@@ -185,12 +185,18 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Quorum/LoadQuorumEndpointData.php" timestamp="1587555128167">
-        <mark key="'" line="141" column="32" />
-        <mark key="[" line="88" column="49" />
-        <mark key="]" line="89" column="12" />
-        <mark key="." line="89" column="11" />
-        <mark key="^" line="89" column="12" />
+      <file name="/Dummy.txt" timestamp="1587557788730">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/CampaignRepository.php" timestamp="1587558228749">
+        <mark key="'" line="6" column="45" />
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="47" />
+        <mark key="^" line="6" column="47" />
+        <mark key="." line="6" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/JobSchedule.php" timestamp="1587557893768">
+        <mark key="'" line="71" column="22" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/Quorum/QuorumBaseEndpoint.php" timestamp="1587555257173">
         <mark key="[" line="1" column="0" />
@@ -198,39 +204,17 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" timestamp="1587552921113">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php" timestamp="1587548593464">
-        <mark key="'" line="22" column="44" />
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="24" column="46" />
-        <mark key="^" line="24" column="46" />
-        <mark key="." line="24" column="45" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/Quorum/SupporterAction.php" timestamp="1587555325192">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="49" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Access/Gate.php" timestamp="1587548588289">
-        <mark key="'" line="43" column="45" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/Quorum/Sendemail.php" timestamp="1587555364412">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="1" />
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php" timestamp="1587498803157">
-        <mark key="'" line="23" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1587498710266">
-        <mark key="[" line="20" column="112" />
-        <mark key="]" line="20" column="112" />
-        <mark key="^" line="20" column="112" />
-        <mark key="." line="20" column="111" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/Quorum/Supporter.php" timestamp="1587555344694">
         <mark key="[" line="2" column="24" />
@@ -240,12 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="16" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
-      <jump line="44" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
-      <jump line="58" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
-      <jump line="28" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
       <jump line="53" column="24" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceCollection.vue" />
       <jump line="7" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceCollection.vue" />
       <jump line="9" column="48" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceCollection.vue" />
@@ -340,59 +318,65 @@
       <jump line="88" column="25" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Quorum/LoadQuorumEndpointData.php" />
       <jump line="144" column="32" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Quorum/LoadQuorumEndpointData.php" />
       <jump line="5" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/Quorum/Bulkemail.php" />
+      <jump line="52" column="36" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Quorum/QuorumDataImport.php" />
+      <jump line="71" column="22" filename="$USER_HOME$/code/api-frc-org/app/JobSchedule.php" />
+      <jump line="35" column="27" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Quorum/QuorumDataImport.php" />
+      <jump line="6" column="45" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/CampaignRepository.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" />
+      <jump line="32" column="7" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZW5kZW1haWxSZXBvc2l0b3J5OjpjbGFzcywK</text>
       </register>
       <register name="-" type="4">
-        <text>QuorumBaseEndpoint</text>
+        <text encoding="base64">JGNvdW50cyA9IA==</text>
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text>getJob</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JHJlZi0+Z2V0UGFyZW50Q2xhc3MoKS0+Z2V0TmFtZSgp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihNZXNzYWdlZXZlbnRSZXBvc2l0b3J5OjpjbGFzcywgTWVzc2FnZWV2ZW50Ojppbml0aWFsaXplUmVwb3NpdG9yeSgpKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihTdXBwb3J0ZXJSZXBvc2l0b3J5OjpjbGFzcywgU3VwcG9ydGVyOjppbml0aWFsaXplUmVwb3NpdG9yeSgpKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihTdXBwb3J0ZXJBY3Rpb25SZXBvc2l0b3J5OjpjbGFzcywgU3VwcG9ydGVyQWN0aW9uOjppbml0aWFsaXplUmVwb3NpdG9yeSgpKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihTZW5kZW1haWxSZXBvc2l0b3J5OjpjbGFzcywgU2VuZGVtYWlsOjppbml0aWFsaXplUmVwb3NpdG9yeSgpKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihDYW1wYWlnblJlcG9zaXRvcnk6OmNsYXNzLCBDYW1wYWlnbjo6aW5pdGlhbGl6ZVJlcG9zaXRvcnkoKSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEluc3RhbmNlT2YoQnVsa2VtYWlsUmVwb3NpdG9yeTo6Y2xhc3MsIEJ1bGtlbWFpbDo6aW5pdGlhbGl6ZVJlcG9zaXRvcnkoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZW5kZW1haWxSZXBvc2l0b3J5OjpjbGFzcywK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHVzZSBUcmFuc2Zvcm1LZXlOYW1lcywgUXVvcnVtTW9kZWxBdHRyaWJ1dGVzOwoKICAgIHByb3RlY3RlZCAkZW5kcG9pbnQgPSAnL2J1bGtlbWFpbCc7CiAgICBwcm90ZWN0ZWQgJGhpZGRlbiA9IFsnYnVsa19lbWFpbCddOwogICAgcHJvdGVjdGVkICRhcHBlbmRzID0gWydhY3Rpb25fZGF0ZSddOwogICAgcHJvdGVjdGVkICR0YWJsZSA9ICdxdW9ydW1fYnVsa2VtYWlsJzsKICAgIHByb3RlY3RlZCAkaGlkZGVuS2V5cyA9IFsnYnVsa19lbWFpbCddOwogICAgcHJvdGVjdGVkICRjYXN0cyA9IFsncXVvcnVtX2J1bGtlbWFpbF9waycgPT4gJ3VyaSddOwogICAgcHJvdGVjdGVkICRkYXRlcyA9IFsnY3JlYXRlZCcsICdzY2hlZHVsZWRfc2VuZF90aW1lJ107CiAgICBwcm90ZWN0ZWQgJHRyYW5zZm9ybWF0aW9ucyA9IFsncmVzb3VyY2VfdXJpJyA9PiAncXVvcnVtX2J1bGtlbWFpbF9waycsXTsKCgogICAgLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAgICAqIEF0dHJpYnV0ZXMKICAgICAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqLwoKICAgIC8qKgogICAgICogQHBhcmFtICR2YWx1ZQogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2V0U2NoZWR1bGVkU2VuZFRpbWVBdHRyaWJ1dGUoJHZhbHVlKTogdm9pZAogICAgewogICAgICAgICR0aGlzLT5hdHRyaWJ1dGVzWydzY2hlZHVsZWRfc2VuZF90aW1lJ10gPSBDYXJib246OmNyZWF0ZUZyb21Gb3JtYXQoQ2FyYm9uOjpBVE9NLCAkdmFsdWUpCiAgICAgICAgICAgIC0+dG9EYXRlVGltZVN0cmluZygpOwogICAgfQogICAgcHVibGljIGZ1bmN0aW9uIHNldFF1b3J1bUJ1bGtlbWFpbFBrQXR0cmlidXRlKCR2YWx1ZSl7CiAgICAgICAgJHRoaXMtPmF0dHJpYnV0ZXNbJ3F1b3J1bV9idWxrZW1haWxfcGsnXSA9ICR2YWx1ZTsKICAgICAgICAkdGhpcy0+YXR0cmlidXRlc1snaWQnXSA9IHN0YXRpYzo6Z2V0SWRGcm9tVXJpKCR2YWx1ZSk7CiAgICB9CgoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRBY3Rpb25EYXRlQXR0cmlidXRlKCkKICAgIHsKICAgICAgICAkZGF0ZSA9ICR0aGlzLT5zY2hlZHVsZWRfc2VuZF90aW1lID8/ICR0aGlzLT5jcmVhdGVkID8/IENhcmJvbjo6dG9kYXkoKTsKICAgICAgICByZXR1cm4gJGRhdGUtPmZvcm1hdCgkdGhpcy0+ZGF0ZVRvU3RyaW5nRm9ybWF0KTsKICAgIH0KCgogICAgLyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICAgICAqIE92ZXJyaWRlCiAgICAgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldFBhcmFtcygpCiAgICB7CiAgICAgICAgcmV0dXJuIFtdOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBzYXZlKGFycmF5ICRvcHRpb25zID0gW10pCiAgICB7CiAgICAgICAgJHRoaXMtPnRleHQgPSBzdWJzdHIoJHRoaXMtPnRleHQsMCwgNDAwMCk7CgogICAgICAgIHJldHVybiBwYXJlbnQ6OnNhdmUoJG9wdGlvbnMpOwogICAgfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihNZXNzYWdlZXZlbnRSZXBvc2l0b3J5OjpjbGFzcywgTWVzc2FnZWV2ZW50Ojppbml0aWFsaXplUmVwb3NpdG9yeSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnVzZSBBcHBcVHJhaXRzXFRyYW5zZm9ybUtleU5hbWVzOwp1c2UgQXBwXFRyYWl0c1xRdW9ydW1Nb2RlbEF0dHJpYnV0ZXM7CnVzZSBDYXJib25cQ2FyYm9uOwoKLyoqCiAqIEBwcm9wZXJ0eSBtaXhlZCBjcmVhdGVkCiAqIEBwcm9wZXJ0eSBtaXhlZCBzY2hlZHVsZWRfc2VuZF90aW1lCiAqIEBwcm9wZXJ0eSBzdHJpbmcgdGV4dAogKgogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHVzZSBUcmFuc2Zvcm1LZXlOYW1lcywgUXVvcnVtTW9kZWxBdHRyaWJ1dGVzOwoKCiAgICBwcm90ZWN0ZWQgJHRyYW5zZm9ybWF0aW9ucyA9IFsKICAgICAgICAncmVzb3VyY2VfdXJpJyA9PiAncXVvcnVtX2NhbXBhaWduX3BrJywKICAgICAgICAnbnVtYmVyX2FjdGlvbnNfY291bnQnID0+ICdudW1iZXJfYWN0aW9ucycKICAgIF07CiAgICBwcm90ZWN0ZWQgJGNhc3RzID0gWwogICAgICAgICdxdW9ydW1fY2FtcGFpZ25fcGsnID0+ICd1cmknLAogICAgICAgICdwYXJ0aWNpcGFudHNfc2F2ZWRfc2VhcmNoZXMnID0+ICdhcnJheScKICAgIF07CgoKICAgIHByb3RlY3RlZCAkYXBwZW5kcyA9IFsKICAgICAgICAnYWN0aW9uX2RhdGUnCiAgICBdOwoKCiAgICBwcm90ZWN0ZWQgJGVuZHBvaW50ID0gJy9jYW1wYWlnbic7CgogICAgcHJvdGVjdGVkICRkYXRlcyA9IFsKICAgICAgICAnY3JlYXRlZCcsICd1cGRhdGVkJywgJ2FjdGl2YXRlZCcKICAgIF07CiAgICBwcm90ZWN0ZWQgJGhpZGRlbktleXMgPSBbJ2J1bGtfZW1haWwnXTsKICAgIHByb3RlY3RlZCAkaGlkZGVuID0gWwogICAgICAgICdidWxrX2VtYWlsJwogICAgXTsKCiAgICBwcm90ZWN0ZWQgJHRhYmxlID0gJ3F1b3J1bV9jYW1wYWlnbic7CgoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRBY3Rpb25EYXRlQXR0cmlidXRlKCkKICAgIHsKICAgICAgICAkZGF0ZSA9ICR0aGlzLT5zY2hlZHVsZWRfc2VuZF90aW1lID8/ICR0aGlzLT5jcmVhdGVkID8/IENhcmJvbjo6bm93KCk7CiAgICAgICAgcmV0dXJuICRkYXRlLT5mb3JtYXQoJHRoaXMtPmRhdGVUb1N0cmluZ0Zvcm1hdCk7CiAgICB9CgoKCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0UGFyYW1zKCkKICAgIHsKICAgICAgICByZXR1cm4gW107CiAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIEBwcm9wZXJ0eSBtaXhlZCBjcmVhdGVkCiAqIEBwcm9wZXJ0eSBtaXhlZCBzY2hlZHVsZWRfc2VuZF90aW1lCiAqCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnVzZSBBcHBcRXJyb3I7CnVzZSBBcHBcRnJjQWN0aW9uXFF1b3J1bUdyYXNzcm9vdHM7CnVzZSBBcHBcRnJjQWN0aW9uXFF1b3J1bUdyYXNzcm9vdHNBcmNoaXZlOwp1c2UgQXBwXFRyYWl0c1xUcmFuc2Zvcm1LZXlOYW1lczsKdXNlIEFwcFxUcmFpdHNcUXVvcnVtTW9kZWxBdHRyaWJ1dGVzOwp1c2UgQ2FyYm9uXENhcmJvbjsKdXNlIElsbHVtaW5hdGVcU3VwcG9ydFxBcnI7CnVzZSBJbGx1bWluYXRlXFN1cHBvcnRcQ29sbGVjdGlvbjsKdXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXERCOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XEZhY2FkZXNcU2NoZW1hOwp1c2UgSWxsdW1pbmF0ZVxTdXBwb3J0XFN0cjsKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIHVzZSBUcmFuc2Zvcm1LZXlOYW1lczsKCiAgICBwcm90ZWN0ZWQgJGVuZHBvaW50ID0gJy9tZXNzYWdlZXZlbnQnOwogICAgcHJvdGVjdGVkICR0YWJsZSA9ICdxdW9ydW1fbWVzc2FnZWV2ZW50JzsKICAgIHB1YmxpYyBjb25zdCBEQVRFX0JFRk9SRV9LRVkgPSAnZXZlbnRfdGltZXN0YW1wX19sdCc7CiAgICBwdWJsaWMgY29uc3QgREFURV9BRlRFUl9LRVkgPSAnZXZlbnRfdGltZXN0YW1wX19ndCc7CiAgICBwcm90ZWN0ZWQgJGRhdGVfdG9fc3RyaW5nX2Zvcm1hdCA9ICdZLW0tZFxUSDppOnMnOwoKICAgIHByaXZhdGUgJGV2ZW50X25hbWVzID0gWwogICAgICAgICdPUEVOJywKICAgICAgICAnQ0xJQ0snLAogICAgICAgICdVTlNVQlNDUklCRScsCiAgICAgICAgJ0JPVU5DRScsCiAgICAgICAgJ1NQQU1fQ09NUExBSU5UJwogICAgXTsKCiAgICBwcm90ZWN0ZWQgJHRyYW5zZm9ybWF0aW9ucyA9IFsKICAgICAgICAicmVzb3VyY2VfdXJpIiA9PiAncXVvcnVtX21lc3NhZ2VldmVudF9waycsCiAgICAgICAgInNlbmRfZW1haWwiID0+ICdxdW9ydW1fc2VuZGVtYWlsX2ZrJywKICAgICAgICAiYnVsa19lbWFpbCIgPT4gJ3F1b3J1bV9idWxrZW1haWxfZmsnLAoKICAgIF07CgogICAgcHJvdGVjdGVkICRhcHBlbmRzID0gWwogICAgICAgICdzbXRwX2Vycm9yJywKICAgICAgICAnaG9sZF9yZWFzb24nLAogICAgICAgICdlbWFpbF9hZGRyZXNzJywKICAgICAgICAnYWN0aW9uX2RhdGUnCiAgICBdOwogICAgcHJvdGVjdGVkICRjYXN0cyA9IFsKCiAgICAgICAgJ3F1b3J1bV9idWxrZW1haWxfZmsnID0+ICdzdHJpbmcnLAogICAgICAgICdxdW9ydW1fbWVzc2FnZWV2ZW50X3BrJyA9PiAnc3RyaW5nJywKICAgICAgICAncXVvcnVtX3NlbmRlbWFpbF9maycgPT4gJ3N0cmluZycsCgogICAgICAgICdldmVudF9qc29uJyA9PiAnYXJyYXknLAogICAgICAgICdldmVudF9pZCcgPT4gJ2ludGVnZXInLAogICAgICAgICdldmVudF9uYW1lJyA9PiAnc3RyaW5nJywKICAgICAgICAnZXZlbnRfdHlwZScgPT4gJ3N0cmluZycsCgogICAgICAgICdzbXRwX2Vycm9yJyA9PiAnc3RyaW5nJywKICAgICAgICAnaG9sZF9yZWFzb24nID0+ICdzdHJpbmcnLAogICAgICAgICdlbWFpbF9hZGRyZXNzJyA9PiAnc3RyaW5nJywKICAgIF07CiAgICBwcm90ZWN0ZWQgJGRhdGVzID0gWwogICAgICAgICdhY3Rpb25fZGF0ZScsCiAgICAgICAgImV2ZW50X3RpbWVzdGFtcCIgLy89PiAiMjAxOS0xMS0xMVQwMDowMTozOSIKICAgIF07CgogICAgcHVibGljIGZ1bmN0aW9uIHNhdmUoYXJyYXkgJG9wdGlvbnMgPSBbXSkKICAgIHsKCiAgICAgICAgaWYgKCR0aGlzLT5idWxrZW1haWxfaWQgIT09IG51bGwgJiYgJHRoaXMtPmJ1bGtlbWFpbCA9PT0gbnVsbCkgewoKICAgICAgICAgICAgJHJlY29yZCA9IEJ1bGtlbWFpbDo6ZmluZCgkdGhpcy0+YnVsa2VtYWlsX2lkKTsKICAgICAgICAgICAgJHJlY29yZC0+c2F2ZSgpOwoKICAgICAgICAgICAgVXNlcjo6c2Vlc0Vycm9ycygpLT5nZXQoKS0+ZWFjaChmdW5jdGlvbiAoVXNlciAkdXNlcikgdXNlICgkcmVjb3JkKXsKICAgICAgICAgICAgICAgICR1c2VyLT5ub3RpZnkobmV3IFNpbXBsZU5vdGlmaWNhdGlvbignTWlzc2luZyBCdWxrZW1haWwgcmVjb3JkIHVwZGF0ZWQnLCBbCiAgICAgICAgICAgICAgICAgICAgIlN1Y2Nlc3NmdWxseSByZXRyaWV2ZWQgYnVsa2VtYWlsIHdpdGggaWQgJyRyZWNvcmQtPmlkJyIKICAgICAgICAgICAgICAgIF0pKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfQoKCiAgICAgICAgcmV0dXJuIHBhcmVudDo6c2F2ZSgkb3B0aW9ucyk7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gZ2V0UmVzcG9uc2VSdWxlcygpCiAgICB7CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ2dldCcgPT4gWwogICAgICAgICAgICAgICAgJ3J1bGVzJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ29iamVjdHMuKi5pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgICAgICAgICAnb2JqZWN0cy4qLmJ1bGtfZW1haWwnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICAgICAgICAgJ29iamVjdHMuKi5ldmVudF9pZCcgPT4gJ3JlcXVpcmVkJywKICAgICAgICAgICAgICAgICAgICAnb2JqZWN0cy4qLmV2ZW50X25hbWUnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICAgICAgICAgJ29iamVjdHMuKi5ldmVudF90aW1lc3RhbXAnID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICAgICAgICAgJ29iamVjdHMuKi5ldmVudF90eXBlJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAgICAgICAgICdvYmplY3RzLiouZXZlbnRfanNvbi5lcnJvcl9jb2RlJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAgICAgICAgICdvYmplY3RzLiouZXZlbnRfanNvbi5yZWFzb24nID0+ICdyZXF1aXJlZCcsCiAgICAgICAgICAgICAgICAgICAgJ29iamVjdHMuKi5zZW5kX2VtYWlsJyA9PiAncmVxdWlyZWQnLAogICAgICAgICAgICAgICAgXQogICAgICAgICAgICBdCiAgICAgICAgXTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gYnVsa2VtYWlsKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmJlbG9uZ3NUbyhRdW9ydW1CdWxrZW1haWw6OmNsYXNzLCAnYnVsa2VtYWlsX2lkJyk7CiAgICB9CgoKICAgIC8qKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAgICAgKiBBdHRyaWJ1dGVzCiAgICAgKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEFjdGlvbkRhdGVBdHRyaWJ1dGUoKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+ZXZlbnRfdGltZXN0YW1wOwogICAgfQoKCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0U210cEVycm9yQXR0cmlidXRlKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmV2ZW50X2pzb25bJ2Vycm9yX2NvZGUnXSA/PyBudWxsOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRIb2xkUmVhc29uQXR0cmlidXRlKCkKICAgIHsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXR1cm4gc3Vic3RyKCR0aGlzLT5ldmVudF9qc29uWydyZWFzb24nXSwgMCwgNDk5KTsKICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0RW1haWxBZGRyZXNzQXR0cmlidXRlKCkKICAgIHsKICAgICAgICAkanNvbiA9ICR0aGlzLT5ldmVudF9qc29uOwogICAgICAgIHJldHVybiAkanNvblsndHJhY2tfZXZlbnQnXVsncmNwdF90byddCiAgICAgICAgICAgID8/ICRqc29uWydyY3B0X3RvJ107CiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8qKgogKiBAcHJvcGVydHkgbWl4ZWQgJGJ1bGtlbWFpbAogKiBAcHJvcGVydHkgbWl4ZWQgJHJlc291cmNlX3VyaQogKiBAcHJvcGVydHkgbWl4ZWQgJHNlbmRfZW1haWwKICogQHByb3BlcnR5IGFycmF5ICRldmVudF9qc29uCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnVzZSBBcHBcRnJjQWN0aW9uXFF1b3J1bUJ1bGtlbWFpbDsKdXNlIEFwcFxOb3RpZmljYXRpb25zXFNpbXBsZU5vdGlmaWNhdGlvbjsKdXNlIEFwcFxUcmFpdHNcVHJhbnNmb3JtS2V5TmFtZXM7CnVzZSBBcHBcVXNlcjsKdXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXExvZzsKCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbmFtZSA9IG51bGwsIGFycmF5ICRkYXRhID0gW10sICRkYXRhTmFtZSA9ICcnKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJG5hbWUsICRkYXRhLCAkZGF0YU5hbWUpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>73</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>body</last-search>
+      <last-search>getJob</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern>getJob</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
