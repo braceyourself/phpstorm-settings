@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>$next</entry>
-        <entry>use</entry>
         <entry>getData</entry>
         <entry>next</entry>
         <entry>follow</entry>
@@ -25,6 +23,8 @@
         <entry>paginate</entry>
         <entry>apidata</entry>
         <entry>braceyourself</entry>
+        <entry>resources</entry>
+        <entry>compu</entry>
       </history-search>
       <history-cmd>
         <entry>110</entry>
@@ -131,13 +131,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Quorum/SendEmail.php" timestamp="1587649143600">
-        <mark key="'" line="2" column="19" />
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="15" column="37" />
-        <mark key="^" line="15" column="38" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/composer.json" timestamp="1587649864138">
         <mark key="[" line="64" column="20" />
         <mark key="]" line="64" column="37" />
@@ -156,10 +149,12 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Mobilecause/Resource.php" timestamp="1587648807677">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Resource.php" timestamp="1587651713168">
+        <mark key="'" line="152" column="24" />
+        <mark key="[" line="148" column="5" />
+        <mark key="]" line="153" column="5" />
+        <mark key="^" line="153" column="5" />
+        <mark key="." line="153" column="4" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/Quorum/Messageevent.php" timestamp="1587649193967">
         <mark key="[" line="3" column="18" />
@@ -180,28 +175,52 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Quorum/Resource.php" timestamp="1587649004113">
-        <mark key="'" line="23" column="36" />
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="38" />
-        <mark key="^" line="0" column="39" />
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/src/NovaCategorise.php" timestamp="1587653126868">
+        <mark key="'" line="47" column="41" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Resource.php" timestamp="1587648868621">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Resource.php" timestamp="1587648772664">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/views/nova-overrides/resources/navigation.blade.php" timestamp="1587652740058">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Quorum/Bulkemail.php" timestamp="1587649116376">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="4" />
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" timestamp="1587652728571">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Quorum/SendEmail.php" timestamp="1587649143600">
+        <mark key="'" line="2" column="19" />
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceCollection.vue" timestamp="1587652902490">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="37" column="12" />
+        <mark key="." line="37" column="11" />
+        <mark key="^" line="37" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceListItem.vue" timestamp="1587653013136">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="1" column="63" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Quorum/Resource.php" timestamp="1587649004113">
+        <mark key="'" line="23" column="36" />
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="38" />
+        <mark key="^" line="0" column="39" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/composer-dev.json" timestamp="1587649775261">
         <mark key="'" line="101" column="9" />
@@ -218,11 +237,11 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceCollapsable.vue" timestamp="1587649478835">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="10" column="12" />
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceCollapsable.vue" timestamp="1587652822719">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Quorum/MessageEvent.php" timestamp="1587649136239">
         <mark key="'" line="2" column="19" />
@@ -231,38 +250,8 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/FrcAction/Resource.php" timestamp="1587648858191">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" timestamp="1587648668979">
-        <mark key="'" line="245" column="40" />
-        <mark key="[" line="248" column="36" />
-        <mark key="]" line="249" column="12" />
-        <mark key="n" line="368" column="38" />
-        <mark key="." line="249" column="11" />
-        <mark key="^" line="249" column="12" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Resource.php" timestamp="1587648823008">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="1635" column="18" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="10" column="38" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="11" column="38" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="27" column="59" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="30" column="61" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="31" column="35" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="126" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="128" column="14" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="130" column="56" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="131" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="825" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
-      <jump line="833" column="212" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
       <jump line="997" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8cac327e-5320-40f4-99cf-2e44c2cff177/console.sql" />
       <jump line="1264" column="11" filename="$USER_HOME$/code/fresco32/DDL/Packages/bank_acct_mgmt.sql" />
@@ -351,48 +340,65 @@
       <jump line="40" column="43" filename="$USER_HOME$/code/api-frc-org/composer-dev.json" />
       <jump line="43" column="9" filename="$USER_HOME$/code/api-frc-org/composer-dev.json" />
       <jump line="101" column="9" filename="$USER_HOME$/code/api-frc-org/composer-dev.json" />
+      <jump line="152" column="24" filename="$USER_HOME$/code/api-frc-org/app/Nova/Resource.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
+      <jump line="39" column="15" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
+      <jump line="56" column="12" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
+      <jump line="30" column="37" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
+      <jump line="2" column="38" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
+      <jump line="77" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
+      <jump line="3" column="34" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceListItem.vue" />
+      <jump line="34" column="7" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceListItem.vue" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceListItem.vue" />
+      <jump line="15" column="8" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceListItem.vue" />
+      <jump line="47" column="41" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/src/NovaCategorise.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>https://github.com/braceyourself</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>https://github.com/braceyourself</text>
+        <text encoding="base64">IGxpc3QtdW5zdHlsZWQ=</text>
       </register>
       <register name="/" type="4">
-        <text>braceyourself</text>
+        <text>compu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBzdHJpbmcgJGRhdGFLZXkgPSAnZGF0YSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgaGVhZGVyIH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFJlc291cmNlR3JvdXBNZW51LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CjxzdHlsZSBzY29wZWQ+CiAgICAubGlzdC11bnN0eWxlZCB7CiAgICAgICAgCiAgICB9Cjwvc3R5bGU+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJHN1Ykdyb3VwID0gJ090aGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9fcmVzb3VyY2VfbGluaygpIHsKICAgICAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICAgICAgbmFtZTogJ2luZGV4JywKICAgICAgICAgICAgICAgICAgICBwYXJhbXM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzb3VyY2VOYW1lOiB0aGlzLnJlc291cmNlLnVyaUtleQogICAgICAgICAgICAgICAgICAgICAgICAvLyByZXNvdXJjZU5hbWU6ICd7eyAkcmVzb3VyY2U6OnVyaUtleSgpIH19JwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJGdyb3VwID0gJ0ZyYyc7Cg==</text>
+      <register name="6" type="4">
+        <text>{
+                    name: 'index',
+                    params: {
+                        resourceName: resource.uriKey
+                    }
+                }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wb25lbnRzOiB7CiAgICAgICAgICAgICdncm91cGVkLXJlc291cmNlLWNvbGxhcHNhYmxlJzogR3JvdXBlZFJlc291cmNlQ29sbGFwc2FibGUKICAgICAgICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZSBEaXNwbGF5c0luUmVzb3VyY2VHcm91cE1lbnU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBHcm91cGVkUmVzb3VyY2VDb2xsYXBzYWJsZSBmcm9tICIuL0dyb3VwZWRSZXNvdXJjZUNvbGxhcHNhYmxlIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -401,9 +407,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>braceyourself</last-search>
+      <last-search>compu</last-search>
       <last-offset />
-      <last-pattern>braceyourself</last-pattern>
+      <last-pattern>compu</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
