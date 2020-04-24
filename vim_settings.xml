@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>searc</entry>
         <entry>today</entry>
         <entry>pagin</entry>
         <entry>call</entry>
@@ -25,6 +24,7 @@
         <entry>collect(</entry>
         <entry>paginated_</entry>
         <entry>paginated</entry>
+        <entry>next(</entry>
       </history-search>
       <history-cmd>
         <entry>110</entry>
@@ -224,12 +224,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="39" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" timestamp="1587727488763">
-        <mark key="'" line="9" column="6" />
-        <mark key="[" line="52" column="30" />
-        <mark key="]" line="52" column="40" />
-        <mark key="." line="52" column="39" />
-        <mark key="^" line="52" column="40" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" timestamp="1587727579716">
+        <mark key="'" line="67" column="17" />
+        <mark key="[" line="165" column="47" />
+        <mark key="]" line="165" column="47" />
+        <mark key="." line="165" column="47" />
+        <mark key="^" line="165" column="47" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Http/Responses/QuorumApiResponse.php" timestamp="1587727338321">
         <mark key="[" line="31" column="0" />
@@ -238,10 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="38" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
-      <jump line="77" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" />
-      <jump line="3" column="34" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceListItem.vue" />
-      <jump line="34" column="7" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceListItem.vue" />
       <jump line="2" column="0" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceListItem.vue" />
       <jump line="15" column="8" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceListItem.vue" />
       <jump line="47" column="41" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/src/NovaCategorise.php" />
@@ -317,7 +313,6 @@
       <jump line="41" column="23" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
       <jump line="51" column="50" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
       <jump line="142" column="22" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
-      <jump line="52" column="40" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
       <jump line="144" column="23" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
       <jump line="100" column="4" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
       <jump line="1" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
@@ -338,48 +333,53 @@
       <jump line="243" column="19" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="238" column="15" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="241" column="32" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
+      <jump line="160" column="7" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
+      <jump line="52" column="25" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
+      <jump line="53" column="37" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
+      <jump line="111" column="23" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
+      <jump line="67" column="17" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHBhZ2luYXRlZCA9IGZhbHNlOwo=</text>
+      <register name="+" type="4">
+        <text>Query()</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>Query()</text>
       </register>
       <register name="/" type="4">
-        <text>paginated</text>
+        <text>next(</text>
       </register>
-      <register name="0" type="4">
-        <text>parseQuery</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIWVtcHR5KCR0aGlzLT5nZXROZXh0UXVlcnkoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJHBhZ2luYXRlZCA9IGZhbHNlOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdGlvbiAkcGFnaW5hdGVkX2RhdGE7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPnBhZ2luYXRlZCkgewogICAgICAgICAgICByZXR1cm4gY29sbGVjdCgkdGhpcy0+cGFnaW5hdGVkX2RhdGEpOwogICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGFnaW5hdGVkX2RhdGEgPSBuZXcgQ29sbGVjdGlvbigpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGFnaW5hdGVkX2RhdGE7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJHBhZ2luYXRlZCA9IGZhbHNlOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29sbGVjdGlvbiAkcGFnaW5hdGVkX2RhdGE7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPnBhZ2luYXRlZCkgewogICAgICAgICAgICByZXR1cm4gY29sbGVjdCgkdGhpcy0+cGFnaW5hdGVkX2RhdGEpOwogICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGFnaW5hdGVkX2RhdGEgPSBuZXcgQ29sbGVjdGlvbigpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGFnaW5hdGVkX2RhdGE7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRtZXJnZWQtPm1lcmdlKCRwYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -388,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>paginated</last-search>
+      <last-search>next(</last-search>
       <last-offset />
-      <last-pattern>paginated</last-pattern>
+      <last-pattern>next(</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
