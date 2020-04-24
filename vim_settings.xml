@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>effectiveDate</entry>
-        <entry>credit_card.</entry>
         <entry>credit_card</entry>
         <entry>rewrite_file</entry>
         <entry encoding="base64">XDxyZXdyaXRlX2ZpbGVcPg==</entry>
@@ -25,6 +23,8 @@
         <entry>getNext</entry>
         <entry>macr</entry>
         <entry>parseQ</entry>
+        <entry>namespace.*Str</entry>
+        <entry>Str</entry>
       </history-search>
       <history-cmd>
         <entry>110</entry>
@@ -45,8 +45,8 @@
         <entry>426</entry>
         <entry>73</entry>
         <entry>redo</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -137,12 +137,6 @@
       <file name="$USER_HOME$/code/api-frc-org/app/FrcTransaction.php" timestamp="1587670395797">
         <mark key="'" line="710" column="29" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/composer.json" timestamp="1587649864138">
-        <mark key="[" line="64" column="20" />
-        <mark key="]" line="64" column="37" />
-        <mark key="." line="64" column="36" />
-        <mark key="^" line="64" column="37" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceCollection.vue" timestamp="1587652902490">
         <mark key="[" line="36" column="15" />
         <mark key="]" line="37" column="12" />
@@ -156,13 +150,6 @@
         <mark key="^" line="140" column="51" />
         <mark key="." line="140" column="50" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Resource.php" timestamp="1587651713168">
-        <mark key="'" line="152" column="24" />
-        <mark key="[" line="148" column="5" />
-        <mark key="]" line="153" column="5" />
-        <mark key="^" line="153" column="5" />
-        <mark key="." line="153" column="4" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceListItem.vue" timestamp="1587653013136">
         <mark key="'" line="13" column="8" />
         <mark key="[" line="7" column="0" />
@@ -170,16 +157,27 @@
         <mark key="^" line="1" column="63" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/.gitignore" timestamp="1587724751286">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" timestamp="1587724827693">
+        <mark key="'" line="68" column="58" />
+      </file>
       <file name="/Dummy.txt" timestamp="1587723798692">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/_ide_helper.php" timestamp="1587725240979">
+        <mark key="'" line="19361" column="0" />
+        <mark key="[" line="19339" column="4" />
+        <mark key="]" line="19339" column="47" />
+        <mark key="." line="19339" column="46" />
+        <mark key="^" line="19339" column="47" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/src/NovaCategorise.php" timestamp="1587653126868">
         <mark key="'" line="47" column="41" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/views/nova-overrides/resources/navigation.blade.php" timestamp="1587652740058">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Mobilecause/ReportRepository.php" timestamp="1587670442708">
         <mark key="'" line="97" column="52" />
@@ -190,6 +188,11 @@
         <mark key="]" line="36" column="24" />
         <mark key="." line="36" column="24" />
         <mark key="^" line="36" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Facades/Api.php" timestamp="1587724726414">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/GroupedResourceCollapsable.vue" timestamp="1587652822719">
         <mark key="[" line="8" column="0" />
@@ -205,17 +208,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Providers/AppServiceProvider.php" timestamp="1587724145426">
+      <file name="$USER_HOME$/code/api-frc-org/app/Providers/AppServiceProvider.php" timestamp="1587724973536">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/components/ResourceGroups.vue" timestamp="1587652728571">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="84" column="8" />
+        <mark key="." line="84" column="7" />
+        <mark key="^" line="84" column="8" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" timestamp="1587723934540">
         <mark key="'" line="249" column="20" />
@@ -238,23 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="6" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="244" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="326" column="29" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="348" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="72" column="34" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="342" column="4" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="350" column="38" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="15" column="21" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/ApiResponse.php" />
-      <jump line="10" column="34" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/QuorumApiResponse.php" />
-      <jump line="95" column="22" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/ApiResponse.php" />
-      <jump line="87" column="20" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/ApiResponse.php" />
-      <jump line="12" column="28" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/ApiResponse.php" />
-      <jump line="65" column="24" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/ApiResponse.php" />
-      <jump line="22" column="23" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/ApiResponse.php" />
-      <jump line="14" column="36" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/ApiResponse.php" />
-      <jump line="250" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="338" column="29" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="14" column="47" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" />
       <jump line="37" column="15" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="355" column="4" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
@@ -338,59 +319,76 @@
       <jump line="93" column="0" filename="$USER_HOME$/code/api-frc-org/app/Providers/AppServiceProvider.php" />
       <jump line="3" column="0" filename="$USER_HOME$/code/api-frc-org/app/Providers/AppServiceProvider.php" />
       <jump line="26" column="31" filename="$USER_HOME$/code/api-frc-org/app/Http/Responses/ApiResponse.php" />
+      <jump line="16" column="28" filename="$USER_HOME$/code/api-frc-org/app/Facades/Api.php" />
+      <jump line="17" column="5" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="2423" column="38" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="2426" column="49" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="2430" column="11" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="4235" column="38" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="4238" column="49" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="68" column="58" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" />
+      <jump line="19233" column="32" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="19363" column="0" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="19367" column="35" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="15232" column="6" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="15236" column="10" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="15245" column="51" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="15255" column="51" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
+      <jump line="19366" column="0" filename="$USER_HOME$/code/api-frc-org/_ide_helper.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIHNpbmd1bGFyU3R1ZGx5KCkKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPg==</text>
+        <text>Facades</text>
       </register>
       <register name="/" type="4">
-        <text>parseQ</text>
+        <text>Str</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdHJpbmcgJGRhdGFLZXkgPSAnZGF0YSc7Cg==</text>
+      <register name="0" type="4">
+        <text>parseQuery</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIHNpbmd1bGFyU3R1ZGx5KCkKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICR1cmwKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHBhcnNlUXVlcnkoJHVybCkKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNsYXNzIFN0ciBleHRlbmRzIFxJbGx1bWluYXRlXFN1cHBvcnRcU3RyIHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxFcnJvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxBcnI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXENhY2hlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIGZ1bmN0aW9uIEd1enpsZUh0dHBcUHNyN1xwYXJzZV9xdWVyeTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHI6Om1hY3JvKCdwYXJzZVF1ZXJ5JywgZnVuY3Rpb24oJHVybCl7CiAgICAgICAgICAgIAogICAgICAgICAgICAkcXVlcnkgPSBwYXJzZV91cmwoJHVybCwgUEhQX1VSTF9RVUVSWSkgPz8gJyc7CgogICAgICAgICAgICByZXR1cm4gcGFyc2VfcXVlcnkoJHF1ZXJ5KTsKICAgICAgICAgICAgCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cm5hbWVzcGFjZSBJbGx1bWluYXRlXFN1cHBvcnRcRmFjYWRlcyB7CiAgICAKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnkgPSBwYXJzZV91cmwoJHVybCwgUEhQX1VSTF9RVUVSWSkgPz8gJyc7CgogICAgICAgIHJldHVybiBwYXJzZV9xdWVyeSgkcXVlcnkpOwo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIFwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>parseQ</last-search>
+      <last-search>Str</last-search>
       <last-offset />
-      <last-pattern>parseQ</last-pattern>
+      <last-pattern>Str</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
