@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mergepa</entry>
         <entry>__call</entry>
         <entry>flatM</entry>
         <entry>zttpreq</entry>
@@ -25,6 +24,7 @@
         <entry>getResponse</entry>
         <entry>getresponse</entry>
         <entry>call(</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>110</entry>
@@ -138,6 +138,9 @@
         <mark key="." line="31" column="74" />
         <mark key="^" line="31" column="74" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/config/app.php" timestamp="1587817447114">
+        <mark key="'" line="37" column="5" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" timestamp="1587755578289">
         <mark key="[" line="98" column="43" />
         <mark key="]" line="98" column="49" />
@@ -150,12 +153,6 @@
         <mark key="]" line="19339" column="47" />
         <mark key="." line="19339" column="46" />
         <mark key="^" line="19339" column="47" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Mobilecause/MobilecauseBaseRepository.php" timestamp="1587746299132">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="57" />
-        <mark key="." line="2" column="56" />
-        <mark key="^" line="2" column="57" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1587753814327">
         <mark key="'" line="438" column="24" />
@@ -205,12 +202,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" timestamp="1587759596167">
-        <mark key="'" line="32" column="16" />
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="35" column="34" />
-        <mark key="." line="35" column="33" />
-        <mark key="^" line="35" column="34" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" timestamp="1587817020640">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" timestamp="1587757230289">
         <mark key="'" line="64" column="21" />
@@ -234,10 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="53" column="29" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
-      <jump line="162" column="21" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
-      <jump line="137" column="6" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
       <jump line="56" column="23" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
       <jump line="164" column="56" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
       <jump line="173" column="7" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
@@ -334,48 +326,52 @@
       <jump line="308" column="41" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="79" column="22" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="35" column="13" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
+      <jump line="40" column="14" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" />
+      <jump line="41" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/api-frc-org/config/app.php" />
+      <jump line="37" column="5" filename="$USER_HOME$/code/api-frc-org/config/app.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXEFydGlzYW47Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text>call(</text>
+        <text>debug</text>
       </register>
       <register name="0" type="4">
         <text>responseCallback</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXEFydGlzYW47Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBBcnRpc2FuOjpjYWxsKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoKGZ1bmN0aW9uICgpIHVzZSAoJHJlc3BvbnNlKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXNwb25zZS0+cGFnZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoKGZ1bmN0aW9uICgpIHVzZSAoJHJlc3BvbnNlKXsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCJZRUFIISIsICRkYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmdldFJlc3BvbnNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXNwb25zZS0+cGFnZXMoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCJZRUFIISIsICRkYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -384,9 +380,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>call(</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>call(</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
