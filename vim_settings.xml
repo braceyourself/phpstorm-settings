@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>zttpreq</entry>
         <entry>hydrateWith</entry>
         <entry>hydrate</entry>
         <entry>newModelInstance</entry>
@@ -25,6 +24,7 @@
         <entry>debug</entry>
         <entry>env\(</entry>
         <entry>env(</entry>
+        <entry>config:cache</entry>
       </history-search>
       <history-cmd>
         <entry>110</entry>
@@ -174,11 +174,12 @@
         <mark key="." line="21" column="54" />
         <mark key="^" line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/app/Utilities/Installer.php" timestamp="1587895432536">
-        <mark key="[" line="215" column="32" />
-        <mark key="]" line="215" column="39" />
-        <mark key="." line="215" column="38" />
-        <mark key="^" line="215" column="39" />
+      <file name="$USER_HOME$/code/akaunting/app/Utilities/Installer.php" timestamp="1587896738949">
+        <mark key="'" line="310" column="7" />
+        <mark key="[" line="311" column="37" />
+        <mark key="]" line="311" column="38" />
+        <mark key="." line="311" column="37" />
+        <mark key="^" line="311" column="38" />
       </file>
       <file name="$USER_HOME$/code/akaunting/app/Exceptions/Handler.php" timestamp="1587894711233">
         <mark key="[" line="56" column="12" />
@@ -245,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="16" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
       <jump line="12" column="24" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
       <jump line="145" column="34" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
       <jump line="154" column="4" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/PaginatedApiResponse.php" />
@@ -345,6 +345,7 @@
       <jump line="25" column="24" filename="$USER_HOME$/code/akaunting/app/Console/Kernel.php" />
       <jump line="18" column="17" filename="$USER_HOME$/code/akaunting/config/app.php" />
       <jump line="240" column="0" filename="$USER_HOME$/code/akaunting/config/app.php" />
+      <jump line="310" column="7" filename="$USER_HOME$/code/akaunting/app/Utilities/Installer.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -356,7 +357,7 @@
         <text>env</text>
       </register>
       <register name="/" type="4">
-        <text>env(</text>
+        <text>config:cache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoY29uZmlnKCdzZXNzaW9uLmRyaXZlcicpID09ICdkYXRhYmFzZScpIHsK</text>
@@ -395,9 +396,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>env(</last-search>
+      <last-search>config:cache</last-search>
       <last-offset />
-      <last-pattern>env(</last-pattern>
+      <last-pattern>config:cache</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
