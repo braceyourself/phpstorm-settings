@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getresponse</entry>
         <entry>call(</entry>
         <entry>debug</entry>
         <entry>env\(</entry>
@@ -25,6 +24,7 @@
         <entry>config</entry>
         <entry>driver</entry>
         <entry>app_time</entry>
+        <entry>forgetAll</entry>
       </history-search>
       <history-cmd>
         <entry>114</entry>
@@ -170,8 +170,8 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="44" column="33" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" timestamp="1588004135290">
-        <mark key="'" line="40" column="20" />
+      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" timestamp="1588004841612">
+        <mark key="'" line="73" column="43" />
         <mark key="[" line="224" column="83" />
         <mark key="]" line="224" column="83" />
         <mark key="." line="224" column="82" />
@@ -185,12 +185,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="65" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/app/Config/Repository.php" timestamp="1588004070423">
+      <file name="$USER_HOME$/code/akaunting/app/Config/Repository.php" timestamp="1588004819217">
         <mark key="'" line="14" column="61" />
-        <mark key="[" line="15" column="59" />
-        <mark key="]" line="15" column="60" />
-        <mark key="." line="15" column="59" />
-        <mark key="^" line="15" column="60" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Config/Repository.php" timestamp="1588002259206">
         <mark key="'" line="46" column="21" />
@@ -244,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="436" column="45" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="307" column="21" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="21" column="60" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
       <jump line="63" column="40" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
@@ -344,48 +343,49 @@
       <jump line="14" column="61" filename="$USER_HOME$/code/akaunting/app/Config/Repository.php" />
       <jump line="42" column="25" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/helpers.php" />
       <jump line="40" column="20" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
+      <jump line="73" column="43" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+      <register name="+" type="4">
+        <text>$value = setting($setting_key) !== null</text>
       </register>
       <register name="-" type="4">
-        <text>isset()</text>
+        <text>$value = setting($setting_key) !== null</text>
       </register>
       <register name="/" type="4">
-        <text>app_time</text>
+        <text>forgetAll</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBcQXJ0aXNhbjo6Y2FsbCgnY29uZmlnOmNsZWFyJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFycjo6c2V0KCRpdGVtcywgJGNvbmZpZ19rZXkgLCR2YWx1ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGl0ZW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZXh0cmFfY29sdW1ucyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGljOjoK</text>
+        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGl0ZW1zKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGljOjoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjphbGwoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhbGwoJGtleSwgJGRlZmF1bHQgPSBudWxsKQogICAgewogICAgICAgIHJldHVybiBwYXJlbnQ6OmdldCgka2V5LCAkZGVmYXVsdCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjphbGwoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKGNvbmZpZygnYXBwLnRpbWV6b25lJykpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhbGwoJGtleSwgJGRlZmF1bHQgPSBudWxsKQogICAgewogICAgICAgIHJldHVybiBwYXJlbnQ6OmdldCgka2V5LCAkZGVmYXVsdCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -394,9 +394,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>app_time</last-search>
+      <last-search>forgetAll</last-search>
       <last-offset />
-      <last-pattern>app_time</last-pattern>
+      <last-pattern>forgetAll</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
