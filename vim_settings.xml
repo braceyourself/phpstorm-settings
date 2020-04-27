@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>app_time</entry>
         <entry>check</entry>
         <entry>hasextra</entry>
         <entry>php</entry>
@@ -25,6 +24,7 @@
         <entry>connection</entry>
         <entry>:mem</entry>
         <entry>all(</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry>114</entry>
@@ -141,12 +141,12 @@
       <file name="$USER_HOME$/code/akaunting/config/app.php" timestamp="1588013793675">
         <mark key="'" line="66" column="39" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" timestamp="1588015933768">
-        <mark key="'" line="13" column="19" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="27" />
+      <file name="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" timestamp="1588017229427">
+        <mark key="'" line="26" column="27" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="27" />
       </file>
       <file name="$USER_HOME$/code/akaunting/config/database.php" timestamp="1588015317824">
         <mark key="'" line="17" column="25" />
@@ -160,8 +160,17 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" timestamp="1588016101588">
-        <mark key="'" line="114" column="26" />
+      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php" timestamp="1588016282940">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" timestamp="1588017175693">
+        <mark key="'" line="197" column="26" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="^" line="195" column="8" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Contracts/Config/Repository.php" timestamp="1588014218144">
         <mark key="'" line="46" column="20" />
@@ -179,11 +188,11 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/phpunit.xml" timestamp="1588016018090">
+      <file name="$USER_HOME$/code/akaunting/phpunit.xml" timestamp="1588016211417">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="25" column="38" />
-        <mark key="." line="25" column="37" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="25" column="38" />
       </file>
       <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php" timestamp="1588013931265">
@@ -196,7 +205,7 @@
       <file name="/Dummy.txt" timestamp="1588011728816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/.env" timestamp="1588016092605">
+      <file name="$USER_HOME$/code/akaunting/.env" timestamp="1588016141384">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="27" />
@@ -216,8 +225,8 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/helpers.php" timestamp="1588014255323">
-        <mark key="'" line="42" column="26" />
+      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/helpers.php" timestamp="1588017115201">
+        <mark key="'" line="42" column="25" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -229,29 +238,15 @@
         <mark key="^" line="32" column="23" />
         <mark key="." line="32" column="22" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/config/setting.php" timestamp="1588015147909">
-        <mark key="'" line="32" column="14" />
-        <mark key="[" line="52" column="63" />
-        <mark key="]" line="52" column="69" />
-        <mark key="." line="52" column="68" />
-        <mark key="^" line="52" column="69" />
-      </file>
-      <file name="$USER_HOME$/code/akaunting-setting/tests/unit/DatabaseDriverTest.php" timestamp="1588011711742">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="35" />
-        <mark key="^" line="6" column="35" />
-        <mark key="." line="6" column="34" />
+      <file name="$USER_HOME$/code/akaunting/config/setting.php" timestamp="1588017220406">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="27" column="59" />
+        <mark key="]" line="27" column="64" />
+        <mark key="." line="27" column="63" />
+        <mark key="^" line="27" column="64" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="53" filename="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" />
-      <jump line="11" column="10" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" />
-      <jump line="23" column="48" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" />
-      <jump line="24" column="15" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" />
-      <jump line="25" column="46" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" />
-      <jump line="26" column="49" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" />
-      <jump line="32" column="75" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" />
       <jump line="183" column="10" filename="$USER_HOME$/code/akaunting/app/Http/Kernel.php" />
       <jump line="309" column="47" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php" />
       <jump line="354" column="33" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php" />
@@ -327,7 +322,6 @@
       <jump line="46" column="20" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Contracts/Config/Repository.php" />
       <jump line="21" column="0" filename="$USER_HOME$/code/akaunting/app/Config/Repository.php" />
       <jump line="15" column="26" filename="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" />
-      <jump line="42" column="26" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/helpers.php" />
       <jump line="6" column="24" filename="$USER_HOME$/code/akaunting/.env" />
       <jump line="9" column="0" filename="$USER_HOME$/code/akaunting/.env" />
       <jump line="3" column="0" filename="$USER_HOME$/code/akaunting/config/database.php" />
@@ -339,54 +333,62 @@
       <jump line="17" column="17" filename="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" />
       <jump line="3" column="0" filename="$USER_HOME$/code/akaunting/phpunit.xml" />
       <jump line="9" column="11" filename="$USER_HOME$/code/akaunting/app/Config/Repository.php" />
-      <jump line="13" column="19" filename="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" />
       <jump line="15" column="22" filename="$USER_HOME$/code/akaunting/app/Config/Repository.php" />
       <jump line="80" column="5" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Drivers/Database.php" />
       <jump line="10" column="27" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Drivers/Database.php" />
       <jump line="7" column="15" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
       <jump line="114" column="26" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
+      <jump line="13" column="14" filename="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" />
+      <jump line="18" column="16" filename="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" />
+      <jump line="26" column="27" filename="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" />
+      <jump line="42" column="25" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/helpers.php" />
+      <jump line="44" column="17" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
+      <jump line="184" column="29" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
+      <jump line="46" column="4" filename="$USER_HOME$/code/akaunting/config/setting.php" />
+      <jump line="16" column="6" filename="$USER_HOME$/code/akaunting/config/setting.php" />
+      <jump line="197" column="26" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VydmVyIG5hbWU9IkRCX0NPTk5FQ1RJT04iIHZhbHVlPSJzcWxpdGUiLz4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2V0dGluZ192YWx1ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:memory:</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>all(</text>
+        <text>cache</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8c2VydmVyIG5hbWU9IkRCX0NPTk5FQ1RJT04iIHZhbHVlPSJzcWxpdGUiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChjb25maWcoJ2RhdGFiYXNlJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2V0dGluZ192YWx1ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2VlZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoX19GVU5DVElPTl9fKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VydmVyIG5hbWU9IkRCX0NPTk5FQ1RJT04iIHZhbHVlPSJzcWxpdGUiLz4K</text>
+        <text encoding="base64">ICAgICAgICBkZChfX0ZVTkNUSU9OX18pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZChTZXR0aW5nOjphbGwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChTZXR0aW5nKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZChTZXR0aW5nOjphbGwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgndGVzdCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZChjb25maWcoJ3NldHRpbmcnKSwgY29uZmlnKCdkYXRhYmFzZScpKTsK</text>
+        <text encoding="base64">PCEtLSAgICAgICAgPHNlcnZlciBuYW1lPSJEQl9QUkVGSVgiIHZhbHVlPSJha18iLz4tLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKGNvbmZpZygnc2V0dGluZycpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZChjb25maWcoJ2RhdGFiYXNlJykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZChjb25maWcoJ3NldHRpbmcuZGF0YWJhc2UuY29ubmVjdGlvbicpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c2VlZCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -395,9 +397,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>all(</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>all(</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
