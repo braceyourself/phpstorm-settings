@@ -131,6 +131,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php" timestamp="1587998776131">
+        <mark key="'" line="221" column="23" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+      </file>
       <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" timestamp="1587996611730">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="21" column="0" />
@@ -154,22 +160,16 @@
         <mark key="^" line="55" column="72" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Manager.php" timestamp="1587997056509">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Manager.php" timestamp="1587999022959">
+        <mark key="[" line="40" column="68" />
+        <mark key="]" line="40" column="68" />
+        <mark key="." line="40" column="68" />
+        <mark key="^" line="40" column="55" />
       </file>
       <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php" timestamp="1587996091315">
         <mark key="'" line="391" column="23" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="42" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" timestamp="1587992012734">
-        <mark key="'" line="40" column="22" />
-        <mark key="[" line="224" column="83" />
-        <mark key="]" line="224" column="83" />
-        <mark key="." line="224" column="82" />
-        <mark key="^" line="224" column="83" />
       </file>
       <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Provider.php" timestamp="1587992172157">
         <mark key="[" line="63" column="0" />
@@ -212,16 +212,17 @@
       <file name="/Dummy.txt" timestamp="1587996118375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" timestamp="1587997442595">
+      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" timestamp="1587998624040">
         <mark key="'" line="222" column="31" />
-        <mark key="[" line="849" column="0" />
-        <mark key="]" line="849" column="0" />
-        <mark key="." line="849" column="0" />
+        <mark key="[" line="780" column="0" />
+        <mark key="]" line="780" column="0" />
+        <mark key="." line="780" column="0" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Drivers/Database.php" timestamp="1587991203366">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
+      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Support/Manager.php" timestamp="1587998888383">
+        <mark key="'" line="31" column="16" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/helpers.php" timestamp="1587992019850">
         <mark key="'" line="42" column="26" />
@@ -251,8 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="24" filename="$USER_HOME$/code/akaunting/app/Console/Kernel.php" />
-      <jump line="18" column="17" filename="$USER_HOME$/code/akaunting/config/app.php" />
       <jump line="240" column="0" filename="$USER_HOME$/code/akaunting/config/app.php" />
       <jump line="310" column="7" filename="$USER_HOME$/code/akaunting/app/Utilities/Installer.php" />
       <jump line="13" column="0" filename="$USER_HOME$/code/freescout/config/app.php" />
@@ -351,15 +350,17 @@
       <jump line="32" column="14" filename="$USER_HOME$/code/akaunting/config/setting.php" />
       <jump line="41" column="60" filename="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" />
       <jump line="11" column="54" filename="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" />
+      <jump line="221" column="23" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php" />
+      <jump line="31" column="16" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Support/Manager.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYXBwLT5tYWtlKCdjb25maWcnKSk7Cg==</text>
+      <register name="+" type="4">
+        <text encoding="base64">LT5jb3VudCgp</text>
       </register>
       <register name="-" type="4">
-        <text>$p</text>
+        <text encoding="base64">LT5jb3VudCgp</text>
       </register>
       <register name="/" type="4">
         <text>driver</text>
@@ -368,31 +369,31 @@
         <text encoding="base64">ICAgICAgICAkaXRlbXMgPSBbXTsKCiAgICAgICAgLy8gRmlyc3Qgd2Ugd2lsbCBzZWUgaWYgd2UgaGF2ZSBhIGNhY2hlIGNvbmZpZ3VyYXRpb24gZmlsZS4gSWYgd2UgZG8sIHdlJ2xsIGxvYWQKICAgICAgICAvLyB0aGUgY29uZmlndXJhdGlvbiBpdGVtcyBmcm9tIHRoYXQgZmlsZSBzbyB0aGF0IGl0IGlzIHZlcnkgcXVpY2suIE90aGVyd2lzZQogICAgICAgIC8vIHdlIHdpbGwgbmVlZCB0byBzcGluIHRocm91Z2ggZXZlcnkgY29uZmlndXJhdGlvbiBmaWxlIGFuZCBsb2FkIHRoZW0gYWxsLgogICAgICAgIGlmIChmaWxlX2V4aXN0cygkY2FjaGVkID0gJGFwcC0+Z2V0Q2FjaGVkQ29uZmlnUGF0aCgpKSkgewogICAgICAgICAgICAkaXRlbXMgPSByZXF1aXJlICRjYWNoZWQ7CgogICAgICAgICAgICAkbG9hZGVkRnJvbUNhY2hlID0gdHJ1ZTsKICAgICAgICB9CgogICAgICAgIC8vIE5leHQgd2Ugd2lsbCBzcGluIHRocm91Z2ggYWxsIG9mIHRoZSBjb25maWd1cmF0aW9uIGZpbGVzIGluIHRoZSBjb25maWd1cmF0aW9uCiAgICAgICAgLy8gZGlyZWN0b3J5IGFuZCBsb2FkIGVhY2ggb25lIGludG8gdGhlIHJlcG9zaXRvcnkuIFRoaXMgd2lsbCBtYWtlIGFsbCBvZiB0aGUKICAgICAgICAvLyBvcHRpb25zIGF2YWlsYWJsZSB0byB0aGUgZGV2ZWxvcGVyIGZvciB1c2UgaW4gdmFyaW91cyBwYXJ0cyBvZiB0aGlzIGFwcC4KICAgICAgICAkYXBwLT5pbnN0YW5jZSgnY29uZmlnJywgJGNvbmZpZyA9IG5ldyBSZXBvc2l0b3J5KCRpdGVtcykpOwoKICAgICAgICBpZiAoISBpc3NldCgkbG9hZGVkRnJvbUNhY2hlKSkgewogICAgICAgICAgICAkdGhpcy0+bG9hZENvbmZpZ3VyYXRpb25GaWxlcygkYXBwLCAkY29uZmlnKTsKICAgICAgICB9CgogICAgICAgIC8vIEZpbmFsbHksIHdlIHdpbGwgc2V0IHRoZSBhcHBsaWNhdGlvbidzIGVudmlyb25tZW50IGJhc2VkIG9uIHRoZSBjb25maWd1cmF0aW9uCiAgICAgICAgLy8gdmFsdWVzIHRoYXQgd2VyZSBsb2FkZWQuIFdlIHdpbGwgcGFzcyBhIGNhbGxiYWNrIHdoaWNoIHdpbGwgYmUgdXNlZCB0byBnZXQKICAgICAgICAvLyB0aGUgZW52aXJvbm1lbnQgaW4gYSB3ZWIgY29udGV4dCB3aGVyZSBhbiAiLS1lbnYiIHN3aXRjaCBpcyBub3QgcHJlc2VudC4KICAgICAgICAkYXBwLT5kZXRlY3RFbnZpcm9ubWVudChmdW5jdGlvbiAoKSB1c2UgKCRjb25maWcpIHsKICAgICAgICAgICAgcmV0dXJuICRjb25maWctPmdldCgnYXBwLmVudicsICdwcm9kdWN0aW9uJyk7CiAgICAgICAgfSk7CgogICAgICAgIGRhdGVfZGVmYXVsdF90aW1lem9uZV9zZXQoJGNvbmZpZy0+Z2V0KCdhcHAudGltZXpvbmUnLCAnVVRDJykpOwoKICAgICAgICBtYl9pbnRlcm5hbF9lbmNvZGluZygnVVRGLTgnKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYXBwLT5tYWtlKCdjb25maWcnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29uZmlnID0gJGFwcC0+bWFrZSgnY29uZmlnJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYXBwLT5tYWtlKCdjb25maWcnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5jb25maWcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcChnZXRfY2xhc3MoJHApKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YXBwLT5tYWtlKCdjb25maWcnKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29uZmlnLT5nZXQoJ3Nlc3Npb24nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5jb25maWcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29uZmlnLT5nZXQoJ3Nlc3Npb24nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKHN0YXRpYzo6Y2xhc3MuJyAnLiAkZHJpdmVyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCcnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRhYnN0cmFjdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29uZmlnLT5nZXQoJ3Nlc3Npb24nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXBwLT5tYWtlKCdjb25maWcnKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXBwLT5tYWtlKCdjb25maWcnKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChhcnJheSAkaXRlbXMgPSBbXSkKICAgIHsKICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRpdGVtcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcChnZXRfY2xhc3MoJHApKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
