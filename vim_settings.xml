@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>dispatch</entry>
         <entry>getResponse</entry>
         <entry>getresponse</entry>
         <entry>call(</entry>
@@ -25,6 +24,7 @@
         <entry>bootstrap</entry>
         <entry>bootstrap(</entry>
         <entry>config</entry>
+        <entry>driver</entry>
       </history-search>
       <history-cmd>
         <entry>114</entry>
@@ -131,23 +131,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" timestamp="1587996503457">
+      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" timestamp="1587996611730">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="14" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="50" column="37" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" timestamp="1587993672589">
-        <mark key="'" line="13" column="30" />
+      <file name="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" timestamp="1587996677401">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" timestamp="1587996531991">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="23" column="24" />
-        <mark key="^" line="23" column="24" />
-        <mark key="." line="23" column="23" />
+      <file name="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" timestamp="1587998047664">
+        <mark key="'" line="11" column="54" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/code/akaunting/app/Providers/App.php" timestamp="1587995417953">
         <mark key="'" line="26" column="17" />
@@ -155,6 +153,11 @@
         <mark key="]" line="51" column="0" />
         <mark key="^" line="55" column="72" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Manager.php" timestamp="1587997056509">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php" timestamp="1587996091315">
         <mark key="'" line="391" column="23" />
@@ -168,22 +171,17 @@
         <mark key="." line="224" column="82" />
         <mark key="^" line="224" column="83" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/composer.json" timestamp="1587990848864">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Provider.php" timestamp="1587992172157">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/app/Config/Repository.php" timestamp="1587995439467">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
-        <mark key="^" line="5" column="48" />
+      <file name="$USER_HOME$/code/akaunting/app/Config/Repository.php" timestamp="1587996870754">
+        <mark key="'" line="3" column="52" />
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="53" />
+        <mark key="^" line="3" column="54" />
       </file>
       <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Config/Repository.php" timestamp="1587995272390">
         <mark key="'" line="8" column="7" />
@@ -214,8 +212,11 @@
       <file name="/Dummy.txt" timestamp="1587996118375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" timestamp="1587995809311">
+      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Application.php" timestamp="1587997442595">
         <mark key="'" line="222" column="31" />
+        <mark key="[" line="849" column="0" />
+        <mark key="]" line="849" column="0" />
+        <mark key="." line="849" column="0" />
       </file>
       <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Drivers/Database.php" timestamp="1587991203366">
         <mark key="[" line="240" column="0" />
@@ -236,7 +237,8 @@
         <mark key="^" line="309" column="62" />
         <mark key="." line="309" column="61" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/config/setting.php" timestamp="1587990984344">
+      <file name="$USER_HOME$/code/akaunting/config/setting.php" timestamp="1587997067512">
+        <mark key="'" line="32" column="14" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
@@ -249,11 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="13" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="40" column="14" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" />
-      <jump line="41" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/api-frc-org/config/app.php" />
-      <jump line="37" column="5" filename="$USER_HOME$/code/api-frc-org/config/app.php" />
       <jump line="25" column="24" filename="$USER_HOME$/code/akaunting/app/Console/Kernel.php" />
       <jump line="18" column="17" filename="$USER_HOME$/code/akaunting/config/app.php" />
       <jump line="240" column="0" filename="$USER_HOME$/code/akaunting/config/app.php" />
@@ -312,7 +309,6 @@
       <jump line="40" column="22" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
       <jump line="13" column="30" filename="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" />
       <jump line="42" column="26" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/helpers.php" />
-      <jump line="3" column="52" filename="$USER_HOME$/code/akaunting/app/Config/Repository.php" />
       <jump line="27" column="29" filename="$USER_HOME$/code/akaunting/app/Providers/App.php" />
       <jump line="7" column="17" filename="$USER_HOME$/code/akaunting/app/Config/Repository.php" />
       <jump line="384" column="28" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Container/Container.php" />
@@ -340,7 +336,6 @@
       <jump line="26" column="49" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" />
       <jump line="32" column="75" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" />
       <jump line="183" column="10" filename="$USER_HOME$/code/akaunting/app/Http/Kernel.php" />
-      <jump line="11" column="24" filename="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" />
       <jump line="309" column="47" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php" />
       <jump line="354" column="33" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php" />
       <jump line="52" column="10" filename="$USER_HOME$/code/akaunting/app/Console/Kernel.php" />
@@ -349,48 +344,55 @@
       <jump line="12" column="18" filename="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" />
       <jump line="64" column="0" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" />
       <jump line="19" column="0" filename="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" />
+      <jump line="27" column="25" filename="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" />
+      <jump line="43" column="0" filename="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" />
+      <jump line="3" column="52" filename="$USER_HOME$/code/akaunting/app/Config/Repository.php" />
+      <jump line="83" column="0" filename="$USER_HOME$/code/akaunting/config/setting.php" />
+      <jump line="32" column="14" filename="$USER_HOME$/code/akaunting/config/setting.php" />
+      <jump line="41" column="60" filename="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" />
+      <jump line="11" column="54" filename="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">dXNlIEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXBwLT5tYWtlKCdjb25maWcnKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5hbGwoKQ==</text>
+        <text>$p</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>driver</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dXNlIEV4Y2VwdGlvbjsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAkaXRlbXMgPSBbXTsKCiAgICAgICAgLy8gRmlyc3Qgd2Ugd2lsbCBzZWUgaWYgd2UgaGF2ZSBhIGNhY2hlIGNvbmZpZ3VyYXRpb24gZmlsZS4gSWYgd2UgZG8sIHdlJ2xsIGxvYWQKICAgICAgICAvLyB0aGUgY29uZmlndXJhdGlvbiBpdGVtcyBmcm9tIHRoYXQgZmlsZSBzbyB0aGF0IGl0IGlzIHZlcnkgcXVpY2suIE90aGVyd2lzZQogICAgICAgIC8vIHdlIHdpbGwgbmVlZCB0byBzcGluIHRocm91Z2ggZXZlcnkgY29uZmlndXJhdGlvbiBmaWxlIGFuZCBsb2FkIHRoZW0gYWxsLgogICAgICAgIGlmIChmaWxlX2V4aXN0cygkY2FjaGVkID0gJGFwcC0+Z2V0Q2FjaGVkQ29uZmlnUGF0aCgpKSkgewogICAgICAgICAgICAkaXRlbXMgPSByZXF1aXJlICRjYWNoZWQ7CgogICAgICAgICAgICAkbG9hZGVkRnJvbUNhY2hlID0gdHJ1ZTsKICAgICAgICB9CgogICAgICAgIC8vIE5leHQgd2Ugd2lsbCBzcGluIHRocm91Z2ggYWxsIG9mIHRoZSBjb25maWd1cmF0aW9uIGZpbGVzIGluIHRoZSBjb25maWd1cmF0aW9uCiAgICAgICAgLy8gZGlyZWN0b3J5IGFuZCBsb2FkIGVhY2ggb25lIGludG8gdGhlIHJlcG9zaXRvcnkuIFRoaXMgd2lsbCBtYWtlIGFsbCBvZiB0aGUKICAgICAgICAvLyBvcHRpb25zIGF2YWlsYWJsZSB0byB0aGUgZGV2ZWxvcGVyIGZvciB1c2UgaW4gdmFyaW91cyBwYXJ0cyBvZiB0aGlzIGFwcC4KICAgICAgICAkYXBwLT5pbnN0YW5jZSgnY29uZmlnJywgJGNvbmZpZyA9IG5ldyBSZXBvc2l0b3J5KCRpdGVtcykpOwoKICAgICAgICBpZiAoISBpc3NldCgkbG9hZGVkRnJvbUNhY2hlKSkgewogICAgICAgICAgICAkdGhpcy0+bG9hZENvbmZpZ3VyYXRpb25GaWxlcygkYXBwLCAkY29uZmlnKTsKICAgICAgICB9CgogICAgICAgIC8vIEZpbmFsbHksIHdlIHdpbGwgc2V0IHRoZSBhcHBsaWNhdGlvbidzIGVudmlyb25tZW50IGJhc2VkIG9uIHRoZSBjb25maWd1cmF0aW9uCiAgICAgICAgLy8gdmFsdWVzIHRoYXQgd2VyZSBsb2FkZWQuIFdlIHdpbGwgcGFzcyBhIGNhbGxiYWNrIHdoaWNoIHdpbGwgYmUgdXNlZCB0byBnZXQKICAgICAgICAvLyB0aGUgZW52aXJvbm1lbnQgaW4gYSB3ZWIgY29udGV4dCB3aGVyZSBhbiAiLS1lbnYiIHN3aXRjaCBpcyBub3QgcHJlc2VudC4KICAgICAgICAkYXBwLT5kZXRlY3RFbnZpcm9ubWVudChmdW5jdGlvbiAoKSB1c2UgKCRjb25maWcpIHsKICAgICAgICAgICAgcmV0dXJuICRjb25maWctPmdldCgnYXBwLmVudicsICdwcm9kdWN0aW9uJyk7CiAgICAgICAgfSk7CgogICAgICAgIGRhdGVfZGVmYXVsdF90aW1lem9uZV9zZXQoJGNvbmZpZy0+Z2V0KCdhcHAudGltZXpvbmUnLCAnVVRDJykpOwoKICAgICAgICBtYl9pbnRlcm5hbF9lbmNvZGluZygnVVRGLTgnKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OmxvYWRDb25maWd1cmF0aW9uRmlsZXMoJGFwcCwgJHJlcG9zaXRvcnkpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXBwLT5tYWtlKCdjb25maWcnKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXBwLT5tYWtlKCdjb25maWcnKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBib290c3RyYXAoQXBwbGljYXRpb24gJGFwcCkKICAgIHsKICAgICAgICAkaXRlbXMgPSBbXTsKCiAgICAgICAgLy8gRmlyc3Qgd2Ugd2lsbCBzZWUgaWYgd2UgaGF2ZSBhIGNhY2hlIGNvbmZpZ3VyYXRpb24gZmlsZS4gSWYgd2UgZG8sIHdlJ2xsIGxvYWQKICAgICAgICAvLyB0aGUgY29uZmlndXJhdGlvbiBpdGVtcyBmcm9tIHRoYXQgZmlsZSBzbyB0aGF0IGl0IGlzIHZlcnkgcXVpY2suIE90aGVyd2lzZQogICAgICAgIC8vIHdlIHdpbGwgbmVlZCB0byBzcGluIHRocm91Z2ggZXZlcnkgY29uZmlndXJhdGlvbiBmaWxlIGFuZCBsb2FkIHRoZW0gYWxsLgogICAgICAgIGlmIChmaWxlX2V4aXN0cygkY2FjaGVkID0gJGFwcC0+Z2V0Q2FjaGVkQ29uZmlnUGF0aCgpKSkgewogICAgICAgICAgICAkaXRlbXMgPSByZXF1aXJlICRjYWNoZWQ7CgogICAgICAgICAgICAkbG9hZGVkRnJvbUNhY2hlID0gdHJ1ZTsKICAgICAgICB9CgogICAgICAgIC8vIE5leHQgd2Ugd2lsbCBzcGluIHRocm91Z2ggYWxsIG9mIHRoZSBjb25maWd1cmF0aW9uIGZpbGVzIGluIHRoZSBjb25maWd1cmF0aW9uCiAgICAgICAgLy8gZGlyZWN0b3J5IGFuZCBsb2FkIGVhY2ggb25lIGludG8gdGhlIHJlcG9zaXRvcnkuIFRoaXMgd2lsbCBtYWtlIGFsbCBvZiB0aGUKICAgICAgICAvLyBvcHRpb25zIGF2YWlsYWJsZSB0byB0aGUgZGV2ZWxvcGVyIGZvciB1c2UgaW4gdmFyaW91cyBwYXJ0cyBvZiB0aGlzIGFwcC4KICAgICAgICAkYXBwLT5pbnN0YW5jZSgnY29uZmlnJywgJGNvbmZpZyA9IG5ldyBSZXBvc2l0b3J5KCRpdGVtcykpOwoKICAgICAgICBpZiAoISBpc3NldCgkbG9hZGVkRnJvbUNhY2hlKSkgewogICAgICAgICAgICAkdGhpcy0+bG9hZENvbmZpZ3VyYXRpb25GaWxlcygkYXBwLCAkY29uZmlnKTsKICAgICAgICB9CgogICAgICAgIC8vIEZpbmFsbHksIHdlIHdpbGwgc2V0IHRoZSBhcHBsaWNhdGlvbidzIGVudmlyb25tZW50IGJhc2VkIG9uIHRoZSBjb25maWd1cmF0aW9uCiAgICAgICAgLy8gdmFsdWVzIHRoYXQgd2VyZSBsb2FkZWQuIFdlIHdpbGwgcGFzcyBhIGNhbGxiYWNrIHdoaWNoIHdpbGwgYmUgdXNlZCB0byBnZXQKICAgICAgICAvLyB0aGUgZW52aXJvbm1lbnQgaW4gYSB3ZWIgY29udGV4dCB3aGVyZSBhbiAiLS1lbnYiIHN3aXRjaCBpcyBub3QgcHJlc2VudC4KICAgICAgICAkYXBwLT5kZXRlY3RFbnZpcm9ubWVudChmdW5jdGlvbiAoKSB1c2UgKCRjb25maWcpIHsKICAgICAgICAgICAgcmV0dXJuICRjb25maWctPmdldCgnYXBwLmVudicsICdwcm9kdWN0aW9uJyk7CiAgICAgICAgfSk7CgogICAgICAgIGRhdGVfZGVmYXVsdF90aW1lem9uZV9zZXQoJGNvbmZpZy0+Z2V0KCdhcHAudGltZXpvbmUnLCAnVVRDJykpOwoKICAgICAgICBtYl9pbnRlcm5hbF9lbmNvZGluZygnVVRGLTgnKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcChnZXRfY2xhc3MoJHApKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29uZmlnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29uZmlnLT5nZXQoJ3Nlc3Npb24nKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29uZmlnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29uZmlnLT5nZXQoJ3Nlc3Npb24nKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9Mb2FkQ3VzdG9tQ29uZmlndXJhdGlvbjo6Y2xhc3MsCg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCcnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBcSWxsdW1pbmF0ZVxGb3VuZGF0aW9uXEJvb3RzdHJhcFxMb2FkQ29uZmlndXJhdGlvbjo6Y2xhc3MsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29uZmlnLT5nZXQoJ3Nlc3Npb24nKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBib290c3RyYXAoKQogICAgewogICAgICAgIHBhcmVudDo6Ym9vdHN0cmFwKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29uZmlnKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChhcnJheSAkaXRlbXMgPSBbXSkKICAgIHsKICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRpdGVtcyk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -399,9 +401,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>config</last-search>
+      <last-search>driver</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>driver</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
