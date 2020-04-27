@@ -5,10 +5,7 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>localisa</entry>
-        <entry>setting</entry>
         <entry>get(</entry>
-        <entry>dd(</entry>
         <entry>bootstrap</entry>
         <entry>bootstrap(</entry>
         <entry>config</entry>
@@ -25,6 +22,9 @@
         <entry>test</entry>
         <entry>autoload</entry>
         <entry>all(</entry>
+        <entry>dd(</entry>
+        <entry>dd\(</entry>
+        <entry>dd</entry>
       </history-search>
       <history-cmd>
         <entry>114</entry>
@@ -148,12 +148,11 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/code/akaunting-setting/tests/unit/HelperTest.php" timestamp="1588011721330" />
-      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" timestamp="1588009554023">
-        <mark key="'" line="40" column="21" />
-        <mark key="[" line="221" column="79" />
-        <mark key="]" line="221" column="80" />
-        <mark key="." line="221" column="79" />
-        <mark key="^" line="221" column="80" />
+      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" timestamp="1588012341229">
+        <mark key="'" line="40" column="22" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
       </file>
       <file name="$USER_HOME$/code/akaunting/composer.json" timestamp="1588011476037">
         <mark key="'" line="65" column="9" />
@@ -167,12 +166,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/app/Config/Repository.php" timestamp="1588009476170">
-        <mark key="'" line="13" column="25" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="12" column="32" />
+      <file name="$USER_HOME$/code/akaunting/app/Config/Repository.php" timestamp="1588012273946">
+        <mark key="'" line="13" column="26" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/code/akaunting-setting/tests/functional/MemoryTest.php" timestamp="1588011621071">
         <mark key="[" line="0" column="21" />
@@ -207,7 +205,7 @@
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/helpers.php" timestamp="1588009481642">
+      <file name="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/helpers.php" timestamp="1588012277295">
         <mark key="'" line="42" column="26" />
         <mark key="[" line="40" column="9" />
         <mark key="]" line="40" column="8" />
@@ -324,9 +322,6 @@
       <jump line="73" column="43" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
       <jump line="225" column="64" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
       <jump line="18" column="24" filename="$USER_HOME$/code/akaunting/app/Config/Repository.php" />
-      <jump line="13" column="25" filename="$USER_HOME$/code/akaunting/app/Config/Repository.php" />
-      <jump line="42" column="26" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/helpers.php" />
-      <jump line="40" column="21" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
       <jump line="2" column="0" filename="$USER_HOME$/code/akaunting-setting/src/Contracts/Driver.php" />
       <jump line="40" column="22" filename="$USER_HOME$/code/akaunting-setting/src/Contracts/Driver.php" />
       <jump line="273" column="25" filename="$USER_HOME$/code/akaunting-setting/src/Contracts/Driver.php" />
@@ -350,48 +345,51 @@
       <jump line="28" column="15" filename="$USER_HOME$/code/akaunting-setting/tests/functional/AbstractFunctionalTest.php" />
       <jump line="27" column="25" filename="$USER_HOME$/code/akaunting-setting/tests/functional/AbstractFunctionalTest.php" />
       <jump line="6" column="41" filename="$USER_HOME$/code/akaunting-setting/tests/functional/AbstractFunctionalTest.php" />
+      <jump line="13" column="26" filename="$USER_HOME$/code/akaunting/app/Config/Repository.php" />
+      <jump line="42" column="26" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/helpers.php" />
+      <jump line="40" column="22" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3RvcmUtPmFsbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWlyZWRfZXh0cmFfY29sdW1ucywgJHRoaXMtPmdldEV4dHJhQ29sdW1ucygpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHN0b3JlLT5hbGwoKQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>all(</text>
+        <text>dd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJhdXRvbG9hZC1kZXYiOiB7CiAgICAgICAgInBzci00IjogewogICAgICAgICAgICAiVGVzdHNcXCI6ICJ0ZXN0cy8iCiAgICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3RvcmUtPmFsbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWlyZWRfZXh0cmFfY29sdW1ucywgJHRoaXMtPmdldEV4dHJhQ29sdW1ucygpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+aXRlbXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9QSFBVbml0X0ZyYW1ld29ya19UZXN0Q2FzZQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCghJHJlcXVpcmVkX2V4dHJhX2NvbHVtbnMgPSBjb25maWcoJ3NldHRpbmcucmVxdWlyZWRfZXh0cmFfY29sdW1ucycpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAibGFyYXZlbC9mcmFtZXdvcmsiOiAiPj01LjMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR2YWx1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gaGFzRXh0cmFDb2x1bW5zKCkKICAgIHsKICAgICAgICAkdGhpcy0+Z2V0RXh0cmFDb2x1bW5zKCk7CiAgICAgICAgJGV4dHJhID0gXElsbHVtaW5hdGVcU3VwcG9ydFxBcnI6OndyYXAoY29uZmlnKCdzZXR0aW5nLnJlcXVpcmVkX2V4dHJhX2NvbHVtbnMnKSk7CgogICAgICAgIHJldHVybiBpc3NldCgkZXh0cmEpICYmICFlbXB0eSgkZXh0cmEpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPml0ZW1zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoIiRjb25maWdfa2V5ID0+ICRzZXR0aW5nX2tleSIsICR2YWx1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3RvcmUtPmFsbCgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -400,9 +398,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>all(</last-search>
+      <last-search>dd</last-search>
       <last-offset />
-      <last-pattern>all(</last-pattern>
+      <last-pattern>dd</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
