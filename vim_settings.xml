@@ -137,6 +137,13 @@
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
+      <file name="$USER_HOME$/code/akaunting/app/Utilities/Overrider.php" timestamp="1588001691803">
+        <mark key="'" line="33" column="9" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="83" column="34" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php" timestamp="1587996611730">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="21" column="0" />
@@ -168,20 +175,15 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="44" column="33" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php" timestamp="1587996091315">
-        <mark key="'" line="391" column="23" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="42" column="6" />
-      </file>
       <file name="/settings [database.sqlite]" timestamp="1588000713163">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/app/Config/Repository.php" timestamp="1588001016229">
-        <mark key="'" line="15" column="8" />
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="30" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="13" column="30" />
+      <file name="$USER_HOME$/code/akaunting/app/Config/Repository.php" timestamp="1588001821969">
+        <mark key="'" line="2" column="25" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/code/akaunting/app/Http/Kernel.php" timestamp="1587999924652">
         <mark key="'" line="181" column="21" />
@@ -238,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="22" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="38" column="19" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="186" column="22" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="9" column="26" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/ApiResponse.php" />
@@ -338,48 +339,49 @@
       <jump line="23" column="66" filename="$USER_HOME$/code/akaunting/app/Config/LoadCustomConfiguration.php" />
       <jump line="13" column="26" filename="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" />
       <jump line="16" column="8" filename="$USER_HOME$/code/akaunting/app/Config/Repository.php" />
+      <jump line="2" column="25" filename="$USER_HOME$/code/akaunting/app/Config/Repository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRrZXkgPSAkc2V0dGluZ19rZXk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>setting($setting_key)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>driver</text>
       </register>
       <register name="0" type="4">
-        <text>is_string($config_key)</text>
+        <text>setting('localisation.timezone', 'UTC')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRrZXkgPSAkc2V0dGluZ19rZXk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKGFwcCgpLT4pCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZChTZXR0aW5nOjphbGwoKS0+dG9BcnJheSgpKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+aXRlbXMK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBcQXJyOjpzZXQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXNjYwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcU2V0dGluZ1xTZXR0aW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZChTZXR0aW5nOjphbGwoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJGtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc2V0dGluZ192YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
