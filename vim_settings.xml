@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>newModelInstance</entry>
-        <entry>setModel</entry>
-        <entry>whereDate</entry>
-        <entry>importD</entry>
         <entry>import</entry>
         <entry>use</entry>
         <entry>init</entry>
@@ -25,6 +21,10 @@
         <entry>config:cache</entry>
         <entry>page</entry>
         <entry>allasy</entry>
+        <entry>loadSettings</entry>
+        <entry>app</entry>
+        <entry>set</entry>
+        <entry>localisa</entry>
       </history-search>
       <history-cmd>
         <entry>114</entry>
@@ -131,17 +131,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/akaunting/resources/views/partials/auth/head.blade.php" timestamp="1587895492303">
-        <mark key="[" line="30" column="37" />
-        <mark key="]" line="30" column="38" />
-        <mark key="." line="30" column="38" />
-        <mark key="^" line="30" column="32" />
+      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1587984189121">
+        <mark key="'" line="271" column="35" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/resources/views/partials/portal/head.blade.php" timestamp="1587895511643">
-        <mark key="[" line="32" column="37" />
-        <mark key="]" line="32" column="38" />
-        <mark key="." line="32" column="38" />
-        <mark key="^" line="32" column="32" />
+      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Config/Repository.php" timestamp="1587984194308">
+        <mark key="'" line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/akaunting/app/Utilities/Overrider.php" timestamp="1587986464736">
+        <mark key="'" line="33" column="9" />
+        <mark key="[" line="31" column="11" />
+        <mark key="]" line="31" column="25" />
+        <mark key="^" line="31" column="25" />
+        <mark key="." line="31" column="24" />
       </file>
       <file name="$USER_HOME$/code/freescout/app/Misc/Helper.php" timestamp="1587899658830">
         <mark key="[" line="997" column="50" />
@@ -149,24 +150,22 @@
         <mark key="." line="997" column="50" />
         <mark key="^" line="997" column="50" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/resources/views/partials/wizard/head.blade.php" timestamp="1587895528240">
-        <mark key="[" line="32" column="37" />
-        <mark key="]" line="32" column="38" />
-        <mark key="." line="32" column="38" />
-        <mark key="^" line="32" column="32" />
+      <file name="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" timestamp="1587984672859">
+        <mark key="'" line="16" column="20" />
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="14" column="65" />
+        <mark key="." line="14" column="64" />
+        <mark key="^" line="14" column="65" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/resources/views/partials/admin/head.blade.php" timestamp="1587895478192">
-        <mark key="[" line="35" column="37" />
-        <mark key="]" line="35" column="38" />
-        <mark key="." line="35" column="38" />
-        <mark key="^" line="35" column="32" />
+      <file name="/a.sql" timestamp="1587986609977">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" timestamp="1587900949746">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587901515408">
+      <file name="/Dummy.txt" timestamp="1587986609985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" timestamp="1587902234069">
@@ -183,6 +182,13 @@
         <mark key="." line="146" column="44" />
         <mark key="^" line="146" column="45" />
       </file>
+      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php" timestamp="1587984193080">
+        <mark key="'" line="12" column="35" />
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="12" column="37" />
+        <mark key="." line="12" column="36" />
+      </file>
       <file name="$USER_HOME$/code/freescout/app/Subscription.php" timestamp="1587899573654">
         <mark key="'" line="386" column="13" />
         <mark key="[" line="386" column="8" />
@@ -193,12 +199,8 @@
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/ApiResponse.php" timestamp="1587900722644">
         <mark key="'" line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/app/Utilities/Installer.php" timestamp="1587896738949">
-        <mark key="'" line="310" column="7" />
-        <mark key="[" line="311" column="37" />
-        <mark key="]" line="311" column="38" />
-        <mark key="." line="311" column="37" />
-        <mark key="^" line="311" column="38" />
+      <file name="$USER_HOME$/code/akaunting/bootstrap/cache/config.php" timestamp="1587984070712">
+        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" timestamp="1587903359987">
         <mark key="'" line="22" column="60" />
@@ -207,24 +209,16 @@
         <mark key="." line="30" column="31" />
         <mark key="^" line="30" column="32" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/app/Listeners/Update/V20/Version207.php" timestamp="1587897211612">
-        <mark key="[" line="28" column="53" />
-        <mark key="]" line="28" column="75" />
-        <mark key="." line="28" column="74" />
-        <mark key="^" line="28" column="75" />
+      <file name="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConfigCacheCommand.php" timestamp="1587984271416">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="65" />
       </file>
-      <file name="$USER_HOME$/code/akaunting/resources/views/partials/modules/head.blade.php" timestamp="1587895502714">
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="38" />
-        <mark key="." line="33" column="38" />
-        <mark key="^" line="33" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/freescout/config/app.php" timestamp="1587899351503">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="407" column="8" />
-        <mark key="]" line="407" column="8" />
-        <mark key="." line="407" column="7" />
-        <mark key="^" line="407" column="8" />
+      <file name="$USER_HOME$/code/akaunting/app/Console/Commands/ConfigCacheCommand.php" timestamp="1587984612671">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" timestamp="1587903279320">
         <mark key="'" line="321" column="30" />
@@ -232,12 +226,6 @@
         <mark key="]" line="326" column="15" />
         <mark key="." line="326" column="15" />
         <mark key="^" line="326" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/akaunting/resources/views/partials/signed/head.blade.php" timestamp="1587895520910">
-        <mark key="[" line="32" column="37" />
-        <mark key="]" line="32" column="38" />
-        <mark key="." line="32" column="38" />
-        <mark key="^" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ApiRequestJob.php" timestamp="1587903127075">
         <mark key="[" line="37" column="27" />
@@ -253,19 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="21" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="310" column="27" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="1090" column="23" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="401" column="19" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="22" column="14" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="526" column="27" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="1256" column="23" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="39" column="16" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="112" column="23" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="1088" column="22" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
-      <jump line="399" column="34" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="280" column="28" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="402" column="22" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="283" column="31" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="148" column="20" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="69" column="25" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" />
@@ -353,49 +328,61 @@
       <jump line="74" column="43" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="318" column="30" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="128" column="39" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/akaunting/app/Utilities/Overrider.php" />
+      <jump line="33" column="9" filename="$USER_HOME$/code/akaunting/app/Utilities/Overrider.php" />
+      <jump line="18" column="18" filename="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" />
+      <jump line="13" column="20" filename="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/code/akaunting/bootstrap/cache/config.php" />
+      <jump line="271" column="35" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
+      <jump line="12" column="35" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php" />
+      <jump line="8" column="6" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Config/Repository.php" />
+      <jump line="23" column="16" filename="$USER_HOME$/code/akaunting/app/Console/Commands/ConfigCacheCommand.php" />
+      <jump line="26" column="25" filename="$USER_HOME$/code/akaunting/app/Console/Commands/ConfigCacheCommand.php" />
+      <jump line="83" column="0" filename="$USER_HOME$/code/akaunting/vendor/laravel/framework/src/Illuminate/Foundation/Console/ConfigCacheCommand.php" />
+      <jump line="30" column="21" filename="$USER_HOME$/code/akaunting/app/Console/Commands/ConfigCacheCommand.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/akaunting/app/Console/Commands/ConfigCacheCommand.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">dGhpcy0+</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy0+</text>
+        <text>configPath</text>
       </register>
       <register name="/" type="4">
-        <text>allasy</text>
+        <text>localisa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+cmVwb3NpdG9yeS0+cXVlcnkoJHF1ZXJ5KS0+Z2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPdmVycmlkZXI6OmxvYWQoJ3NldHRpbmcnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkbmV4dF91cmwgPSAkdGhpcy0+cmVzcG9uc2UtPmdldEpzb24oJHRoaXMtPm5leHRfdXJsX2tleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPdmVycmlkZXI6OmxvYWQoJ3NldHRpbmcnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRGcmVzaENvbmZpZ3VyYXRpb24oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR0aGlzLT5wYWdlcyk7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAkYXBwID0gcmVxdWlyZSAkdGhpcy0+bGFyYXZlbC0+Ym9vdHN0cmFwUGF0aCgpLicvYXBwLnBocCc7CgogICAgICAgICRhcHAtPnVzZVN0b3JhZ2VQYXRoKCR0aGlzLT5sYXJhdmVsLT5zdG9yYWdlUGF0aCgpKTsKCiAgICAgICAgJGFwcC0+bWFrZShDb25zb2xlS2VybmVsQ29udHJhY3Q6OmNsYXNzKS0+Ym9vdHN0cmFwKCk7CgogICAgICAgIE92ZXJyaWRlcjo6bG9hZCgnc2V0dGluZycpOwoKICAgICAgICByZXR1cm4gJGFwcFsnY29uZmlnJ10tPmFsbCgpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZChfX0ZVTkNUSU9OX18pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+cGFnZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpnZXRGcmVzaENvbmZpZ3VyYXRpb24oKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGFnZXMtPnB1c2goCiAgICAgICAgICAgICR0aGlzLT5yZXBvc2l0b3J5LT5oeWRyYXRlKGNvbGxlY3QoJHJlc3BvbnNlLT5kYXRhKCkpKQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>dispatch(function () use ($query, $api_builder) {
-                })</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZnJlc2gpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>997</text>
@@ -404,9 +391,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>allasy</last-search>
+      <last-search>localisa</last-search>
       <last-offset />
-      <last-pattern>allasy</last-pattern>
+      <last-pattern>localisa</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
