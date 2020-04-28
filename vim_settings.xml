@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>key</entry>
         <entry>getOff</entry>
         <entry>next</entry>
         <entry>page</entry>
@@ -25,6 +24,7 @@
         <entry>whereK</entry>
         <entry>job</entry>
         <entry>collect(</entry>
+        <entry encoding="base64">XDxncm91cGVkX3Jlc291cmNlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>114</entry>
@@ -44,9 +44,9 @@
         <entry>386</entry>
         <entry>997</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>redo</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -131,16 +131,61 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php" timestamp="1588075252289">
-        <mark key="'" line="31" column="35" />
-        <mark key="[" line="210" column="0" />
-        <mark key="]" line="210" column="45" />
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/tool.js" timestamp="1588095226377">
+        <mark key="'" line="6" column="47" />
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" timestamp="1588087903500">
-        <mark key="'" line="5" column="58" />
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="38" />
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/src/NovaCategorise.php" timestamp="1588094957760">
+        <mark key="'" line="19" column="38" />
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="42" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/views/nova-overrides/resources/navigation.blade.php" timestamp="1588095220997">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" timestamp="1588088001088">
+        <mark key="'" line="229" column="30" />
+        <mark key="[" line="150" column="30" />
+        <mark key="]" line="150" column="31" />
+        <mark key="." line="150" column="30" />
+        <mark key="^" line="150" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/nova/src/Nova.php" timestamp="1588094985653">
+        <mark key="'" line="249" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" timestamp="1588082706721">
+        <mark key="'" line="112" column="36" />
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1588082785040">
+        <mark key="[" line="1528" column="0" />
+        <mark key="]" line="1528" column="0" />
+        <mark key="." line="1528" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/tests/TestCase.php" timestamp="1588081514389">
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="65" column="46" />
+        <mark key="." line="65" column="45" />
+        <mark key="^" line="65" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/Quorum/MessageEvent.php" timestamp="1588082954105">
+        <mark key="'" line="4" column="43" />
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="4" column="45" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="45" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" timestamp="1588085372344">
         <mark key="'" line="71" column="62" />
@@ -152,20 +197,13 @@
       <file name="/" timestamp="1588077548984">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php" timestamp="1588075252289">
+        <mark key="'" line="31" column="35" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="45" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1588082452466">
         <mark key="'" line="1007" column="58" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ApiRequestJob.php" timestamp="1588086520214">
-        <mark key="'" line="40" column="28" />
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="25" />
-        <mark key="." line="40" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/TestCase.php" timestamp="1588081514389">
-        <mark key="[" line="65" column="42" />
-        <mark key="]" line="65" column="46" />
-        <mark key="." line="65" column="45" />
-        <mark key="^" line="65" column="46" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" timestamp="1588082760242">
         <mark key="'" line="50" column="23" />
@@ -181,44 +219,23 @@
         <mark key="." line="339" column="7" />
         <mark key="^" line="339" column="8" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" timestamp="1588088001088">
-        <mark key="'" line="229" column="30" />
-        <mark key="[" line="150" column="30" />
-        <mark key="]" line="150" column="31" />
-        <mark key="." line="150" column="30" />
-        <mark key="^" line="150" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" timestamp="1588082706721">
-        <mark key="'" line="112" column="36" />
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="8" column="38" />
-        <mark key="^" line="8" column="38" />
-        <mark key="." line="8" column="37" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1588082785040">
-        <mark key="[" line="1528" column="0" />
-        <mark key="]" line="1528" column="0" />
-        <mark key="." line="1528" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/Quorum/MessageEvent.php" timestamp="1588082954105">
-        <mark key="'" line="4" column="43" />
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="4" column="45" />
-        <mark key="." line="4" column="44" />
-        <mark key="^" line="4" column="45" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Support/Collection.php" timestamp="1588086812520">
         <mark key="'" line="157" column="20" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" timestamp="1588087903500">
+        <mark key="'" line="5" column="58" />
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ApiRequestJob.php" timestamp="1588086520214">
+        <mark key="'" line="40" column="28" />
+        <mark key="[" line="40" column="25" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="33" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="27" column="33" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="31" column="28" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="37" column="35" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="153" column="22" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="184" column="59" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="158" column="48" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="164" column="17" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="53" column="41" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
       <jump line="150" column="4" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
@@ -312,59 +329,66 @@
       <jump line="36" column="44" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" />
       <jump line="227" column="30" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="157" column="20" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Support/Collection.php" />
+      <jump line="19" column="38" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/src/NovaCategorise.php" />
+      <jump line="249" column="27" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/nova/src/Nova.php" />
+      <jump line="18" column="43" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/views/nova-overrides/resources/navigation.blade.php" />
+      <jump line="4" column="1" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/views/nova-overrides/resources/navigation.blade.php" />
+      <jump line="8" column="12" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/views/nova-overrides/resources/navigation.blade.php" />
+      <jump line="10" column="11" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/views/nova-overrides/resources/navigation.blade.php" />
+      <jump line="6" column="47" filename="$USER_HOME$/code/api-frc-org/nova-components/nova-categorise-resources/resources/js/tool.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJGl0ZW0tPmV4aXN0cykgewogICAgICAgICAgICAgICAgICAgICAgICBkdW1wKCJJdGVtICRpdGVtLT5pZCBhbHJlYWR5IHNhdmVkIik7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="+" type="4">
+        <text>\AlexBowers\NovaCategoriseResources\NovaCategorise::availableResourcesGrouped(request())</text>
       </register>
       <register name="-" type="4">
-        <text>::init()</text>
+        <text>\AlexBowers\NovaCategoriseResources\NovaCategorise::availableResourcesGrouped(request())</text>
       </register>
       <register name="/" type="4">
-        <text>collect(</text>
+        <text encoding="base64">XDxncm91cGVkX3Jlc291cmNlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0RmFrZVJlc3BvbnNlRGF0YSgnaHR0cHM6Ly93d3cucXVvcnVtLnVzL2FwaS9tZXNzYWdlZXZlbnQnLAogICAgICAgICAgICAnbWV0YS50b3RhbF9jb3VudCcsCiAgICAgICAgICAgIDIwCiAgICAgICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJGl0ZW0tPmV4aXN0cykgewogICAgICAgICAgICAgICAgICAgICAgICBkdW1wKCJJdGVtICRpdGVtLT5pZCBhbHJlYWR5IHNhdmVkIik7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IE5vdmFDYXRlZ29yaXNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJGl0ZW0tPmV4aXN0cykgewogICAgICAgICAgICAgICAgICAgICAgICBkdW1wKCJJdGVtICRpdGVtLT5pZCBhbHJlYWR5IHNhdmVkIik7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJG9iamVjdHMtPnRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCRpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaW5jcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoInNhdmluZyAiLiAkb2JqZWN0cy0+Y291bnQoKS4iIG9iamVjdHMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1bXAoJG9iamVjdHMtPnRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZChfX0ZVTkNUSU9OX18sICR0aGlzLT5yZXNwb25zZV9jYWxsYmFja3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkdW1wKCRpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>collect(</last-search>
+      <last-search encoding="base64">XDxncm91cGVkX3Jlc291cmNlc1w+</last-search>
       <last-offset />
-      <last-pattern>collect(</last-pattern>
+      <last-pattern encoding="base64">XDxncm91cGVkX3Jlc291cmNlc1w+</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
