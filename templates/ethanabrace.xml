@@ -43,7 +43,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="test" value="/** @test $test$ */&#10;public function $snake_name$(){&#10;    //Given&#10;    $END$&#10;    //When&#10;    &#10;    //Then&#10;}" description="phpunit test function template" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="/** @test $test$ */&#10;public function $snake_name$(){&#10;    //Given&#10;    $END$&#10;    //When&#10;    &#10;    //Then&#10;}" description="phpunit test function template" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="test" expression="" defaultValue="snakeCase(test)" alwaysStopAt="true" />
     <variable name="snake_name" expression="snakeCase(test)" defaultValue="" alwaysStopAt="true" />
     <context>
