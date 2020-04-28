@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>dd(</entry>
-        <entry>dd\(</entry>
         <entry>dd</entry>
         <entry>forgetAll</entry>
         <entry>timezon</entry>
@@ -25,6 +23,8 @@
         <entry>fake</entry>
         <entry encoding="base64">LT5jbGllbnQ=</entry>
         <entry>dispatch</entry>
+        <entry>getnext</entry>
+        <entry>key</entry>
       </history-search>
       <history-cmd>
         <entry>114</entry>
@@ -164,8 +164,10 @@
       <file name="$USER_HOME$/code/api-frc-org/.env" timestamp="1588067284278">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php" timestamp="1588070525725">
+      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php" timestamp="1588075252289">
         <mark key="'" line="31" column="35" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="45" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/GetUserAffinitiesTests.php" timestamp="1588070598556">
         <mark key="[" line="120" column="32" />
@@ -192,11 +194,12 @@
         <mark key="." line="67" column="39" />
         <mark key="^" line="67" column="40" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" timestamp="1588073977071">
-        <mark key="'" line="82" column="35" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" timestamp="1588075308008">
+        <mark key="'" line="158" column="48" />
+        <mark key="[" line="148" column="34" />
+        <mark key="]" line="148" column="34" />
+        <mark key="." line="148" column="33" />
+        <mark key="^" line="148" column="34" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/ApiResponse.php" timestamp="1588070853006">
         <mark key="'" line="15" column="34" />
@@ -208,12 +211,12 @@
       <file name="$USER_HOME$/code/api-frc-org/app/helpers.php" timestamp="1588068679240">
         <mark key="'" line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" timestamp="1588074106254">
-        <mark key="'" line="44" column="26" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="51" column="8" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" timestamp="1588075007607">
+        <mark key="'" line="52" column="45" />
+        <mark key="[" line="55" column="17" />
+        <mark key="]" line="56" column="8" />
+        <mark key="^" line="56" column="8" />
+        <mark key="." line="56" column="7" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" timestamp="1588071229228">
         <mark key="'" line="11" column="33" />
@@ -233,23 +236,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="27" filename="$USER_HOME$/code/akaunting/tests/Feature/Utilities/OverriderTest.php" />
-      <jump line="42" column="25" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/helpers.php" />
-      <jump line="44" column="17" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
-      <jump line="184" column="29" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
-      <jump line="46" column="4" filename="$USER_HOME$/code/akaunting/config/setting.php" />
-      <jump line="16" column="6" filename="$USER_HOME$/code/akaunting/config/setting.php" />
-      <jump line="197" column="26" filename="$USER_HOME$/code/akaunting/vendor/akaunting/setting/src/Contracts/Driver.php" />
-      <jump line="143" column="56" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="62" column="34" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="277" column="23" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="193" column="20" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="192" column="6" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="63" column="45" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="259" column="23" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="261" column="49" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="55" column="19" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="36" column="29" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="19" column="20" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" />
       <jump line="42" column="39" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Quorum/QuorumDataImport.php" />
       <jump line="13" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" />
@@ -328,53 +316,68 @@
       <jump line="5" column="37" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="45" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
       <jump line="31" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
-      <jump line="11" column="31" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
       <jump line="65" column="34" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
       <jump line="82" column="35" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
       <jump line="44" column="26" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
       <jump line="83" column="35" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="11" column="34" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
+      <jump line="52" column="45" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
+      <jump line="52" column="40" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="113" column="24" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="144" column="20" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="26" column="33" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="27" column="33" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="31" column="28" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="32" column="19" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="36" column="31" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="37" column="35" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="153" column="22" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="184" column="59" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="158" column="48" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>static::$offset_key</text>
       </register>
       <register name="-" type="4">
-        <text>next</text>
+        <text>static::$offset_key</text>
       </register>
       <register name="/" type="4">
-        <text>dispatch</text>
+        <text>key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJuYW1lID0gJGF1dGhbJ3VzZXJuYW1lJ10gPz8gJGF1dGhbMF07Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNzZXQoJHRoaXMtPmpzb24oKVskb2Zmc2V0XSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpvZmZzZXRFeGlzdHMoJG9mZnNldCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KICAgIC8qKiBAdGVzdCAqLyAvLyBuZXh0KCkgd2lsbCByZXR1cm4gYSBuZXcgcGFnaW5hdGVkIHJlc3BvbnNlCiAgICBwdWJsaWMgZnVuY3Rpb24gbmV4dF93aWxsX3JldHVybl9hX25ld19wYWdpbmF0ZWRfcmVzcG9uc2UoKQogICAgewo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBvZmZzZXRTZXQoJG9mZnNldCwgJHZhbHVlKQogICAgewogICAgICAgIHBhcmVudDo6b2Zmc2V0U2V0KCRvZmZzZXQsICR2YWx1ZSk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpvZmZzZXRHZXQoJG9mZnNldCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZihQYWdpbmF0ZWRBcGlSZXNwb25zZTo6Y2xhc3MsICRuZXh0KTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRRdWVyeSgpCiAgICB7CiAgICAgICAgZGQoJHRoaXMtPmdldE9mZnNldCgpKTsKICAgICAgICByZXR1cm4gJHRoaXMtPnJlcG9zaXRvcnktPmdldFF1ZXJ5KCk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbmV4dC0+bmV4dCgpKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljICRvZmZzZXRfa2V5Owo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbmV4dC0+bmV4dCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+b2Zmc2V0RXhpc3RzKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBvZmZzZXRFeGlzdHMoKXsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UtPnJlc3BvbnNlLT4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -383,9 +386,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>dispatch</last-search>
+      <last-search>key</last-search>
       <last-offset />
-      <last-pattern>dispatch</last-pattern>
+      <last-pattern>key</last-pattern>
       <last-replace>---\1</last-replace>
       <last-substitute>\(\w*\)\s\(\[\w()\]\)</last-substitute>
       <last-dir>1</last-dir>
