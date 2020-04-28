@@ -173,12 +173,11 @@
         <mark key="." line="339" column="7" />
         <mark key="^" line="339" column="8" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" timestamp="1588084088367">
-        <mark key="'" line="94" column="58" />
-        <mark key="[" line="94" column="63" />
-        <mark key="]" line="94" column="67" />
-        <mark key="." line="94" column="66" />
-        <mark key="^" line="94" column="67" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" timestamp="1588084654860">
+        <mark key="'" line="88" column="58" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/src/Support/BaseEndpoint.php" timestamp="1588071063065">
         <mark key="[" line="191" column="0" />
@@ -191,12 +190,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" timestamp="1588079334751">
-        <mark key="'" line="232" column="29" />
-        <mark key="[" line="141" column="28" />
-        <mark key="]" line="142" column="23" />
-        <mark key="." line="142" column="22" />
-        <mark key="^" line="142" column="23" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" timestamp="1588084536196">
+        <mark key="'" line="72" column="44" />
+        <mark key="[" line="75" column="9" />
+        <mark key="]" line="76" column="25" />
+        <mark key="^" line="76" column="25" />
+        <mark key="." line="76" column="24" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" timestamp="1588082706721">
         <mark key="'" line="112" column="36" />
@@ -217,12 +216,12 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="45" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" timestamp="1588081785447">
-        <mark key="'" line="57" column="36" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="52" column="10" />
-        <mark key="." line="58" column="81" />
-        <mark key="^" line="58" column="82" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" timestamp="1588084796225">
+        <mark key="'" line="66" column="41" />
+        <mark key="[" line="68" column="12" />
+        <mark key="]" line="68" column="14" />
+        <mark key="." line="68" column="13" />
+        <mark key="^" line="68" column="14" />
       </file>
       <file name="/" timestamp="1588077548984">
         <mark key="[" line="0" column="0" />
@@ -245,9 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="5" column="37" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
       <jump line="31" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
       <jump line="65" column="34" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
       <jump line="82" column="35" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
@@ -345,15 +341,18 @@
       <jump line="15" column="20" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
       <jump line="50" column="23" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
       <jump line="92" column="58" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumApiTests.php" />
+      <jump line="87" column="35" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="72" column="44" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/PaginatedApiResponse.php" />
+      <jump line="66" column="41" filename="$USER_HOME$/code/api-frc-org/tests/Feature/PaginatedApiResponseTests.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">d2hlcmUoJ2lkJywiMTcwMzc3NTA0IiktPmZpcnN0KCk=</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgMjAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2hlcmUoJ2lkJywiMTcwMzc3NTA0IiktPmZpcnN0KCk=</text>
+        <text>total count</text>
       </register>
       <register name="/" type="4">
         <text>whereK</text>
@@ -362,31 +361,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+c2V0RmFrZVJlc3BvbnNlRGF0YSgnaHR0cHM6Ly93d3cucXVvcnVtLnVzL2FwaS9tZXNzYWdlZXZlbnQnLAogICAgICAgICAgICAnbWV0YS50b3RhbF9jb3VudCcsCiAgICAgICAgICAgIDIwCiAgICAgICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChcQXBwXE1vZGVsc1xRdW9ydW1cTWVzc2FnZUV2ZW50OjphbGwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMjAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKGZ1bmNfZ2V0X2FyZ3MoKSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaWQsICRrZXkpOwo=</text>
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLyAvLyAgCiAgICBwdWJsaWMgZnVuY3Rpb24gKCl7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+ZmFrZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBmaW5kKCRpZCwgJGNvbHVtbnMgPSBbJyonXSkKICAgIHsKICAgICAgICBpZiAoaXNfYXJyYXkoJGlkKSB8fCAkaWQgaW5zdGFuY2VvZiBBcnJheWFibGUpIHsKICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5maW5kTWFueSgkaWQsICRjb2x1bW5zKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkdGhpcy0+d2hlcmVLZXkoJGlkKS0+Zmlyc3QoJGNvbHVtbnMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIH0KICAgIC8qKiBAdGVzdCAqLyAvLyBCYXNlUmVwb3NpdG9yeTo6aW1wb3J0RGF0YSB0ZXN0CiAgICBwdWJsaWMgZnVuY3Rpb24gYmFzZV9yZXBvc2l0b3J5X2ltcG9ydF9kYXRhX3Rlc3QoKQogICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpmaW5kKCRpZCwgJGNvbHVtbnMpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBzZXQgdGhlIHRvdGFsIGNvdW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbmQK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGhyb3coKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
