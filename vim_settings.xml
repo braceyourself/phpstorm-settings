@@ -184,11 +184,11 @@
         <mark key="^" line="48" column="10" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" timestamp="1588336027699">
-        <mark key="'" line="40" column="27" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" timestamp="1588338388881">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="37" column="53" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" timestamp="1588336485423">
         <mark key="[" line="10" column="4" />
@@ -202,11 +202,12 @@
         <mark key="^" line="82" column="8" />
         <mark key="." line="82" column="7" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" timestamp="1588337042169">
-        <mark key="[" line="54" column="259" />
-        <mark key="]" line="54" column="259" />
-        <mark key="." line="54" column="258" />
-        <mark key="^" line="54" column="259" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" timestamp="1588338394344">
+        <mark key="'" line="58" column="18" />
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="56" column="34" />
       </file>
       <file name="/foo.bar" timestamp="1588332038306">
         <mark key="[" line="0" column="0" />
@@ -242,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="5" filename="$USER_HOME$/code/api-frc-org/composer.json" />
       <jump line="142" column="0" filename="$USER_HOME$/code/api-frc-org/composer.json" />
       <jump line="30" column="4" filename="$USER_HOME$/code/api-frc-org/composer.json" />
       <jump line="154" column="0" filename="$USER_HOME$/code/api-frc-org/composer.json" />
@@ -342,15 +342,16 @@
       <jump line="56" column="31" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ImportCsv.php" />
       <jump line="7" column="42" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" />
       <jump line="112" column="13" filename="$USER_HOME$/code/api-frc-org/app/ApiVendorData.php" />
+      <jump line="58" column="18" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgJGZpbGUgPSBudWxsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>actengage</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>text</text>
@@ -359,32 +360,31 @@
         <text>vault</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgJGZpbGUgPSBudWxsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWN0ZW5nYWdlLT5hbGxGaWxlcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpbGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZmlsZXMpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>id\tsource\tpage\tfirst\tlast\tstreet\tcity\tstate\tzip\temail\tamount\tmethod\tgateway\ttransid\tip\tcreated_at\n
-4472577\t20E13C\t3752\tLin\tScheiber\t\t\t\t82414\tlinlhrtscheib@hotmail.com\t\t\t\t\t67.215.23.198\t2020-04-05 00:20:25\n</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZmlsZXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpbGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGZpbGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShBcGlWZW5kb3JEYXRhOjpjb3VudCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWN0ZW5nYWdlLT5hbGxGaWxlcygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpmYWtlKCd2YXVsdCcpOwogICAgICAgIEFwaVZlbmRvckRhdGE6OnF1ZXJ5KCktPmRlbGV0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
