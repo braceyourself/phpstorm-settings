@@ -202,11 +202,11 @@
         <mark key="^" line="82" column="8" />
         <mark key="." line="82" column="7" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" timestamp="1588336775016">
-        <mark key="[" line="52" column="16" />
-        <mark key="]" line="52" column="30" />
-        <mark key="." line="52" column="29" />
-        <mark key="^" line="52" column="30" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" timestamp="1588337042169">
+        <mark key="[" line="54" column="259" />
+        <mark key="]" line="54" column="259" />
+        <mark key="." line="54" column="258" />
+        <mark key="^" line="54" column="259" />
       </file>
       <file name="/foo.bar" timestamp="1588332038306">
         <mark key="[" line="0" column="0" />
@@ -350,40 +350,41 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>compact('data')</text>
+        <text>actengage</text>
       </register>
       <register name="/" type="4">
         <text>text</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZCggQXBpVmVuZG9yRGF0YTo6Y291bnQoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>vault</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWN0ZW5nYWdlLT5hbGxGaWxlcygpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudHMpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShBcGlWZW5kb3JEYXRhOjpjb3VudCgpKTsK</text>
+      <register name="4" type="4">
+        <text>id\tsource\tpage\tfirst\tlast\tstreet\tcity\tstate\tzip\temail\tamount\tmethod\tgateway\ttransid\tip\tcreated_at\n
+4472577\t20E13C\t3752\tLin\tScheiber\t\t\t\t82414\tlinlhrtscheib@hotmail.com\t\t\t\t\t67.215.23.198\t2020-04-05 00:20:25\n</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpmYWtlKCd2YXVsdCcpOwogICAgICAgIEFwaVZlbmRvckRhdGE6OnF1ZXJ5KCktPmRlbGV0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNyZWF0ZWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUtPmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZShBcGlWZW5kb3JEYXRhOjpjb3VudCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1vZGVsLCAkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpmYWtlKCd2YXVsdCcpOwogICAgICAgIEFwaVZlbmRvckRhdGE6OnF1ZXJ5KCktPmRlbGV0ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
