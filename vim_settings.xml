@@ -210,11 +210,12 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/EmailSubscriptionOptout.php" timestamp="1588587507588">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="7" />
-        <mark key="^" line="12" column="8" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/EmailSubscriptionOptout.php" timestamp="1588588448345">
+        <mark key="'" line="12" column="24" />
+        <mark key="[" line="11" column="58" />
+        <mark key="]" line="11" column="59" />
+        <mark key="." line="11" column="58" />
+        <mark key="^" line="11" column="59" />
       </file>
       <file name="$USER_HOME$/code/fresco32/DDL/Packages/web_info.sql" timestamp="1588421180880">
         <mark key="'" line="127" column="11" />
@@ -234,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="8" filename="$USER_HOME$/code/api-frc-org/app/Events/Mobilecause/TransactionReportLoaded.php" />
       <jump line="40" column="41" filename="$USER_HOME$/code/api-frc-org/app/Observers/TransactionReportObserver.php" />
       <jump line="20" column="43" filename="$USER_HOME$/code/api-frc-org/tests/BrokenTests/VendorIntegrationTests/ApiEndpointTests.php" />
       <jump line="1" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Api/ApiAccessTests.php" />
@@ -334,12 +334,13 @@
       <jump line="57" column="29" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ImportCsv.php" />
       <jump line="67" column="23" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ImportCsv.php" />
       <jump line="37" column="40" filename="$USER_HOME$/code/api-frc-org/app/Jobs/CopyToDisk.php" />
+      <jump line="11" column="24" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/EmailSubscriptionOptout.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpnZXRBcGlLZXlOYW1lKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpnZXRLZXkoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
       </register>
       <register name="-" type="4">
         <text>vault_path</text>
@@ -351,31 +352,31 @@
         <text encoding="base64">ICAgICAgICBTdG9yYWdlOjpmYWtlKCdhY3RlbmdhZ2UnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpnZXRBcGlLZXlOYW1lKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpnZXRLZXkoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkcHJpbWFyeUtleSA9ICdlbWFpbF9hZGRyZXNzcyc7CiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0QXBpS2V5TmFtZSgpCiAgICB7CgogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdmF1bHRfcGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpnZXRBcGlLZXlOYW1lKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdi0+YWxsRmlsZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdi0+YWxsRmlsZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdmF1bHRfcGF0aCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkdi0+YWxsRmlsZXMoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdi0+YWxsRmlsZXMoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdi0+YWxsRmlsZXMoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnKCl7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>267</text>
