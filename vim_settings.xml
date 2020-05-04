@@ -160,6 +160,13 @@
         <mark key="^" line="114" column="27" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ImportTsv.php" timestamp="1588611395767">
+        <mark key="'" line="18" column="31" />
+        <mark key="[" line="34" column="27" />
+        <mark key="]" line="34" column="30" />
+        <mark key="^" line="34" column="30" />
+        <mark key="." line="34" column="29" />
+      </file>
       <file name="/api_frc_org.errors" timestamp="1588592294396">
         <mark key="[" line="0" column="0" />
       </file>
@@ -173,9 +180,9 @@
       <file name="/Dummy.txt" timestamp="1588608125097">
         <mark key="[" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" timestamp="1588610750730">
-        <mark key="'" line="36" column="24" />
-        <mark key="[" line="36" column="12" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" timestamp="1588611466580">
+        <mark key="'" line="37" column="28" />
+        <mark key="[" line="35" column="85" />
         <mark key="]" line="36" column="12" />
         <mark key="." line="36" column="11" />
         <mark key="^" line="36" column="12" />
@@ -186,13 +193,6 @@
         <mark key="]" line="259" column="39" />
         <mark key="^" line="259" column="39" />
         <mark key="." line="259" column="38" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/helpers.php" timestamp="1588590958003">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="80" column="51" />
-        <mark key="]" line="80" column="52" />
-        <mark key="." line="80" column="51" />
-        <mark key="^" line="80" column="52" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Mobilecause/MobilecauseDataImport.php" timestamp="1588609616145">
         <mark key="[" line="34" column="0" />
@@ -245,9 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="3" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
-      <jump line="99" column="24" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
-      <jump line="212" column="22" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
       <jump line="100" column="36" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
       <jump line="139" column="23" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
       <jump line="255" column="29" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
@@ -344,16 +341,19 @@
       <jump line="109" column="50" filename="$USER_HOME$/code/api-frc-org/app/Models/Mobilecause/Transaction.php" />
       <jump line="281" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/Mobilecause/Transaction.php" />
       <jump line="41" column="31" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
-      <jump line="36" column="24" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="15" column="12" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ImportTsv.php" />
+      <jump line="18" column="31" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ImportTsv.php" />
+      <jump line="36" column="25" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="37" column="28" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text encoding="base64">bmV3IEltcG9ydENzdigKICAgICAgICAgICAgICAgICRmaWxlLAogICAgICAgICAgICAgICAgQXBpVmVuZG9yRGF0YTo6Y2xhc3MsCiAgICAgICAgICAgICAgICAkZGlzaywKICAgICAgICAgICAgICAgIFsnZGVsaW1pdGVyJyA9PiAiXHQiXQogICAgICAgICAgICAp</text>
+        <text>Arr::pull($options, 'delimiter', &quot;\t&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>$files</text>
+        <text>Arr::pull($options, 'delimiter', &quot;\t&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>arrival(</text>
@@ -361,32 +361,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2xpc3RfY29kZScgPT4gJHRoaXMtPmxpc3RfY29kZSwK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bmV3IEltcG9ydENzdigKICAgICAgICAgICAgICAgICRmaWxlLAogICAgICAgICAgICAgICAgQXBpVmVuZG9yRGF0YTo6Y2xhc3MsCiAgICAgICAgICAgICAgICAkZGlzaywKICAgICAgICAgICAgICAgIFsnZGVsaW1pdGVyJyA9PiAiXHQiXQogICAgICAgICAgICAp</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRXhlY3V0ZSB0aGUgam9iLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gaGFuZGxlKCkKICAgIHsKCiAgICAgICAgJHRoaXMtPmdldEFsbFJvd3MoKS0+ZWFjaChmdW5jdGlvbiAoQ29sbGVjdGlvbiAkcm93KSB7CgogICAgICAgICAgICBBcGlWZW5kb3JEYXRhOjppbXBvcnRGcm9tQWN0ZW5nYWdlRmlsZUl0ZW0oJHRoaXMtPnBhdGgsICRyb3cpOwoKICAgICAgICB9KTsKCgogICAgICAgICRmaWxlbmFtZSA9ICgkcGkgPSBwYXRoaW5mbygkdGhpcy0+cGF0aCkpWydmaWxlbmFtZSddOwogICAgICAgICRleHQgPSAkcGlbJ2V4dGVuc2lvbiddOwoKICAgICAgICAkZGF0ZSA9IFJlZ2V4OjptYXRjaCgnL1x3Kl8oXGQqKS9pJywgJGZpbGVuYW1lKQogICAgICAgICAgICAvLyB0YWtlIGRhdGUgZnJvbSBmaWxlbmFtZSBvciB1c2UgY3VycmVudAogICAgICAgICAgICAtPmdyb3VwT3IoMSwgdG9kYXkoKS0+Zm9ybWF0KCdZbWQnKSk7CgogICAgICAgICR2YXVsdF9wYXRoID0iQWN0RW5nYWdlLyRkYXRlLyRmaWxlbmFtZS4kZXh0IjsKCiAgICAgICAgZGlzcGF0Y2gobmV3IENvcHlUb0Rpc2soIiR0aGlzLT5kaXNrOiR0aGlzLT5wYXRoIiwgInZhdWx0OiR2YXVsdF9wYXRoIiwgdHJ1ZSwgdHJ1ZSkpOwoKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gQ29sbGVjdGlvbgogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldEFsbFJvd3MoKQogICAgewogICAgICAgIGlmIChlbXB0eShTdG9yYWdlOjpkaXNrKCR0aGlzLT5kaXNrKS0+Z2V0KCR0aGlzLT5wYXRoKSkpIHsKICAgICAgICAgICAgcmV0dXJuIGNvbGxlY3QoKTsKICAgICAgICB9CgogICAgICAgICRzaGVldHMgPSBFeGNlbDo6dG9Db2xsZWN0aW9uKAogICAgICAgICAgICBuZXcgQ3N2SW1wb3J0KCR0aGlzLT5kZWxpbWl0ZXIsICR0aGlzLT53aXRoX2hlYWRlciksCiAgICAgICAgICAgICR0aGlzLT5wYXRoLAogICAgICAgICAgICAkdGhpcy0+ZGlzaywKICAgICAgICAgICAgXE1hYXR3ZWJzaXRlXEV4Y2VsXEV4Y2VsOjpDU1YKICAgICAgICApOwoKICAgICAgICByZXR1cm4gJHNoZWV0cy0+Zmlyc3QoKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+d2l0aF9oZWFkZXIgPSBBcnI6OmdldCgkb3B0aW9ucywgJ3dpdGhfaGVhZGVyJywgdHJ1ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzayA9ICRkaXNrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bW9kZWwgPSAkbW9kZWw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+cGF0aCA9ICRwYXRoOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbCAkd2l0aF9oZWFkZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBEaXNwYXRjaGFibGUsIEludGVyYWN0c1dpdGhRdWV1ZSwgUXVldWVhYmxlLCBTZXJpYWxpemVzTW9kZWxzLCBNYW5hZ2VzVHJhbnNhY3Rpb25zOwogICAgcHJpdmF0ZSAkcGF0aDsKICAgIHByaXZhdGUgJG1vZGVsOwogICAgLyoqCiAgICAgKiBAdmFyIHN0cmluZwogICAgICovCiAgICBwcml2YXRlICRkaXNrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGNyZWF0ZVRyYW5zYWN0aW9uUmVwb3J0KCkKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHVzZSBEaXNwYXRjaGFibGUsIEludGVyYWN0c1dpdGhRdWV1ZSwgUXVldWVhYmxlLCBTZXJpYWxpemVzTW9kZWxzLCBNYW5hZ2VzVHJhbnNhY3Rpb25zOwogICAgcHJpdmF0ZSAkcGF0aDsKICAgIHByaXZhdGUgJG1vZGVsOwogICAgLyoqCiAgICAgKiBAdmFyIHN0cmluZwogICAgICovCiAgICBwcml2YXRlICRkaXNrOwogICAgcHJpdmF0ZSBzdHJpbmcgJGRlbGltaXRlcjsKICAgIHByaXZhdGUgYm9vbCAkd2l0aF9oZWFkZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
