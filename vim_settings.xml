@@ -5,13 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>append</entry>
-        <entry>computed</entry>
-        <entry>request</entry>
-        <entry>filterspar</entry>
-        <entry>start_</entry>
-        <entry>dates</entry>
-        <entry>getDa</entry>
         <entry>master_item</entry>
         <entry>item_status</entry>
         <entry>getItemUrl</entry>
@@ -25,6 +18,13 @@
         <entry>\</entry>
         <entry>error(</entry>
         <entry>Role</entry>
+        <entry>new_account_load</entry>
+        <entry>move_vendor_archive_data</entry>
+        <entry>e move_vendor_archive_data</entry>
+        <entry>procedure move_vendor_archive_data</entry>
+        <entry>move_</entry>
+        <entry>import_</entry>
+        <entry>archive</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy8iXChcdypcKSJccz0+LiokLyAqIEBwcm9wZXJ0eSBzdHJpbmcgJFwx</entry>
@@ -131,10 +131,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/api_vendor_data [Dev API server]" timestamp="1588588786412">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/Mobilecause/Transaction.php" timestamp="1588608112993">
+        <mark key="[" line="50" column="56" />
+        <mark key="]" line="50" column="93" />
+        <mark key="^" line="50" column="93" />
+        <mark key="." line="50" column="92" />
       </file>
-      <file name="/console" timestamp="1588584782201">
+      <file name="/api_vendor_data [Dev API server]" timestamp="1588588786412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/errors [API server]" timestamp="1588592294388">
@@ -143,12 +146,6 @@
       <file name="/dev_api_frc_org.api_vendor_data" timestamp="1588588786485">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/console.sql" timestamp="1588420700182">
-        <mark key="[" line="3" column="44" />
-        <mark key="]" line="3" column="44" />
-        <mark key="." line="3" column="44" />
-        <mark key="^" line="3" column="48" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/TestCase.php" timestamp="1588592592823">
         <mark key="'" line="30" column="17" />
         <mark key="[" line="29" column="26" />
@@ -156,11 +153,11 @@
         <mark key="^" line="30" column="22" />
         <mark key="." line="30" column="21" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/ApiVendorData.php" timestamp="1588591632903">
-        <mark key="[" line="117" column="26" />
-        <mark key="]" line="117" column="27" />
-        <mark key="." line="117" column="26" />
-        <mark key="^" line="117" column="27" />
+      <file name="$USER_HOME$/code/api-frc-org/app/ApiVendorData.php" timestamp="1588604964996">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="114" column="27" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="/api_frc_org.errors" timestamp="1588592294396">
         <mark key="[" line="0" column="0" />
@@ -179,14 +176,11 @@
         <mark key="." line="11" column="58" />
         <mark key="^" line="11" column="59" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Http/Resources/ItemResource.php" timestamp="1588420839249">
-        <mark key="'" line="35" column="36" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="49" column="47" />
+      <file name="/Dummy.txt" timestamp="1588608125097">
+        <mark key="[" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" timestamp="1588603767846">
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" timestamp="1588608078027">
+        <mark key="'" line="8" column="22" />
         <mark key="[" line="259" column="22" />
         <mark key="]" line="259" column="39" />
         <mark key="^" line="259" column="39" />
@@ -199,11 +193,15 @@
         <mark key="." line="80" column="51" />
         <mark key="^" line="80" column="52" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/ImportCsv.php" timestamp="1588584944997">
-        <mark key="'" line="39" column="21" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/CopyToDisk.php" timestamp="1588586016771">
         <mark key="'" line="37" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" timestamp="1588607627520">
+        <mark key="'" line="308" column="10" />
+        <mark key="[" line="506" column="0" />
+        <mark key="]" line="507" column="8" />
+        <mark key="." line="507" column="4" />
+        <mark key="^" line="507" column="8" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" timestamp="1588592143431">
         <mark key="'" line="7" column="0" />
@@ -221,10 +219,13 @@
       <file name="/foo.bar" timestamp="1588592294404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/web_info.sql" timestamp="1588421180880">
-        <mark key="'" line="127" column="11" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/Contracts/VendorDataArchiveContract.php" timestamp="1588608147502">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/seeds/UsersTableSeeder.php" timestamp="1588592866006">
+      <file name="$USER_HOME$/code/api-frc-org/database/seeds/UsersTableSeeder.php" timestamp="1588607307891">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="23" column="28" />
         <mark key="]" line="23" column="34" />
@@ -233,38 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="6" filename="$USER_HOME$/code/api-frc-org/app/Providers/RouteServiceProvider.php" />
-      <jump line="5" column="53" filename="$USER_HOME$/code/api-frc-org/routes/api.php" />
-      <jump line="9" column="36" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Api/ItemTests.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/api-frc-org/config/database.php" />
-      <jump line="15" column="39" filename="$USER_HOME$/code/api-frc-org/config/database.php" />
-      <jump line="12" column="36" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Api/ItemTests.php" />
-      <jump line="37" column="6" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Api/ApiAccessTests.php" />
-      <jump line="54" column="30" filename="$USER_HOME$/code/api-frc-org/app/Repositories/Internal/InternalApiRepository.php" />
-      <jump line="44" column="31" filename="$USER_HOME$/code/api-frc-org/app/Repositories/Internal/InternalApiRepository.php" />
-      <jump line="45" column="41" filename="$USER_HOME$/code/api-frc-org/app/Repositories/Internal/InternalApiRepository.php" />
-      <jump line="46" column="40" filename="$USER_HOME$/code/api-frc-org/app/Repositories/Internal/InternalApiRepository.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/code/api-frc-org/composer.json" />
-      <jump line="44" column="4" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ItemBase.php" />
-      <jump line="120" column="41" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ItemBase.php" />
-      <jump line="56" column="25" filename="$USER_HOME$/code/api-frc-org/app/Http/Controllers/ItemController.php" />
-      <jump line="20" column="20" filename="$USER_HOME$/code/api-frc-org/app/Repositories/Internal/ItemRepository.php" />
-      <jump line="84" column="29" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Webjson/RefreshItemWebjson.php" />
-      <jump line="45" column="24" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
-      <jump line="86" column="20" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Webjson/RefreshItemWebjson.php" />
-      <jump line="31" column="13" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Webjson/RefreshItemWebjson.php" />
-      <jump line="36" column="13" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Webjson/RefreshItemWebjson.php" />
-      <jump line="88" column="0" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Webjson/RefreshItemWebjson.php" />
-      <jump line="32" column="14" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Webjson/RefreshItemWebjson.php" />
-      <jump line="80" column="24" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Webjson/RefreshItemWebjson.php" />
-      <jump line="12" column="20" filename="$USER_HOME$/code/api-frc-org/vendor/spatie/laravel-query-builder/src/Concerns/FiltersQuery.php" />
-      <jump line="34" column="31" filename="$USER_HOME$/code/api-frc-org/vendor/spatie/laravel-query-builder/src/Concerns/FiltersQuery.php" />
-      <jump line="57" column="24" filename="$USER_HOME$/code/api-frc-org/vendor/spatie/laravel-query-builder/src/Concerns/FiltersQuery.php" />
-      <jump line="47" column="0" filename="$USER_HOME$/code/api-frc-org/vendor/spatie/laravel-query-builder/src/AllowedFilter.php" />
-      <jump line="65" column="4" filename="$USER_HOME$/code/api-frc-org/vendor/spatie/laravel-query-builder/src/AllowedFilter.php" />
-      <jump line="64" column="37" filename="$USER_HOME$/code/api-frc-org/vendor/spatie/laravel-query-builder/src/AllowedFilter.php" />
-      <jump line="8" column="32" filename="$USER_HOME$/code/api-frc-org/vendor/spatie/laravel-query-builder/src/AllowedFilter.php" />
-      <jump line="59" column="32" filename="$USER_HOME$/code/api-frc-org/vendor/spatie/laravel-query-builder/src/AllowedFilter.php" />
       <jump line="4" column="40" filename="$USER_HOME$/code/api-frc-org/app/Support/FrcQueryBuilder.php" />
       <jump line="30" column="4" filename="$USER_HOME$/code/api-frc-org/app/Http/Controllers/ItemController.php" />
       <jump line="26" column="20" filename="$USER_HOME$/code/api-frc-org/vendor/spatie/laravel-query-builder/src/Concerns/FiltersQuery.php" />
@@ -333,48 +302,80 @@
       <jump line="30" column="17" filename="$USER_HOME$/code/api-frc-org/tests/TestCase.php" />
       <jump line="30" column="36" filename="$USER_HOME$/code/api-frc-org/database/seeds/UsersTableSeeder.php" />
       <jump line="5" column="0" filename="$USER_HOME$/code/api-frc-org/database/seeds/UsersTableSeeder.php" />
+      <jump line="109" column="0" filename="$USER_HOME$/code/api-frc-org/app/ApiVendorData.php" />
+      <jump line="41" column="17" filename="$USER_HOME$/code/api-frc-org/app/ApiVendorData.php" />
+      <jump line="418" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="3672" column="21" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
+      <jump line="3905" column="25" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
+      <jump line="4363" column="67" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
+      <jump line="4372" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
+      <jump line="11" column="37" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
+      <jump line="17" column="36" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
+      <jump line="19" column="36" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
+      <jump line="21" column="36" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
+      <jump line="27" column="36" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
+      <jump line="3909" column="4" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
+      <jump line="273" column="4" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
+      <jump line="421" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="664" column="31" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="663" column="31" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="713" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="729" column="64" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="739" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="10" column="38" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="38" column="25" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="262" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="419" column="25" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="304" column="9" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="243" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="242" column="12" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="168" column="16" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="308" column="10" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
+      <jump line="253" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" />
+      <jump line="8" column="22" filename="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>[]</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>[]</text>
       </register>
       <register name="/" type="4">
-        <text>Role</text>
+        <text>archive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RW1wdHkoSHRtbEVtYWlsTG9nOjphbGwoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+aWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">XEFwcFxSb2xlOjpmaXJzdE9yQ3JlYXRlKFsKICAgICAgICAgICAgICAgICduYW1lJyA9PiAnYWRtaW4nLAogICAgICAgICAgICAgICAgJ2d1YXJkX25hbWUnID0+ICd3ZWInLAogICAgICAgICAgICBdKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIFNwYXRpZVxQZXJtaXNzaW9uXENvbnRyYWN0c1xSb2xlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaSk7Cg==</text>
+        <text encoding="base64">CQktLSBMb29wIE92ZXIgTG9hZCBUYWJsZXMgYW5kIENvdW50IFJvd3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RW1wdHkoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojppc1ZhbGlkKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+        <text encoding="base64">CQktLSBMb29wIE92ZXIgTG9hZCBUYWJsZXMgYW5kIENvdW50IFJvd3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRtb2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZGF0YV9jb2x1bW5zID0gW107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>58</text>
@@ -383,9 +384,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Role</last-search>
+      <last-search>archive</last-search>
       <last-offset />
-      <last-pattern>Role</last-pattern>
+      <last-pattern>archive</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyBcMSBcL1wvIFwy</last-replace>
       <last-substitute encoding="base64">IlwoXHcqXCkiXHM9PlwoLipcKSQ=</last-substitute>
       <last-dir>1</last-dir>
