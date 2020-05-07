@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>uid</entry>
-        <entry>exception</entry>
-        <entry>select.*into</entry>
-        <entry>No.*loaded</entry>
-        <entry>set_email</entry>
-        <entry>set_list_email</entry>
         <entry>ungua</entry>
         <entry>eab@frc.org</entry>
         <entry>campaign_item_view</entry>
@@ -25,6 +19,12 @@
         <entry>handle</entry>
         <entry>queue</entry>
         <entry>bootstrap</entry>
+        <entry>redis-</entry>
+        <entry>dispatch</entry>
+        <entry>first</entry>
+        <entry encoding="base64">LT5maXJzdA==</entry>
+        <entry encoding="base64">JHRoaXMtPmZpcnN0</entry>
+        <entry>dispat</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy9cKC53KlwpXHMuKi9wdWJsaWMgZnVuY3Rpb24gZ2V0VmRhXDFBdHRyaWJ1dGUoKTsv</entry>
@@ -165,11 +165,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/config/queue.php" timestamp="1588878489198">
-        <mark key="[" line="55" column="23" />
-        <mark key="]" line="55" column="45" />
-        <mark key="^" line="55" column="45" />
-        <mark key="." line="55" column="44" />
+      <file name="$USER_HOME$/code/api-frc-org/config/queue.php" timestamp="1588880107619">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Support/Database/CacheQueryBuilder.php" timestamp="1588865405472">
         <mark key="'" line="18" column="21" />
@@ -180,27 +179,28 @@
         <mark key="." line="49" column="26" />
         <mark key="^" line="49" column="27" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" timestamp="1588877594410">
-        <mark key="'" line="70" column="21" />
-        <mark key="[" line="159" column="33" />
-        <mark key="]" line="159" column="53" />
-        <mark key="." line="159" column="52" />
-        <mark key="^" line="159" column="53" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" timestamp="1588880698257">
+        <mark key="'" line="57" column="9" />
+        <mark key="[" line="92" column="22" />
+        <mark key="]" line="92" column="22" />
+        <mark key="." line="92" column="21" />
+        <mark key="^" line="92" column="22" />
       </file>
       <file name="/FRC.VENDOR_DATA_ARCHIVE" timestamp="1588870965723">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/config/horizon.php" timestamp="1588880118673">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="31" />
+        <mark key="." line="149" column="0" />
+        <mark key="^" line="159" column="38" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/bootstrap/cache/.gitignore" timestamp="1588877016385">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="11" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/code/baldor-fritz-template-app/resources/sass/app.scss" timestamp="1588864380651">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="0" column="40" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/routes/api.php" timestamp="1588864945291">
         <mark key="'" line="101" column="24" />
@@ -215,11 +215,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" timestamp="1588871723637">
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" timestamp="1588880663215">
         <mark key="'" line="230" column="0" />
-        <mark key="[" line="325" column="0" />
-        <mark key="]" line="325" column="0" />
-        <mark key="." line="325" column="0" />
+        <mark key="[" line="191" column="29" />
+        <mark key="]" line="191" column="29" />
+        <mark key="." line="191" column="29" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ImportCsv.php" timestamp="1588866038217">
         <mark key="'" line="38" column="21" />
@@ -239,20 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="11" filename="$USER_HOME$/code/api-frc-org/config/deploy.php" />
-      <jump line="54" column="15" filename="$USER_HOME$/code/api-frc-org/config/deploy.php" />
-      <jump line="150" column="16" filename="$USER_HOME$/code/api-frc-org/config/deploy.php" />
-      <jump line="79" column="56" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="80" column="44" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="116" column="30" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="159" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="251" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="269" column="22" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="277" column="22" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="282" column="34" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="288" column="43" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="198" column="17" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
       <jump line="287" column="43" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
       <jump line="293" column="30" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
       <jump line="201" column="16" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
@@ -303,7 +289,6 @@
       <jump line="72" column="60" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ImportCsv.php" />
       <jump line="38" column="21" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ImportCsv.php" />
       <jump line="66" column="34" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
-      <jump line="57" column="24" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
       <jump line="239" column="31" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
       <jump line="116" column="31" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
       <jump line="99" column="4" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
@@ -339,48 +324,63 @@
       <jump line="181" column="20" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
       <jump line="166" column="23" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
       <jump line="70" column="21" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/code/api-frc-org/config/horizon.php" />
+      <jump line="153" column="4" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="103" column="4" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="102" column="20" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="106" column="8" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="104" column="26" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="131" column="28" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="94" column="21" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="93" column="0" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="123" column="28" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="122" column="28" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="64" column="9" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="57" column="9" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>env('REDIS_QUEUE', 'default')</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJGZpcnN0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>env('REDIS_QUEUE', 'default')</text>
+        <text encoding="base64">LT5zZXRGaXJzdEpvYigp</text>
       </register>
       <register name="/" type="4">
-        <text>bootstrap</text>
+        <text>dispat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RyaXZlcicgPT4gJ3JlZGlzJywKICAgICAgICAgICAgJ2Nvbm5lY3Rpb24nID0+ICdkZWZhdWx0JywKICAgICAgICAgICAgJ3F1ZXVlJyA9PiBlbnYoJ1JFRElTX1FVRVVFJywgJ2RlZmF1bHQnKSwKICAgICAgICAgICAgJ3JldHJ5X2FmdGVyJyA9PiA5MCwKICAgICAgICAgICAgJ2Jsb2NrX2ZvcicgPT4gbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAncmVkaXMnID0+IFsKICAgICAgICAgICAgJ2RyaXZlcicgPT4gJ3JlZGlzJywKICAgICAgICAgICAgJ2Nvbm5lY3Rpb24nID0+ICdkZWZhdWx0JywKICAgICAgICAgICAgJ3F1ZXVlJyA9PiBlbnYoJ1JFRElTX1FVRVVFJywgJ2RlZmF1bHQnKSwKICAgICAgICAgICAgJ3JldHJ5X2FmdGVyJyA9PiA5MCwKICAgICAgICAgICAgJ2Jsb2NrX2ZvcicgPT4gbnVsbCwKICAgICAgICBdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGZpcnN0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRGaXJzdEpvYigpCiAgICB7CiAgICAgICAgJHRoaXMtPmZpcnN0ID0gJHRoaXMtPmpvYl9jaGFpbi0+cHVsbCgwKTsKCiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdGVuZ2FnZURhdGFJbXBvcnQ6OmltcG9ydEZyb21BY3RlbmdhZ2VGaWxlSXRlbSgkbW9kZWwsICRpdGVtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRGaXJzdEpvYigpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNodW5rLT5lYWNoKGZ1bmN0aW9uICgkaXRlbSkgdXNlICgkbW9kZWwpIHsKICAgICAgICAgICAgICAgIEFjdGVuZ2FnZURhdGFJbXBvcnQ6OmltcG9ydEZyb21BY3RlbmdhZ2VGaWxlSXRlbSgkbW9kZWwsICRpdGVtKTsKICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LT5jaGFpbihbCiAgICAgICAgICAgICAgICAuLi4kdGhpcy0+am9iX2NoYWluLAogICAgICAgICAgICBdKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICBBY3RlbmdhZ2VEYXRhSW1wb3J0OjppbXBvcnRGcm9tQWN0ZW5nYWdlRmlsZUl0ZW0oJG1vZGVsLCAkaXRlbSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGF0Y2goZnVuY3Rpb24gKCkgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjaHVuay0+ZWFjaChmdW5jdGlvbiAoJGl0ZW0pIHVzZSAoJG1vZGVsKSB7CiAgICAgICAgICAgICAgICAgICAgQWN0ZW5nYWdlRGF0YUltcG9ydDo6aW1wb3J0RnJvbUFjdGVuZ2FnZUZpbGVJdGVtKCRtb2RlbCwgJGl0ZW0pOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaCgkdGhpcy0+Zmlyc3QpLT5jaGFpbihbCiAgICAgICAgICAgIC4uLiR0aGlzLT5qb2JfY2hhaW4sCiAgICAgICAgXSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmZpcnN0ID09PSBudWxsKSAkdGhpcy0+c2V0Rmlyc3RKb2IoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBY3RlbmdhZ2VEYXRhSW1wb3J0OjppbXBvcnRGcm9tQWN0ZW5nYWdlRmlsZUl0ZW0oJG1vZGVsLCAkaXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -389,9 +389,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bootstrap</last-search>
+      <last-search>dispat</last-search>
       <last-offset />
-      <last-pattern>bootstrap</last-pattern>
+      <last-pattern>dispat</last-pattern>
       <last-replace encoding="base64">J1wxJyA9PiAkdGhpcy0+XDEs</last-replace>
       <last-substitute>\(\w*\)\s.*</last-substitute>
       <last-dir>1</last-dir>
