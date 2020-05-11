@@ -153,6 +153,9 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/CategorizeResources/src/NovaCategorise.php" timestamp="1589197942705">
+        <mark key="[" line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ActengageModel.php" timestamp="1588961657848">
         <mark key="'" line="56" column="31" />
         <mark key="[" line="70" column="0" />
@@ -167,23 +170,16 @@
         <mark key="." line="31" column="40" />
         <mark key="^" line="31" column="41" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" timestamp="1588961394655">
-        <mark key="'" line="29" column="22" />
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="22" />
-        <mark key="^" line="29" column="23" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumTests.php" timestamp="1588959791976">
-        <mark key="[" line="55" column="5" />
-        <mark key="]" line="56" column="59" />
-        <mark key="^" line="56" column="59" />
-        <mark key="." line="56" column="58" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Mobilecause/TransactionReport.php" timestamp="1589197580302">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Traits/NestedAttributes.php" timestamp="1589197839963">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/FrcAction/NewAccount.php" timestamp="1588961396058">
         <mark key="'" line="1" column="63" />
@@ -192,9 +188,11 @@
         <mark key="^" line="1" column="65" />
         <mark key="." line="1" column="64" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/mopo922/laravel-treats/src/Model/Traits/HasCompositePrimaryKey.php" timestamp="1588959036781">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="112" column="5" />
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/CategorizeResources/src/NovaCategorize.php" timestamp="1589197965099">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="8" column="42" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Mobilecause/Person.php" timestamp="1589197553504">
         <mark key="[" line="4" column="0" />
@@ -210,6 +208,12 @@
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/nova/src/Lenses/Lens.php" timestamp="1588962272522">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="58" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/CategorizeResources/src/ToolServiceProvider.php" timestamp="1589197970555">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorDataArchive.php" timestamp="1589197589109">
         <mark key="[" line="3" column="0" />
@@ -229,13 +233,6 @@
         <mark key="]" line="255" column="39" />
         <mark key="." line="255" column="38" />
         <mark key="^" line="255" column="39" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Traits/CompositeKey.php" timestamp="1588959393190">
-        <mark key="'" line="61" column="20" />
-        <mark key="[" line="93" column="35" />
-        <mark key="]" line="93" column="35" />
-        <mark key="." line="93" column="35" />
-        <mark key="^" line="93" column="48" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Resource.php" timestamp="1589197487958">
         <mark key="[" line="5" column="0" />
@@ -349,10 +346,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">dXNlIEFwcFxOb3ZhXEFwaVZlbmRvckRhdGE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>or</text>
@@ -361,35 +358,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHJlcXVlc3QtPm5ld1Jlc291cmNlKCktPmFjdGlvbnMoJHJlcXVlc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxOb3ZhXEFwaVZlbmRvckRhdGE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">dXNlIEFwcFxOb3ZhXEFwaVZlbmRvckRhdGE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxOb3ZhXEFwaVZlbmRvckRhdGEK</text>
+        <text encoding="base64">dXNlIEFwcFxOb3ZhXEFwaVZlbmRvckRhdGE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEFwcFxOb3ZhXEFwaVZlbmRvckRhdGE7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxOb3ZhXEFwaVZlbmRvckRhdGEK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">dXNlIEFwcFxOb3ZhXEFwaVZlbmRvckRhdGE7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">dXNlIEFwcFxOb3ZhXEFwaVZlbmRvckRhdGE7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJGRlZmF1bHRTb3J0RGlyZWN0aW9uID0gJ2Rlc2MnOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">TmV3QWNjb3VudDo6cXVlcnkoKQogICAgICAgICAgICAgICAgLT5zZWxlY3QoJ2V4dGVybmFsX3VpZCcp</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">TmV3QWNjb3VudDo6d2hlcmVSYXcoIgogICAgICAgICAgICAgICAgcGVyc29uX2ZpcnN0X25hbWUgPSBlbWFpbF9hZGRyCiAgICAgICAgICAgICAgICBvcgogICAgICAgICAgICAgICAgcGVyc29uX2xhc3RfbmFtZSA9IGVtYWlsX2FkZHIKICAgICAgICAgICAgIiktPnNlbGVjdCgnZXh0ZXJuYWxfdWlkJyk=</text>
-      </register>
       <register name="9" type="4">
-        <text>NewAccount::whereRaw(&quot;
-                person_first_name = email_addr
-                or
-                person_last_name = email_addr
-            &quot;)</text>
+        <text encoding="base64">TmV3QWNjb3VudDo6d2hlcmVSYXcoIgogICAgICAgICAgICAgICAgcGVyc29uX2ZpcnN0X25hbWUgPSBlbWFpbF9hZGRyCiAgICAgICAgICAgICAgICBvcgogICAgICAgICAgICAgICAgcGVyc29uX2xhc3RfbmFtZSA9IGVtYWlsX2FkZHIKICAgICAgICAgICAgIiktPnNlbGVjdCgnZXh0ZXJuYWxfdWlkJyk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
