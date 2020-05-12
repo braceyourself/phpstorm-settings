@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>all(</entry>
         <entry>query</entry>
         <entry>\(.*\)</entry>
         <entry>set</entry>
@@ -25,6 +24,7 @@
         <entry>roles</entry>
         <entry>recemp</entry>
         <entry>body</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXHMuKi9wdWJsaWMgZnVuY3Rpb24gZ2V0VmRhXDFBdHRyaWJ1dGUoKTsv</entry>
@@ -140,7 +140,7 @@
       <file name="/roles [API server]" timestamp="1589204321774">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1589228562444">
+      <file name="/a.sql" timestamp="1589245229195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/api_frc_org.users" timestamp="1589204302516">
@@ -168,8 +168,12 @@
       <file name="/api_frc_org.model_has_roles" timestamp="1589204421487">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" timestamp="1589244560073">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" timestamp="1589245202774">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="56" />
       </file>
       <file name="/FRC.ACTENGAGE_DATA_LOAD" timestamp="1589244542891">
         <mark key="[" line="0" column="0" />
@@ -214,14 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="46" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="321" column="15" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="19" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ActengageModel.php" />
-      <jump line="72" column="25" filename="$USER_HOME$/code/api-frc-org/app/Nova/Lenses/InvalidNewAccountRecords.php" />
-      <jump line="74" column="28" filename="$USER_HOME$/code/api-frc-org/app/Nova/Lenses/InvalidNewAccountRecords.php" />
-      <jump line="11" column="21" filename="$USER_HOME$/code/api-frc-org/app/Nova/Actions/NewAccounts/FixNewAccountData.php" />
-      <jump line="27" column="0" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Acquisition.php" />
-      <jump line="25" column="32" filename="$USER_HOME$/code/api-frc-org/app/Nova/Actions/NewAccounts/FixNewAccountData.php" />
       <jump line="47" column="29" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" />
       <jump line="55" column="36" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" />
       <jump line="34" column="17" filename="$USER_HOME$/code/api-frc-org/app/Nova/Actions/NewAccounts/FixNewAccountData.php" />
@@ -314,48 +310,56 @@
       <jump line="601" column="39" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
       <jump line="912" column="114" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
+      <jump line="217" column="4" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
+      <jump line="1111" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
+      <jump line="1253" column="35" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
+      <jump line="120" column="4" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
+      <jump line="177" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
+      <jump line="11" column="34" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
+      <jump line="183" column="14" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text>add</text>
       </register>
       <register name="0" type="4">
-        <text>ADDRESS</text>
+        <text>reset_invalid_batch</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgkJdGVzdCB2YXJjaGFyMiA6PSBudQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CS0tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS0tICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmVxdWlyZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByb2NlZHVyZSByZXNldF9pbnZhbGlkX2JhdGNoKAoJCWJhdGNoX25vIGN1c3RvbWVycy5BRERSRVNTJXR5cGUsCgkJbmV3X2Rlc2MgY3VzdG9tZXJzLkFERFJFU1MldHlwZSA6PSBudWxsCgkpIGFzCgkJZGVzY3JpcHRpb24gQ1VTVE9NRVJTLkFERFJFU1MldHlwZSA6PSBuZXdfZGVzYzsKCWJlZ2luCgoJZW5kOwo=</text>
+        <text encoding="base64">CS0tCVJ1biBPdmVyIEFjY291bnRfQWN0aXZpdHkgcm93cyBhbmQgbWFrZSBzdXJlIHRoZWlyIHRyYW5zYWN0aW9uX25vIG1hdGNoZXMKCS0tCWl0cyBlcXVpdmFsZW50IGluIHRoZSBzb3VyY2UgdGFibGVzOiBnaWZ0LCByZXF1ZXN0ZWRfaXRlbSwgc3VydmV5X3Jlc3BvbnNlIGFuZCBjb3JyZXNwb25kZW5jZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByb2NlZHVyZSByZXNldF9pbnZhbGlkX2JhdGNoKGJhdGNoX25vIGJhdGNoLmJhdGNoX25vJXR5cGUsIG5ld19kZXNjIGJhdGNoLmJhdGNoX2Rlc2MldHlwZSA6PSBudWxsKSBhcwoJCWRlc2NyaXB0aW9uIGJhdGNoLmJhdGNoX2Rlc2MldHlwZSA6PSBuZXdfZGVzYzsKCWJlZ2luCgoJCWlmIGRlc2NyaXB0aW9uIGlzIG51bGwgdGhlbgoJCQlzZWxlY3QgYmF0Y2hfZGVzYyBpbnRvIGRlc2NyaXB0aW9uCgkJCWZyb20gYmF0Y2ggYgoJCQl3aGVyZSBiLmJhdGNoX25vID0gYmF0Y2hfbm87CgkJZW5kIGlmOwoKCQktLSBVcGRhdGUgQmF0Y2ggSGVhZGVyCgkJdXBkYXRlICBiYXRjaAoJCXNldCAgICAgYmF0Y2hfZGVzYyA9IGRlc2NyaXB0aW9uLAoJCSAgICAgICAgYXV0b3Byb2Nlc3NfZmxhZyA9ICdZJywKCQkgICAgICAgIGF1dG9wb3N0X2ZsYWcgPSAnWScKCQl3aGVyZSAgIGJhdGNoX25vID0gYmF0Y2hfbm87CgoJCS0tIFVwZGF0ZSBOZXcgQWNjb3VudHMgUm93CgkJdXBkYXRlICBuZXdfYWNjb3VudHMKCQlzZXQgICAgIHN0YXR1c19jb2RlID0gJ05BX05FVycsCgkJICAgICAgICBhdXRvcHJvY2Vzc19mbGFnID0gbnVsbCwKCQkgICAgICAgIGF1dG9wcm9jZXNzX2NvZGUgPSBudWxsCgkJd2hlcmUgICBiYXRjaF9ubyA9IGJhdGNoX25vCgkJICBhbmQgc3RhdHVzX2NvZGUgPD4gJ05BX0RPTkUnOwoKCWVuZDsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlpZiBkZXNjcmlwdGlvbiBpcyBudWxsCgkJdGhlbgoJCQlzZWxlY3QgYmF0Y2hfZGVzYwoJCQlpbnRvIGRlc2NyaXB0aW9uCgkJCWZyb20gYmF0Y2ggYgoJCQl3aGVyZSBiLmJhdGNoX25vID0gYmF0Y2hfbm87CgkJZW5kIGlmOwoKCQktLSBVcGRhdGUgQmF0Y2ggSGVhZGVyCgkJdXBkYXRlIGJhdGNoCgkJc2V0IGJhdGNoX2Rlc2MgICAgICAgPSAnQXV0b3Byb2Nlc3MtQWN0ZW5nYWdlIENhbXBhaWduIFJlc3BvbnNlLTAkJywKCQkgICAgYXV0b3Byb2Nlc3NfZmxhZyA9ICdZJywKCQkgICAgYXV0b3Bvc3RfZmxhZyAgICA9ICdZJwoJCXdoZXJlIGJhdGNoX25vID0gYmF0Y2hfbm87CgoJCS0tIFVwZGF0ZSBOZXcgQWNjb3VudHMgUm93CgkJdXBkYXRlIG5ld19hY2NvdW50cwoJCXNldCBzdGF0dXNfY29kZSAgICAgID0gJ05BX05FVycsCgkJICAgIGF1dG9wcm9jZXNzX2ZsYWcgPSBudWxsLAoJCSAgICBhdXRvcHJvY2Vzc19jb2RlID0gbnVsbAoJCXdoZXJlIGJhdGNoX25vID0gYmF0Y2hfbm8KCQkgIGFuZCBzdGF0dXNfY29kZSA8PiAnTkFfRE9ORSc7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgkJdGVzdCB2YXJjaGFyMiA6PSBudQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZiByZWNvcmQuZGVwZW5kYW50cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByb2NlZHVyZSByZXNldF9pbnZhbGlkX2JhdGNoKAoJCWJhdGNoX25vIGN1c3RvbWVycy5BRERSRVNTJXR5cGUsCgkJbmV3X2Rlc2MgY3VzdG9tZXJzLkFERFJFU1MldHlwZSA6PSBudWxsCgkpIGFzCgkJZGVzY3JpcHRpb24gQ1VTVE9NRVJTLkFERFJFU1MldHlwZSA6PSBuZXdfZGVzYzsKCWJlZ2luCgoJZW5kOwo=</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
@@ -364,9 +368,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>body</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IG1peGVkIFwx</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
