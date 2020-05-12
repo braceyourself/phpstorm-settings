@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getKey</entry>
         <entry>email</entry>
         <entry>vendorData</entry>
         <entry>vendordata</entry>
@@ -25,6 +24,7 @@
         <entry>where</entry>
         <entry>wheren</entry>
         <entry>where(</entry>
+        <entry>function</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXHMuKi8nXDEnID0+ICR0aGlzLT5cMS8=</entry>
@@ -160,12 +160,12 @@
       <file name="/a.sql" timestamp="1589295399677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" timestamp="1589302051702">
-        <mark key="'" line="117" column="20" />
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="55" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="12" column="54" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" timestamp="1589303418483">
+        <mark key="'" line="19" column="25" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="9" column="55" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Quorum/Resource.php" timestamp="1589296595773">
         <mark key="[" line="6" column="0" />
@@ -233,19 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="63" filename="$USER_HOME$/code/api-frc-org/app/FrcAction/NewAccount.php" />
-      <jump line="47" column="15" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" />
-      <jump line="190" column="4" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" />
-      <jump line="90" column="36" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" />
-      <jump line="94" column="18" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Acquisition.php" />
-      <jump line="84" column="18" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Acquisition.php" />
-      <jump line="12" column="6" filename="$USER_HOME$/code/api-frc-org/app/Nova/Lenses/Actengage/InvalidNewAccountDataLens.php" />
-      <jump line="55" column="23" filename="$USER_HOME$/code/api-frc-org/app/Nova/Lenses/Actengage/InvalidNewAccountDataLens.php" />
-      <jump line="9" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
-      <jump line="10" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
-      <jump line="57" column="5" filename="$USER_HOME$/code/api-frc-org/app/User.php" />
-      <jump line="111" column="39" filename="$USER_HOME$/code/api-frc-org/app/User.php" />
-      <jump line="112" column="20" filename="$USER_HOME$/code/api-frc-org/app/User.php" />
       <jump line="113" column="23" filename="$USER_HOME$/code/api-frc-org/app/User.php" />
       <jump line="14" column="32" filename="$USER_HOME$/code/api-frc-org/app/User.php" />
       <jump line="27" column="59" filename="$USER_HOME$/code/api-frc-org/app/User.php" />
@@ -332,49 +319,62 @@
       <jump line="96" column="37" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
       <jump line="105" column="0" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
       <jump line="113" column="0" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
-      <jump line="117" column="20" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="15" column="0" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="117" column="29" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="138" column="11" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="152" column="11" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="169" column="11" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="10" column="4" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="20" column="11" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="29" column="11" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="44" column="11" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="56" column="11" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="78" column="11" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="95" column="30" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="111" column="29" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="19" column="25" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>Builder</text>
+      <register name="+" type="2">
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGZvb1xmdW5jOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Builder</text>
       </register>
       <register name="/" type="4">
-        <text>where(</text>
+        <text>function</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogR2V0IGEgbmV3IHF1ZXJ5IGJ1aWxkZXIgZm9yIHRoZSBtb2RlbCdzIHRhYmxlLgogICAgICoKICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcgogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gQnVpbGRlcgo=</text>
+        <text encoding="base64">dXNlIGZ1bmN0aW9uIGZvb1xmdW5jOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFwKCwgZnVuY3Rpb24gKEFwaVZlbmRvckRhdGFRdWVyeUJ1aWxkZXIgJHF1ZXJ5KSB7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXERCOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT5zZXRNb2RlbChuZXcgc3RhdGljKCkpOwogICAgICAgICAgICAkcXVlcnktPndpdGgoWydwYXJlbnQnLCAuLi4kdGhpcy0+d2l0aF0pOwogICAgICAgICAgICAkcXVlcnktPndoZXJlKCdhcGlfdmVuZG9yX2RhdGEubW9kZWwnLCBzdGF0aWM6OmNsYXNzKTsK</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcTW9iaWxlY2F1c2VcVHJhbnNhY3Rpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IENhcmJvbkludGVyZmFjZXxcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxIaWdoZXJPcmRlckJ1aWxkZXJQcm94eXxtaXhlZCBzdGFydF9kYXRlCg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gQnVpbGRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWx0ZXJzXEZpbHRlcjsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFwKCwgZnVuY3Rpb24gKEFwaVZlbmRvckRhdGFRdWVyeUJ1aWxkZXIgJHF1ZXJ5KSB7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcTnVtYmVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHF1ZXJ5LT5zZXRNb2RlbChuZXcgc3RhdGljKCkpOwogICAgICAgICAgICAkcXVlcnktPndpdGgoWydwYXJlbnQnLCAuLi4kdGhpcy0+d2l0aF0pOwogICAgICAgICAgICAkcXVlcnktPndoZXJlKCdhcGlfdmVuZG9yX2RhdGEubW9kZWwnLCBzdGF0aWM6OmNsYXNzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcQmVsb25nc1RvOwp1c2UgTGFyYXZlbFxOb3ZhXEZpZWxkc1xCb29sZWFuOwp1c2UgTGFyYXZlbFxOb3ZhXEZpZWxkc1xEYXRlOwo=</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IENhcmJvbkludGVyZmFjZXxcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxIaWdoZXJPcmRlckJ1aWxkZXJQcm94eXxtaXhlZCBzdGFydF9kYXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxOb3ZhXEFwaURhdGFcTW9iaWxlY2F1c2VcUGVyc29uOwp1c2UgQXBwXE5vdmFcRmlsdGVyc1xGaWVsZEZpbHRlcjsK</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWx0ZXJzXEZpbHRlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQnVpbGQgYW4gImluZGV4IiBxdWVyeSBmb3IgdGhlIGdpdmVuIHJlc291cmNlLgogICAgICoKICAgICAqIEBwYXJhbSAgXExhcmF2ZWxcTm92YVxIdHRwXFJlcXVlc3RzXE5vdmFSZXF1ZXN0ICAkcmVxdWVzdAogICAgICogQHBhcmFtICBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyICAkcXVlcnkKICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIGluZGV4UXVlcnkoTm92YVJlcXVlc3QgJHJlcXVlc3QsICRxdWVyeSkKICAgIHsKICAgICAgICByZXR1cm4gJHF1ZXJ5OwogICAgfQoKICAgIC8qKgogICAgICogQnVpbGQgYSBTY291dCBzZWFyY2ggcXVlcnkgZm9yIHRoZSBnaXZlbiByZXNvdXJjZS4KICAgICAqCiAgICAgKiBAcGFyYW0gIFxMYXJhdmVsXE5vdmFcSHR0cFxSZXF1ZXN0c1xOb3ZhUmVxdWVzdCAgJHJlcXVlc3QKICAgICAqIEBwYXJhbSAgXExhcmF2ZWxcU2NvdXRcQnVpbGRlciAgJHF1ZXJ5CiAgICAgKiBAcmV0dXJuIFxMYXJhdmVsXFNjb3V0XEJ1aWxkZXIKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBzY291dFF1ZXJ5KE5vdmFSZXF1ZXN0ICRyZXF1ZXN0LCAkcXVlcnkpCiAgICB7CiAgICAgICAgcmV0dXJuICRxdWVyeTsKICAgIH0KCiAgICAvKioKICAgICAqIEJ1aWxkIGEgImRldGFpbCIgcXVlcnkgZm9yIHRoZSBnaXZlbiByZXNvdXJjZS4KICAgICAqCiAgICAgKiBAcGFyYW0gIFxMYXJhdmVsXE5vdmFcSHR0cFxSZXF1ZXN0c1xOb3ZhUmVxdWVzdCAgJHJlcXVlc3QKICAgICAqIEBwYXJhbSAgXElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlciAgJHF1ZXJ5CiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXIKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBkZXRhaWxRdWVyeShOb3ZhUmVxdWVzdCAkcmVxdWVzdCwgJHF1ZXJ5KQogICAgewogICAgICAgIHJldHVybiBwYXJlbnQ6OmRldGFpbFF1ZXJ5KCRyZXF1ZXN0LCAkcXVlcnkpOwogICAgfQoKICAgIC8qKgogICAgICogQnVpbGQgYSAicmVsYXRhYmxlIiBxdWVyeSBmb3IgdGhlIGdpdmVuIHJlc291cmNlLgogICAgICoKICAgICAqIFRoaXMgcXVlcnkgZGV0ZXJtaW5lcyB3aGljaCBpbnN0YW5jZXMgb2YgdGhlIG1vZGVsIG1heSBiZSBhdHRhY2hlZCB0byBvdGhlciByZXNvdXJjZXMuCiAgICAgKgogICAgICogQHBhcmFtICBcTGFyYXZlbFxOb3ZhXEh0dHBcUmVxdWVzdHNcTm92YVJlcXVlc3QgICRyZXF1ZXN0CiAgICAgKiBAcGFyYW0gIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXIgICRxdWVyeQogICAgICogQHJldHVybiBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxCdWlsZGVyCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gcmVsYXRhYmxlUXVlcnkoTm92YVJlcXVlc3QgJHJlcXVlc3QsICRxdWVyeSkKICAgIHsKICAgICAgICByZXR1cm4gcGFyZW50OjpyZWxhdGFibGVRdWVyeSgkcmVxdWVzdCwgJHF1ZXJ5KTsKICAgIH0K</text>
+        <text encoding="base64">dXNlIExhcmF2ZWxcTm92YVxGaWVsZHNcTnVtYmVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>146</text>
@@ -383,9 +383,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>where(</last-search>
+      <last-search>function</last-search>
       <last-offset />
-      <last-pattern>where(</last-pattern>
+      <last-pattern>function</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IG1peGVkIFwx</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
