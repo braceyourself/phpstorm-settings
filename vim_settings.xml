@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>query</entry>
         <entry>\(.*\)</entry>
         <entry>set</entry>
         <entry>attrib</entry>
@@ -25,6 +24,7 @@
         <entry>recemp</entry>
         <entry>body</entry>
         <entry>add</entry>
+        <entry>case</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXHMuKi9wdWJsaWMgZnVuY3Rpb24gZ2V0VmRhXDFBdHRyaWJ1dGUoKTsv</entry>
@@ -134,7 +134,7 @@
       <file name="/api_frc_org.roles" timestamp="1589204321790">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1589244545070">
+      <file name="/console" timestamp="1589252668861">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/roles [API server]" timestamp="1589204321774">
@@ -143,15 +143,12 @@
       <file name="/a.sql" timestamp="1589245229195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/api_frc_org.users" timestamp="1589204302516">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/plsql-training/project_files/EmpPayCut.sql" timestamp="1589244444567">
+      <file name="$USER_HOME$/code/plsql-training/project_files/EmpPayCut.sql" timestamp="1589252847607">
         <mark key="'" line="7" column="4" />
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
-        <mark key="^" line="13" column="27" />
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="39" column="16" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="39" column="16" />
       </file>
       <file name="/Dummy.txt" timestamp="1589226457434">
         <mark key="[" line="0" column="0" />
@@ -162,8 +159,11 @@
         <mark key="^" line="82" column="58" />
         <mark key="." line="82" column="57" />
       </file>
-      <file name="/EMPLOYEE [@localhost]" timestamp="1589228293259">
+      <file name="/EMPLOYEE [@localhost]" timestamp="1589252666579">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/plsql-training/B02-Begin.sql" timestamp="1589252840941">
+        <mark key="'" line="82" column="1" />
       </file>
       <file name="/api_frc_org.model_has_roles" timestamp="1589204421487">
         <mark key="[" line="0" column="0" />
@@ -178,10 +178,10 @@
       <file name="/FRC.ACTENGAGE_DATA_LOAD" timestamp="1589244542891">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ETHAN.EMPLOYEE" timestamp="1589228293273">
+      <file name="/ETHAN.EMPLOYEE" timestamp="1589252666740">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1589244542919">
+      <file name="/foo.bar" timestamp="1589252666823">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/Role.php" timestamp="1589217512179">
@@ -218,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="29" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" />
       <jump line="55" column="36" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" />
       <jump line="34" column="17" filename="$USER_HOME$/code/api-frc-org/app/Nova/Actions/NewAccounts/FixNewAccountData.php" />
       <jump line="12" column="36" filename="$USER_HOME$/code/api-frc-org/app/Nova/Actions/NewAccounts/FixNewAccountData.php" />
@@ -318,48 +317,49 @@
       <jump line="11" column="34" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
       <jump line="183" column="14" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
       <jump line="13" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/batch_mgmt.sql" />
+      <jump line="82" column="1" filename="$USER_HOME$/code/plsql-training/B02-Begin.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>19</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>19</text>
       </register>
       <register name="/" type="4">
-        <text>add</text>
+        <text>case</text>
       </register>
       <register name="0" type="4">
         <text>reset_invalid_batch</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS0tICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CQljdXRfYW1vdW50IDo9IHJlY29yZC5kYXRhLlNBTEFSWSAqIC4xMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcmVxdWlyZWQK</text>
+        <text encoding="base64">CS0tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS0tCVJ1biBPdmVyIEFjY291bnRfQWN0aXZpdHkgcm93cyBhbmQgbWFrZSBzdXJlIHRoZWlyIHRyYW5zYWN0aW9uX25vIG1hdGNoZXMKCS0tCWl0cyBlcXVpdmFsZW50IGluIHRoZSBzb3VyY2UgdGFibGVzOiBnaWZ0LCByZXF1ZXN0ZWRfaXRlbSwgc3VydmV5X3Jlc3BvbnNlIGFuZCBjb3JyZXNwb25kZW5jZQo=</text>
+        <text encoding="base64">CS0tICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByb2NlZHVyZSByZXNldF9pbnZhbGlkX2JhdGNoKGJhdGNoX25vIGJhdGNoLmJhdGNoX25vJXR5cGUsIG5ld19kZXNjIGJhdGNoLmJhdGNoX2Rlc2MldHlwZSA6PSBudWxsKSBhcwoJCWRlc2NyaXB0aW9uIGJhdGNoLmJhdGNoX2Rlc2MldHlwZSA6PSBuZXdfZGVzYzsKCWJlZ2luCgoJCWlmIGRlc2NyaXB0aW9uIGlzIG51bGwgdGhlbgoJCQlzZWxlY3QgYmF0Y2hfZGVzYyBpbnRvIGRlc2NyaXB0aW9uCgkJCWZyb20gYmF0Y2ggYgoJCQl3aGVyZSBiLmJhdGNoX25vID0gYmF0Y2hfbm87CgkJZW5kIGlmOwoKCQktLSBVcGRhdGUgQmF0Y2ggSGVhZGVyCgkJdXBkYXRlICBiYXRjaAoJCXNldCAgICAgYmF0Y2hfZGVzYyA9IGRlc2NyaXB0aW9uLAoJCSAgICAgICAgYXV0b3Byb2Nlc3NfZmxhZyA9ICdZJywKCQkgICAgICAgIGF1dG9wb3N0X2ZsYWcgPSAnWScKCQl3aGVyZSAgIGJhdGNoX25vID0gYmF0Y2hfbm87CgoJCS0tIFVwZGF0ZSBOZXcgQWNjb3VudHMgUm93CgkJdXBkYXRlICBuZXdfYWNjb3VudHMKCQlzZXQgICAgIHN0YXR1c19jb2RlID0gJ05BX05FVycsCgkJICAgICAgICBhdXRvcHJvY2Vzc19mbGFnID0gbnVsbCwKCQkgICAgICAgIGF1dG9wcm9jZXNzX2NvZGUgPSBudWxsCgkJd2hlcmUgICBiYXRjaF9ubyA9IGJhdGNoX25vCgkJICBhbmQgc3RhdHVzX2NvZGUgPD4gJ05BX0RPTkUnOwoKCWVuZDsK</text>
+        <text encoding="base64">CQkJcmVxdWlyZWQK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgkJdGVzdCB2YXJjaGFyMiA6PSBudQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CS0tCVJ1biBPdmVyIEFjY291bnRfQWN0aXZpdHkgcm93cyBhbmQgbWFrZSBzdXJlIHRoZWlyIHRyYW5zYWN0aW9uX25vIG1hdGNoZXMKCS0tCWl0cyBlcXVpdmFsZW50IGluIHRoZSBzb3VyY2UgdGFibGVzOiBnaWZ0LCByZXF1ZXN0ZWRfaXRlbSwgc3VydmV5X3Jlc3BvbnNlIGFuZCBjb3JyZXNwb25kZW5jZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByb2NlZHVyZSByZXNldF9pbnZhbGlkX2JhdGNoKGJhdGNoX25vIGJhdGNoLmJhdGNoX25vJXR5cGUsIG5ld19kZXNjIGJhdGNoLmJhdGNoX2Rlc2MldHlwZSA6PSBudWxsKSBhcwoJCWRlc2NyaXB0aW9uIGJhdGNoLmJhdGNoX2Rlc2MldHlwZSA6PSBuZXdfZGVzYzsKCWJlZ2luCgoJCWlmIGRlc2NyaXB0aW9uIGlzIG51bGwgdGhlbgoJCQlzZWxlY3QgYmF0Y2hfZGVzYyBpbnRvIGRlc2NyaXB0aW9uCgkJCWZyb20gYmF0Y2ggYgoJCQl3aGVyZSBiLmJhdGNoX25vID0gYmF0Y2hfbm87CgkJZW5kIGlmOwoKCQktLSBVcGRhdGUgQmF0Y2ggSGVhZGVyCgkJdXBkYXRlICBiYXRjaAoJCXNldCAgICAgYmF0Y2hfZGVzYyA9IGRlc2NyaXB0aW9uLAoJCSAgICAgICAgYXV0b3Byb2Nlc3NfZmxhZyA9ICdZJywKCQkgICAgICAgIGF1dG9wb3N0X2ZsYWcgPSAnWScKCQl3aGVyZSAgIGJhdGNoX25vID0gYmF0Y2hfbm87CgoJCS0tIFVwZGF0ZSBOZXcgQWNjb3VudHMgUm93CgkJdXBkYXRlICBuZXdfYWNjb3VudHMKCQlzZXQgICAgIHN0YXR1c19jb2RlID0gJ05BX05FVycsCgkJICAgICAgICBhdXRvcHJvY2Vzc19mbGFnID0gbnVsbCwKCQkgICAgICAgIGF1dG9wcm9jZXNzX2NvZGUgPSBudWxsCgkJd2hlcmUgICBiYXRjaF9ubyA9IGJhdGNoX25vCgkJICBhbmQgc3RhdHVzX2NvZGUgPD4gJ05BX0RPTkUnOwoKCWVuZDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgkJdGVzdCB2YXJjaGFyMiA6PSBudQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByb2NlZHVyZSByZXNldF9pbnZhbGlkX2JhdGNoKAoJCWJhdGNoX25vIGN1c3RvbWVycy5BRERSRVNTJXR5cGUsCgkJbmV3X2Rlc2MgY3VzdG9tZXJzLkFERFJFU1MldHlwZSA6PSBudWxsCgkpIGFzCgkJZGVzY3JpcHRpb24gQ1VTVE9NRVJTLkFERFJFU1MldHlwZSA6PSBuZXdfZGVzYzsKCWJlZ2luCgoJZW5kOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -368,9 +368,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>add</last-search>
+      <last-search>case</last-search>
       <last-offset />
-      <last-pattern>add</last-pattern>
+      <last-pattern>case</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IG1peGVkIFwx</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
