@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>\(.*\)</entry>
-        <entry>set</entry>
-        <entry>attrib</entry>
         <entry>newQuery</entry>
         <entry>hasOne</entry>
         <entry>refresh(</entry>
@@ -24,7 +21,10 @@
         <entry>recemp</entry>
         <entry>body</entry>
         <entry>add</entry>
+        <entry>rownum</entry>
+        <entry>cut_amount</entry>
         <entry>case</entry>
+        <entry>commit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXHMuKi9wdWJsaWMgZnVuY3Rpb24gZ2V0VmRhXDFBdHRyaWJ1dGUoKTsv</entry>
@@ -134,25 +134,6 @@
       <file name="/b3" timestamp="1589294058093">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/config/database.php" timestamp="1589289372234" />
-      <file name="/console" timestamp="1589290093572">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Items/Item.php" timestamp="1589289054610">
-        <mark key="[" line="42" column="86" />
-        <mark key="]" line="42" column="86" />
-        <mark key="." line="42" column="86" />
-      </file>
-      <file name="$USER_HOME$/code/plsql-training/project_files/B3/EmpSal.sql" timestamp="1589294387513">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/.env" timestamp="1589289438715" />
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Resource.php" timestamp="1589288763305" />
-      <file name="/a.sql" timestamp="1589294116222">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/code/plsql-training/project_files/EmpPayCut.sql" timestamp="1589290110023">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="37" column="13" />
@@ -163,13 +144,10 @@
       <file name="/Dummy.txt" timestamp="1589294116241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/User.php" timestamp="1589288357695">
-        <mark key="[" line="82" column="44" />
-        <mark key="]" line="82" column="44" />
-        <mark key="^" line="82" column="59" />
-        <mark key="." line="82" column="44" />
+      <file name="/console" timestamp="1589294453087">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/EMPLOYEE [@localhost]" timestamp="1589294234579">
+      <file name="/EMPLOYEE [@localhost]" timestamp="1589294453012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" timestamp="1589293547577">
@@ -179,7 +157,28 @@
         <mark key="^" line="142" column="16" />
         <mark key="." line="142" column="15" />
       </file>
-      <file name="/ETHAN.EMPLOYEE" timestamp="1589294234608">
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Items/Item.php" timestamp="1589289054610">
+        <mark key="[" line="42" column="86" />
+        <mark key="]" line="42" column="86" />
+        <mark key="." line="42" column="86" />
+      </file>
+      <file name="$USER_HOME$/code/plsql-training/B02-Begin.sql" timestamp="1589294656430">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="200" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/plsql-training/project_files/B3/EmpSal.sql" timestamp="1589294469914">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" timestamp="1589295350577">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="52" column="58" />
+        <mark key="]" line="52" column="58" />
+        <mark key="^" line="52" column="65" />
+        <mark key="." line="52" column="58" />
+      </file>
+      <file name="/ETHAN.EMPLOYEE" timestamp="1589294453018">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/plsql-training/project_files/b3.sql" timestamp="1589294297543">
@@ -189,54 +188,26 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="/foo.bar" timestamp="1589294234631">
+      <file name="$USER_HOME$/code/plsql-training/project_files/B2/EmpPayCut.sql" timestamp="1589294947144">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="11" />
+      </file>
+      <file name="/a.sql" timestamp="1589295360612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Role.php" timestamp="1589288399885">
-        <mark key="[" line="26" column="28" />
-        <mark key="]" line="26" column="32" />
-        <mark key="^" line="26" column="32" />
-        <mark key="." line="26" column="31" />
+      <file name="/foo.bar" timestamp="1589294453019">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/FrcAction/Test.php" timestamp="1589289349183" />
       <file name="$USER_HOME$/code/plsql-training/B03-Exception.sql" timestamp="1589293981735">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="223" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/config/oracle.php" timestamp="1589289524069" />
     </filemarks>
     <jumps>
-      <jump line="263" column="32" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="238" column="1914" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="245" column="15" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="253" column="22" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="0" column="3" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
-      <jump line="256" column="31" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="50" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="257" column="29" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
-      <jump line="1" column="77" filename="$USER_HOME$/code/api-frc-org/app/FrcAction/VendorDataArchive.php" />
-      <jump line="70" column="32" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="101" column="22" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="132" column="14" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="134" column="21" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="138" column="86" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="143" column="14" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="164" column="14" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="185" column="14" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="211" column="14" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="215" column="43" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="230" column="43" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="38" column="26" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="64" column="55" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
-      <jump line="21" column="15" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
-      <jump line="121" column="49" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
-      <jump line="108" column="4" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
-      <jump line="145" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
-      <jump line="151" column="4" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
-      <jump line="142" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
-      <jump line="2888" column="24" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="76" column="24" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
       <jump line="49" column="5" filename="$USER_HOME$/code/api-frc-org/app/Traits/CompositeKey.php" />
       <jump line="67" column="0" filename="$USER_HOME$/code/api-frc-org/app/Traits/CompositeKey.php" />
       <jump line="69" column="38" filename="$USER_HOME$/code/api-frc-org/app/Traits/CompositeKey.php" />
@@ -307,48 +278,78 @@
       <jump line="7" column="0" filename="$USER_HOME$/code/plsql-training/B03-Exception.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/B03-Exception.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/project_files/b3.sql" />
+      <jump line="78" column="2" filename="$USER_HOME$/code/plsql-training/project_files/B2/EmpPayCut.sql" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="22" column="9" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="9" column="4" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/plsql-training/project_files/B2/EmpPayCut.sql" />
+      <jump line="36" column="16" filename="$USER_HOME$/code/plsql-training/project_files/B2/EmpPayCut.sql" />
+      <jump line="49" column="10" filename="$USER_HOME$/code/plsql-training/project_files/B2/EmpPayCut.sql" />
+      <jump line="6" column="0" filename="$USER_HOME$/code/plsql-training/project_files/B2/EmpPayCut.sql" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/plsql-training/project_files/B2/EmpPayCut.sql" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/plsql-training/project_files/B2/EmpPayCut.sql" />
+      <jump line="24" column="8" filename="$USER_HOME$/code/plsql-training/project_files/B2/EmpPayCut.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/project_files/B2/EmpPayCut.sql" />
+      <jump line="29" column="31" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="24" column="26" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="25" column="37" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="3" column="8" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="41" column="41" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="30" column="57" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="4" column="8" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="37" column="8" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="38" column="50" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="51" column="10" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="53" column="23" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="36" column="22" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="52" column="58" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
+      <jump line="85" column="0" filename="$USER_HOME$/code/plsql-training/project_files/B3/EmpPayCut.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">LwoKZGVjbGFyZQoJZW1wcmVjb3JkICAgICAgIGVtcGxveWVlJXJvd3R5cGU7CgoJcGF5Y3V0ICAgICAgICAgIGVtcGxveWVlLnNhbGFyeSV0eXBlIDo9IDA7CglyZWR1Y3Rpb250YXJnZXQgZW1wbG95ZWUuc2FsYXJ5JXR5cGUgOj0gMTUwMDA7CglyZWR1Y3Rpb250b3RhbCAgZW1wbG95ZWUuc2FsYXJ5JXR5cGUgOj0gMDsKCglkZXBlbmRlbnRjb3VudCAgaW50ZWdlcjsKCWhhc2RlcGVuZGVudHMgICBib29sZWFuICAgICAgICAgICAgICA6PSBmYWxzZTsKCglob3Vyc3N1bSAgICAgICAgd29ya3Nfb24uaG91cnMldHlwZTsKCXdvcmtzaGFyZCAgICAgICBib29sZWFuICAgICAgICAgICAgICA6PSBmYWxzZTsKCmJlZ2luCgoJd2hpbGUgcmVkdWN0aW9udG90YWwgPCAxNTAwMAoJbG9vcAoJCXNlbGVjdCAqCgkJaW50byBlbXByZWNvcmQKCQlmcm9tIGVtcGxveWVlCgkJd2hlcmUgc2FsYXJ5ID0gKAoJCQlzZWxlY3QgbWF4KHNhbGFyeSkKCQkJZnJvbSBlbXBsb3llZSk7CgoJCXBheWN1dCA6PSBlbXByZWNvcmQuc2FsYXJ5ICogLjEwOwoKCQlzZWxlY3QgY291bnQoKikKCQlpbnRvIGRlcGVuZGVudGNvdW50CgkJZnJvbSBkZXBlbmRlbnQKCQl3aGVyZSBlc3NuID0gZW1wcmVjb3JkLnNzbjsKCgkJaGFzZGVwZW5kZW50cyA6PSAoZGVwZW5kZW50Y291bnQgPiAwKTsKCgkJc2VsZWN0IHN1bShob3VycykKCQlpbnRvIGhvdXJzc3VtCgkJZnJvbSB3b3Jrc19vbgoJCXdoZXJlIGVzc24gPSBlbXByZWNvcmQuc3NuOwoKCQl3b3Jrc2hhcmQgOj0gKGhvdXJzc3VtID4gNDApOwoKCQljYXNlCgkJCXdoZW4gaGFzZGVwZW5kZW50cyB0aGVuIHBheWN1dCA6PSBwYXljdXQgLSAxMDA7CgkJCXdoZW4gd29ya3NoYXJkIHRoZW4gcGF5Y3V0IDo9IHBheWN1dCAtIDUwOwoJCQllbHNlIG51bGw7CgkJZW5kIGNhc2U7CgoJCXVwZGF0ZSBlbXBsb3llZQoJCXNldCBzYWxhcnkgPSBzYWxhcnkgLSBwYXljdXQKCQl3aGVyZSBzc24gPSBlbXByZWNvcmQuc3NuOwoKCgkJLyoKICAgICAgICBpdCBzaG91bGQgYmUgc3VwZXJmbHVvdXMsIGJ1dCBqdXN0IHRvIGJlIHNhZmUsIGVuc3VyZSB0aGF0IG9ubHkgb25lIHJvdyB3YXMgaW4gZmFjdCB1cGRhdGVkIGJ5IHRoZSBsYXN0IHN0YXRlbWVudC4KICAgICAgICAqLwoJCWlmIHNxbCVyb3djb3VudCA9IDEKCQl0aGVuCgkJCWRibXNfb3V0cHV0LnB1dF9saW5lKCdzYWxhcnkgZm9yICcgfHwgZW1wcmVjb3JkLmxuYW1lIHx8ICcgJyB8fAoJCQkgICAgICAgICAgICAgICAgICAgICAncmVkdWNlZCBieSAkJyB8fCBwYXljdXQpOwoJCWVsc2UKCQkJZGJtc19vdXRwdXQucHV0X2xpbmUoJ2Vycm9yIHJlZHVjaW5nIHNhbGFyeS4gcm93cyB1cGRhdGVkOiAnIHx8CgkJCSAgICAgICAgICAgICAgICAgICAgIHNxbCVyb3djb3VudCk7CgkJZW5kIGlmOwoKCQlyZWR1Y3Rpb250b3RhbCA6PSByZWR1Y3Rpb250b3RhbCArIHBheWN1dDsKCQlyZWR1Y3Rpb250YXJnZXQgOj0gcmVkdWN0aW9udGFyZ2V0IC0gcGF5Y3V0OwoKCQloYXNkZXBlbmRlbnRzIDo9IGZhbHNlOwoJCXdvcmtzaGFyZCA6PSBmYWxzZTsKCWVuZCBsb29wOwoKCWRibXNfb3V0cHV0LnB1dF9saW5lKCd0b3RhbCBzYWxhcnkgcmVkdWN0aW9uOiAnIHx8IHJlZHVjdGlvbnRvdGFsKTsKCglpZiByZWR1Y3Rpb250YXJnZXQgPCAwCgl0aGVuCgkJZGJtc19vdXRwdXQucHV0X2xpbmUoJ3RvdGFsIHJlZHVjdGlvbnMgZXhjZWVkZWQgdGFyZ2V0IGJ5OiAnIHx8CgkJICAgICAgICAgICAgICAgICAgICAgYWJzKHJlZHVjdGlvbnRhcmdldCkpOwoJZW5kIGlmOwoKZXhjZXB0aW9uCgl3aGVuIG5vX2RhdGFfZm91bmQgdGhlbgoJCWRibXNfb3V0cHV0LnB1dF9saW5lKCdubyBlbXBsb3llZSBmb3VuZCwgcHJvZ3JhbSBlbmRpbmcnKTsKCgl3aGVuIHRvb19tYW55X3Jvd3MgdGhlbgoJCWRibXNfb3V0cHV0LnB1dF9saW5lKCdtdWx0aXBsZSBlbXBsb3llZXMgd2l0aCBzYW1lIHRvcCBwYXkuIHVuYWJsZSB0byBkZWNpZGUsIHByb2dyYW0gZW5kaW5nJyk7CgoJd2hlbiBvdGhlcnMgdGhlbgoJCWRibXNfb3V0cHV0LnB1dF9saW5lKCd1bmtub3duIGVycm9yLCBkZXRhaWxzIGJlbG93Jyk7CgkJZGJtc19vdXRwdXQucHV0X2xpbmUoJ2Vycm9yIGNvZGU6ICcgfHwgc3FsY29kZSk7CgkJZGJtc19vdXRwdXQucHV0X2xpbmUoJ2Vycm9yIG1lc3NhZ2U6ICcgfHwgc3FsZXJybSk7CgplbmQ7Cg==</text>
+      <register name="+" type="4">
+        <text>.data</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JnByb21wdF9mb3Jfc3Nu</text>
+        <text>.data</text>
       </register>
       <register name="/" type="4">
-        <text>case</text>
+        <text>commit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LyogCkNvcHlyaWdodCAoYykgMjAxMyBTaWRlcmlzIENvdXJzZXdhcmUgQ29ycG9yYXRpb24uIEFsbCBSaWdodHMgUmVzZXJ2ZWQuCkVhY2ggaW5zdHJ1Y3RvciBvciBzdHVkZW50IHdpdGggYWNjZXNzIHRvIHRoaXMgZmlsZSBtdXN0IGhhdmUgcHVyY2hhc2VkCmEgbGljZW5zZSB0byB0aGUgY29ycmVzcG9uZGluZyBTaWRlcmlzIENvdXJzZXdhcmUgdGV4dGJvb2sgdG8gd2hpY2ggCnRoZXNlIGZpbGVzIGFwcGx5LiBBbGwgb3RoZXIgdXNlLCBicm9hZGNhc3QsIHdlYmNhc3QsIGR1cGxpY2F0aW9uIG9yIGRpc3RyaWJ1dGlvbgppcyBwcm9oaWJpdGVkIGFuZCBpbGxlZ2FsLgoqLwoKUkVNIEVYQ0VQVElPTi0xCkRFQ0xBUkUKICAgICBFbXBTYWxhcnkgICAgIE5VTUJFUig4KTsKCkJFR0lOCglTRUxFQ1QgIHNhbGFyeQoJSU5UTyAgICBFbXBTYWxhcnkKCUZST00gICAgZW1wbG95ZWUKCVdIRVJFICAgc3NuID0gJnByb21wdF9mb3Jfc3NuOwoKICBEQk1TX09VVFBVVC5QVVRfTElORSAoJ1NhbGFyeSBpcyAnIHx8IEVtcFNhbGFyeSk7CgpFWENFUFRJT04KV0hFTiBub19kYXRhX2ZvdW5kIFRIRU4KICBkYm1zX291dHB1dC5wdXRfbGluZSAoJ05vIGVtcGxveWVlIGZvdW5kLCBwcm9ncmFtIGVuZGluZycpOwoKV0hFTiB0b29fbWFueV9yb3dzIFRIRU4KICBkYm1zX291dHB1dC5wdXRfbGluZSAoJ011bHRpcGxlIGVtcGxveWVlcyBmb3VuZCwgcHJvZ3JhbSBlbmRpbmcnKTsKICAgIApXSEVOIE9USEVSUyBUSEVOCiAgZGJtc19vdXRwdXQucHV0X2xpbmUoJ1Vua25vd24gZXJyb3IsIGRldGFpbHMgYmVsb3cnKTsKICBkYm1zX291dHB1dC5wdXRfbGluZSgnRXJyb3IgY29kZTogJyB8fCBzcWxjb2RlKTsKICBkYm1zX291dHB1dC5wdXRfbGluZSgnRXJyb3IgbWVzc2FnZTogJyB8fCBzcWxlcnJtKTsJCQkJCQkKCkVORDsKLwoKUkVNIEVYQ0VQVElPTi0zCkRFQ0xBUkUKICBFbXBSZWNvcmQgICAgICAgICBlbXBsb3llZSVST1dUWVBFOwoKICBQYXlDdXQgICAgICAgICAgICBlbXBsb3llZS5zYWxhcnklVFlQRSA6PSAwOwogIFJlZHVjdGlvblRhcmdldCAgIGVtcGxveWVlLnNhbGFyeSVUWVBFIDo9IDE1MDAwOwogIFJlZHVjdGlvblRvdGFsICAgIGVtcGxveWVlLnNhbGFyeSVUWVBFIDo9IDA7CiAgCiAgRGVwZW5kZW50Q291bnQgICAgSU5URUdFUjsKICBIYXNEZXBlbmRlbnRzICAgICBCT09MRUFOIDo9IEZBTFNFOwoKICBIb3Vyc1N1bSAgICAgICAgICB3b3Jrc19vbi5ob3VycyVUWVBFOwogIFdvcmtzSGFyZCAgICAgICAgIEJPT0xFQU4gOj0gRkFMU0U7CgpCRUdJTgoKV0hJTEUgUmVkdWN0aW9uVG90YWwgPCAxNTAwMCBMT09QCiAgU0VMRUNUICoKICBJTlRPIEVtcFJlY29yZAogIEZST00gZW1wbG95ZWUKICBXSEVSRSBzYWxhcnkgPSAoU0VMRUNUIE1BWChzYWxhcnkpIEZST00gZW1wbG95ZWUpOwogIAogIFBheUN1dCA6PSBFbXBSZWNvcmQuc2FsYXJ5ICogLjEwOwoKICBTRUxFQ1QgQ09VTlQoKikKICBJTlRPIERlcGVuZGVudENvdW50CiAgRlJPTSBkZXBlbmRlbnQKICBXSEVSRSBlc3NuID0gRW1wUmVjb3JkLnNzbjsKICAKICBIYXNEZXBlbmRlbnRzIDo9IChEZXBlbmRlbnRDb3VudCA+IDApOwoKICBTRUxFQ1QgU1VNKGhvdXJzKQogIElOVE8gSG91cnNTdW0KICBGUk9NIHdvcmtzX29uCiAgV0hFUkUgZXNzbiA9IEVtcFJlY29yZC5zc247CgogIFdvcmtzSGFyZCA6PSAoSG91cnNTdW0gPiA0MCk7CiAKICBDQVNFCiAgICBXSEVOIEhhc0RlcGVuZGVudHMgVEhFTiBQYXlDdXQgOj0gUGF5Q3V0IC0gMTAwOwogICAgV0hFTiBXb3Jrc0hhcmQgVEhFTiBQYXlDdXQgOj0gUGF5Q3V0IC0gNTA7CiAgICBFTFNFIE5VTEw7CiAgRU5EIENBU0U7CgogIFVQREFURSBlbXBsb3llZQogIFNFVCBzYWxhcnkgPSBzYWxhcnkgLSBQYXlDdXQKICBXSEVSRSBzc24gPSBFbXBSZWNvcmQuc3NuOwoKCi8qCkl0IHNob3VsZCBiZSBzdXBlcmZsdW91cywgYnV0IGp1c3QgdG8gYmUgc2FmZSwgZW5zdXJlIHRoYXQgb25seSBvbmUgcm93IHdhcyBpbiBmYWN0IHVwZGF0ZWQgYnkgdGhlIGxhc3Qgc3RhdGVtZW50LgoqLwogIElGIFNRTCVST1dDT1VOVCA9IDEgVEhFTgogICAgZGJtc19vdXRwdXQucHV0X2xpbmUgKCdTYWxhcnkgZm9yICcgfHwgRW1wUmVjb3JkLkxOYW1lIHx8ICcgJyB8fAogICAgICAgICAgICAgICAgICAgICAgICAgICdyZWR1Y2VkIGJ5ICQnIHx8IFBheUN1dCk7CiAgRUxTRQogICAgZGJtc19vdXRwdXQucHV0X2xpbmUgKCdFcnJvciByZWR1Y2luZyBzYWxhcnkuIFJvd3MgdXBkYXRlZDogJyB8fAogICAgICAgICAgICAgICAgICAgICAgICAgIFNRTCVST1dDT1VOVCk7CiAgRU5EIElGOwoKICBSZWR1Y3Rpb25Ub3RhbCA6PSBSZWR1Y3Rpb25Ub3RhbCArIFBheUN1dDsKICBSZWR1Y3Rpb25UYXJnZXQgOj0gUmVkdWN0aW9uVGFyZ2V0IC0gUGF5Q3V0OwoKICBIYXNEZXBlbmRlbnRzIDo9IEZBTFNFOwogIFdvcmtzSGFyZCA6PSBGQUxTRTsKRU5EIExPT1A7CgogIGRibXNfb3V0cHV0LnB1dF9saW5lICgnVG90YWwgc2FsYXJ5IHJlZHVjdGlvbjogJyB8fCBSZWR1Y3Rpb25Ub3RhbCk7CgogIElGIFJlZHVjdGlvblRhcmdldCA8IDAgVEhFTgogICAgZGJtc19vdXRwdXQucHV0X2xpbmUgKCdUb3RhbCByZWR1Y3Rpb25zIGV4Y2VlZGVkIHRhcmdldCBieTogJyB8fAogICAgICAgICAgICAgICAgICAgICAgICAgIEFCUyhSZWR1Y3Rpb25UYXJnZXQpKTsKICBFTkQgSUY7CgpFWENFUFRJT04KV0hFTiBub19kYXRhX2ZvdW5kIFRIRU4KICBkYm1zX291dHB1dC5wdXRfbGluZSAoJ05vIGVtcGxveWVlIGZvdW5kLCBwcm9ncmFtIGVuZGluZycpOwoKV0hFTiB0b29fbWFueV9yb3dzIFRIRU4KICBkYm1zX291dHB1dC5wdXRfbGluZSAoJ011bHRpcGxlIGVtcGxveWVlcyB3aXRoIHNhbWUgdG9wIHBheS4gVW5hYmxlIHRvIGRlY2lkZSwgcHJvZ3JhbSBlbmRpbmcnKTsKICAgIApXSEVOIE9USEVSUyBUSEVOCiAgZGJtc19vdXRwdXQucHV0X2xpbmUoJ1Vua25vd24gZXJyb3IsIGRldGFpbHMgYmVsb3cnKTsKICBkYm1zX291dHB1dC5wdXRfbGluZSgnRXJyb3IgY29kZTogJyB8fCBzcWxjb2RlKTsKICBkYm1zX291dHB1dC5wdXRfbGluZSgnRXJyb3IgbWVzc2FnZTogJyB8fCBzcWxlcnJtKTsJCQkJCQkKCkVORDsKLwoKUkVNIEVYQ0VQVElPTi00CkRFQ0xBUkUKICBFbXBSZWNvcmQgICAgICAgICBlbXBsb3llZSVST1dUWVBFOwoKICBQYXlDdXQgICAgICAgICAgICBlbXBsb3llZS5zYWxhcnklVFlQRSA6PSAwOwogIFJlZHVjdGlvblRhcmdldCAgIGVtcGxveWVlLnNhbGFyeSVUWVBFIDo9IDE1MDAwOwogIFJlZHVjdGlvblRvdGFsICAgIGVtcGxveWVlLnNhbGFyeSVUWVBFIDo9IDA7CiAgCiAgRGVwZW5kZW50Q291bnQgICAgSU5URUdFUjsKICBIYXNEZXBlbmRlbnRzICAgICBCT09MRUFOIDo9IEZBTFNFOwoKICBIb3Vyc1N1bSAgICAgICAgICB3b3Jrc19vbi5ob3VycyVUWVBFOwogIFdvcmtzSGFyZCAgICAgICAgIEJPT0xFQU4gOj0gRkFMU0U7CgogIERheU9mTW9udGggICAgICAgIElOVEVHRVI7CiAgVG9vTGF0ZUluTW9udGggICAgRVhDRVBUSU9OOwoKQkVHSU4KICBTRUxFQ1QgVE9fQ0hBUihTWVNEQVRFLCAnREQnKQogIElOVE8gRGF5T2ZNb250aAogIEZST00gZHVhbDsKCiAgSUYgRGF5T2ZNb250aCA+IDI1IFRIRU4KICAgICBSYWlzZSBUb29MYXRlSW5Nb250aDsKICBFTkQgSUY7ICAKICAKV0hJTEUgUmVkdWN0aW9uVG90YWwgPCAxNTAwMCBMT09QCiAgU0VMRUNUICoKICBJTlRPIEVtcFJlY29yZAogIEZST00gZW1wbG95ZWUKICBXSEVSRSBzYWxhcnkgPSAoU0VMRUNUIE1BWChzYWxhcnkpIEZST00gZW1wbG95ZWUpOwogIAogIFBheUN1dCA6PSBFbXBSZWNvcmQuc2FsYXJ5ICogLjEwOwoKICBTRUxFQ1QgQ09VTlQoKikKICBJTlRPIERlcGVuZGVudENvdW50CiAgRlJPTSBkZXBlbmRlbnQKICBXSEVSRSBlc3NuID0gRW1wUmVjb3JkLnNzbjsKICAKICBIYXNEZXBlbmRlbnRzIDo9IChEZXBlbmRlbnRDb3VudCA+IDApOwoKICBTRUxFQ1QgU1VNKGhvdXJzKQogIElOVE8gSG91cnNTdW0KICBGUk9NIHdvcmtzX29uCiAgV0hFUkUgZXNzbiA9IEVtcFJlY29yZC5zc247CgogIFdvcmtzSGFyZCA6PSAoSG91cnNTdW0gPiA0MCk7CiAKICBDQVNFCiAgICBXSEVOIEhhc0RlcGVuZGVudHMgVEhFTiBQYXlDdXQgOj0gUGF5Q3V0IC0gMTAwOwogICAgV0hFTiBXb3Jrc0hhcmQgVEhFTiBQYXlDdXQgOj0gUGF5Q3V0IC0gNTA7CiAgICBFTFNFIE5VTEw7CiAgRU5EIENBU0U7CgogIFVQREFURSBlbXBsb3llZQogIFNFVCBzYWxhcnkgPSBzYWxhcnkgLSBQYXlDdXQKICBXSEVSRSBzc24gPSBFbXBSZWNvcmQuc3NuOwoKICBJRiBTUUwlUk9XQ09VTlQgPSAxIFRIRU4KICAgIGRibXNfb3V0cHV0LnB1dF9saW5lICgnU2FsYXJ5IGZvciAnIHx8IEVtcFJlY29yZC5MTmFtZSB8fCAnICcgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICAncmVkdWNlZCBieSAkJyB8fCBQYXlDdXQpOwogIEVMU0UKICAgIGRibXNfb3V0cHV0LnB1dF9saW5lICgnRXJyb3IgcmVkdWNpbmcgc2FsYXJ5LiBSb3dzIHVwZGF0ZWQ6ICcgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICBTUUwlUk9XQ09VTlQpOwogIEVORCBJRjsKCiAgUmVkdWN0aW9uVG90YWwgOj0gUmVkdWN0aW9uVG90YWwgKyBQYXlDdXQ7CiAgUmVkdWN0aW9uVGFyZ2V0IDo9IFJlZHVjdGlvblRhcmdldCAtIFBheUN1dDsKCiAgSGFzRGVwZW5kZW50cyA6PSBGQUxTRTsKICBXb3Jrc0hhcmQgOj0gRkFMU0U7CkVORCBMT09QOwoKICBkYm1zX291dHB1dC5wdXRfbGluZSAoJ1RvdGFsIHNhbGFyeSByZWR1Y3Rpb246ICcgfHwgUmVkdWN0aW9uVG90YWwpOwoKICBJRiBSZWR1Y3Rpb25UYXJnZXQgPCAwIFRIRU4KICAgIGRibXNfb3V0cHV0LnB1dF9saW5lICgnVG90YWwgcmVkdWN0aW9ucyBleGNlZWRlZCB0YXJnZXQgYnk6ICcgfHwKICAgICAgICAgICAgICAgICAgICAgICAgICBBQlMoUmVkdWN0aW9uVGFyZ2V0KSk7CiAgRU5EIElGOwoKRVhDRVBUSU9OCldIRU4gVG9vTGF0ZUluTW9udGggVEhFTgogIGRibXNfb3V0cHV0LnB1dF9saW5lICgnTm8gc2FsYXJ5IGNoYW5nZXMgcGVybWl0dGVkIGFmdGVyIHRoZSAyNXRoLCBwcm9ncmFtIGVuZGluZycpOwoKV0hFTiBub19kYXRhX2ZvdW5kIFRIRU4KICBkYm1zX291dHB1dC5wdXRfbGluZSAoJ05vIGVtcGxveWVlIGZvdW5kLCBwcm9ncmFtIGVuZGluZycpOwoKV0hFTiB0b29fbWFueV9yb3dzIFRIRU4KICBkYm1zX291dHB1dC5wdXRfbGluZSAoJ011bHRpcGxlIGVtcGxveWVlcyB3aXRoIHNhbWUgdG9wIHBheS4gVW5hYmxlIHRvIGRlY2lkZSwgcHJvZ3JhbSBlbmRpbmcnKTsKICAgIApXSEVOIE9USEVSUyBUSEVOCiAgZGJtc19vdXRwdXQucHV0X2xpbmUoJ1Vua25vd24gZXJyb3IsIGRldGFpbHMgYmVsb3cnKTsKICBkYm1zX291dHB1dC5wdXRfbGluZSgnRXJyb3IgY29kZTogJyB8fCBzcWxjb2RlKTsKICBkYm1zX291dHB1dC5wdXRfbGluZSgnRXJyb3IgbWVzc2FnZTogJyB8fCBzcWxlcnJtKTsJCQkJCQkKCkVORDsKLwoKCgo=</text>
+      <register name="0" type="4">
+        <text>amount := amount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LwoKZGVjbGFyZQoJZW1wcmVjb3JkICAgICAgIGVtcGxveWVlJXJvd3R5cGU7CgoJcGF5Y3V0ICAgICAgICAgIGVtcGxveWVlLnNhbGFyeSV0eXBlIDo9IDA7CglyZWR1Y3Rpb250YXJnZXQgZW1wbG95ZWUuc2FsYXJ5JXR5cGUgOj0gMTUwMDA7CglyZWR1Y3Rpb250b3RhbCAgZW1wbG95ZWUuc2FsYXJ5JXR5cGUgOj0gMDsKCglkZXBlbmRlbnRjb3VudCAgaW50ZWdlcjsKCWhhc2RlcGVuZGVudHMgICBib29sZWFuICAgICAgICAgICAgICA6PSBmYWxzZTsKCglob3Vyc3N1bSAgICAgICAgd29ya3Nfb24uaG91cnMldHlwZTsKCXdvcmtzaGFyZCAgICAgICBib29sZWFuICAgICAgICAgICAgICA6PSBmYWxzZTsKCmJlZ2luCgoJd2hpbGUgcmVkdWN0aW9udG90YWwgPCAxNTAwMAoJbG9vcAoJCXNlbGVjdCAqCgkJaW50byBlbXByZWNvcmQKCQlmcm9tIGVtcGxveWVlCgkJd2hlcmUgc2FsYXJ5ID0gKAoJCQlzZWxlY3QgbWF4KHNhbGFyeSkKCQkJZnJvbSBlbXBsb3llZSk7CgoJCXBheWN1dCA6PSBlbXByZWNvcmQuc2FsYXJ5ICogLjEwOwoKCQlzZWxlY3QgY291bnQoKikKCQlpbnRvIGRlcGVuZGVudGNvdW50CgkJZnJvbSBkZXBlbmRlbnQKCQl3aGVyZSBlc3NuID0gZW1wcmVjb3JkLnNzbjsKCgkJaGFzZGVwZW5kZW50cyA6PSAoZGVwZW5kZW50Y291bnQgPiAwKTsKCgkJc2VsZWN0IHN1bShob3VycykKCQlpbnRvIGhvdXJzc3VtCgkJZnJvbSB3b3Jrc19vbgoJCXdoZXJlIGVzc24gPSBlbXByZWNvcmQuc3NuOwoKCQl3b3Jrc2hhcmQgOj0gKGhvdXJzc3VtID4gNDApOwoKCQljYXNlCgkJCXdoZW4gaGFzZGVwZW5kZW50cyB0aGVuIHBheWN1dCA6PSBwYXljdXQgLSAxMDA7CgkJCXdoZW4gd29ya3NoYXJkIHRoZW4gcGF5Y3V0IDo9IHBheWN1dCAtIDUwOwoJCQllbHNlIG51bGw7CgkJZW5kIGNhc2U7CgoJCXVwZGF0ZSBlbXBsb3llZQoJCXNldCBzYWxhcnkgPSBzYWxhcnkgLSBwYXljdXQKCQl3aGVyZSBzc24gPSBlbXByZWNvcmQuc3NuOwoKCgkJLyoKICAgICAgICBpdCBzaG91bGQgYmUgc3VwZXJmbHVvdXMsIGJ1dCBqdXN0IHRvIGJlIHNhZmUsIGVuc3VyZSB0aGF0IG9ubHkgb25lIHJvdyB3YXMgaW4gZmFjdCB1cGRhdGVkIGJ5IHRoZSBsYXN0IHN0YXRlbWVudC4KICAgICAgICAqLwoJCWlmIHNxbCVyb3djb3VudCA9IDEKCQl0aGVuCgkJCWRibXNfb3V0cHV0LnB1dF9saW5lKCdzYWxhcnkgZm9yICcgfHwgZW1wcmVjb3JkLmxuYW1lIHx8ICcgJyB8fAoJCQkgICAgICAgICAgICAgICAgICAgICAncmVkdWNlZCBieSAkJyB8fCBwYXljdXQpOwoJCWVsc2UKCQkJZGJtc19vdXRwdXQucHV0X2xpbmUoJ2Vycm9yIHJlZHVjaW5nIHNhbGFyeS4gcm93cyB1cGRhdGVkOiAnIHx8CgkJCSAgICAgICAgICAgICAgICAgICAgIHNxbCVyb3djb3VudCk7CgkJZW5kIGlmOwoKCQlyZWR1Y3Rpb250b3RhbCA6PSByZWR1Y3Rpb250b3RhbCArIHBheWN1dDsKCQlyZWR1Y3Rpb250YXJnZXQgOj0gcmVkdWN0aW9udGFyZ2V0IC0gcGF5Y3V0OwoKCQloYXNkZXBlbmRlbnRzIDo9IGZhbHNlOwoJCXdvcmtzaGFyZCA6PSBmYWxzZTsKCWVuZCBsb29wOwoKCWRibXNfb3V0cHV0LnB1dF9saW5lKCd0b3RhbCBzYWxhcnkgcmVkdWN0aW9uOiAnIHx8IHJlZHVjdGlvbnRvdGFsKTsKCglpZiByZWR1Y3Rpb250YXJnZXQgPCAwCgl0aGVuCgkJZGJtc19vdXRwdXQucHV0X2xpbmUoJ3RvdGFsIHJlZHVjdGlvbnMgZXhjZWVkZWQgdGFyZ2V0IGJ5OiAnIHx8CgkJICAgICAgICAgICAgICAgICAgICAgYWJzKHJlZHVjdGlvbnRhcmdldCkpOwoJZW5kIGlmOwoKZXhjZXB0aW9uCgl3aGVuIG5vX2RhdGFfZm91bmQgdGhlbgoJCWRibXNfb3V0cHV0LnB1dF9saW5lKCdubyBlbXBsb3llZSBmb3VuZCwgcHJvZ3JhbSBlbmRpbmcnKTsKCgl3aGVuIHRvb19tYW55X3Jvd3MgdGhlbgoJCWRibXNfb3V0cHV0LnB1dF9saW5lKCdtdWx0aXBsZSBlbXBsb3llZXMgd2l0aCBzYW1lIHRvcCBwYXkuIHVuYWJsZSB0byBkZWNpZGUsIHByb2dyYW0gZW5kaW5nJyk7CgoJd2hlbiBvdGhlcnMgdGhlbgoJCWRibXNfb3V0cHV0LnB1dF9saW5lKCd1bmtub3duIGVycm9yLCBkZXRhaWxzIGJlbG93Jyk7CgkJZGJtc19vdXRwdXQucHV0X2xpbmUoJ2Vycm9yIGNvZGU6ICcgfHwgc3FsY29kZSk7CgkJZGJtc19vdXRwdXQucHV0X2xpbmUoJ2Vycm9yIG1lc3NhZ2U6ICcgfHwgc3FsZXJybSk7CgplbmQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVtIGV4Y2VwdGlvbi0zCg==</text>
+        <text encoding="base64">CQljdXRfYW1vdW50IDo9IDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICBmdW5jdGlvbiB0ZXN0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogCkNvcHlyaWdodCAoYykgMjAxMyBTaWRlcmlzIENvdXJzZXdhcmUgQ29ycG9yYXRpb24uIEFsbCBSaWdodHMgUmVzZXJ2ZWQuCkVhY2ggaW5zdHJ1Y3RvciBvciBzdHVkZW50IHdpdGggYWNjZXNzIHRvIHRoaXMgZmlsZSBtdXN0IGhhdmUgcHVyY2hhc2VkCmEgbGljZW5zZSB0byB0aGUgY29ycmVzcG9uZGluZyBTaWRlcmlzIENvdXJzZXdhcmUgdGV4dGJvb2sgdG8gd2hpY2ggCnRoZXNlIGZpbGVzIGFwcGx5LiBBbGwgb3RoZXIgdXNlLCBicm9hZGNhc3QsIHdlYmNhc3QsIGR1cGxpY2F0aW9uIG9yIGRpc3RyaWJ1dGlvbgppcyBwcm9oaWJpdGVkIGFuZCBpbGxlZ2FsLgoqLwoKUkVNIEVYQ0VQVElPTi0xCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmVsb25nc1RvOjptYWtlKCcnKQo=</text>
+        <text encoding="base64">CQlmcm9tIERFUEVOREVOVAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQlmcm9tIERFUEVOREVOVAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVjbGFyZQoJdHlwZSBlbXBsb3llZV90eXBlIGlzIFJFQ09SRCAoCgkJZGF0YSBlbXBsb3llZSVyb3d0eXBlLAoJCWRlcGVuZGFudHMgYm9vbGVhbiwKCQltZWV0c19ob3Vyc193b3JrZWRfcmVxdWlyZW1lbnQgYm9vbGVhbgoJCSk7CgoJcmVjb3JkICAgICAgICAgICAgICAgICBlbXBsb3llZV90eXBlOwoJdG90YWxfc2FsYXJ5X3JlZHVjdGlvbiBudW1iZXIgOj0gMTUwMDA7CgljdXRfYW1vdW50ICAgICAgICAgICAgIG51bWJlcjsKCXRvdGFsX2Ftb3VudF9jdXQgICAgICAgbnVtYmVyOwoKCglwcm9jZWR1cmUgc2VsZWN0X3RvcF9wYWlkX2VtcGxveWVlIGFzCgliZWdpbgoJCXNlbGVjdCAqCgkJaW50byByZWNvcmQuZGF0YQoJCWZyb20gRU1QTE9ZRUUKCQl3aGVyZSBTQUxBUlkgPSAoCgkJCXNlbGVjdCBtYXgoU0FMQVJZKQoJCQlmcm9tIGVtcGxveWVlCgkJKTsKLS0gCQkgIGFuZCByb3dudW0gPD0gMTsKCgkJc2VsZWN0IGNvdW50KCopID4gMAoJCWludG8gcmVjb3JkLmRlcGVuZGFudHMKCQlmcm9tIERFUEVOREVOVAoJCXdoZXJlIEVTU04gPSByZWNvcmQuZGF0YS5TU047CgoJCXNlbGVjdCBzdW0oKSA+IDQwCgkJaW50byByZWNvcmQubWVldHNfaG91cnNfd29ya2VkX3JlcXVpcmVtZW50CgkJZnJvbSBXT1JLU19PTgoJCXdoZXJlIEVTU04gPSByZWNvcmQuZGF0YS5TU047CgoJZW5kOwoKCXByb2NlZHVyZSBkZXRlcm1pbmVfY3V0X2Ftb3VudCBhcwoJYmVnaW4KCQljYXNlOgoJCQljdXRfYW1vdW50IDo9IHJlY29yZC5kYXRhLlNBTEFSWSAqIC4xMDsKCWVuZDsKYmVnaW4KCXdoaWxlIHRvdGFsX3NhbGFyeV9yZWR1Y3Rpb24gPiAwCglsb29wCgkJc2VsZWN0X3RvcF9wYWlkX2VtcGxveWVlKCk7CgoJCWRldGVybWluZV9jdXRfYW1vdW50KCk7CgoJCWNhc2UgcmVjb3JkLmRhdGEuU0FMQVJZIDo9IHJlY29yZC5kYXRhLlNBTEFSWSAtIGN1dF9hbW91bnQ7CgoJCXVwZGF0ZSBFTVBMT1lFRQoJCXNldCBST1cgPSByZWNvcmQuZGF0YQoJCXdoZXJlIHNzbiA9IHJlY29yZC5kYXRhLnNzbjsKCgkJREJNU19PVVRQVVQuUFVUX0xJTkUoCgkJCQkJJ0N1dCAnIHx8IGN1dF9hbW91bnQgfHwgJyBmcm9tICcgfHwgcmVjb3JkLmRhdGEuRk5BTUUgfHwgJyAnIHx8IHJlY29yZC5kYXRhLkxOQU1FIHx8CgkJCQkJJycncyBzYWxhcnkuJwoJCQkJCXx8IGNocigxMCkgfHwgJyBOZXcgc2FsYXJ5OiAnIHx8IHJlY29yZC5kYXRhLlNBTEFSWSB8fCBjaHIoMTApKTsKCgkJdG90YWxfc2FsYXJ5X3JlZHVjdGlvbiA6PSB0b3RhbF9zYWxhcnlfcmVkdWN0aW9uIC0gY3V0X2Ftb3VudDsKCQl0b3RhbF9hbW91bnRfY3V0IDo9IHRvdGFsX2Ftb3VudF9jdXQgKyBjdXRfYW1vdW50OwoKCWVuZCBsb29wOwoKCWlmIHRvdGFsX3NhbGFyeV9yZWR1Y3Rpb24gPCAwCgl0aGVuCgkJREJNU19PVVRQVVQuUFVUX0xJTkUoJ0V4Y2VlZGVkIHNhbGFyeSByZWR1Y3Rpb24gZ29hbCBieSAkJyB8fCB0b3RhbF9zYWxhcnlfcmVkdWN0aW9uKTsKCWVuZCBpZjsKCgljb21taXQ7CmV4Y2VwdGlvbgoKCmVuZDsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT4KICAgICAgICAgICAgLT4KICAgICAgICAgICAgPT4KICAgICAgICAgICAgICAgID0+Cg==</text>
+        <text encoding="base64">CQlEQk1TX09VVFBVVC5QVVRfTElORSgnRXhjZXB0aW9uIG9jY3VycmVkLiBSb2xsaW5nIGJhY2sgY2hhbmdlcy4uLicgfHwgY2hyKDEwKSB8fCBzcWxlcnJtKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -357,9 +358,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>case</last-search>
+      <last-search>commit</last-search>
       <last-offset />
-      <last-pattern>case</last-pattern>
+      <last-pattern>commit</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IG1peGVkIFwx</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
