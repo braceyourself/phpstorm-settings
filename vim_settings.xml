@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>add</entry>
         <entry>rownum</entry>
         <entry>cut_amount</entry>
         <entry>case</entry>
@@ -25,6 +24,7 @@
         <entry>end</entry>
         <entry encoding="base64">XDxpbmNyZWFzZV9hbW91bnRcPg==</entry>
         <entry encoding="base64">XDxyYWlzZV9wZXJjZW50YWdlXD4=</entry>
+        <entry>v_</entry>
       </history-search>
       <history-cmd>
         <entry>1217</entry>
@@ -134,6 +134,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/clear_employment.sql" timestamp="1589394957650">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/tests/TestIsManager.sql" timestamp="1589392692900">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -146,12 +152,26 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_manager.sql" timestamp="1589392761634">
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_manager.sql" timestamp="1589394843899">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="3" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="0" />
         <mark key="^" line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateDepartment.sql" timestamp="1589396206269">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="36" column="46" />
+        <mark key="]" line="37" column="4" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/hire_employee.sql" timestamp="1589395874473">
+        <mark key="'" line="11" column="21" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="3" />
       </file>
       <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/tests/test_failed.sql" timestamp="1589393919504">
         <mark key="[" line="4" column="5" />
@@ -168,19 +188,16 @@
       <file name="/ETHAN.DEPENDENT" timestamp="1589393044358">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/clear_dependents.sql" timestamp="1589394057155">
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/clear_dependents.sql" timestamp="1589394791242">
         <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="20" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="22" />
       </file>
-      <file name="/a.sql" timestamp="1589394769402">
+      <file name="/a.sql" timestamp="1589396001537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/default" timestamp="1589394770200">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ETHAN.DEPARTMENT" timestamp="1589392079990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1589394738691">
@@ -203,34 +220,21 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="24" />
       </file>
-      <file name="/DEPARTMENT [@localhost]" timestamp="1589392079978">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/plsql-training/11-Other.SQL" timestamp="1589391214974">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="15" />
-      </file>
       <file name="/foo.bar" timestamp="1589393044369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_supervisor.sql" timestamp="1589392789896">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="9" column="18" />
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_supervisor.sql" timestamp="1589394856838">
+        <mark key="'" line="12" column="3" />
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="30" />
       </file>
       <file name="/DEPENDENT [@localhost]" timestamp="1589393044345">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="42" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/nova/src/PerformsQueries.php" />
-      <jump line="59" column="26" filename="$USER_HOME$/code/api-frc-org/app/Nova/Resource.php" />
-      <jump line="27" column="4" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
-      <jump line="90" column="28" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
-      <jump line="19" column="6" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Resource.php" />
-      <jump line="24" column="39" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Resource.php" />
-      <jump line="23" column="50" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Resource.php" />
       <jump line="22" column="37" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Resource.php" />
       <jump line="4" column="39" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/Users.php" />
       <jump line="18" column="18" filename="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" />
@@ -324,48 +328,55 @@
       <jump line="20" column="14" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/tests/TestClearDependents.sql" />
       <jump line="2" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/tests/SeedDatabase.sql" />
       <jump line="0" column="19" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/tests/SeedDatabase.sql" />
+      <jump line="12" column="3" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_supervisor.sql" />
+      <jump line="7" column="4" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateDepartment.sql" />
+      <jump line="8" column="9" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateDepartment.sql" />
+      <jump line="18" column="13" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateDepartment.sql" />
+      <jump line="11" column="21" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/hire_employee.sql" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateDepartment.sql" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateDepartment.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>TEST_FAILED</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>TEST_FAILED</text>
+        <text>|| ' not found. Creating...'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYWlzZV9wZXJjZW50YWdlXD4=</text>
+        <text>v_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QCAuLi8uLi8uLi8uLi9FbGVjdHJvbmljc0luc2VydC5zcWwK</text>
+        <text encoding="base64">CQlEQk1TX09VVFBVVC5QVVRfTElORSgnRGVwYXJ0bWVudCAnIHx8IHBfbmFtZSB8fCAnIG5vdCBmb3VuZC4gQ3JlYXRpbmcuLi4nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text>@ ./test_failed.sql</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QCAuL3Rlc3RfZmFpbGVkLnNxbAo=</text>
+        <text encoding="base64">ICAgIGRlY2xhcmUgCiAgICAgICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXBfZGVwYXJ0bWVudCBvdXQgZGVwYXJ0bWVudCVyb3d0eXBlCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdGVzdF9mYWlsZWQK</text>
+        <text encoding="base64">CXJldHVybiBwX2RlcGFydG1lbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmFpc2UgdGVzdF9mYWlsZWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name=":" type="4">
         <text>redo</text>
@@ -374,9 +385,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyYWlzZV9wZXJjZW50YWdlXD4=</last-search>
+      <last-search>v_</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYWlzZV9wZXJjZW50YWdlXD4=</last-pattern>
+      <last-pattern>v_</last-pattern>
       <last-replace encoding="base64">IFRleHQ6Om1ha2UoJ1wxJyks</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
