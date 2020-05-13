@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>cut_amount</entry>
-        <entry>case</entry>
         <entry>commit</entry>
         <entry>newQu</entry>
         <entry>getQuery</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxyYWlzZV9wZXJjZW50YWdlXD4=</entry>
         <entry>v_</entry>
         <entry>department</entry>
+        <entry>emp</entry>
+        <entry>create_dep</entry>
       </history-search>
       <history-cmd>
         <entry>1217</entry>
@@ -134,25 +134,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/clear_employment.sql" timestamp="1589394957650">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="4" />
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/clear_employment.sql" timestamp="1589398233567">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/tests/SeedDatabase.sql" timestamp="1589394478297">
-        <mark key="'" line="0" column="19" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="1" />
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_manager.sql" timestamp="1589398224130">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_manager.sql" timestamp="1589394843899">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="12" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2e2a082d-3cda-480b-a251-32c0a5a0809a/console.sql" timestamp="1589398182069">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateDepartment.sql" timestamp="1589397366259">
         <mark key="'" line="0" column="0" />
@@ -161,17 +157,26 @@
         <mark key="." line="27" column="3" />
         <mark key="^" line="27" column="4" />
       </file>
-      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/hire_employee.sql" timestamp="1589397708454">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_or_create_department.sql" timestamp="1589399348320">
+        <mark key="'" line="20" column="33" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="34" />
+        <mark key="^" line="20" column="34" />
+        <mark key="." line="20" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/hire_employee.sql" timestamp="1589399358437">
+        <mark key="'" line="17" column="33" />
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="18" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/create_department.sql" timestamp="1589397979402">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="16" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/create_department.sql" timestamp="1589399273743">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="32" />
       </file>
       <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/createEmployee.sql" timestamp="1589397701795">
         <mark key="'" line="16" column="24" />
@@ -180,11 +185,12 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/tests/test_failed.sql" timestamp="1589393919504">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/fire_employee.sql" timestamp="1589399477351">
+        <mark key="'" line="8" column="20" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/createDepartment.sql" timestamp="1589397248059">
         <mark key="'" line="3" column="52" />
@@ -197,9 +203,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.sql" timestamp="1589394160241">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateEmployee.sql" timestamp="1589397441872">
         <mark key="'" line="15" column="39" />
@@ -214,8 +217,12 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="/a.sql" timestamp="1589398069072">
+      <file name="/a.sql" timestamp="1589398279542">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_employee.sql" timestamp="1589398811571">
+        <mark key="'" line="1" column="0" />
+        <mark key="^" line="16" column="4" />
       </file>
       <file name="/default" timestamp="1589394770200">
         <mark key="[" line="0" column="0" />
@@ -223,44 +230,25 @@
       <file name="/Dummy.txt" timestamp="1589394738691">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/tests/TestClearDependents.sql" timestamp="1589394711644">
-        <mark key="'" line="19" column="14" />
-        <mark key="[" line="18" column="12" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="24" />
-      </file>
       <file name="$USER_HOME$/code/plsql-training/11-Other.SQL" timestamp="1589397964599">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_supervisor.sql" timestamp="1589394856838">
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_department.sql" timestamp="1589398894635">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_supervisor.sql" timestamp="1589398254689">
         <mark key="'" line="12" column="3" />
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="29" />
-        <mark key="^" line="1" column="30" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="61" filename="$USER_HOME$/code/api-frc-org/app/Nova/Role.php" />
-      <jump line="1" column="7" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/raise_salaray.sql" />
-      <jump line="6" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/raise_salaray.sql" />
-      <jump line="44" column="63" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/raise_salaray.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/raise_salaray.sql" />
-      <jump line="86" column="0" filename="$USER_HOME$/code/plsql-training/A02-Stored.sql" />
-      <jump line="95" column="0" filename="$USER_HOME$/code/plsql-training/A02-Stored.sql" />
-      <jump line="105" column="19" filename="$USER_HOME$/code/plsql-training/A02-Stored.sql" />
-      <jump line="106" column="14" filename="$USER_HOME$/code/plsql-training/A02-Stored.sql" />
-      <jump line="108" column="46" filename="$USER_HOME$/code/plsql-training/A02-Stored.sql" />
-      <jump line="114" column="5" filename="$USER_HOME$/code/plsql-training/A02-Stored.sql" />
-      <jump line="14" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/salary_valid.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/salary_valid.sql" />
-      <jump line="37" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/salary_valid_result.sql" />
-      <jump line="10" column="4" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/salary_valid_result.sql" />
-      <jump line="43" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/salary_valid_result.sql" />
-      <jump line="1" column="17" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/salary_valid_result.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/salary_valid_result.sql" />
       <jump line="13" column="26" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/populate_employees.sql" />
       <jump line="34" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/populate_employees.sql" />
       <jump line="46" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/populate_employees.sql" />
@@ -294,7 +282,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/A/2/raise_salaray_valid.sql" />
       <jump line="1" column="28" filename="/b5e4890d/2e2a082d-3cda-480b-a251-32c0a5a0809a/schema/ETHAN/routine/RAISE_SALARY_VALID.sql" />
       <jump line="0" column="0" filename="/b5e4890d/2e2a082d-3cda-480b-a251-32c0a5a0809a/schema/ETHAN/routine/RAISE_SALARY_VALID.sql" />
-      <jump line="3" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_manager.sql" />
       <jump line="13" column="3" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_manager.sql" />
       <jump line="15" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_manager.sql" />
       <jump line="9" column="24" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_manager.sql" />
@@ -343,48 +330,82 @@
       <jump line="21" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/hire_employee.sql" />
       <jump line="16" column="24" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/createEmployee.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/hire_employee.sql" />
+      <jump line="3" column="4" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_manager.sql" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_employee.sql" />
+      <jump line="5" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_department.sql" />
+      <jump line="12" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_department.sql" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_employee.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_employee.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_employee.sql" />
+      <jump line="26" column="34" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_department.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_department.sql" />
+      <jump line="31" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_department.sql" />
+      <jump line="12" column="20" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_or_create_department.sql" />
+      <jump line="10" column="26" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_or_create_department.sql" />
+      <jump line="8" column="19" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/create_department.sql" />
+      <jump line="0" column="35" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_or_create_department.sql" />
+      <jump line="19" column="32" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_or_create_department.sql" />
+      <jump line="20" column="33" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/find_or_create_department.sql" />
+      <jump line="17" column="33" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/hire_employee.sql" />
+      <jump line="11" column="10" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/fire_employee.sql" />
+      <jump line="8" column="20" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/fire_employee.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">CQlETlVNQkVSLAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>deparseq</text>
+        <text>p_name</text>
       </register>
       <register name="/" type="4">
-        <text>department</text>
+        <text>create_dep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSAgICAnTmV3IERlcGFydG1lbnQnLAo=</text>
+        <text>create or replace function find_department(
+	p_department_number department.DNUMBER%type
+) return department%rowtype as
+	v_department department%rowtype;
+begin
+
+	select *
+	into v_department
+	from department
+	where DNUMBER = p_department_number;
+
+	return v_department;
+
+exception
+	when no_data_found then return null;
+end;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlETlVNQkVSLAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlERVBBUlRNRU5UX1NFUVVFTkNFLm5leHR2YWwsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXBfbnVtYmVyICAgICAgICAgIGRlcGFydG1lbnQuRE5VTUJFUiV0eXBlIDo9IG51bGwsCg==</text>
+        <text encoding="base64">CXJldHVybiB2X2RlcGFydG1lbnQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmIHBfbnVtYmVyIGlzIG51bGwKCXRoZW4KCQlzZWxlY3QgbWF4KEROVU1CRVIpCgkJaW50byBwX251bWJlcgoJCWZyb20gREVQQVJUTUVOVDsKCgkJcF9udW1iZXIgOj0gcF9udW1iZXIgKyAxOwoJZW5kIGlmOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXBfc3NuICAgICAgICAgICAgICAgZW1wbG95ZWUuc3NuJXR5cGUsCglwX2ZpcnN0X25hbWUgICAgICAgIGVtcGxveWVlLkZOQU1FJXR5cGUsCglwX2xhc3RfbmFtZSAgICAgICAgIGVtcGxveWVlLkxOQU1FJXR5cGUsCglwX2RlcGFydG1lbnRfbnVtYmVyIGVtcGxveWVlLkROTyV0eXBlLAoJcF9zYWxhcnkgICAgICAgICAgICBlbXBsb3llZS5TQUxBUlkldHlwZQo=</text>
+        <text encoding="base64">CWNyZWF0ZV9kZXBhcnRtZW50KHBfbmFtZSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICBwX3NzbiwKCSAgICBwX2ZpcnN0X25hbWUsCgkgICAgcF9sYXN0X25hbWUsCgkJdl9kZXBhcnRtZW50LkROVU1CRVIsCgkgICAgcF9zYWxhcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>create or replace</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -393,9 +414,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>department</last-search>
+      <last-search>create_dep</last-search>
       <last-offset />
-      <last-pattern>department</last-pattern>
+      <last-pattern>create_dep</last-pattern>
       <last-replace encoding="base64">IFRleHQ6Om1ha2UoJ1wxJyks</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
