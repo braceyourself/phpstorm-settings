@@ -5,13 +5,11 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>auth:api</entry>
         <entry>$db</entry>
         <entry>$ns</entry>
         <entry>passp</entry>
         <entry>client</entry>
         <entry>returning json</entry>
-        <entry>api_frc</entry>
         <entry>php artisan</entry>
         <entry>optimize</entry>
         <entry>ignore</entry>
@@ -25,9 +23,10 @@
         <entry>store_access_token</entry>
         <entry>store_acc</entry>
         <entry>scope</entry>
+        <entry>send;</entry>
+        <entry>api_frc</entry>
       </history-search>
       <history-cmd>
-        <entry>1242</entry>
         <entry>68</entry>
         <entry>741</entry>
         <entry>1181</entry>
@@ -47,6 +46,7 @@
         <entry>w</entry>
         <entry>111</entry>
         <entry>q</entry>
+        <entry>786</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,6 +134,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/fresco32/DDL/Packages/event_mgmt.sql" timestamp="1589467604624">
+        <mark key="'" line="14" column="73" />
+        <mark key="^" line="549" column="87" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Frc/Staff.php" timestamp="1589463478111">
         <mark key="'" line="1" column="53" />
         <mark key="[" line="1" column="55" />
@@ -156,9 +160,6 @@
       <file name="/model_has_roles [API server]" timestamp="1589460349627">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/users [API server]" timestamp="1589460323505">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/console" timestamp="1589462665458">
         <mark key="[" line="0" column="0" />
       </file>
@@ -167,7 +168,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1589462233794">
+      <file name="/a.sql" timestamp="1589468219294">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/api_frc_org.users" timestamp="1589460323514">
@@ -234,12 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="31" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateDepartment.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateDepartment.sql" />
-      <jump line="11" column="9" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateEmployee.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateEmployee.sql" />
-      <jump line="1" column="18" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateEmployee.sql" />
-      <jump line="2" column="9" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateEmployee.sql" />
       <jump line="3" column="15" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateEmployee.sql" />
       <jump line="8" column="40" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateEmployee.sql" />
       <jump line="12" column="16" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/findOrCreateEmployee.sql" />
@@ -334,21 +329,27 @@
       <jump line="1" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" />
       <jump line="18" column="19" filename="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" />
       <jump line="89" column="15" filename="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" />
+      <jump line="171" column="24" filename="$USER_HOME$/code/fresco32/DDL/Packages/event_mgmt.sql" />
+      <jump line="636" column="20" filename="$USER_HOME$/code/fresco32/DDL/Packages/event_mgmt.sql" />
+      <jump line="860" column="24" filename="$USER_HOME$/code/fresco32/DDL/Packages/event_mgmt.sql" />
+      <jump line="507" column="41" filename="$USER_HOME$/code/fresco32/DDL/Packages/event_mgmt.sql" />
+      <jump line="190" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/event_mgmt.sql" />
+      <jump line="14" column="73" filename="$USER_HOME$/code/fresco32/DDL/Packages/event_mgmt.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcnMpOwo=</text>
+        <text encoding="base64">LS0JMTEtTWF5LTIwCXBkdwkJCTEuIEFkZCBjaGVja19hcGlfY2FsbCBwcm9jZWR1cmUK</text>
       </register>
       <register name="-" type="4">
-        <text>dd</text>
+        <text>GET_INSTANCE_NAME</text>
       </register>
       <register name="/" type="4">
-        <text>scope</text>
+        <text>api_frc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXNlbGVjdCBwYXJhbWV0ZXJfdmFsdWUKCWludG8gdG9rZW4KCWZyb20gRVhURVJOQUxfU1lTVEVNX0FUVFJJQlVURUBmcmMKCXdoZXJlIHBhcmFtZXRlcl9uYW1lID0gJ0FDQ0VTU19UT0tFTic7Cg==</text>
+        <text encoding="base64">LS0JMTEtTWF5LTIwCXBkdwkJCTEuIEFkZCBjaGVja19hcGlfY2FsbCBwcm9jZWR1cmUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkdXNlcnMpOwo=</text>
@@ -381,15 +382,15 @@
         ]</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>786</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>scope</last-search>
+      <last-search>api_frc</last-search>
       <last-offset />
-      <last-pattern>scope</last-pattern>
+      <last-pattern>api_frc</last-pattern>
       <last-replace encoding="base64">IFRleHQ6Om1ha2UoJ1wxJyks</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
