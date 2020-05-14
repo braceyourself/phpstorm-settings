@@ -137,23 +137,26 @@
       <file name="/COMMON_CODE [HDP]" timestamp="1589457341920">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/model_has_roles [API server]" timestamp="1589460349627">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/COMMON_CODE [DEV FRC]" timestamp="1589457167162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1589457106283">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1589460236532">
+        <mark key="'" line="0" column="951" />
+        <mark key="[" line="0" column="952" />
+        <mark key="]" line="0" column="952" />
+        <mark key="." line="0" column="951" />
+        <mark key="^" line="0" column="952" />
       </file>
-      <file name="/console" timestamp="1589456471506">
+      <file name="/users [API server]" timestamp="1589460323505">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/373e252e-6aec-43b7-a213-ab9c50682dd0/console.sql" timestamp="1589456465627">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1589458101368">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/api_frc_org.users" timestamp="1589460323514">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Http/Controllers/Frc/AttendeeController.php" timestamp="1589460052067">
@@ -168,7 +171,10 @@
       <file name="/FRC.COMMON_CODE" timestamp="1589457377866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1589459873142">
+      <file name="/api_frc_org.model_has_roles" timestamp="1589460349633">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1589460349639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_frc/api_frc.pkb.sql" timestamp="1589459970854">
@@ -180,11 +186,12 @@
       <file name="/FRC.EXTERNAL_SYSTEM_ATTRIBUTE" timestamp="1589457139831">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bfa1088f-399a-41f1-adac-9ba5298cd493/console.sql" timestamp="1589458023642">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="21" column="33" />
-        <mark key="." line="21" column="32" />
-        <mark key="^" line="21" column="33" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bfa1088f-399a-41f1-adac-9ba5298cd493/console.sql" timestamp="1589460193897">
+        <mark key="'" line="10" column="5" />
+        <mark key="[" line="19" column="79" />
+        <mark key="]" line="19" column="80" />
+        <mark key="." line="19" column="79" />
+        <mark key="^" line="19" column="80" />
       </file>
       <file name="/EXTERNAL_SYSTEM_ATTRIBUTE [DEV FRC]" timestamp="1589459873119">
         <mark key="[" line="0" column="0" />
@@ -195,12 +202,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589456681338">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/COMMON_CODE [FRC]" timestamp="1589456777924">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/COMMON_CODE [DEV FRC Action]" timestamp="1589456834187">
         <mark key="[" line="0" column="0" />
@@ -215,8 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/tests/TestClearDependents.sql" />
-      <jump line="20" column="14" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/tests/TestClearDependents.sql" />
       <jump line="2" column="0" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/tests/SeedDatabase.sql" />
       <jump line="0" column="19" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/tests/SeedDatabase.sql" />
       <jump line="12" column="3" filename="$USER_HOME$/code/plsql-training/project_files/Intermediate/ProcedureMaintenance/is_supervisor.sql" />
@@ -315,12 +314,14 @@
       <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bfa1088f-399a-41f1-adac-9ba5298cd493/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bfa1088f-399a-41f1-adac-9ba5298cd493/console.sql" />
       <jump line="0" column="29" filename="/dummy.sql" />
+      <jump line="10" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bfa1088f-399a-41f1-adac-9ba5298cd493/console.sql" />
+      <jump line="0" column="951" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGUyNzVhMWMyNDFmYmYyYjNjM2IwNWNlODlkMDAwYWRlNGZkMzM3YjNiODJiNDM5NDBmMTQ2YWFlOTQ2M2ZkMDJjYTY2MWUzMzUwN2ZlMDUiLCJpYXQiOjE1ODk0NTgzNDEsIm5iZiI6MTU4OTQ1ODM0MSwiZXhwIjoxNTkwNzU0MzQxLCJzdWIiOiIiLCJzY29wZXMiOlsiKiJdfQ.kCKyL6n_UP5PoRyJahKtJKBXi3XUa1dZf6THQmn6jZF2cJYkZRfHISwlWxqT_Y559YD2WvB7Jvh-l27x2E29XM83NhoT5WS-bD8L7qLiS1CZDlyoRHMXzLNo23AUCw1s4J0SOfvkec9dYtLf_vGkxbRG4PW3KjbO3V1d_9N6toyOIP94wlrZbCNU-F0mgB0n5V-AGvoIcGN7C3ZPKUPNp17daSK1fPhGDersCNZh9iG1NhanuiWF0mgylficIhOYASBjsF-KSaIBF9t0bkV0MyqlJ_VLN9jUCs6z9kHmgVllCG_FYBmMMAvhkEMoPvX6phbccn3CTq-LVBljYmEIisLY88p5-fcC3wL9z_dDb1rSkbd7ENun3igonFYG0uAg38a8FczccWr6yuHhUebdEpAPtOXbTond0As7YhqMEZ0EhLfb2v6lwt3kbwwbfoTITPtgxPQR5DBHH8MPn41EvdRqtRGbI8FdQf7CPOf0x9WPqKQ7VauyR9MjZNJHiKwsFLI1Q6NOvpNsQI8VSt3oHd7KaY1xbiBjneqqI7dAGkmojVyDAMdhCix7ZxU5ukAEZlrfyiSBHN114B_VQ5jTYabmM1v8LP3GbDAm6JbJttSuzlZeZSqQ4R9WIJlP37Fgh3aPMDslibMVP4fFHtLzc4f8bCkxJbTUIM3ieddMpMs</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZW5kX2RhdGUgPiBzeXNkYXRlIG9yIEVORF9EQVRFIGlzIG51bGw=</text>
@@ -332,31 +333,31 @@
         <text>Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGUyNzVhMWMyNDFmYmYyYjNjM2IwNWNlODlkMDAwYWRlNGZkMzM3YjNiODJiNDM5NDBmMTQ2YWFlOTQ2M2ZkMDJjYTY2MWUzMzUwN2ZlMDUiLCJpYXQiOjE1ODk0NTgzNDEsIm5iZiI6MTU4OTQ1ODM0MSwiZXhwIjoxNTkwNzU0MzQxLCJzdWIiOiIiLCJzY29wZXMiOlsiKiJdfQ.kCKyL6n_UP5PoRyJahKtJKBXi3XUa1dZf6THQmn6jZF2cJYkZRfHISwlWxqT_Y559YD2WvB7Jvh-l27x2E29XM83NhoT5WS-bD8L7qLiS1CZDlyoRHMXzLNo23AUCw1s4J0SOfvkec9dYtLf_vGkxbRG4PW3KjbO3V1d_9N6toyOIP94wlrZbCNU-F0mgB0n5V-AGvoIcGN7C3ZPKUPNp17daSK1fPhGDersCNZh9iG1NhanuiWF0mgylficIhOYASBjsF-KSaIBF9t0bkV0MyqlJ_VLN9jUCs6z9kHmgVllCG_FYBmMMAvhkEMoPvX6phbccn3CTq-LVBljYmEIisLY88p5-fcC3wL9z_dDb1rSkbd7ENun3igonFYG0uAg38a8FczccWr6yuHhUebdEpAPtOXbTond0As7YhqMEZ0EhLfb2v6lwt3kbwwbfoTITPtgxPQR5DBHH8MPn41EvdRqtRGbI8FdQf7CPOf0x9WPqKQ7VauyR9MjZNJHiKwsFLI1Q6NOvpNsQI8VSt3oHd7KaY1xbiBjneqqI7dAGkmojVyDAMdhCix7ZxU5ukAEZlrfyiSBHN114B_VQ5jTYabmM1v8LP3GbDAm6JbJttSuzlZeZSqQ4R9WIJlP37Fgh3aPMDslibMVP4fFHtLzc4f8bCkxJbTUIM3ieddMpMs</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGUyNzVhMWMyNDFmYmYyYjNjM2IwNWNlODlkMDAwYWRlNGZkMzM3YjNiODJiNDM5NDBmMTQ2YWFlOTQ2M2ZkMDJjYTY2MWUzMzUwN2ZlMDUiLCJpYXQiOjE1ODk0NTgzNDEsIm5iZiI6MTU4OTQ1ODM0MSwiZXhwIjoxNTkwNzU0MzQxLCJzdWIiOiIiLCJzY29wZXMiOlsiKiJdfQ.kCKyL6n_UP5PoRyJahKtJKBXi3XUa1dZf6THQmn6jZF2cJYkZRfHISwlWxqT_Y559YD2WvB7Jvh-l27x2E29XM83NhoT5WS-bD8L7qLiS1CZDlyoRHMXzLNo23AUCw1s4J0SOfvkec9dYtLf_vGkxbRG4PW3KjbO3V1d_9N6toyOIP94wlrZbCNU-F0mgB0n5V-AGvoIcGN7C3ZPKUPNp17daSK1fPhGDersCNZh9iG1NhanuiWF0mgylficIhOYASBjsF-KSaIBF9t0bkV0MyqlJ_VLN9jUCs6z9kHmgVllCG_FYBmMMAvhkEMoPvX6phbccn3CTq-LVBljYmEIisLY88p5-fcC3wL9z_dDb1rSkbd7ENun3igonFYG0uAg38a8FczccWr6yuHhUebdEpAPtOXbTond0As7YhqMEZ0EhLfb2v6lwt3kbwwbfoTITPtgxPQR5DBHH8MPn41EvdRqtRGbI8FdQf7CPOf0x9WPqKQ7VauyR9MjZNJHiKwsFLI1Q6NOvpNsQI8VSt3oHd7KaY1xbiBjneqqI7dAGkmojVyDAMdhCix7ZxU5ukAEZlrfyiSBHN114B_VQ5jTYabmM1v8LP3GbDAm6JbJttSuzlZeZSqQ4R9WIJlP37Fgh3aPMDslibMVP4fFHtLzc4f8bCkxJbTUIM3ieddMpMs</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBgb2F1dGhfYWNjZXNzX3Rva2Vuc2Agd2hlcmUgYGlkYCA9ICdiNTYxMmI1NTJlZjkwMDkzOGY0ZjNlMjRlMzkyNjA1ZmMwYmI1ODI2OWFlMzhkMTBiNTZmNDhkMmRkZDdhNDRhYWUwNjk3N2Q0OGRhNDllNycgbGltaXQgMQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBvYXV0aF9hY2Nlc3NfdG9rZW5zCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBgb2F1dGhfYWNjZXNzX3Rva2Vuc2Agd2hlcmUgYGlkYCA9ICdiNTYxMmI1NTJlZjkwMDkzOGY0ZjNlMjRlMzkyNjA1ZmMwYmI1ODI2OWFlMzhkMTBiNTZmNDhkMmRkZDdhNDRhYWUwNjk3N2Q0OGRhNDllNycgbGltaXQgMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopCg==</text>
+        <text encoding="base64">ZnJvbSBvYXV0aF9hY2Nlc3NfdG9rZW5zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICBsb2coJ3N0b3JpbmcgYWNjZXNzIHRva2VuJyk7Cg==</text>
+        <text encoding="base64">c2VsZWN0IGNvdW50KCopCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlleHQuUEFSQU1FVEVSX1ZBTFVFIDo9IHBfdG9rZW47CgkJZXh0LkVORF9EQVRFIDo9IHBfZW5kX2RhdGU7CgkJZXh0LkFDVElWSVRZX0RBVEUgOj0gc3lzZGF0ZTsK</text>
+        <text encoding="base64">CSAgICBsb2coJ3N0b3JpbmcgYWNjZXNzIHRva2VuJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlleHQuUEFSQU1FVEVSX1ZBTFVFIDo9IHBfdG9rZW47CgkJZXh0LkVORF9EQVRFIDo9IHBfZW5kX2RhdGU7Cg==</text>
+        <text encoding="base64">CQlleHQuUEFSQU1FVEVSX1ZBTFVFIDo9IHBfdG9rZW47CgkJZXh0LkVORF9EQVRFIDo9IHBfZW5kX2RhdGU7CgkJZXh0LkFDVElWSVRZX0RBVEUgOj0gc3lzZGF0ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsb2coJ2xlbmd0aCBvZiB0b2tlbjogJyB8fCBsZW5ndGgocF90b2tlbikpOwo=</text>
+        <text encoding="base64">CQlleHQuUEFSQU1FVEVSX1ZBTFVFIDo9IHBfdG9rZW47CgkJZXh0LkVORF9EQVRFIDo9IHBfZW5kX2RhdGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>111</text>
