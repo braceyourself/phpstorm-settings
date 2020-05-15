@@ -143,11 +143,11 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" timestamp="1589557435194">
-        <mark key="'" line="63" column="18" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" timestamp="1589563017437">
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="40" column="25" />
+        <mark key="^" line="40" column="25" />
+        <mark key="." line="40" column="24" />
       </file>
       <file name="/console" timestamp="1589551504140">
         <mark key="[" line="0" column="0" />
@@ -162,13 +162,6 @@
       <file name="/dev_api_frc_org.api_vendor_data" timestamp="1589557354524">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" timestamp="1589548520054">
-        <mark key="'" line="101" column="15" />
-        <mark key="[" line="94" column="13" />
-        <mark key="]" line="94" column="35" />
-        <mark key="^" line="94" column="35" />
-        <mark key="." line="94" column="34" />
-      </file>
       <file name="/a.sql" timestamp="1589551102458">
         <mark key="[" line="0" column="0" />
       </file>
@@ -182,14 +175,20 @@
       <file name="/dummy.sql" timestamp="1589557393854">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Http/Controllers/Frc/AttendeeController.php" timestamp="1589562247501">
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="37" column="68" />
+        <mark key="." line="37" column="67" />
+        <mark key="^" line="37" column="68" />
+      </file>
       <file name="/Dummy.txt" timestamp="1589551102499">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" timestamp="1589561934183">
-        <mark key="[" line="88" column="19" />
-        <mark key="]" line="88" column="29" />
-        <mark key="." line="88" column="19" />
-        <mark key="^" line="88" column="32" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" timestamp="1589563307003">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="114" column="108" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/ApiResponse.php" timestamp="1589552247128">
         <mark key="[" line="33" column="0" />
@@ -339,44 +338,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>dd()</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dd()</text>
+        <text>rid</text>
       </register>
       <register name="/" type="4">
         <text>$this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkYXR0ZW5kZWUgPSBBdHRlbmRlZTo6d2hlcmVIYXMoJ25ld19hY2NvdW50JyktPmZpcnN0KCk7CiAgICAgICAgJHJpZCA9ICRhdHRlbmRlZS0+bmFfcmlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkdGhpcy0+YXBpX3VzZXItPmV4aXN0cygpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXNlcl9tZXRhID0gJHVzZXItPmF0dHJpYnV0ZXNUb0FycmF5KCk7CiAgICAgICAgJHRoaXMtPmFkZFJvbGUoJHVzZXItPmF0dGVuZGVlX3R5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJDaGVjayBvdXQgdGhpcyBkYXRhICIK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ3VzZXJfZW1haWwnID0+ICR1c2VyLT5lbWFpbCwKICAgICAgICAgICAgICAgICd1c2VyX2xvZ2luJyA9PiBTdHI6Om9mKCR1c2VyLT5mdWxsX25hbWUpLT5hcHBlbmQoJHVzZXItPm5hX3JpZCktPnNsdWcoKSwKICAgICAgICAgICAgICAgICdmaXJzdF9uYW1lJyA9PiAkdXNlci0+Zmlyc3QsCiAgICAgICAgICAgICAgICAnbGFzdF9uYW1lJyA9PiAkdXNlci0+bGFzdCwKICAgICAgICAgICAgICAgICdkaXNwbGF5X25hbWUnID0+ICR1c2VyLT5maXJzdCwKICAgICAgICAgICAgICAgICdyb2xlJyA9PiAkdGhpcy0+cHJpbWFyeV9yb2xlLCAvLyBHZW5lcmFsCiAgICAgICAgICAgICAgICAnYWRkaXRpb25hbF9yb2xlcycgPT4gJHRoaXMtPnJvbGVzLCAvLyBTcGVha2VyLCBTdGFmZiwgRG9ub3IKICAgICAgICAgICAgICAgICd1c2VyX21ldGEnID0+IGpzb25fZW5jb2RlKCR0aGlzLT51c2VyX21ldGEpCiAgICAgICAgICAgIF0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGUoXEFwcFxNb2RlbHNcQ21pXFVzZXIgJHVzZXIpCiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKiBAdmFyIFVzZXJSZXBvc2l0b3J5ICRyZXBvICovCiAgICAgICAgICAgICAgICAkcmVwbyA9IFVzZXJSZXBvc2l0b3J5Ojppbml0KCk7CgogICAgICAgICAgICAgICAgLy8gc2VuZCB0aGUgY3JlYXRpb24gcmVxdWVzdAogICAgICAgICAgICAgICAgJHJlc3BvbnNlID0gJHJlcG8tPmNyZWF0ZSgkdXNlcik7CgogICAgICAgICAgICAgICAgJGVycm9ycyA9ICRyZXNwb25zZS0+Z2V0SnNvbignZGF0YS51c2VyX2lkLmVycm9ycycpOwogICAgICAgICAgICAgICAgJHVzZXJfZGF0YSA9ICRyZXNwb25zZS0+Z2V0SnNvbignZGF0YScpOwoKCiAgICAgICAgICAgICAgICBpZiAoXEFycjo6aGFzKCRlcnJvcnMsICdleGlzdGluZ191c2VyX2xvZ2luJykpIHsKICAgICAgICAgICAgICAgICAgICAkdXNlcl9kYXRhID0gJHJlc3BvbnNlLT5nZXRKc29uKCdkYXRhLnVzZXJfZGF0YScpOwogICAgICAgICAgICAgICAgICAgIC8vIHRoaXMgdXNlciBleGlzdHMgaW4gY21pIGRiCiAgICAgICAgICAgICAgICAgICAgJHVzZXItPmlkID0gJHJlcG8tPmdldElkRm9yVXNlcm5hbWUoJHVzZXJfZGF0YVsndXNlcl9sb2dpbiddKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAkdXNlci0+ZmlsbCgkdXNlcl9kYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR1c2VyX2RhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR1c2VyLT5zYXZlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCdzYXZpbmcnLCR1c2VyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
