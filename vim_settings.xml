@@ -11,7 +11,6 @@
         <entry>send;</entry>
         <entry>get_account_type</entry>
         <entry>class</entry>
-        <entry>attri</entry>
         <entry>$db</entry>
         <entry>type</entry>
         <entry encoding="base64">JHRoaXMtPnJlcG8=</entry>
@@ -25,6 +24,7 @@
         <entry>isDonor</entry>
         <entry>getdesc</entry>
         <entry>\(.*\)</entry>
+        <entry>attri</entry>
       </history-search>
       <history-cmd>
         <entry>895</entry>
@@ -140,11 +140,11 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" timestamp="1589554782579">
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" timestamp="1589555794194">
         <mark key="'" line="48" column="17" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
         <mark key="^" line="46" column="23" />
       </file>
       <file name="/console" timestamp="1589551504140">
@@ -167,11 +167,12 @@
       <file name="/a.sql" timestamp="1589551102458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" timestamp="1589555669992">
-        <mark key="'" line="54" column="21" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="36" column="12" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" timestamp="1589556561547">
+        <mark key="'" line="14" column="18" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" timestamp="1589547995334">
         <mark key="'" line="82" column="0" />
@@ -195,12 +196,12 @@
       <file name="/Dummy.txt" timestamp="1589551102499">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" timestamp="1589555201224">
-        <mark key="'" line="56" column="20" />
-        <mark key="[" line="56" column="30" />
-        <mark key="]" line="56" column="30" />
-        <mark key="." line="56" column="30" />
-        <mark key="^" line="56" column="16" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" timestamp="1589556328015">
+        <mark key="'" line="38" column="1" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="25" column="10" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/ApiResponse.php" timestamp="1589552247128">
         <mark key="[" line="33" column="0" />
@@ -244,13 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/code/api-frc-org/app/Http/Controllers/Frc/AttendeeController.php" />
-      <jump line="54" column="0" filename="$USER_HOME$/code/api-frc-org/app/Http/Controllers/Frc/AttendeeController.php" />
-      <jump line="56" column="0" filename="$USER_HOME$/code/api-frc-org/app/Http/Controllers/Frc/AttendeeController.php" />
-      <jump line="57" column="0" filename="$USER_HOME$/code/api-frc-org/app/Http/Controllers/Frc/AttendeeController.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/code/api-frc-org/app/Http/Controllers/Frc/AttendeeController.php" />
-      <jump line="59" column="0" filename="$USER_HOME$/code/api-frc-org/app/Http/Controllers/Frc/AttendeeController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/acct_info.sql" />
       <jump line="38" column="13" filename="$USER_HOME$/code/fresco32/DDL/Packages/acct_info.sql" />
       <jump line="171" column="32" filename="$USER_HOME$/code/fresco32/DDL/Packages/acct_info.sql" />
       <jump line="232" column="27" filename="$USER_HOME$/code/fresco32/DDL/Packages/acct_info.sql" />
@@ -344,48 +338,55 @@
       <jump line="48" column="17" filename="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" />
       <jump line="49" column="12" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
       <jump line="56" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="94" column="25" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
+      <jump line="15" column="21" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
+      <jump line="38" column="16" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
+      <jump line="92" column="23" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
+      <jump line="35" column="1" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="32" column="16" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
+      <jump line="14" column="18" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpX2NyZWF0aW9uX2RhdGEgPSBbCiAgICAgICAgICAgICcnCiAgICAgICAgXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHVzZXItPmF0dHJpYnV0ZXNUb0FycmF5KCk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>\(.*\)</text>
+        <text>attri</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkYXR0ZW5kZWUgPSBBdHRlbmRlZTo6d2hlcmVIYXMoJ25ld19hY2NvdW50JyktPmZpcnN0KCk7CiAgICAgICAgJHJpZCA9ICRhdHRlbmRlZS0+bmFfcmlkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBpX2NyZWF0aW9uX2RhdGEgPSBbCiAgICAgICAgICAgICcnCiAgICAgICAgXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtPgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdChBcGlDbGllbnQgJGNvbm5lY3Rpb24pCiAgICB7CiAgICAgICAgcGFyZW50OjpfX2NvbnN0cnVjdCgkY29ubmVjdGlvbik7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5jYWxsKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYXBpX2NyZWF0aW9uX2RhdGEpOwo=</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IG1peGVkIGV2ZW50X2NvZGUKICogQHByb3BlcnR5IG1peGVkIGZ1bGxfbmFtZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IG1peGVkIG5hX3JpZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpOwo=</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IG1peGVkIGZ1bGxfbmFtZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICduaWNrbmFtZScgPT4gJCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd1c2VyX3Bhc3MnID0+ICd0ZXN0MTIzJywK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -394,9 +395,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\(.*\)</last-search>
+      <last-search>attri</last-search>
       <last-offset />
-      <last-pattern>\(.*\)</last-pattern>
+      <last-pattern>attri</last-pattern>
       <last-replace encoding="base64">ICJcMSIs</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
