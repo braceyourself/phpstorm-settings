@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>log_appli</entry>
         <entry>store_access_token</entry>
         <entry>store_acc</entry>
         <entry>scope</entry>
@@ -25,6 +24,7 @@
         <entry>fees</entry>
         <entry>where</entry>
         <entry>fee_code</entry>
+        <entry>attributestoarr</entry>
       </history-search>
       <history-cmd>
         <entry>1181</entry>
@@ -134,6 +134,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/api-frc-org/app/Http/Controllers/Frc/AttendeeController.php" timestamp="1589544737344">
+        <mark key="[" line="32" column="59" />
+        <mark key="]" line="32" column="64" />
+        <mark key="." line="32" column="63" />
+        <mark key="^" line="32" column="64" />
+      </file>
       <file name="/Dummy.txt" timestamp="1589538402570">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,11 +148,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" timestamp="1589543020394">
-        <mark key="'" line="103" column="19" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" timestamp="1589545911340">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="/console" timestamp="1589541236693">
         <mark key="[" line="0" column="0" />
@@ -160,11 +166,12 @@
       <file name="/FRC.BRAND_CODE" timestamp="1589541228517">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" timestamp="1589543940017">
-        <mark key="'" line="103" column="27" />
-        <mark key="[" line="94" column="29" />
-        <mark key="]" line="94" column="29" />
-        <mark key="." line="94" column="29" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" timestamp="1589545523302">
+        <mark key="'" line="48" column="50" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="48" column="21" />
       </file>
       <file name="/EVENT [Dev Frc]" timestamp="1589541051375">
         <mark key="[" line="0" column="0" />
@@ -172,26 +179,12 @@
       <file name="/EVENT [Frc]" timestamp="1589541031730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/console.sql" timestamp="1589543227050">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/console.sql" timestamp="1589544055608">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="8" column="22" />
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="5" />
         <mark key="^" line="9" column="6" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" timestamp="1589487364661">
-        <mark key="'" line="134" column="31" />
-        <mark key="[" line="94" column="13" />
-        <mark key="]" line="94" column="35" />
-        <mark key="^" line="94" column="35" />
-        <mark key="." line="94" column="34" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/AttendeeBase.php" timestamp="1589487368293">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="67" column="5" />
-        <mark key="." line="66" column="79" />
-        <mark key="^" line="66" column="80" />
       </file>
       <file name="/BRAND_CODE [Dev Frc]" timestamp="1589541228498">
         <mark key="[" line="0" column="0" />
@@ -205,19 +198,19 @@
       <file name="/FRC.EVENT" timestamp="1589541051382">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" timestamp="1589544017962">
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" timestamp="1589545303145">
+        <mark key="'" line="30" column="21" />
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="29" />
+        <mark key="^" line="27" column="29" />
+        <mark key="." line="27" column="28" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" timestamp="1589544032694">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="125" column="7" />
-        <mark key="]" line="125" column="7" />
-        <mark key="." line="125" column="7" />
-        <mark key="^" line="125" column="11" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/AttendeePersonBase.php" timestamp="1589487372616">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="54" column="5" />
-        <mark key="^" line="19" column="31" />
-        <mark key="." line="51" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="125" column="39" />
+        <mark key="^" line="126" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Frc/EventFee.php" timestamp="1589489553638">
         <mark key="'" line="3" column="33" />
@@ -226,19 +219,14 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="34" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" timestamp="1589544986349">
+        <mark key="'" line="1136" column="20" />
+      </file>
       <file name="/textView" timestamp="1589541099651">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="16" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_frc/api_frc.pkb.sql" />
-      <jump line="48" column="14" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_frc/api_frc.pkb.sql" />
-      <jump line="1" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bfa1088f-399a-41f1-adac-9ba5298cd493/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bfa1088f-399a-41f1-adac-9ba5298cd493/console.sql" />
-      <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bfa1088f-399a-41f1-adac-9ba5298cd493/console.sql" />
-      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/bfa1088f-399a-41f1-adac-9ba5298cd493/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c47840ac-6752-4f92-96d8-0c7ed507be05/console.sql" />
-      <jump line="76" column="11" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_frc/api_frc.pkb.sql" />
       <jump line="12" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_frc/api_frc.pks.sql" />
       <jump line="4" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/373e252e-6aec-43b7-a213-ab9c50682dd0/console.sql" />
       <jump line="0" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/373e252e-6aec-43b7-a213-ab9c50682dd0/console.sql" />
@@ -331,51 +319,56 @@
       <jump line="85" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" />
       <jump line="0" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/console.sql" />
       <jump line="82" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" />
+      <jump line="54" column="8" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="49" column="50" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="35" column="33" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
+      <jump line="1136" column="20" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php" />
+      <jump line="34" column="16" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
+      <jump line="30" column="21" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
+      <jump line="50" column="35" filename="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>desc</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlci0+Zm9yY2VGaWxsKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>desc</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
-        <text>fee_code</text>
+        <text>attributestoarr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBuZXdfYWNjb3VudF9hdHRlbmRlZXMgYSwKICAgICBuZXdfYWNjb3VudHMgICAgICAgICAgbgp3aGVyZSBhLm5hX3JpZCA9IG4ucmlkCg==</text>
+        <text encoding="base64">ICAgICAgICBcQXBwXFVzZXI6OndoZXJlSW4oJ2VtYWlsJywgWwogICAgICAgICAgICAnZWFiQGZyYy5vcmcnLAogICAgICAgICAgICAncGR3QGZyYy5vcmcnCiAgICAgICAgXSktPmdldCgpLT5lYWNoLT5ub3RpZnkobmV3IFxBcHBcTm90aWZpY2F0aW9uc1xTaW1wbGVOb3RpZmljYXRpb24oCiAgICAgICAgICAgICJBdHRlbmRlZSBoYXMgYmVlbiB1cGRhdGVkIiwKICAgICAgICAgICAgJGxpbmVzCiAgICAgICAgKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>// this is a join equivilent to:
-//                select *
-//                from new_account_attendees a, new_accounts n
-//                where a.na_rid = n.rid</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlci0+Zm9yY2VGaWxsKCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcyBpcyBhIGpvaW4gZXF1aXZpbGVudCB0bwovLyAgICAgICAgICAgICAgICBzZWxlY3QgKgovLyAgICAgICAgICAgICAgICBmcm9tIG5ld19hY2NvdW50X2F0dGVuZGVlcyBhLAovLyAgICAgICAgICAgICAgICAgICAgIG5ld19hY2NvdW50cyAgICAgICAgICBuCi8vICAgICAgICAgICAgICAgIHdoZXJlIGEubmFfcmlkID0gbi5yaWQK</text>
+      <register name="2" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAndXNlcl9lbWFpbCcgPT4gJ2V0aGFuYWJyYWNlQGdtYWlsLmNvbScsCiAgICAgICAgICAgICd1c2VyX2xvZ2luJyA9PiAnZXRoYW5hYnJhY2UnLAogICAgICAgICAgICAnZmlyc3RfbmFtZScgPT4gJ0V0aGFuJywKICAgICAgICAgICAgJ2xhc3RfbmFtZScgPT4gJ0JyYWNlJywKICAgICAgICAgICAgJ25pY2tuYW1lJyA9PiAnYmVlZmplZmYnLAogICAgICAgICAgICAnZGlzcGxheV9uYW1lJyA9PiAnRVRIQU4nLAogICAgICAgICAgICAndXNlcl9wYXNzJyA9PiAndGVzdDEyMycsCiAgICAgICAgICAgICdyb2xlJyA9PiAnYXR0ZW5kZWUnLAogICAgICAgICAgICAnYWRkaXRpb25hbF9yb2xlcycgPT4gWwogICAgICAgICAgICAgICAgJ2Rvbm9yJyA9PiAnYWRkJywKICAgICAgICAgICAgICAgICdzdGFmZicgPT4gJ2FkZCcsCiAgICAgICAgICAgIF0sCiAgICAgICAgXQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLi4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5kZChkZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhbmQgYXR0ZW5kZWVfcGVyc29uLm5hX3JpZCBpcyBub3QgbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnF1ZXJ5KFsnYWN0aW9uJyA9PiAnY3JlYXRlX3VzZXInLF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHVzZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5kZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXNlci0+aWQgPSAkcmVzcG9uc2UtPmdldEpzb24oJ2RhdGEnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -384,9 +377,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>fee_code</last-search>
+      <last-search>attributestoarr</last-search>
       <last-offset />
-      <last-pattern>fee_code</last-pattern>
+      <last-pattern>attributestoarr</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IG1peGVkIFwx</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
