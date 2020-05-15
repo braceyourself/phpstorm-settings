@@ -141,11 +141,11 @@
         <mark key="^" line="9" column="39" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" timestamp="1589552115401">
-        <mark key="'" line="91" column="66" />
-        <mark key="[" line="91" column="62" />
-        <mark key="]" line="91" column="69" />
-        <mark key="^" line="91" column="69" />
-        <mark key="." line="91" column="68" />
+        <mark key="'" line="92" column="66" />
+        <mark key="[" line="92" column="62" />
+        <mark key="]" line="92" column="69" />
+        <mark key="^" line="92" column="69" />
+        <mark key="." line="92" column="68" />
       </file>
       <file name="/console" timestamp="1589551504140">
         <mark key="[" line="0" column="0" />
@@ -156,9 +156,6 @@
         <mark key="]" line="21" column="33" />
         <mark key="." line="21" column="32" />
         <mark key="^" line="21" column="33" />
-      </file>
-      <file name="/FRC.BRAND_CODE" timestamp="1589541228517">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/console.sql" timestamp="1589544055608">
         <mark key="'" line="0" column="7" />
@@ -173,9 +170,6 @@
         <mark key="]" line="94" column="35" />
         <mark key="^" line="94" column="35" />
         <mark key="." line="94" column="34" />
-      </file>
-      <file name="/BRAND_CODE [Dev Frc]" timestamp="1589541228498">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1589551102458">
         <mark key="[" line="0" column="0" />
@@ -215,6 +209,10 @@
         <mark key="]" line="99" column="24" />
         <mark key="." line="99" column="24" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/ApiResponse.php" timestamp="1589552247128">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="41" column="11" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/AttendeeBase.php" timestamp="1589550682680">
         <mark key="'" line="72" column="4" />
         <mark key="[" line="132" column="31" />
@@ -235,10 +233,15 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="34" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/CmiApiResponse.php" timestamp="1589552335372">
+        <mark key="'" line="3" column="31" />
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="59" />
+        <mark key="." line="12" column="43" />
+        <mark key="^" line="12" column="43" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/event_mgmt.sql" />
-      <jump line="168" column="23" filename="$USER_HOME$/code/fresco32/DDL/Packages/event_mgmt.sql" />
       <jump line="172" column="23" filename="$USER_HOME$/code/fresco32/DDL/Packages/event_mgmt.sql" />
       <jump line="187" column="27" filename="$USER_HOME$/code/fresco32/DDL/Packages/event_mgmt.sql" />
       <jump line="860" column="23" filename="$USER_HOME$/code/fresco32/DDL/Packages/event_mgmt.sql" />
@@ -337,48 +340,50 @@
       <jump line="51" column="21" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
       <jump line="87" column="37" filename="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" />
       <jump line="91" column="66" filename="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" />
+      <jump line="13" column="24" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/CmiApiResponse.php" />
+      <jump line="4" column="31" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/CmiApiResponse.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>data</text>
+        <text>data.get_results</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>data.get_results</text>
       </register>
       <register name="/" type="4">
         <text>\(.*\)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkcHJpbWFyeUtleSA9ICdmZWVfbm8nOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFwKGNvbGxlY3QoJHRoaXMtPmpzb24oKSksIGZ1bmN0aW9uICgmJGl0ZW1zKSB7CgogICAgICAgICAgICBpZiAoaXNzZXQoJHRoaXMtPnJlcG9zaXRvcnktPmh5ZHJhdGVfd2l0aCkpIHsKCiAgICAgICAgICAgICAgICAkaXRlbXMgPSAkdGhpcy0+cmVwb3NpdG9yeS0+aHlkcmF0ZSgkaXRlbXMpOwoKICAgICAgICAgICAgfQoKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojpjb2xsZWN0KCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KICAgIC8qKiBAdGVzdCAqLyAvLyBnZXQgYWxsIHVzZXJzCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0X2FsbF91c2VycygpCiAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cXVlcnkoWwogICAgICAgICAgICAnYWN0aW9uJyA9PiAnZ2V0X3VzZXJzJywKICAgICAgICAgICAgJ2FyZ3VtZW50cycgPT4gWwogICAgICAgICAgICAgICAgJ3NlYXJjaCcgPT4gJ2V0aGFuJwogICAgICAgICAgICBdCiAgICAgICAgXSktPmNhbGwoKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG9iamVjCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYXR0ZW5kZWUtPmZlZXMpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBjb2xsZWN0KCkKICAgIHsKICAgICAgICByZXR1cm4gcGFyZW50Ojpjb2xsZWN0KCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZXZlbnRfZmVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+b2JqZWN0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0KICAgIC8qKiBAdGVzdCAqLyAvLyBnZXQgYWxsIHVzZXJzCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0X2FsbF91c2VycygpCiAgICB7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkc2VxID0gJ2ZlZV9ubyc7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">cXVlcnkoWwogICAgICAgICAgICAnYWN0aW9uJyA9PiAnZ2V0X3VzZXJzJywKICAgICAgICAgICAgJ2FyZ3VtZW50cycgPT4gWwogICAgICAgICAgICAgICAgJ3NlYXJjaCcgPT4gJ2V0aGFuJwogICAgICAgICAgICBdCiAgICAgICAgXSktPmNhbGwoKQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXR0ZW5kZWUtPmZlZXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4gcy9cKC4qXCkvICJcMSIsLw==</text>
