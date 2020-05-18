@@ -5,26 +5,26 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>__call</entry>
-        <entry>delete(</entry>
-        <entry>assert</entry>
-        <entry>n assert</entry>
-        <entry>client</entry>
-        <entry encoding="base64">LT5jbGllbnQ=</entry>
-        <entry encoding="base64">LT5nZXRDbGllbnQ=</entry>
-        <entry>getClient</entry>
-        <entry>dump(</entry>
-        <entry>mergeQ</entry>
-        <entry>$user</entry>
-        <entry>newQuery</entry>
-        <entry>email</entry>
-        <entry>get_email</entry>
-        <entry>get_email_addr</entry>
         <entry>save</entry>
         <entry>fire</entry>
         <entry>call</entry>
         <entry>attr</entry>
         <entry encoding="base64">XDxyZWNlbnRseV9jcmVhdGVkX2FwaVw+</entry>
+        <entry>getid</entry>
+        <entry>Attrib</entry>
+        <entry>lens</entry>
+        <entry>getuserlogin</entry>
+        <entry>str::of</entry>
+        <entry>getuserem</entry>
+        <entry>getuserpass</entry>
+        <entry>attendee(</entry>
+        <entry>getuserpa</entry>
+        <entry>getlast</entry>
+        <entry>getusere</entry>
+        <entry>getuserlog</entry>
+        <entry>getname</entry>
+        <entry>getfir</entry>
+        <entry>getdisp</entry>
       </history-search>
       <history-cmd>
         <entry>1224</entry>
@@ -43,10 +43,10 @@
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvICogQHByb3BlcnR5IG1peGVkIFwxLw==</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvICJcMSIsLw==</entry>
         <entry>205</entry>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
         <entry>redo</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,12 +134,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/api-frc-org/app/VendorApis/ApiClient.php" timestamp="1589814670421">
-        <mark key="'" line="232" column="23" />
-        <mark key="[" line="245" column="34" />
-        <mark key="]" line="245" column="34" />
-        <mark key="." line="245" column="34" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/ApiVendorData.php" timestamp="1589822857954">
         <mark key="'" line="215" column="28" />
         <mark key="[" line="222" column="16" />
@@ -168,12 +162,11 @@
         <mark key="^" line="46" column="8" />
         <mark key="." line="46" column="4" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" timestamp="1589823620804">
-        <mark key="'" line="95" column="23" />
-        <mark key="[" line="99" column="42" />
-        <mark key="]" line="99" column="43" />
-        <mark key="." line="99" column="43" />
-        <mark key="^" line="99" column="41" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" timestamp="1589825162936">
+        <mark key="'" line="173" column="0" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="." line="282" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" timestamp="1589823215089">
         <mark key="'" line="60" column="39" />
@@ -196,6 +189,12 @@
         <mark key="^" line="67" column="33" />
         <mark key="." line="67" column="32" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Lenses/CmiUserApiLens.php" timestamp="1589824475078">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="44" column="61" />
+        <mark key="." line="40" column="67" />
+        <mark key="^" line="40" column="68" />
+      </file>
       <file name="/foo.bar" timestamp="1589817739375">
         <mark key="[" line="0" column="0" />
       </file>
@@ -206,6 +205,13 @@
       </file>
       <file name="/ATTENDEE_PERSON [Dev Frc]" timestamp="1589817739337">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Cmi/User.php" timestamp="1589825191115">
+        <mark key="'" line="82" column="17" />
+        <mark key="[" line="46" column="42" />
+        <mark key="]" line="46" column="58" />
+        <mark key="^" line="46" column="42" />
+        <mark key="." line="46" column="42" />
       </file>
       <file name="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/EMAIL_INFO.sql" timestamp="1589817792922">
         <mark key="'" line="31" column="14" />
@@ -223,18 +229,12 @@
       <file name="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/EMAIL_INFO/body/EMAIL_INFO.sql" timestamp="1589817820376">
         <mark key="'" line="163" column="25" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ApiRequestJob.php" timestamp="1589814029042">
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ApiRequestJob.php" timestamp="1589824171100">
         <mark key="'" line="26" column="29" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/CmiApiResponse.php" timestamp="1589815095400">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="51" column="22" />
-        <mark key="^" line="51" column="22" />
-        <mark key="." line="51" column="21" />
+        <mark key="[" line="34" column="61" />
+        <mark key="]" line="34" column="83" />
+        <mark key="." line="34" column="82" />
+        <mark key="^" line="34" column="83" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Notifications/CmiUserCreated.php" timestamp="1589816134287">
         <mark key="[" line="50" column="0" />
@@ -243,21 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
-      <jump line="395" column="50" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="479" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="38" column="28" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="109" column="31" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="461" column="8" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="398" column="27" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="307" column="31" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
-      <jump line="291" column="12" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
-      <jump line="104" column="21" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
-      <jump line="106" column="21" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
-      <jump line="314" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
-      <jump line="312" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
-      <jump line="166" column="21" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
-      <jump line="108" column="45" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
       <jump line="36" column="42" filename="$USER_HOME$/code/api-frc-org/app/Nova/Actions/UpdateCmiUser.php" />
       <jump line="45" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/CmiEndpointTests.php" />
       <jump line="46" column="3" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" />
@@ -342,60 +327,75 @@
       <jump line="94" column="18" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
       <jump line="99" column="7" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" />
       <jump line="60" column="39" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" />
-      <jump line="95" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="95" column="63" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="335" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="36" column="4" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Cmi/User.php" />
+      <jump line="71" column="17" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Cmi/User.php" />
+      <jump line="146" column="7" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="147" column="28" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="285" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="164" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="167" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="128" column="51" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="178" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="267" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="276" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="303" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="150" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="173" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>The</text>
+        <text encoding="base64">JHRoaXMtPmlzU3RhbGUoKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>The</text>
+        <text encoding="base64">JHRoaXMtPmlzU3RhbGUoKQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWNlbnRseV9jcmVhdGVkX2FwaVw+</text>
+        <text>getdisp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVzcG9uc2VbJ2RhdGEnXSA9IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ3VzZXJfaWQnID0+IDEsCiAgICAgICAgICAgICAgICAgICAgICAgICd1c2VyX2RhdGEnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd1c2VyX2xvZ2luJyA9PiAndGVzdC11c2VyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd1c2VyX3Bhc3MnID0+ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3JvbGUnID0+ICdnZW5lcmFsJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRhJyA9PiAndGhpcyBpcyBkYXRhIGZyb20gdGhlIGFwaScKICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQXJyOjpnZXQoJHRoaXMtPmF0dHJpYnV0ZXMsICdmaXJzdCcsCiAgICAgICAgICAgIG9wdGlvbmFsKCR0aGlzLT5hdHRlbmRlZV9wZXJzb24pLT5maXJzdF9uYW1lCiAgICAgICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImBgYGpzb25cbiIgLiAgLiAiXG5gYGAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQWNjZXNzb3IgZm9yIGlzX3N0YWxlCiAgICAgKiovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0SXNTdGFsZUF0dHJpYnV0ZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5pc1N0YWxlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3B0aW9uYWwoJHRoaXMtPmF0dGVuZGVlX3BlcnNvbiktPmxhc3RfbmFtZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgndXBkYXRlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICd1c2VyX2xvZ2luJyA9PiAndGVzdC11c2VyJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd1c2VyX3Bhc3MnID0+ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3JvbGUnID0+ICdnZW5lcmFsJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRhJyA9PiAndGhpcyBpcyBkYXRhIGZyb20gdGhlIGFwaScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGV4dDo6bWFrZSgnbGFzdF9uYW1lJywgZm4oKSA9PiAkdGhpcy0+bGFzdCksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3VzZXJfaWQnID0+IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGV4dDo6bWFrZSgnZmlyc3RfbmFtZScsIGZuKCkgPT4gJHRoaXMtPmZpcnN0KSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGV4dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGV4dDo6bWFrZSgndXNlcl9wYXNzJywgZm4oKSA9PiAkdGhpcy0+Zmlyc3QpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>redo</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWNlbnRseV9jcmVhdGVkX2FwaVw+</last-search>
+      <last-search>getdisp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWNlbnRseV9jcmVhdGVkX2FwaVw+</last-pattern>
+      <last-pattern>getdisp</last-pattern>
       <last-replace encoding="base64">ICJcMSIs</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
