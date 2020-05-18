@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>attendee(</entry>
         <entry>getlast</entry>
         <entry>getusere</entry>
         <entry>getuserlog</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhdHRlbmRlZV90eXBlX2Rlc2NcPg==</entry>
         <entry>keysfor</entry>
         <entry encoding="base64">XDxhdHRlbmRlZV90eXBlXD4=</entry>
+        <entry>fill</entry>
       </history-search>
       <history-cmd>
         <entry>1224</entry>
@@ -141,12 +141,11 @@
         <mark key="^" line="222" column="23" />
         <mark key="." line="222" column="22" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" timestamp="1589832578269">
-        <mark key="'" line="61" column="5" />
-        <mark key="[" line="35" column="53" />
-        <mark key="]" line="35" column="53" />
-        <mark key="^" line="104" column="74" />
-        <mark key="." line="35" column="53" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" timestamp="1589832839199">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" timestamp="1589831935491">
         <mark key="'" line="67" column="21" />
@@ -185,12 +184,12 @@
         <mark key="." line="235" column="29" />
         <mark key="^" line="235" column="30" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" timestamp="1589832620143">
-        <mark key="'" line="102" column="10" />
-        <mark key="[" line="52" column="373" />
-        <mark key="]" line="52" column="373" />
-        <mark key="." line="52" column="373" />
-        <mark key="^" line="52" column="384" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" timestamp="1589833773381">
+        <mark key="'" line="101" column="10" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="51" column="384" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" timestamp="1589826744859">
         <mark key="'" line="334" column="26" />
@@ -251,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="32" filename="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" />
       <jump line="27" column="35" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
       <jump line="82" column="50" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
       <jump line="49" column="45" filename="$USER_HOME$/code/api-frc-org/app/Notifications/CmiUserCreated.php" />
@@ -351,48 +349,49 @@
       <jump line="35" column="53" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
       <jump line="61" column="5" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
       <jump line="102" column="10" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>}</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBcTm90aWZpY2F0aW9uOjpmYWtlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdHRlbmRlZV90eXBlXD4=</text>
+        <text>fill</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBIdHRwOjphc3NlcnRTZW50KGZ1bmN0aW9uIChSZXF1ZXN0ICRyZXF1ZXN0KSB7CiAgICAgICAgICAgIHJldHVybiBjb2xsZWN0KHBhcnNlX3F1ZXJ5KCRyZXF1ZXN0LT51cmwoKSkpLT5nZXQoJ2FjdGlvbicpID09PSAndXBkYXRlX3VzZXInOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLyAvLyBjcmVhdGluZyBhIHVzZXIgbG9jYWxseSBjcmVhdGVzIGEgdXNlciBvbiB0aGUgYXBpCiAgICBwdWJsaWMgZnVuY3Rpb24gY3JlYXRpbmdfYV91c2VyX2xvY2FsbHlfY3JlYXRlc19hX3VzZXJfb25fdGhlX2FwaSgpCiAgICB7CiAgICAgICAgVXNlcjo6Y3JlYXRlKFsKICAgICAgICAgICAgJ3BlcnNvbmFsX2lkJyA9PiAkdGhpcy0+YXR0ZW5kZWUtPnBlcnNvbmFsX2lkLAogICAgICAgICAgICAnZXZlbnRfY29kZScgPT4gJHRoaXMtPmF0dGVuZGVlLT5ldmVudF9jb2RlLAogICAgICAgIF0pOwoKICAgICAgICBIdHRwOjphc3NlcnRTZW50KGZ1bmN0aW9uIChSZXF1ZXN0ICRyZXF1ZXN0KSB7CiAgICAgICAgICAgIHJldHVybiBjb2xsZWN0KHBhcnNlX3F1ZXJ5KCRyZXF1ZXN0LT51cmwoKSkpLT5nZXQoJ2FjdGlvbicpID09PSAnY3JlYXRlX3VzZXInOwogICAgICAgIH0pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBcTm90aWZpY2F0aW9uOjpmYWtlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycgPT4gJCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IFVzZXI6OmNyZWF0ZShbCiAgICAgICAgICAgICcnCiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR1c2VyLT5pZCA9ICRyZXNwb25zZS0+Z2V0SnNvbignZGF0YS51c2VyX2lkJyk7CiAgICAgICAgICAgICAgICAkdXNlci0+ZmlsbCgkcmVzcG9uc2UtPmdldEpzb24oJ2RhdGEudXNlcl9kYXRhJykpOwogICAgICAgICAgICAgICAgJHVzZXItPnNhdmVRdWlldGx5KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLyAvLyBjcmVhdGluZyBhIHVzZXIgbG9jYWxseSBjcmVhdGVzIGEgdXNlciBvbiB0aGUgYXBpCiAgICBwdWJsaWMgZnVuY3Rpb24gY3JlYXRpbmdfYV91c2VyX2xvY2FsbHlfY3JlYXRlc19hX3VzZXJfb25fdGhlX2FwaSgpCiAgICB7CiAgICAgICAgVXNlcjo6Y3JlYXRlKFsKICAgICAgICAgICAgJ3BlcnNvbmFsX2lkJyA9PiAkdGhpcy0+YXR0ZW5kZWUtPnBlcnNvbmFsX2lkLAogICAgICAgICAgICAnZXZlbnRfY29kZScgPT4gJHRoaXMtPmF0dGVuZGVlLT5ldmVudF9jb2RlLAogICAgICAgIF0pOwoKICAgICAgICBIdHRwOjphc3NlcnRTZW50KGZ1bmN0aW9uIChSZXF1ZXN0ICRyZXF1ZXN0KSB7CiAgICAgICAgICAgIHJldHVybiBjb2xsZWN0KHBhcnNlX3F1ZXJ5KCRyZXF1ZXN0LT51cmwoKSkpLT5nZXQoJ2FjdGlvbicpID09PSAnY3JlYXRlX3VzZXInOwogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -401,9 +400,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhdHRlbmRlZV90eXBlXD4=</last-search>
+      <last-search>fill</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdHRlbmRlZV90eXBlXD4=</last-pattern>
+      <last-pattern>fill</last-pattern>
       <last-replace encoding="base64">ICJcMSIs</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
