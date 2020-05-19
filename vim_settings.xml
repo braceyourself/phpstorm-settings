@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getname</entry>
         <entry>getfir</entry>
         <entry>getdisp</entry>
         <entry>get_user</entry>
@@ -25,6 +24,7 @@
         <entry>update</entry>
         <entry>filter</entry>
         <entry>where</entry>
+        <entry>whereN</entry>
       </history-search>
       <history-cmd>
         <entry>1224</entry>
@@ -134,12 +134,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Filters/CmiUserFilter.php" timestamp="1589881006733">
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Filters/CmiUserFilter.php" timestamp="1589883034552">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="33" column="45" />
-        <mark key="]" line="33" column="46" />
-        <mark key="." line="33" column="45" />
-        <mark key="^" line="33" column="46" />
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+        <mark key="^" line="32" column="55" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/ApiVendorData.php" timestamp="1589822857954">
         <mark key="'" line="215" column="28" />
@@ -205,12 +205,12 @@
         <mark key="^" line="59" column="40" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" timestamp="1589881538959">
-        <mark key="'" line="70" column="20" />
-        <mark key="[" line="148" column="27" />
-        <mark key="]" line="148" column="44" />
-        <mark key="^" line="148" column="44" />
-        <mark key="." line="148" column="43" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" timestamp="1589882999547">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="147" column="35" />
+        <mark key="]" line="147" column="44" />
+        <mark key="^" line="147" column="44" />
+        <mark key="." line="147" column="43" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/Actions/UpdateCmiUser.php" timestamp="1589850089102">
         <mark key="[" line="39" column="48" />
@@ -235,9 +235,9 @@
         <mark key="." line="334" column="0" />
         <mark key="^" line="324" column="10" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1589881105981">
-        <mark key="[" line="998" column="0" />
-        <mark key="]" line="1015" column="5" />
+      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1589882862824">
+        <mark key="[" line="1011" column="0" />
+        <mark key="]" line="1011" column="67" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7534b674-e475-4975-a16e-54f0c634221b/console.sql" timestamp="1589852933126">
         <mark key="[" line="12" column="27" />
@@ -260,7 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" />
       <jump line="155" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" />
       <jump line="83" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" />
       <jump line="179" column="23" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasEvents.php" />
@@ -360,48 +359,49 @@
       <jump line="78" column="17" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Cmi/User.php" />
       <jump line="22" column="6" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
       <jump line="70" column="20" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="16" column="6" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="+" type="4">
+        <text>api_vendor_data.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGsgPT4g</text>
+        <text>api_vendor_data.</text>
       </register>
       <register name="/" type="4">
-        <text>where</text>
+        <text>whereN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQWRkIGEgIndoZXJlIG51bGwiIGNsYXVzZSB0byB0aGUgcXVlcnkuCiAgICAgKgogICAgICogQHBhcmFtICBzdHJpbmd8YXJyYXkgICRjb2x1bW5zCiAgICAgKiBAcGFyYW0gIHN0cmluZyAgJGJvb2xlYW4KICAgICAqIEBwYXJhbSAgYm9vbCAgJG5vdAogICAgICogQHJldHVybiAkdGhpcwogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gd2hlcmVOdWxsKCRjb2x1bW5zLCAkYm9vbGVhbiA9ICdhbmQnLCAkbm90ID0gZmFsc2UpCiAgICB7CiAgICAgICAgJHR5cGUgPSAkbm90ID8gJ05vdE51bGwnIDogJ051bGwnOwoKICAgICAgICBmb3JlYWNoIChBcnI6OndyYXAoJGNvbHVtbnMpIGFzICRjb2x1bW4pIHsKICAgICAgICAgICAgJHRoaXMtPndoZXJlc1tdID0gY29tcGFjdCgndHlwZScsICdjb2x1bW4nLCAnYm9vbGVhbicpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPndoZXJlc1tdID0gY29tcGFjdCgndHlwZScsICdjb2x1bW4nLCAnYm9vbGVhbicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAganNvbl9leHRyYWN0KGRhdGEsICckLiRjb2x1bW4nKSA9IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcQnVpbGRlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvbHVtbnNbJGtdID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY29sdW1ucyA9IEFycjo6d3JhcCgkY29sdW1ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkY29sdW1ucyBhcyAkayA9PiAkY29sdW1uKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvbHVtbnNbJGtdID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKCRjb2x1bW4gPSBTdHI6Om9mKCRjb2x1bW4pKS0+c3RhcnRzV2l0aCgnYXBpX3ZlbmRvcl9kYXRhJykpIAogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIAogICAgICAgICAgICAkY29sdW1uc1ska10gPSAK</text>
+        <text encoding="base64">ICAgICAgICAkY29sdW1ucyA9IEFycjo6d3JhcCgkY29sdW1ucyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -410,9 +410,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>where</last-search>
+      <last-search>whereN</last-search>
       <last-offset />
-      <last-pattern>where</last-pattern>
+      <last-pattern>whereN</last-pattern>
       <last-replace encoding="base64">ICJcMSIs</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
