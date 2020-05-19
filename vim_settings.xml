@@ -44,9 +44,9 @@
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvICJcMSIsLw==</entry>
         <entry>205</entry>
         <entry>wq</entry>
-        <entry>q</entry>
-        <entry>w</entry>
         <entry>redo</entry>
+        <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,12 +134,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Filters/CmiUserFilter.php" timestamp="1589852969179">
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Filters/CmiUserFilter.php" timestamp="1589880415260">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="35" column="41" />
-        <mark key="]" line="35" column="74" />
-        <mark key="." line="35" column="73" />
-        <mark key="^" line="35" column="74" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="21" />
       </file>
       <file name="/console" timestamp="1589848666360">
         <mark key="[" line="0" column="0" />
@@ -158,12 +158,12 @@
         <mark key="^" line="222" column="23" />
         <mark key="." line="222" column="22" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" timestamp="1589852667099">
-        <mark key="'" line="70" column="21" />
-        <mark key="[" line="70" column="20" />
-        <mark key="]" line="70" column="20" />
-        <mark key="^" line="70" column="20" />
-        <mark key="." line="70" column="19" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" timestamp="1589879970886">
+        <mark key="'" line="20" column="21" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="59" column="40" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" timestamp="1589831935491">
         <mark key="'" line="67" column="21" />
@@ -181,12 +181,12 @@
       <file name="/Dummy.txt" timestamp="1589831111789">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" timestamp="1589850896878">
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" timestamp="1589879932744">
         <mark key="'" line="97" column="23" />
-        <mark key="[" line="103" column="21" />
-        <mark key="]" line="104" column="36" />
-        <mark key="." line="104" column="35" />
-        <mark key="^" line="104" column="36" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="77" column="8" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" timestamp="1589849422647">
         <mark key="'" line="37" column="21" />
@@ -220,18 +220,18 @@
         <mark key="]" line="183" column="0" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Lenses/CmiUserApiLens.php" timestamp="1589850670949">
-        <mark key="[" line="46" column="34" />
-        <mark key="]" line="46" column="34" />
-        <mark key="." line="46" column="34" />
-        <mark key="^" line="46" column="44" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Lenses/CmiUserApiLens.php" timestamp="1589880749928">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="25" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1589822244075">
         <mark key="'" line="632" column="42" />
         <mark key="[" line="626" column="0" />
         <mark key="]" line="633" column="5" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Cmi/User.php" timestamp="1589851979485">
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Cmi/User.php" timestamp="1589880601370">
         <mark key="'" line="78" column="26" />
         <mark key="[" line="78" column="17" />
         <mark key="]" line="78" column="29" />
@@ -261,8 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="25" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/EMAIL_INFO/body/EMAIL_INFO.sql" />
-      <jump line="6" column="19" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
       <jump line="75" column="10" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" />
       <jump line="87" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
       <jump line="72" column="34" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
@@ -361,51 +359,53 @@
       <jump line="9" column="0" filename="$USER_HOME$/code/api-frc-org/app/Nova/Filters/CmiUserFilter.php" />
       <jump line="65" column="46" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
       <jump line="70" column="21" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
+      <jump line="20" column="21" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" />
+      <jump line="45" column="23" filename="$USER_HOME$/code/api-frc-org/app/Nova/Lenses/CmiUserApiLens.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">J2RhdGEtPmhhc19lcnJvcic=</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J2RhdGEtPmhhc19lcnJvcic=</text>
+        <text>new \App\Models\Cmi\User()</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
       <register name="0" type="4">
-        <text>json_unquote(json_extract(`data`, '$.personal_id')) personal_id,</text>
+        <text>json_unquote(json_extract(`data`, '$.id'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGF0YS0+PickLmhhc19lcnJvcicgaXMgbm90IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text>;</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICosCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5LT4tPndoZXJlUmF3KCJqc29uX3VucXVvdGUoanNvbl9leHRyYWN0KGBkYXRhYCwgJyQuaWQnKSkgPSByZWNvcmRfaWQiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIGpzb25fdW5xdW90ZShqc29uX2V4dHJhY3QoYGRhdGFgLCAnJC5wZXJzb25hbF9pZCcpKSBwZXJzb25hbF9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGpzb25fdW5xdW90ZShqc29uX2V4dHJhY3QoYGRhdGFgLCAnJC5wZXJzb25hbF9pZCcpKSBwZXJzb25hbF9pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoJCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFpc3NldCgkdXNlci0+aWQpKSB7CiAgICAgICAgICAgICAgICAkdXNlci0+aWQgPSAkdXNlci0+cGVyc29uYWxfaWQ7CiAgICAgICAgICAgICAgICAkdXNlci0+c2F2ZVF1aWV0bHkoKTsKICAgICAgICAgICAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>redo</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
