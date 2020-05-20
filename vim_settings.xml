@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnNlcnRfYXBwZWFsXD4=</entry>
         <entry>appealRec</entry>
         <entry>fields</entry>
         <entry>function</entry>
@@ -25,6 +24,7 @@
         <entry>dates</entry>
         <entry>DB::</entry>
         <entry>select</entry>
+        <entry>lens</entry>
       </history-search>
       <history-cmd>
         <entry>m .+1</entry>
@@ -134,38 +134,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/api-frc-org/composer.json" timestamp="1589992266111">
-        <mark key="'" line="123" column="9" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Http/Controllers/FrcTransactionController.php" timestamp="1589992641973">
         <mark key="'" line="178" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" timestamp="1589995406586">
         <mark key="'" line="126" column="34" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/console.sql" timestamp="1589995448723">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="15" column="43" />
-        <mark key="." line="12" column="4" />
-        <mark key="^" line="13" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/console.sql" timestamp="1589999918741">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" timestamp="1589997434234">
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="12" />
-        <mark key="." line="37" column="11" />
-        <mark key="^" line="37" column="12" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" timestamp="1590000650119">
+        <mark key="'" line="75" column="30" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="44" />
+        <mark key="." line="39" column="42" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Routing/Router.php" timestamp="1589993481177">
         <mark key="'" line="316" column="31" />
         <mark key="[" line="348" column="0" />
         <mark key="]" line="348" column="64" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" timestamp="1589996946182">
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" timestamp="1590000606837">
         <mark key="'" line="288" column="36" />
-        <mark key="[" line="289" column="14" />
-        <mark key="]" line="289" column="14" />
-        <mark key="^" line="288" column="49" />
-        <mark key="." line="289" column="14" />
+        <mark key="[" line="302" column="22" />
+        <mark key="]" line="302" column="22" />
+        <mark key="^" line="302" column="22" />
+        <mark key="." line="302" column="21" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Frc/VendorCcTransaction.php" timestamp="1589994921886">
         <mark key="'" line="1" column="81" />
@@ -173,6 +170,12 @@
         <mark key="]" line="1" column="83" />
         <mark key="^" line="1" column="83" />
         <mark key="." line="1" column="82" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Lenses/VendorCcErrorLens.php" timestamp="1590000773765">
+        <mark key="[" line="40" column="34" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="41" />
+        <mark key="^" line="40" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1589996472283">
         <mark key="[" line="0" column="0" />
@@ -188,12 +191,6 @@
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php" timestamp="1589993090598">
         <mark key="'" line="5" column="39" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/nova-components/TransactionStatusCard/routes/api.php" timestamp="1589991829697">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="63" />
-        <mark key="." line="16" column="36" />
-        <mark key="^" line="16" column="36" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorCcTransactionBase.php" timestamp="1589997235264">
         <mark key="'" line="8" column="20" />
@@ -215,9 +212,15 @@
         <mark key="." line="88" column="27" />
         <mark key="^" line="88" column="28" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Support/Database/OracleColumn.php" timestamp="1589997399870">
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Filters/VendorCcErrorsFilter.php" timestamp="1589999359980">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="33" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Support/Database/OracleColumn.php" timestamp="1590000825147">
         <mark key="'" line="11" column="21" />
-        <mark key="[" line="9" column="4" />
+        <mark key="[" line="41" column="50" />
         <mark key="]" line="13" column="11" />
         <mark key="^" line="13" column="11" />
         <mark key="." line="13" column="10" />
@@ -227,14 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="807" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
-      <jump line="816" column="56" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
-      <jump line="817" column="51" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/appeal_info.sql" />
-      <jump line="202" column="25" filename="$USER_HOME$/code/fresco32/DDL/Packages/appeal_info.sql" />
-      <jump line="204" column="13" filename="$USER_HOME$/code/fresco32/DDL/Packages/appeal_info.sql" />
-      <jump line="881" column="25" filename="$USER_HOME$/code/fresco32/DDL/Packages/appeal_info.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/appeal_mgmt.sql" />
       <jump line="10" column="73" filename="$USER_HOME$/code/fresco32/DDL/Packages/appeal_mgmt.sql" />
       <jump line="11" column="51" filename="$USER_HOME$/code/fresco32/DDL/Packages/appeal_mgmt.sql" />
       <jump line="15" column="58" filename="$USER_HOME$/code/fresco32/DDL/Packages/appeal_mgmt.sql" />
@@ -327,48 +322,60 @@
       <jump line="6" column="21" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OracleColumn.php" />
       <jump line="288" column="36" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
       <jump line="37" column="41" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" />
+      <jump line="62" column="25" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" />
+      <jump line="64" column="32" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" />
+      <jump line="66" column="23" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" />
+      <jump line="65" column="13" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" />
+      <jump line="70" column="15" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" />
+      <jump line="75" column="20" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" />
+      <jump line="79" column="30" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" />
+      <jump line="41" column="32" filename="$USER_HOME$/code/api-frc-org/app/Nova/Lenses/VendorCcErrorLens.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>s</text>
+        <text>VendorCcTransaction</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>VendorCcTransaction</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text>lens</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBUZXh0OjptYWtlKCR0aGlzLT5uYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3JlY29uY2lsZV9lcnJvcl9jb2RlJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gTnVtYmVyfFRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>[
+
+        ];</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaCAoJGNvbHVtblsnZGF0YV90eXBlJ10pIHsKICAgICAgICAgICAgICAgICAgICBjYXNlICd2YXJjaGFyMic6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBUZXh0OjptYWtlKCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>[
+            'status_code'
+        ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQHZhciBGcmNCYXNlTW9kZWwgJG1vZGVsICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbW9kZWwgPSBzdGF0aWM6OiRtb2RlbDsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLyAvLyBwZXJzb24gYXR0ZW5kZWUgdmlldwogICAgcHVibGljIGZ1bmN0aW9uIHBlcnNvbl9hdHRlbmRlZV92aWV3KCkKICAgIHsKICAgICAgICAkY29sdW1ucyA9IFZlbmRvckNjVHJhbnNhY3Rpb246OmdldFRhYmxlQ29sdW1ucygpOwogICAgICAgIGRkKCRjb2x1bW5zLT5maXJzdCgpLT50b05vdmFGaWVsZCgpKTsKICAgIH0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y29sbGVjdCgkbW9kZWw6OmdldFRhYmxlQ29sdW1ucygpKQogICAgICAgICAgICAtPm1hcChmbihPcmFjbGVDb2x1bW4gJGNvbHVtbikgPT4gJGNvbHVtbi0+dG9Ob3ZhRmllbGQoJGNvbHVtbi0+dHlwZSA9PSAnZGF0ZScgPyBEYXRlOjpjbGFzcyA6IG51bGwpKQogICAgICAgICAgICAtPnRvQXJyYXkoKTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjb2x1bW4gPSBqc29uX2RlY29kZShzdHJ0b2xvd2VyKGpzb25fZW5jb2RlKCRjb2x1bW4pKSwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4gcy9cKC4qXCkvICogQHByb3BlcnR5IG1peGVkIFwxLw==</text>
@@ -377,9 +384,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>select</last-search>
+      <last-search>lens</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern>lens</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IG1peGVkIFwx</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
