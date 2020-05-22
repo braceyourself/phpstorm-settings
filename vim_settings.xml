@@ -154,14 +154,11 @@
         <mark key="." line="69" column="19" />
         <mark key="^" line="69" column="20" />
       </file>
-      <file name="/users [API server]" timestamp="1590166049957">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/api_frc_org.users" timestamp="1590166049980">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/api_frc_org.api_vendor_data" timestamp="1590166056557">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Console/Commands/SendErrors.php" timestamp="1590173666907">
+        <mark key="'" line="43" column="17" />
       </file>
       <file name="/api_vendor_data [API server]" timestamp="1590166056525">
         <mark key="[" line="0" column="0" />
@@ -218,6 +215,13 @@
         <mark key="^" line="15" column="62" />
         <mark key="." line="15" column="61" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Error.php" timestamp="1590173725989">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="31" column="98" />
+        <mark key="]" line="31" column="99" />
+        <mark key="." line="31" column="98" />
+        <mark key="^" line="31" column="99" />
+      </file>
       <file name="/FRC.NEW_ACCOUNT_ATTENDEES" timestamp="1590169560446">
         <mark key="[" line="0" column="0" />
       </file>
@@ -236,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" />
-      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
       <jump line="52" column="6" filename="$USER_HOME$/code/api-frc-org/app/Providers/NovaServiceProvider.php" />
       <jump line="135" column="34" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Events/Attendee.php" />
       <jump line="3084" column="24" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
@@ -336,15 +338,17 @@
       <jump line="15" column="0" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OracleColumn.php" />
       <jump line="20" column="7" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OracleColumn.php" />
       <jump line="47" column="21" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OracleColumn.php" />
+      <jump line="43" column="17" filename="$USER_HOME$/code/api-frc-org/app/Console/Commands/SendErrors.php" />
+      <jump line="12" column="2" filename="$USER_HOME$/code/api-frc-org/app/Error.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>table_name</text>
+        <text>info</text>
       </register>
       <register name="-" type="4">
-        <text>table_name</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>carbon</text>
@@ -353,31 +357,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxlY3QKICAgICAgICAgICAgICAgICAgICAgICAgQ09MVU1OX05BTUUsCiAgICAgICAgICAgICAgICAgICAgICAgIERBVEFfVFlQRSwKICAgICAgICAgICAgICAgICAgICAgICAgREFUQV9MRU5HVEgsCiAgICAgICAgICAgICAgICAgICAgICAgIERBVEFfUFJFQ0lTSU9OLAogICAgICAgICAgICAgICAgICAgICAgICBOVUxMQUJMRQogICAgICAgICAgICAgICAgICAgIGZyb20gc3lzLmFsbF90YWJfY29sdW1ucwogICAgICAgICAgICAgICAgICAgIHdoZXJlIFRBQkxFX05BTUUgPSAnJHRhYmxlX25hbWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2hlcmUgVEFCTEVfTkFNRSA9ICdORVdfQUNDT1VOVF9BVFRFTkRFRVMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0Ci0tIAlDT0xVTU5fTkFNRSwKLS0gCURBVEFfVFlQRSwKLS0gCURBVEFfTEVOR1RILAotLSAJREFUQV9QUkVDSVNJT04sCi0tIAlOVUxMQUJMRSwKLS0gICAgIERBVEFfREVGQVVMVAoqCmZyb20gc3lzLnRhYmwK</text>
+        <text encoding="base64">d2hlcmUgVEFCTEVfTkFNRSA9ICdORVdfQUNDT1VOVF9BVFRFTkRFRVMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnNlbGVjdAo=</text>
+        <text encoding="base64">c2VsZWN0Ci0tIAlDT0xVTU5fTkFNRSwKLS0gCURBVEFfVFlQRSwKLS0gCURBVEFfTEVOR1RILAotLSAJREFUQV9QUkVDSVNJT04sCi0tIAlOVUxMQUJMRSwKLS0gICAgIERBVEFfREVGQVVMVAoqCmZyb20gc3lzLnRhYmwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGNvbm5lY3Rpb247Cg==</text>
+        <text encoding="base64">CnNlbGVjdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29ubmVjdGlvbiA9ICRjb25uZWN0aW9uOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGNvbm5lY3Rpb247Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29ubmVjdGlvbiA9ICRjb25uZWN0aW9uOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Owo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4gcy9cKC4qXCkvICogQHByb3BlcnR5IG1peGVkIFwxLw==</text>
