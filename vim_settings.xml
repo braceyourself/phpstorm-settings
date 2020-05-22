@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>get(</entry>
         <entry>n get(</entry>
         <entry>cards</entry>
         <entry>cast</entry>
@@ -25,6 +24,7 @@
         <entry>find</entry>
         <entry>first(</entry>
         <entry>get_users</entry>
+        <entry>cmi-</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvICogQHByb3BlcnR5IG1peGVkIFwxLw==</entry>
@@ -144,15 +144,22 @@
       <file name="$USER_HOME$/code/api-frc-org/routes/web.php" timestamp="1590147933039">
         <mark key="'" line="9" column="49" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" timestamp="1590142569940">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="105" />
-        <mark key="^" line="29" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Events/Event.php" timestamp="1590158815248">
+        <mark key="'" line="142" column="36" />
+        <mark key="[" line="139" column="29" />
+        <mark key="]" line="139" column="46" />
+        <mark key="^" line="139" column="46" />
+        <mark key="." line="139" column="45" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Notifications/EftImportNotification.php" timestamp="1590147935110">
         <mark key="'" line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Events/Attendee.php" timestamp="1590158524921">
+        <mark key="'" line="135" column="34" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="^" line="135" column="39" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ActengageModel.php" timestamp="1590150486790">
         <mark key="'" line="10" column="54" />
@@ -161,18 +168,12 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Filters/AttendeeBooleanFilter.php" timestamp="1590157430063">
-        <mark key="[" line="57" column="24" />
-        <mark key="]" line="57" column="32" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Filters/AttendeeBooleanFilter.php" timestamp="1590158564871">
+        <mark key="'" line="22" column="23" />
+        <mark key="[" line="27" column="73" />
+        <mark key="]" line="27" column="74" />
         <mark key="^" line="57" column="32" />
-        <mark key="." line="57" column="31" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" timestamp="1590142750372">
-        <mark key="'" line="100" column="6" />
-        <mark key="[" line="38" column="24" />
-        <mark key="]" line="39" column="24" />
-        <mark key="^" line="39" column="24" />
-        <mark key="." line="39" column="23" />
+        <mark key="." line="27" column="74" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Transaction.php" timestamp="1590150484740">
         <mark key="'" line="35" column="38" />
@@ -259,9 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="452" column="28" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
-      <jump line="136" column="42" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
-      <jump line="262" column="43" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
       <jump line="286" column="7" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
       <jump line="297" column="43" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
       <jump line="307" column="42" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
@@ -278,7 +276,6 @@
       <jump line="129" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" />
       <jump line="143" column="798" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" />
       <jump line="2" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" />
-      <jump line="136" column="52" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Events/Event.php" />
       <jump line="161" column="20" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
       <jump line="171" column="23" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
       <jump line="156" column="0" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
@@ -359,48 +356,52 @@
       <jump line="49" column="24" filename="$USER_HOME$/code/api-frc-org/app/Nova/Filters/AttendeeCmiUserFilter.php" />
       <jump line="125" column="12" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" />
       <jump line="124" column="25" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" />
+      <jump line="136" column="36" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Events/Event.php" />
+      <jump line="46" column="33" filename="$USER_HOME$/code/api-frc-org/app/Nova/Filters/AttendeeBooleanFilter.php" />
+      <jump line="55" column="18" filename="$USER_HOME$/code/api-frc-org/app/Nova/Filters/AttendeeBooleanFilter.php" />
+      <jump line="22" column="23" filename="$USER_HOME$/code/api-frc-org/app/Nova/Filters/AttendeeBooleanFilter.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text encoding="base64">J0NoZWNrZWQgaW4nID0+IA==</text>
+        <text>personal_id</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J0NoZWNrZWQgaW4nID0+IA==</text>
+        <text>personal_id</text>
       </register>
       <register name="/" type="4">
-        <text>get_users</text>
+        <text>cmi-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ05vIENNSSBVc2VyJyA9PiAnY21pLW1pc3NpbmcnLAogICAgICAgICAgICAnSXMgQ01JIFVzZXInID0+ICdjbWknLAogICAgICAgICAgICAnQ2hlY2tlZCBpbicgPT4gJ2NoZWNrZWQtaW4nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZpZWxkRmlsdGVyKCdjaGVja2luX2ZsYWcnKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnTm8gQ01JIFVzZXInID0+ICdjbWktbWlzc2luZycsCiAgICAgICAgICAgICdJcyBDTUkgVXNlcicgPT4gJ2NtaScsCiAgICAgICAgICAgICdDaGVja2VkIGluJyA9PiAnY2hlY2tlZC1pbicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpkZWZhdWx0KCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZmFsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElEOjptYWtlKCdldmVudF9jb2RlJyktPnNvcnRhYmxlKCksCiAgICAgICAgICAgICAgICBOdW1iZXI6Om1ha2UoJ1JlZ2lzdGVyZWQgQXR0ZW5kZWVzJyktPnJlYWRvbmx5KCksCiAgICAgICAgICAgICAgICBOdW1iZXI6Om1ha2UoJ0F0dGVuZGVlcyBDaGVja2VkIEluJyktPnJlYWRvbmx5KCksCiAgICAgICAgICAgICAgICBCZWxvbmdzVG86Om1ha2UoJ0Nvb3JkaW5hdG9yJywgJ2V2ZW50X2Nvb3JkaW5hdG9yJywgU3RhZmY6OmNsYXNzKSwKICAgICAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnRXZlbnQgVHlwZScsICdldmVudF90eXBlX2NvZGUnLCBDb21tb25Db2RlOjpjbGFzcyksCiAgICAgICAgICAgICAgICBCZWxvbmdzVG86Om1ha2UoJ05vdGlmeSBTdGFmZicsICdzdGFmZl9ub3RpZnknLCBTdGFmZjo6Y2xhc3MpLAogICAgICAgICAgICAgICAgQmVsb25nc1RvOjptYWtlKCdEZXBhcnRtZW50JywgJ2RlcGFydG1lbnQnLCBEZXBhcnRtZW50OjpjbGFzcyksCgogICAgICAgICAgICAgICAgQm9vbGVhbjo6bWFrZSgnTG92IEZsYWcnKS0+dmFsdWVzKCdZJywgJ04nKSwKICAgICAgICAgICAgICAgIEJvb2xlYW46Om1ha2UoJ0NoZWNrZWQgSW4nLCAnY2hlY2tpbl9mbGFnJyktPnZhbHVlcygnWScsICdOJyksCiAgICAgICAgICAgICAgICBCb29sZWFuOjptYWtlKCdDaGVjayBNZW1iZXIgRmxhZycpLT52YWx1ZXMoJ1knLCAnTicpLAogICAgICAgICAgICAgICAgQm9vbGVhbjo6bWFrZSgnUXVpY2sgUHJvY2VzcyBGbGFnJyktPnZhbHVlcygnWScsICdOJyksCgoKICAgICAgICAgICAgICAgIFRleHQ6Om1ha2UoJ1N0YXR1cycsICdzdGF0dXNfY29kZScpLAoKICAgICAgICAgICAgICAgIFRleHQ6Om1ha2UoJ0Rlc2NyaXB0aW9uJywgJ2V2ZW50X2Rlc2MnKSwKICAgICAgICAgICAgICAgIFRleHQ6Om1ha2UoJ0xvY2F0aW9uJyksCgogICAgICAgICAgICAgICAgTnVtYmVyOjptYWtlKCdNYXggQXR0ZW5kZWVzJywgJ21heF9hdHRlbmQnKSwKICAgICAgICAgICAgICAgIE51bWJlcjo6bWFrZSgnT3ZlcmJvb2sgQXR0ZW5kZWVzJywgJ292ZXJib29rX2F0dGVuZCcpLAogICAgICAgICAgICAgICAgTnVtYmVyOjptYWtlKCdNYXggUm9vbScpLAogICAgICAgICAgICAgICAgTnVtYmVyOjptYWtlKCdPdmVyYm9vayBSb29tJyksCgogICAgICAgICAgICAgICAgVGV4dDo6bWFrZSgnVXNlciBJZCcpLAogICAgICAgICAgICAgICAgVGV4dDo6bWFrZSgnRXh0ZXJuYWwgVWlkJyksCiAgICAgICAgICAgICAgICBOdW1iZXI6Om1ha2UoJ0F0dGVuZGVlIENvdW50JyksCgoKICAgICAgICAgICAgICAgIERhdGU6Om1ha2UoJ0ludml0ZSBEYXRlJyksCiAgICAgICAgICAgICAgICBEYXRlOjptYWtlKCdBY3Rpdml0eScsICdhY3Rpdml0eV9kYXRlJyksCiAgICAgICAgICAgICAgICBUZXh0OjptYWtlKCdJbnZpdGUgU2lnbmVkJyksCgogICAgICAgICAgICAgICAgRGF0ZTo6bWFrZSgnU3RhcnQgRGF0ZScpLAogICAgICAgICAgICAgICAgRGF0ZTo6bWFrZSgnRW5kIERhdGUnKSwKICAgICAgICAgICAgICAgIERhdGU6Om1ha2UoJ0Fubm91bmNlZCcsICdhbm5vdW5jZV9kYXRlJyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBkZWZhdWx0KCkKICAgIHsKICAgICAgICByZXR1cm4gcGFyZW50OjpkZWZhdWx0KCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FyZ3VtZW50cycgPT4gWwogICAgICAgICAgICAgICAgJ3NlYXJjaCcgPT4gJycKICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSUQ6Om1ha2UoJ2V2ZW50X2NvZGUnKS0+c29ydGFibGUoKSwKICAgICAgICAgICAgTnVtYmVyOjptYWtlKCdSZWdpc3RlcmVkIEF0dGVuZGVlcycpLT5yZWFkb25seSgpLAogICAgICAgICAgICBOdW1iZXI6Om1ha2UoJ0F0dGVuZGVlcyBDaGVja2VkIEluJyktPnJlYWRvbmx5KCksCiAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnQ29vcmRpbmF0b3InLCAnZXZlbnRfY29vcmRpbmF0b3InLCBTdGFmZjo6Y2xhc3MpLAogICAgICAgICAgICBCZWxvbmdzVG86Om1ha2UoJ0V2ZW50IFR5cGUnLCAnZXZlbnRfdHlwZV9jb2RlJywgQ29tbW9uQ29kZTo6Y2xhc3MpLAogICAgICAgICAgICBCZWxvbmdzVG86Om1ha2UoJ05vdGlmeSBTdGFmZicsICdzdGFmZl9ub3RpZnknLCBTdGFmZjo6Y2xhc3MpLAogICAgICAgICAgICBCZWxvbmdzVG86Om1ha2UoJ0RlcGFydG1lbnQnLCAnZGVwYXJ0bWVudCcsIERlcGFydG1lbnQ6OmNsYXNzKSwKCiAgICAgICAgICAgIEJvb2xlYW46Om1ha2UoJ0xvdiBGbGFnJyktPnZhbHVlcygnWScsICdOJyksCiAgICAgICAgICAgIEJvb2xlYW46Om1ha2UoJ0NoZWNrZWQgSW4nLCAnY2hlY2tpbl9mbGFnJyktPnZhbHVlcygnWScsICdOJyksCiAgICAgICAgICAgIEJvb2xlYW46Om1ha2UoJ0NoZWNrIE1lbWJlciBGbGFnJyktPnZhbHVlcygnWScsICdOJyksCiAgICAgICAgICAgIEJvb2xlYW46Om1ha2UoJ1F1aWNrIFByb2Nlc3MgRmxhZycpLT52YWx1ZXMoJ1knLCAnTicpLAoKCiAgICAgICAgICAgIFRleHQ6Om1ha2UoJ1N0YXR1cycsICdzdGF0dXNfY29kZScpLAoKICAgICAgICAgICAgVGV4dDo6bWFrZSgnRGVzY3JpcHRpb24nLCAnZXZlbnRfZGVzYycpLAogICAgICAgICAgICBUZXh0OjptYWtlKCdMb2NhdGlvbicpLAoKICAgICAgICAgICAgTnVtYmVyOjptYWtlKCdNYXggQXR0ZW5kZWVzJywgJ21heF9hdHRlbmQnKSwKICAgICAgICAgICAgTnVtYmVyOjptYWtlKCdPdmVyYm9vayBBdHRlbmRlZXMnLCAnb3ZlcmJvb2tfYXR0ZW5kJyksCiAgICAgICAgICAgIE51bWJlcjo6bWFrZSgnTWF4IFJvb20nKSwKICAgICAgICAgICAgTnVtYmVyOjptYWtlKCdPdmVyYm9vayBSb29tJyksCgogICAgICAgICAgICBUZXh0OjptYWtlKCdVc2VyIElkJyksCiAgICAgICAgICAgIFRleHQ6Om1ha2UoJ0V4dGVybmFsIFVpZCcpLAogICAgICAgICAgICBOdW1iZXI6Om1ha2UoJ0F0dGVuZGVlIENvdW50JyksCgoKICAgICAgICAgICAgRGF0ZTo6bWFrZSgnSW52aXRlIERhdGUnKSwKICAgICAgICAgICAgRGF0ZTo6bWFrZSgnQWN0aXZpdHknLCAnYWN0aXZpdHlfZGF0ZScpLAogICAgICAgICAgICBUZXh0OjptYWtlKCdJbnZpdGUgU2lnbmVkJyksCgogICAgICAgICAgICBEYXRlOjptYWtlKCdTdGFydCBEYXRlJyksCiAgICAgICAgICAgIERhdGU6Om1ha2UoJ0VuZCBEYXRlJyksCiAgICAgICAgICAgIERhdGU6Om1ha2UoJ0Fubm91bmNlZCcsICdhbm5vdW5jZV9kYXRlJyksCgoKICAgICAgICAgICAgSGFzTWFueTo6bWFrZSgnQXR0ZW5kZWVzJywgbnVsbCwgQXR0ZW5kZWU6OmNsYXNzKSwK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ3NlYXJjaCcgPT4gJycKICAgICAgICAgICAgXQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkaWRzID0gVXNlcjo6YWxsKCktPnBsdWNrKCdwZXJzb25hbF9pZCcpLT50b0FycmF5KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>81</text>
@@ -409,9 +410,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>get_users</last-search>
+      <last-search>cmi-</last-search>
       <last-offset />
-      <last-pattern>get_users</last-pattern>
+      <last-pattern>cmi-</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IG1peGVkIFwx</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
