@@ -161,6 +161,12 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="10" column="55" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Filters/AttendeeBooleanFilter.php" timestamp="1590154159675">
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="48" column="39" />
+        <mark key="^" line="48" column="39" />
+        <mark key="." line="48" column="38" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" timestamp="1590142750372">
         <mark key="'" line="100" column="6" />
         <mark key="[" line="38" column="24" />
@@ -182,18 +188,19 @@
         <mark key="." line="329" column="44" />
         <mark key="^" line="329" column="45" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Filters/AttendeeCmiUserFilter.php" timestamp="1590141709852">
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="37" />
-        <mark key="^" line="21" column="37" />
-        <mark key="." line="21" column="36" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Filters/AttendeeCmiUserFilter.php" timestamp="1590154105841">
+        <mark key="'" line="49" column="24" />
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="27" column="12" />
+        <mark key="^" line="27" column="12" />
+        <mark key="." line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/ApiVendorDataQueryBuilderTests.php" timestamp="1590152574233">
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/ApiVendorDataQueryBuilderTests.php" timestamp="1590153490192">
         <mark key="'" line="36" column="26" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="62" column="21" />
+        <mark key="[" line="40" column="22" />
+        <mark key="]" line="44" column="9" />
+        <mark key="." line="40" column="22" />
+        <mark key="^" line="40" column="28" />
       </file>
       <file name="/1948425d/bfa1088f-399a-41f1-adac-9ba5298cd493/schema/FRC/package/ADDR_VALID_INFO/body/ADDR_VALID_INFO.sql" timestamp="1590147617414">
         <mark key="'" line="9" column="1" />
@@ -248,15 +255,8 @@
         <mark key="." line="230" column="0" />
         <mark key="^" line="238" column="8" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7534b674-e475-4975-a16e-54f0c634221b/console.sql" timestamp="1590142558760">
-        <mark key="'" line="2" column="28" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="9" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
       <jump line="36" column="36" filename="$USER_HOME$/code/api-frc-org/app/Nova/Actions/CopyAttendeesToCmiUser.php" />
       <jump line="448" column="40" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
       <jump line="452" column="28" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
@@ -356,48 +356,49 @@
       <jump line="64" column="49" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
       <jump line="58" column="24" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
       <jump line="75" column="21" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="49" column="24" filename="$USER_HOME$/code/api-frc-org/app/Nova/Filters/AttendeeCmiUserFilter.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>cmi</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>cmi</text>
       </register>
       <register name="/" type="4">
         <text>first(</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JHF1ZXJ5LT5nZXRRdWVyeSgpLCAkYm9vbGVhbg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ0lzIENNSSBVc2VyJyA9PiAnY21pJywK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PD9waHAKCm5hbWVzcGFjZSBBcHBcTm92YVxGaWx0ZXJzOwoKdXNlIEFwcFxNb2RlbHNcQ21pXFVzZXI7CnVzZSBJbGx1bWluYXRlXEh0dHBcUmVxdWVzdDsKdXNlIExhcmF2ZWxcTm92YVxGaWx0ZXJzXEJvb2xlYW5GaWx0ZXI7CgpjbGFzcyBBdHRlbmRlZUJvb2xlYW5GaWx0ZXIgZXh0ZW5kcyBCb29sZWFuRmlsdGVyCnsKICAgIC8qKgogICAgICogQXBwbHkgdGhlIGZpbHRlciB0byB0aGUgZ2l2ZW4gcXVlcnkuCiAgICAgKgogICAgICogQHBhcmFtIFxJbGx1bWluYXRlXEh0dHBcUmVxdWVzdCAkcmVxdWVzdAogICAgICogQHBhcmFtIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXIgJHF1ZXJ5CiAgICAgKiBAcGFyYW0gbWl4ZWQgJHZhbHVlCiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXERhdGFiYXNlXEVsb3F1ZW50XEJ1aWxkZXIKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGFwcGx5KFJlcXVlc3QgJHJlcXVlc3QsICRxdWVyeSwgJHZhbHVlKQogICAgewogICAgICAgICRjbWlfcGVyc29uYWxfaWRzID0gVXNlcjo6c2VsZWN0KCdwZXJzb25hbF9pZCcpLT5nZXQoKTsKCiAgICAgICAgaWYgKCR2YWx1ZVsnY21pLW1pc3NpbmcnXSkgewogICAgICAgICAgICAkcXVlcnktPndoZXJlTm90SW4oJ3BlcnNvbmFsX2lkJywgJGNtaV9wZXJzb25hbF9pZHMpOwogICAgICAgIH0KCiAgICAgICAgaWYgKCR2YWx1ZVsnY21pJ10pIHsKICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZUluKCdwZXJzb25hbF9pZCcsICRjbWlfcGVyc29uYWxfaWRzLCAkdmFsdWVbJ2NtaS1taXNzaW5nJ10gPyAnb3InIDogJ2FuZCcpOwogICAgICAgIH0KCiAgICAgICAgaWYgKCR2YWx1ZVsnY2hlY2tlZC1pbiddKSB7CiAgICAgICAgICAgICRxdWVyeS0+d2hlcmUoJ2NoZWNraW5fZmxhZycsICdZJyk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHF1ZXJ5OwogICAgfQoKICAgIC8qKgogICAgICogR2V0IHRoZSBmaWx0ZXIncyBhdmFpbGFibGUgb3B0aW9ucy4KICAgICAqCiAgICAgKiBAcGFyYW0gXElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0ICRyZXF1ZXN0CiAgICAgKiBAcmV0dXJuIGFycmF5CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBvcHRpb25zKFJlcXVlc3QgJHJlcXVlc3QpCiAgICB7CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ05vIENNSSBVc2VyJyA9PiAnY21pLW1pc3NpbmcnLAogICAgICAgICAgICAnSXMgQ01JIFVzZXInID0+ICdjbWknLAogICAgICAgICAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBnaXZlbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXExvZzo6aW5mbygidXNlciBpZHMiIC4gcHJpbnRfcigkdXNlcl9pZHMtPnRvQXJyYXkoKSwgdHJ1ZSkpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">JGRhdGEgPSBbCiAgICAgICAgICAgICdpZCcgPT4gMSwKICAgICAgICAgICAgJ2hlbGxvJyA9PiAnd29ybGQnLAogICAgICAgICAgICAndGVzdCcgPT4gJzEyMycsCiAgICAgICAgXQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcXVlcnktPmRkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVzZXJfaWRzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gJHRoaXMtPnF1ZXJ5LT5hZGROZXN0ZWRXaGVyZVF1ZXJ5KCRxdWVyeS0+Z2V0UXVlcnkoKSwgJGJvb2xlYW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBnaXZlbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ2hlbGxvJywgJGluc3RhbmNlLT5hdHRyaWJ1dGVzVG9BcnJheSgpKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ3Rlc3QnLCAkaW5zdGFuY2UtPmF0dHJpYnV0ZXNUb0FycmF5KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcXVlcnktPmRkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>81</text>
