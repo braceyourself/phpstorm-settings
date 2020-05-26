@@ -27,7 +27,6 @@
         <entry>filla</entry>
       </history-search>
       <history-cmd>
-        <entry>redo</entry>
         <entry>41</entry>
         <entry>303</entry>
         <entry>31</entry>
@@ -47,6 +46,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>848</entry>
+        <entry>192</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,6 +161,13 @@
         <mark key="^" line="143" column="15" />
         <mark key="." line="143" column="14" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/GetUserAffinitiesTests.php" timestamp="1590517189820">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="143" column="8" />
+        <mark key="]" line="143" column="8" />
+        <mark key="^" line="143" column="8" />
+        <mark key="." line="143" column="7" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/PersonBase.php" timestamp="1590511969171">
         <mark key="'" line="20" column="44" />
         <mark key="[" line="101" column="13" />
@@ -188,8 +195,18 @@
         <mark key="." line="1" column="54" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="/console" timestamp="1590509463012">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" timestamp="1590517423326">
+        <mark key="'" line="97" column="24" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="146" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cmi/UserRepository.php" timestamp="1590516498701">
+        <mark key="[" line="124" column="33" />
+        <mark key="]" line="124" column="34" />
+        <mark key="^" line="124" column="34" />
+        <mark key="." line="124" column="33" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1590514250425">
         <mark key="'" line="416" column="20" />
@@ -211,21 +228,12 @@
         <mark key="." line="284" column="0" />
         <mark key="^" line="283" column="48" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7c43265c-a375-4e28-a60b-bc3f69e6fea8/console.sql" timestamp="1590509594734">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590509687274">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" timestamp="1590516386949">
-        <mark key="'" line="84" column="27" />
-        <mark key="[" line="84" column="83" />
-        <mark key="]" line="84" column="83" />
-        <mark key="." line="84" column="83" />
-        <mark key="^" line="84" column="89" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" timestamp="1590516609540">
+        <mark key="'" line="85" column="34" />
+        <mark key="[" line="60" column="21" />
+        <mark key="]" line="61" column="8" />
+        <mark key="^" line="61" column="8" />
+        <mark key="." line="61" column="7" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" timestamp="1590514719330">
         <mark key="[" line="158" column="0" />
@@ -252,12 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="10" filename="$USER_HOME$/code/donate/app/Http/Controllers/DonateController.php" />
-      <jump line="45" column="0" filename="$USER_HOME$/code/donate/resources/views/donate.blade.php" />
-      <jump line="62" column="11" filename="$USER_HOME$/code/donate/resources/views/donate.blade.php" />
-      <jump line="42" column="5" filename="$USER_HOME$/code/donate/resources/views/donate.blade.php" />
-      <jump line="66" column="0" filename="$USER_HOME$/code/donate/resources/views/donate.blade.php" />
-      <jump line="26" column="18" filename="$USER_HOME$/code/donate/resources/views/donate.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/donate/resources/views/donate.blade.php" />
       <jump line="54" column="0" filename="$USER_HOME$/code/donate/resources/views/donate.blade.php" />
       <jump line="11" column="24" filename="$USER_HOME$/code/donate/resources/views/donate.blade.php" />
@@ -351,16 +353,22 @@
       <jump line="158" column="26" filename="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" />
       <jump line="256" column="24" filename="$USER_HOME$/code/api-frc-org/app/ApiVendorData.php" />
       <jump line="1" column="54" filename="$USER_HOME$/code/api-frc-org/app/Frc/Event.php" />
-      <jump line="84" column="27" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" />
+      <jump line="84" column="34" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Cmi/CmiEndpointTests.php" />
+      <jump line="50" column="30" filename="$USER_HOME$/code/api-frc-org/tests/Feature/GetUserAffinitiesTests.php" />
+      <jump line="137" column="9" filename="$USER_HOME$/code/api-frc-org/tests/Feature/GetUserAffinitiesTests.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/GetUserAffinitiesTests.php" />
+      <jump line="168" column="26" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
+      <jump line="134" column="21" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
+      <jump line="97" column="24" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">LT5nZXQoKQ==</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+ZGQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5nZXQoKQ==</text>
+        <text encoding="base64">bm93KCktPmFkZERheSgp</text>
       </register>
       <register name="/" type="4">
         <text>filla</text>
@@ -369,34 +377,34 @@
         <text encoding="base64">ICAgICAgICBIdHRwOjphc3NlcnROb3RTZW50KGZ1bmN0aW9uIChSZXF1ZXN0ICRyZXF1ZXN0KSB7CiAgICAgICAgICAgIHJldHVybiBjb2xsZWN0KHBhcnNlX3F1ZXJ5KCRyZXF1ZXN0LT51cmwoKSkpLT5nZXQoJ2FjdGlvbicpID09PSAnY3JlYXRlX3VzZXInOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+ZGQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZXZlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdHlwZSwgJGV4ZWNfbWV0aG9kKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBcSWxsdW1pbmF0ZVxEYXRhYmFzZVxFbG9xdWVudFxIaWdoZXJPcmRlckJ1aWxkZXJQcm94eXxtaXhlZAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZXhlY19tZXRob2QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBJcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZXZlbnQK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXBpX3VzZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkYXBpX3VzZXIgPSAkdGhpcy0+cmVwby0+ZmluZCgkdGhpcy0+YXR0ZW5kZWUtPmF0dGVuZGVlX3BlcnNvbi0+ZW1haWxfYWRkcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLyAvLyBkZWx0ZQogICAgcHVibGljIGZ1bmN0aW9uIGRlbHRlKCkKICAgIHsKICAgICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+cmVwby0+ZGVsZXRlKCdhc2RmMTIzJyk7CiAgICAgICAgZGQoJHJlc3BvbnNlLT5qc29uKCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYXBpX3VzZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLyAvLyB0ZXN0CiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdCgpCiAgICB7CiAgICAgICAgJHVzZXIgPSBuZXcgVXNlcigpOwogICAgICAgICR1c2VyLT5pZCA9ICcxMjM0JzsKICAgICAgICAkdXNlci0+cGVyc29uYWxfaWQgPSAxMjM0OwogICAgICAgICR1c2VyLT5ldmVudF9jb2RlID0gJ3Rlc3QnOwogICAgICAgICR1c2VyLT5zYXZlUXVpZXRseSgpOwoKICAgICAgICBkZChVc2VyOjphbGwoJ2lkJykpOwoKICAgICAgICAkdXNlci0+ZGVsZXRlKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBIdHRwOjpmYWtlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>848</text>
+        <text>192</text>
       </register>
     </registers>
   </component>
