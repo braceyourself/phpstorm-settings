@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>constr</entry>
-        <entry>\(.*\)</entry>
         <entry>carbon</entry>
         <entry>Bearer</entry>
         <entry>guess</entry>
@@ -25,6 +23,8 @@
         <entry>getatte</entry>
         <entry>get</entry>
         <entry>getTable</entry>
+        <entry>n on(</entry>
+        <entry>connection(</entry>
       </history-search>
       <history-cmd>
         <entry>379</entry>
@@ -182,19 +182,17 @@
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php" timestamp="1590496836436">
         <mark key="'" line="330" column="21" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" timestamp="1590502974027">
-        <mark key="'" line="204" column="23" />
-        <mark key="[" line="204" column="49" />
-        <mark key="]" line="204" column="53" />
-        <mark key="." line="204" column="52" />
-        <mark key="^" line="204" column="53" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" timestamp="1590503947821">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Support/Eloquent/BelongsToMany.php" timestamp="1590503000424">
+      <file name="$USER_HOME$/code/api-frc-org/app/Support/Eloquent/BelongsToMany.php" timestamp="1590503769579">
         <mark key="'" line="15" column="37" />
         <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="15" column="38" />
-        <mark key="^" line="15" column="39" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="42" />
+        <mark key="^" line="15" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1590496793403">
         <mark key="[" line="0" column="0" />
@@ -240,8 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="2" filename="$USER_HOME$/code/api-frc-org/app/Error.php" />
-      <jump line="52" column="8" filename="$USER_HOME$/code/api-frc-org/config/api-clients.php" />
       <jump line="134" column="21" filename="$USER_HOME$/code/api-frc-org/config/api-clients.php" />
       <jump line="461" column="21" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="44" column="25" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
@@ -331,7 +327,6 @@
       <jump line="6" column="26" filename="$USER_HOME$/code/api-frc-org/app/Support/Eloquent/BelongsToMany.php" />
       <jump line="3044" column="23" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
       <jump line="33" column="13" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" />
-      <jump line="32" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
       <jump line="157" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/AttendeeBase.php" />
       <jump line="54" column="40" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/AttendeeBase.php" />
       <jump line="9" column="10" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Pivot.php" />
@@ -340,48 +335,51 @@
       <jump line="199" column="29" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
       <jump line="195" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
       <jump line="204" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
+      <jump line="39" column="46" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
+      <jump line="202" column="24" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>getChildClass</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getChildClass</text>
+        <text>ly</text>
       </register>
       <register name="/" type="4">
-        <text>getTable</text>
+        <text>connection(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCZWxvbmdzVG86Om1ha2UoJ0V2ZW50JyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5wcmVwZW5kKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwbG9kZSgnQmFzZScsIGNsYXNzX2Jhc2VuYW1lKCRjbGFzcykpWzBdOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gb24oJGNvbm5lY3Rpb24gPSBudWxsKQogICAgewogICAgICAgIHJldHVybiBwYXJlbnQ6Om9uKCk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1xcJyAuCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gb24oJGNvbm5lY3Rpb24gPSBudWxsKQogICAgewoKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIC4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY2xhc3MpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkbnMgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5wcmVwZW5kKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwbG9kZSgnQmFzZScsIGNsYXNzX2Jhc2VuYW1lKCRjbGFzcykpWzBdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -390,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getTable</last-search>
+      <last-search>connection(</last-search>
       <last-offset />
-      <last-pattern>getTable</last-pattern>
+      <last-pattern>connection(</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IG1peGVkIFwx</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
