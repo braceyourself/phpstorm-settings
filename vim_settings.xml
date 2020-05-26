@@ -182,17 +182,19 @@
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php" timestamp="1590496836436">
         <mark key="'" line="330" column="21" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" timestamp="1590497562053">
-        <mark key="'" line="313" column="4" />
-        <mark key="[" line="250" column="30" />
-        <mark key="]" line="250" column="30" />
-        <mark key="." line="250" column="30" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" timestamp="1590502974027">
+        <mark key="'" line="204" column="23" />
+        <mark key="[" line="204" column="49" />
+        <mark key="]" line="204" column="53" />
+        <mark key="." line="204" column="52" />
+        <mark key="^" line="204" column="53" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Support/Eloquent/BelongsToMany.php" timestamp="1590497343168">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="33" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Support/Eloquent/BelongsToMany.php" timestamp="1590503000424">
+        <mark key="'" line="15" column="37" />
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="39" />
       </file>
       <file name="/Dummy.txt" timestamp="1590496793403">
         <mark key="[" line="0" column="0" />
@@ -238,10 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OracleColumn.php" />
-      <jump line="20" column="7" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OracleColumn.php" />
-      <jump line="47" column="21" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OracleColumn.php" />
-      <jump line="43" column="17" filename="$USER_HOME$/code/api-frc-org/app/Console/Commands/SendErrors.php" />
       <jump line="12" column="2" filename="$USER_HOME$/code/api-frc-org/app/Error.php" />
       <jump line="52" column="8" filename="$USER_HOME$/code/api-frc-org/config/api-clients.php" />
       <jump line="134" column="21" filename="$USER_HOME$/code/api-frc-org/config/api-clients.php" />
@@ -338,15 +336,19 @@
       <jump line="54" column="40" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/AttendeeBase.php" />
       <jump line="9" column="10" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/Pivot.php" />
       <jump line="313" column="4" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
+      <jump line="15" column="37" filename="$USER_HOME$/code/api-frc-org/app/Support/Eloquent/BelongsToMany.php" />
+      <jump line="199" column="29" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
+      <jump line="195" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
+      <jump line="204" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">d2hlcmUgYyA+IDEK</text>
+      <register name="+" type="4">
+        <text>getChildClass</text>
       </register>
       <register name="-" type="4">
-        <text>count(*)</text>
+        <text>getChildClass</text>
       </register>
       <register name="/" type="4">
         <text>getTable</text>
@@ -355,31 +357,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCZWxvbmdzVG86Om1ha2UoJ0V2ZW50JyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2hlcmUgYyA+IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5wcmVwZW5kKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmUgY291bnQoKikgPiAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwbG9kZSgnQmFzZScsIGNsYXNzX2Jhc2VuYW1lKCRjbGFzcykpWzBdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgY291bnQoKikgPiAxCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgIkFUVEVOREVFIi4iRVZFTlRfQ09ERSIgPSAnTUMwMDUnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCZWxvbmdzVG86Om1ha2UoJ0V2ZW50JyksCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gdXJpS2V5KCkKICAgIHsKICAgICAgICAkcGFyZW50ID0gcGFyZW50Ojp1cmlLZXkoKTsKCiAgICAgICAgXExvZzo6aW5mbygkcGFyZW50KTsKCiAgICAgICAgcmV0dXJuICIkcGFyZW50LyI7CiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ1xcJyAuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIC4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkbnMgPSA7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50Ojp1cmlLZXkoKS4gJy8nZXZlbnRfY29kZTsgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
