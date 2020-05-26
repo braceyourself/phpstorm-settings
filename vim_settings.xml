@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>whereKey</entry>
         <entry>find(</entry>
         <entry>find</entry>
         <entry>first(</entry>
@@ -25,6 +24,7 @@
         <entry>laravel</entry>
         <entry>news</entry>
         <entry>key</entry>
+        <entry>getname</entry>
       </history-search>
       <history-cmd>
         <entry>379</entry>
@@ -149,11 +149,11 @@
       <file name="/Dummy.txt" timestamp="1590321614821">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Persons/Person.php" timestamp="1590490656880">
-        <mark key="[" line="87" column="80" />
-        <mark key="]" line="88" column="43" />
-        <mark key="^" line="88" column="43" />
-        <mark key="." line="88" column="42" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Persons/Person.php" timestamp="1590491618998">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="112" column="10" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/code/donate/resources/views/success.blade.php" timestamp="1590323641734">
         <mark key="'" line="9" column="24" />
@@ -172,7 +172,7 @@
       <file name="$USER_HOME$/code/donate/config/app.php" timestamp="1590321649281">
         <mark key="'" line="84" column="17" />
       </file>
-      <file name="/console" timestamp="1590488320798">
+      <file name="/console" timestamp="1590490803770">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/donate/composer.json" timestamp="1590264949494">
@@ -185,6 +185,13 @@
         <mark key="'" line="1" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="15" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/console.sql" timestamp="1590491415806">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="14" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/code/donate/app/Http/routes.php" timestamp="1590320867654">
         <mark key="[" line="1" column="37" />
@@ -205,18 +212,12 @@
       <file name="/a.sql" timestamp="1590321601954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/PersonBase.php" timestamp="1590490623022">
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/PersonBase.php" timestamp="1590491355691">
+        <mark key="'" line="27" column="25" />
         <mark key="[" line="99" column="8" />
         <mark key="]" line="99" column="8" />
         <mark key="^" line="99" column="8" />
         <mark key="." line="99" column="7" />
-      </file>
-      <file name="$USER_HOME$/code/donate/vendor/stripe/stripe-php/lib/Customer.php" timestamp="1590264415614">
-        <mark key="'" line="26" column="32" />
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="26" column="34" />
-        <mark key="^" line="26" column="34" />
-        <mark key="." line="26" column="33" />
       </file>
       <file name="$USER_HOME$/code/donate/app/User.php" timestamp="1590264961763">
         <mark key="[" line="9" column="17" />
@@ -242,8 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="23" filename="$USER_HOME$/code/api-frc-org/tests/Feature/GetUserAffinitiesTests.php" />
-      <jump line="31" column="37" filename="$USER_HOME$/code/api-frc-org/tests/Feature/GetUserAffinitiesTests.php" />
       <jump line="33" column="31" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/AffinityRepositoryTests.php" />
       <jump line="20" column="31" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Journity/AffinityRepositoryTests.php" />
       <jump line="68" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c47840ac-6752-4f92-96d8-0c7ed507be05/console.sql" />
@@ -342,48 +341,50 @@
       <jump line="8" column="0" filename="$USER_HOME$/code/donate/app/Http/Controllers/DonateController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/code/donate/config/app.php" />
       <jump line="84" column="17" filename="$USER_HOME$/code/donate/config/app.php" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/console.sql" />
+      <jump line="27" column="25" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/PersonBase.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>$id</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAkdGFic19wYW5lbCA9IDsKCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJHRhYnNfcGFuZWwtPndpdGhUb29sYmFyKCksCgogICAgICAgIF07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>key</text>
+        <text>getname</text>
       </register>
       <register name="0" type="4">
         <text>amountElement</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdWJtaXQK</text>
+        <text encoding="base64">ICAgICAgICAkdGFic19wYW5lbCA9IDsKCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJHRhYnNfcGFuZWwtPndpdGhUb29sYmFyKCksCgogICAgICAgIF07Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8aDM+PC9oMz4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">bmV3IFRhYnMoJHRoaXMtPm5hbWUsIFsKICAgICAgICAgICAgJ0RldGFpbHMnID0+IFsKICAgICAgICAgICAgICAgIElEOjptYWtlKCdpZCcsICdwZXJzb25hbF9pZCcpLT5zb3J0YWJsZSgpLAogICAgICAgICAgICAgICAgVGV4dDo6bWFrZSgnTmFtZScsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXMtPm5hbWU7CiAgICAgICAgICAgICAgICB9KS0+b25seU9uSW5kZXgoKSwKCiAgICAgICAgICAgICAgICBCZWxvbmdzVG86Om1ha2UoJ0FjY291bnQnLCBudWxsLCBBY2NvdW50OjpjbGFzcyktPnNlYXJjaGFibGUoKS0+bnVsbGFibGUoKSwKCgogICAgICAgICAgICAgICAgVGV4dDo6bWFrZSgnU2FsdXRhdGlvbiBDb2RlJyktPmhpZGVGcm9tSW5kZXgoKSwKICAgICAgICAgICAgICAgIFRleHQ6Om1ha2UoJ0xhc3QgTmFtZScpLT5oaWRlRnJvbUluZGV4KCksCiAgICAgICAgICAgICAgICBCb29sZWFuOjptYWtlKCd1c2VfbWlkZGxlX25hbWUnKS0+dmFsdWVzKCdZJywgJ04nKSwKICAgICAgICAgICAgICAgIFRleHQ6Om1ha2UoJ01pZGRsZSBOYW1lJyktPmhpZGVGcm9tSW5kZXgoKSwKICAgICAgICAgICAgICAgIFRleHQ6Om1ha2UoJ0ZpcnN0IE5hbWUnKS0+aGlkZUZyb21JbmRleCgpLAogICAgICAgICAgICAgICAgVGV4dDo6bWFrZSgnVGl0bGUnKS0+aGlkZUZyb21JbmRleCgpLAogICAgICAgICAgICAgICAgVGV4dDo6bWFrZSgnRmFtaWxpYXIgTmFtZScpLT5oaWRlRnJvbUluZGV4KCksCiAgICAgICAgICAgICAgICBUZXh0OjptYWtlKCdzdWZmaXhfY29kZScpLT5oaWRlRnJvbUluZGV4KCksCgogICAgICAgICAgICAgICAgVGV4dDo6bWFrZSgnVXNlciBJZCcpLT5oaWRlRnJvbUluZGV4KCksCiAgICAgICAgICAgICAgICBEYXRlOjptYWtlKCdBY3Rpdml0eSBEYXRlJyksCiAgICAgICAgICAgIF0sCgogICAgICAgICAgICAnUmVsYXRpb25zJyA9PiBbCiAgICAgICAgICAgICAgICBIYXNNYW55OjptYWtlKCdOZXcgQWNjb3VudHMnLCBudWxsLCBOZXdBY2NvdW50OjpjbGFzcyksCiAgICAgICAgICAgICAgICBIYXNNYW55OjptYWtlKCdOZXcgQWNjb3VudCBHaWZ0cycsIG51bGwsIE5ld0FjY291bnRHaWZ0OjpjbGFzcyksCiAgICAgICAgICAgICAgICBIYXNNYW55OjptYWtlKCdOZXcgQWNjb3VudCBJdGVtcycsIG51bGwsIE5ld0FjY291bnRJdGVtOjpjbGFzcyksCi8vICAgICAgICAgICAgICAgIEJlbG9uZ3NUb01hbnk6Om1ha2UoJ0V2ZW50cycpCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICdPdGhlciBQZXJzb25hbCBEYXRhJyA9PiBbCiAgICAgICAgICAgICAgICBUZXh0OjptYWtlKCdHZW5kZXInKS0+aGlkZUZyb21JbmRleCgpLAogICAgICAgICAgICAgICAgVGV4dDo6bWFrZSgnYmlydGhfZGF5JyktPmhpZGVGcm9tSW5kZXgoKSwKICAgICAgICAgICAgICAgIFRleHQ6Om1ha2UoJ2JpcnRoX21vbnRoJyktPmhpZGVGcm9tSW5kZXgoKSwKICAgICAgICAgICAgICAgIFRleHQ6Om1ha2UoJ2JpcnRoX3llYXInKS0+aGlkZUZyb21JbmRleCgpLAogICAgICAgICAgICAgICAgVGV4dDo6bWFrZSgnYW5uaXZlcnNhcnlfZGF5JyktPmhpZGVGcm9tSW5kZXgoKSwKICAgICAgICAgICAgICAgIFRleHQ6Om1ha2UoJ2Fubml2ZXJzYXJ5X21vbnRoJyktPmhpZGVGcm9tSW5kZXgoKSwKICAgICAgICAgICAgICAgIFRleHQ6Om1ha2UoJ2Fubml2ZXJzYXJ5X3llYXInKS0+aGlkZUZyb21JbmRleCgpLAogICAgICAgICAgICAgICAgRGF0ZTo6bWFrZSgncmVtb3ZlX2RhdGUnKS0+aGlkZUZyb21JbmRleCgpLAogICAgICAgICAgICAgICAgRGF0ZTo6bWFrZSgnZGVjZWFzZWRfZGF0ZScpLT5oaWRlRnJvbUluZGV4KCksCiAgICAgICAgICAgICAgICBUZXh0OjptYWtlKCdtYWlkZW5fbmFtZScpLT5oaWRlRnJvbUluZGV4KCksCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgICdQYXNzd29yZCcgPT4gWwogICAgICAgICAgICAgICAgSGFzT25lOjptYWtlKCdQYXNzd29yZCcsIG51bGwsIFBlcnNvblBhc3N3b3JkOjpjbGFzcykKICAgICAgICAgICAgXSwKICAgICAgICAgICAgJ2F0dGVuZGVlX3BlcnNvbiB2aWV3JyA9PiBjb2xsZWN0KCR0aGlzLT5hc1ZpZXcoJ2F0dGVuZGVlX3BlcnNvbicpKQogICAgICAgICAgICAgICAgLT5tYXAoZm4oJHZhbHVlLCAka2V5KSA9PiBUZXh0OjptYWtlKCRrZXkpKQogICAgICAgICAgICAgICAgLT50b0FycmF5KCksCgoKICAgICAgICBdKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5hbWVGaWVsZCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjYXJkLWhvbGRlci1uYW1lJyk7Cg==</text>
+        <text>select count(*) as aggregate from person</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmlwZS5iYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdWJtaXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuPlBheW1lbnRzIGFyZWs8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aDM+PC9oMz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAkcmVxdWVzdC0+ZW1haWwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5hbWVGaWVsZCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdjYXJkLWhvbGRlci1uYW1lJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICRyZXF1ZXN0LT5uYW1lLAo=</text>
+        <text encoding="base64">ICAgIFN0cmlwZS5iYWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuPlBheW1lbnRzIGFyZWs8L3NwYW4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnID0+ICRyZXF1ZXN0LT5uYW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAkcmVxdWVzdC0+ZW1haWwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -392,9 +393,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>key</last-search>
+      <last-search>getname</last-search>
       <last-offset />
-      <last-pattern>key</last-pattern>
+      <last-pattern>getname</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IG1peGVkIFwx</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
