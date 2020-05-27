@@ -10,8 +10,12 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="ContextHelp" />
+  <action id="CopyReference" />
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="shift h" />
