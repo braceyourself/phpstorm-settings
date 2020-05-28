@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>actions</entry>
         <entry>attendees</entry>
         <entry>events</entry>
         <entry>getemail</entry>
@@ -25,6 +24,7 @@
         <entry>relations</entry>
         <entry>parent</entry>
         <entry>record_id</entry>
+        <entry>whereIn</entry>
       </history-search>
       <history-cmd>
         <entry>193</entry>
@@ -155,12 +155,12 @@
         <mark key="^" line="20" column="64" />
         <mark key="." line="20" column="63" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" timestamp="1590678965506">
-        <mark key="'" line="136" column="20" />
-        <mark key="[" line="53" column="18" />
-        <mark key="]" line="53" column="18" />
-        <mark key="." line="53" column="18" />
-        <mark key="^" line="53" column="42" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" timestamp="1590679150918">
+        <mark key="'" line="142" column="23" />
+        <mark key="[" line="53" column="51" />
+        <mark key="]" line="53" column="56" />
+        <mark key="." line="53" column="55" />
+        <mark key="^" line="53" column="56" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/PersonBase.php" timestamp="1590676937969">
         <mark key="'" line="28" column="41" />
@@ -255,8 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="43" filename="$USER_HOME$/code/api-frc-org/config/filesystems.php" />
-      <jump line="22" column="41" filename="$USER_HOME$/code/api-frc-org/config/filesystems.php" />
       <jump line="40" column="4" filename="$USER_HOME$/code/api-frc-org/config/filesystems.php" />
       <jump line="45" column="25" filename="$USER_HOME$/code/api-frc-org/config/filesystems.php" />
       <jump line="50" column="25" filename="$USER_HOME$/code/api-frc-org/config/filesystems.php" />
@@ -353,50 +351,52 @@
       <jump line="158" column="13" filename="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" />
       <jump line="364" column="14" filename="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" />
       <jump line="27" column="54" filename="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" />
-      <jump line="53" column="20" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="52" column="19" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="53" column="19" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
       <jump line="136" column="20" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
+      <jump line="142" column="23" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">PnF1ZXJ5LQ==</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoX19GVU5DVElPTl9fLCAkaWQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PnF1ZXJ5LQ==</text>
+        <text>'api_vendor_data.'</text>
       </register>
       <register name="/" type="4">
-        <text>record_id</text>
+        <text>whereIn</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">LT53aXRoSGVhZGluZ3MoKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1F1ZXVlIEV4cG9ydCcgPT4gKG5ldyBRdWV1ZUV4cG9ydCgpKS0+d2l0aEhlYWRpbmdzKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoX19GVU5DVElPTl9fLCAkaWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKG5ldyBRdWV1ZUUoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1F1ZXVlIEV4cG9ydCcgPT4gKG5ldyBRdWV1ZUV4cG9ydCgpKS0+d2l0aEhlYWRpbmdzKCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKG5ldyBRdWV1ZUUoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBkYXRhLT4+JyQuc3VydmV5X3Jlc3BvbnNlJyA9ICdZJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5yZXBsYWNlKCdkcicsICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBkYXRhLT4+JyQuc3VydmV5X3Jlc3BvbnNlJyA9ICdZJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBkYXRhIG5vdCBsaWtlICclc3VydmV5X3Jlc3BvbnNlJScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5yZXBsYWNlKCdkcicsICcnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBkYXRhIG5vdCBsaWtlICclc3VydmV5X3Jlc3BvbnNlJScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLT5maXJzdFdoZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
@@ -405,9 +405,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>record_id</last-search>
+      <last-search>whereIn</last-search>
       <last-offset />
-      <last-pattern>record_id</last-pattern>
+      <last-pattern>whereIn</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IG1peGVkIFwx</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
