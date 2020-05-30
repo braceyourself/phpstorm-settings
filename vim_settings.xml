@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>date</entry>
-        <entry encoding="base64">XDxhZGRfY29tbWVudFw+</entry>
-        <entry>\(.*\)</entry>
         <entry>\(.*\)\s.*</entry>
         <entry>\(\w*\)\s.*</entry>
         <entry>__callstat</entry>
@@ -25,6 +22,9 @@
         <entry>newAppeal</entry>
         <entry>application_error</entry>
         <entry>e_mail.send</entry>
+        <entry>exception</entry>
+        <entry>trace</entry>
+        <entry>create_actengage_app</entry>
       </history-search>
       <history-cmd>
         <entry>:wq</entry>
@@ -177,12 +177,12 @@
         <mark key="[" line="1981" column="0" />
         <mark key="]" line="1988" column="18" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" timestamp="1590836493439">
-        <mark key="'" line="817" column="48" />
-        <mark key="[" line="877" column="4" />
-        <mark key="]" line="877" column="5" />
-        <mark key="." line="877" column="4" />
-        <mark key="^" line="877" column="5" />
+      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" timestamp="1590838112536">
+        <mark key="'" line="1265" column="127" />
+        <mark key="[" line="883" column="0" />
+        <mark key="]" line="883" column="0" />
+        <mark key="." line="883" column="0" />
+        <mark key="^" line="882" column="73" />
       </file>
       <file name="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/view/CONTACT_REQUEST_VIEW.sql" timestamp="1590782502095">
         <mark key="[" line="18" column="0" />
@@ -221,7 +221,7 @@
         <mark key="." line="87" column="70" />
         <mark key="^" line="87" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590812157659">
+      <file name="/Dummy.txt" timestamp="1590838184396">
         <mark key="'" line="0" column="75" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -242,10 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mds/MdsDataImportTests.php" />
-      <jump line="68" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mds/MdsDataImportTests.php" />
-      <jump line="33" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mds/MdsDataImportTests.php" />
-      <jump line="69" column="7" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mds/MdsDataImportTests.php" />
       <jump line="27" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mds/MdsDataImportTests.php" />
       <jump line="39" column="35" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Mds/MdsDataImportJob.php" />
       <jump line="61" column="33" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mds/MdsDataImportTests.php" />
@@ -342,48 +338,52 @@
       <jump line="0" column="75" filename="/Dummy.txt" />
       <jump line="50" column="20" filename="/1948425d/8cac327e-5320-40f4-99cf-2e44c2cff177/schema/FRC/package/API_ACTENGAGE/body/API_ACTENGAGE.sql" />
       <jump line="817" column="48" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
+      <jump line="882" column="35" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
+      <jump line="920" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
+      <jump line="936" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
+      <jump line="1265" column="127" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="+" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>chr(10) ||</text>
       </register>
       <register name="/" type="4">
-        <text>e_mail.send</text>
+        <text>create_actengage_app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlleGNlcHRpb24gd2hlbiBvdGhlcnMgdGhlbgoJCWFwcF9tZ210LmxvZ19hcHBsaWNhdGlvbl9lcnJvcgoJCQkoCgkJCQlvcmFNZXNzYWdlID0+IG9yYU1zZywKCQkJCWFwcGxOYW1lID0+ICduZXdfYWNjdF9tZ210LnByb2Nlc3NfbmV3X2FjY291bnQnLAoJCQkJc3lzRW1Db2RlID0+ICdTWVNFTV9NQUlOJywKCQkJCWxpc3RDb2RlID0+ICdEQl9OT1RJQ0UnLAoJCQkJZW1haWxTdWJqZWN0ID0+IHN1YmplY3RNc2cKCQkJKTsK</text>
+        <text encoding="base64">CQkJCQkJCXx8IGluc3RhbmNlTmFtZSB8fCAnLycgfHwgaG9zdE5hbWUgfHwgJ106ICAnIHx8IG9yYU1zZyB8fCBjaHIoMTApIHx8IGRibXNfdXRpbGl0eS5GT1JNQVRfRVJST1JfQkFDS1RSQUNFKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>add clause to exclude records where external_uid is already in new_accounts.</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZGVjbGFyZQoJCQliZWdpbgoJCQllbmQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlhY3RlbmdhZ2VTb3VyY2VDb2RlIGFjdGVuZ2FnZV9hcHBlYWwuc291cmNlJXR5cGUK</text>
+        <text encoding="base64">CQkJCWFwcF9tZ210LmxvZ19hcHBsaWNhdGlvbl9lcnJvcgoJCQkJCSgKCQkJCQkJb3JhTWVzc2FnZSA9PiBvcmFNc2csCgkJCQkJCWFwcGxOYW1lID0+ICduZXdfYWNjdF9tZ210LnByb2Nlc3NfbmV3X2FjY291bnQnLAoJCQkJCQlzeXNFbUNvZGUgPT4gJ1NZU0VNX01BSU4nLAoJCQkJCQlsaXN0Q29kZSA9PiAnREJfTk9USUNFJywKCQkJCQkJZW1haWxTdWJqZWN0ID0+IHN1YmplY3RNc2cKCQkJCQkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gICAgICAgICAgICAgYXBwZWFsQ29kZSAgICAgICAgICBhY3RlbmdhZ2VfYXBwZWFsLmFwcGVhbF9jb2RlJXR5cGUsCg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0gCQlhY3RlbmdhZ2VTb3VyY2VDb2RlIGFjdGVuZ2FnZV9hcHBlYWwuc291cmNlJXR5cGUK</text>
+        <text encoding="base64">CQkJICAgIG9yYU1zZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByb2NlZHVyZSBjcmVhdGVfYWN0ZW5nYWdlX2FwcGVhbCgKCQlhcHBlYWxDb2RlICAgICAgICAgIGFjdGVuZ2FnZV9hcHBlYWwuYXBwZWFsX2NvZGUldHlwZSwKCQlhY3RlbmdhZ2VTb3VyY2VDb2RlIGFjdGVuZ2FnZV9hcHBlYWwuc291cmNlJXR5cGUKCSkgYXMKCSAgICBuZXdBcHBlYWwgYXBwZWFsLmFwcGVhbF9jb2RlJXR5cGU7CgliZWdpbgoKCQktLSBTZXR1cCBOZXcgQXBwZWFsIENvZGUKCQluZXdBcHBlYWwgOj0gYXBwZWFsX2luZm8uZ2VuZXJhdGVfYXBwZWFsX2NvZGUoJ0onKTsKCgkJLS0gSW5zZXJ0IE5ldyBBcHBlYWwgQ29kZQoJCWFwcGVhbF9tZ210Lmluc2VydF9hcHBlYWwKCQkJKAoJCQkJYXBwZWFsQ29kZSA9PiBuZXdBcHBlYWwsCgkJCQlhcHBlYWxEZXNjID0+ICdBY3RlbmdhZ2UgU291cmNlICcgfHwgYXBwZWFsQ29kZSwKCQkJCWFwcGVhbERhdGUgPT4gdHJ1bmMoc3lzZGF0ZSksCgkJCQlhcHBlYWxHb2FsID0+IG51bGwsCgkJCQlxdHlTZW50ID0+IDAsCgkJCQlmb2N1c0NvZGUgPT4gJ05FVycsCgkJCQltZWRpYUNvZGUgPT4gJ0VNTCcsCgkJCQlzdGFydERhdGUgPT4gc3lzZGF0ZSwKCQkJCWVuZERhdGUgPT4gbnVsbCwKCQkJCXByb2plY3RJZCA9PiBudWxsLAoJCQkJZnVuZENvZGUgPT4gbnVsbCwKCQkJCXJlY2VpcHRUeXBlID0+IG51bGwsCgkJCQlhcHBlYWxVc2FnZUNvZGUgPT4gbnVsbCwKCQkJCXNvdXJjZUNvZGUgPT4gJ0FDVEVOR0FHRScsCgkJCQljYW1wYWlnbkNvZGUgPT4gbnVsbCwKCQkJCWRvQ29tbWl0ID0+ICdZJwoJCQkpOwoKCQktLSBJbnNlcnQgaW50byBhY3RlbmdhZ2VfYXBwZWFsIFRhYmxlCgkJaW5zZXJ0IGludG8gYWN0ZW5nYWdlX2FwcGVhbChzb3VyY2UsIGFwcGVhbF9jb2RlKQoJCXZhbHVlcyhhcHBlYWxDb2RlLCBuZXdBcHBlYWwpOwoKCQljb21taXQ7CgoJCS0tIFVwZGF0ZSBBcmNoaXZlIFRhYmxlCgkJdXBkYXRlIGFjdGVuZ2FnZV9kYXRhX2FyY2hpdmUKCQlzZXQgYXBwZWFsX2NvZGUgPSBuZXdBcHBlYWwKCQl3aGVyZSBhcHBlYWxfY29kZSA9IGFwcGVhbENvZGU7CgkJY29tbWl0OwoKCQktLSBFbWFpbCBEQiBHdXlzIHNvIHRoZXkgY2FuIGFkZCBhIHByb2plY3QgaWQgaWYgbmVlZGVkCgkJZV9tYWlsLnJlc2V0OwoJCWVfbWFpbC5zZXRfc2VuZGVyKGdldF9zeXN0ZW1fZW1haWxfYWRkcmVzcygnU1lTVEVNX01BSU4nKSk7CgkJbGlzdF9pbmZvLnNldF9saXN0X2VtYWlsX3JlY2VpcGllbnRzKCdBUElfTk9USUNFJyk7CgkJZV9tYWlsLnNldF9zdWJqZWN0KGdldF9pbnN0YW5jZV9uYW1lIHx8ICcgRGF0YWJhc2U6IEFwcGVhbCAnIHx8IG5ld0FwcGVhbCB8fCAnIFNldHVwIGZvciBBY3RlbmdhZ2UnKTsKCQllX21haWwuc2V0X21lc3NhZ2UoJ1RoaXMgYXBwZWFsIGNvZGUgd2FzIHNldCB1cCBiZWNhdXNlIHdlIHJlY2VpdmVkIGFuIGludmFsaWQgY29kZTogJyB8fCBhY3RlbmdhZ2VTb3VyY2VDb2RlIHx8IGNocigxMCkgfHwKCQkgICAgICAgICAgICAgICAgICAgJ1BsZWFzZSBlZGl0IHRoaXMgYXBwZWFsIGNvZGUgdG8gYWRkIGFueSBuZWVkZWQgcHJvamVjdCBudW1iZXJzIG9yIG90aGVyIGNvZGVzLicpOwoJCWVfbWFpbC5zZW5kKCk7CgllbmQ7Cg==</text>
+        <text encoding="base64">CQkJYXBwX21nbXQubG9nX2FwcGxpY2F0aW9uX2Vycm9yCgkJCQkoCgkJCQkJb3JhTWVzc2FnZSA9PiBvcmFNc2csCgkJCQkJYXBwbE5hbWUgPT4gJ25ld19hY2N0X21nbXQucHJvY2Vzc19uZXdfYWNjb3VudCcsCgkJCQkJc3lzRW1Db2RlID0+ICdTWVNFTV9NQUlOJywKCQkJCQlsaXN0Q29kZSA9PiAnREJfTk9USUNFJywKCQkJCQllbWFpbFN1YmplY3QgPT4gc3ViamVjdE1zZwoJCQkJKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>add clause to exclude records where external_uid is already in new_accounts.</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICAgICAgICAtLSB3ZSdyZSBzCg==</text>
+        <text encoding="base64">CQlhY3RlbmdhZ2VTb3VyY2VDb2RlIGFjdGVuZ2FnZV9hcHBlYWwuc291cmNlJXR5cGUK</text>
       </register>
       <register name=":" type="4">
         <text>870</text>
@@ -392,9 +392,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>e_mail.send</last-search>
+      <last-search>create_actengage_app</last-search>
       <last-offset />
-      <last-pattern>e_mail.send</last-pattern>
+      <last-pattern>create_actengage_app</last-pattern>
       <last-replace>Text::make('\1'),</last-replace>
       <last-substitute>\(\w*\)\s.*</last-substitute>
       <last-dir>1</last-dir>
