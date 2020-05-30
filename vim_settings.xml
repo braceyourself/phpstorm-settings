@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>setup</entry>
-        <entry encoding="base64">LT5kaXNr</entry>
         <entry>date</entry>
         <entry encoding="base64">XDxhZGRfY29tbWVudFw+</entry>
         <entry>\(.*\)</entry>
@@ -25,6 +23,8 @@
         <entry>create_actengage</entry>
         <entry encoding="base64">XDxyZXBsYWNlX2ludmFsaWRfYXBwZWFsX2NvZGVzXD4=</entry>
         <entry>newAppeal</entry>
+        <entry>application_error</entry>
+        <entry>e_mail.send</entry>
       </history-search>
       <history-cmd>
         <entry>:wq</entry>
@@ -153,8 +153,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/1948425d/8cac327e-5320-40f4-99cf-2e44c2cff177/schema/FRC/package/API_ACTENGAGE/body/API_ACTENGAGE.sql" timestamp="1590812754192">
+      <file name="/1948425d/8cac327e-5320-40f4-99cf-2e44c2cff177/schema/FRC/package/API_ACTENGAGE/body/API_ACTENGAGE.sql" timestamp="1590836379696">
         <mark key="'" line="50" column="20" />
+        <mark key="[" line="871" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8cac327e-5320-40f4-99cf-2e44c2cff177/console.sql" timestamp="1590810664046">
         <mark key="[" line="14" column="1" />
@@ -172,18 +173,16 @@
         <mark key="." line="52" column="61" />
         <mark key="^" line="52" column="62" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/PhoneBase.php" timestamp="1590781179976">
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="23" />
-        <mark key="." line="30" column="13" />
-        <mark key="^" line="29" column="23" />
+      <file name="$USER_HOME$/code/fresco32/DDL/Packages/new_acct_mgmt.sql" timestamp="1590836342706">
+        <mark key="[" line="1981" column="0" />
+        <mark key="]" line="1988" column="18" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" timestamp="1590812011650">
-        <mark key="'" line="1199" column="8" />
-        <mark key="[" line="823" column="45" />
-        <mark key="]" line="823" column="51" />
-        <mark key="." line="823" column="50" />
-        <mark key="^" line="823" column="51" />
+      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" timestamp="1590836493439">
+        <mark key="'" line="817" column="48" />
+        <mark key="[" line="877" column="4" />
+        <mark key="]" line="877" column="5" />
+        <mark key="." line="877" column="4" />
+        <mark key="^" line="877" column="5" />
       </file>
       <file name="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/view/CONTACT_REQUEST_VIEW.sql" timestamp="1590782502095">
         <mark key="[" line="18" column="0" />
@@ -243,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="31" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Mds/MdsDataImportJob.php" />
       <jump line="20" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mds/MdsDataImportTests.php" />
       <jump line="68" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mds/MdsDataImportTests.php" />
       <jump line="33" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mds/MdsDataImportTests.php" />
@@ -343,21 +341,22 @@
       <jump line="1199" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="0" column="75" filename="/Dummy.txt" />
       <jump line="50" column="20" filename="/1948425d/8cac327e-5320-40f4-99cf-2e44c2cff177/schema/FRC/package/API_ACTENGAGE/body/API_ACTENGAGE.sql" />
+      <jump line="817" column="48" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text>add clause to exclude records where external_uid is already in new_accounts.</text>
+      <register name="+" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text>appeal_code</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>newAppeal</text>
+        <text>e_mail.send</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlhcHBlYWxDb2RlICAgICAgICAgIGFjdGVuZ2FnZV9hcHBlYWwuYXBwZWFsX2NvZGUldHlwZSwKCQlhY3RlbmdhZ2VTb3VyY2VDb2RlIGFjdGVuZ2FnZV9hcHBlYWwuc291cmNlJXR5cGUK</text>
+        <text encoding="base64">CQlleGNlcHRpb24gd2hlbiBvdGhlcnMgdGhlbgoJCWFwcF9tZ210LmxvZ19hcHBsaWNhdGlvbl9lcnJvcgoJCQkoCgkJCQlvcmFNZXNzYWdlID0+IG9yYU1zZywKCQkJCWFwcGxOYW1lID0+ICduZXdfYWNjdF9tZ210LnByb2Nlc3NfbmV3X2FjY291bnQnLAoJCQkJc3lzRW1Db2RlID0+ICdTWVNFTV9NQUlOJywKCQkJCWxpc3RDb2RlID0+ICdEQl9OT1RJQ0UnLAoJCQkJZW1haWxTdWJqZWN0ID0+IHN1YmplY3RNc2cKCQkJKTsK</text>
       </register>
       <register name="1" type="2">
         <text>add clause to exclude records where external_uid is already in new_accounts.</text>
@@ -393,9 +392,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>newAppeal</last-search>
+      <last-search>e_mail.send</last-search>
       <last-offset />
-      <last-pattern>newAppeal</last-pattern>
+      <last-pattern>e_mail.send</last-pattern>
       <last-replace>Text::make('\1'),</last-replace>
       <last-substitute>\(\w*\)\s.*</last-substitute>
       <last-dir>1</last-dir>
