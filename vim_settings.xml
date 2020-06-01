@@ -141,12 +141,12 @@
         <mark key="^" line="0" column="76" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" timestamp="1591003116221">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" timestamp="1591004478531">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="4" />
-        <mark key="." line="32" column="3" />
-        <mark key="^" line="32" column="4" />
+        <mark key="[" line="30" column="7" />
+        <mark key="]" line="30" column="8" />
+        <mark key="." line="30" column="7" />
+        <mark key="^" line="30" column="8" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8cac327e-5320-40f4-99cf-2e44c2cff177/console.sql" timestamp="1590810664046">
         <mark key="[" line="14" column="1" />
@@ -348,10 +348,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>inner</text>
+        <text>a.EXTERNAL_UID, na.EXTERNAL_UID</text>
       </register>
       <register name="-" type="4">
-        <text>inner</text>
+        <text>a.EXTERNAL_UID, na.EXTERNAL_UID</text>
       </register>
       <register name="/" type="4">
         <text>create_actengage_app</text>
