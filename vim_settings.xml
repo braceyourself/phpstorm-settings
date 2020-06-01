@@ -347,11 +347,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>inner</text>
       </register>
       <register name="-" type="4">
-        <text>chr(10) ||</text>
+        <text>inner</text>
       </register>
       <register name="/" type="4">
         <text>create_actengage_app</text>
@@ -360,31 +360,31 @@
         <text encoding="base64">CQkJCQkJCXx8IGluc3RhbmNlTmFtZSB8fCAnLycgfHwgaG9zdE5hbWUgfHwgJ106ICAnIHx8IG9yYU1zZyB8fCBjaHIoMTApIHx8IGRibXNfdXRpbGl0eS5GT1JNQVRfRVJST1JfQkFDS1RSQUNFKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlcmUgKCJGUkMiLiJBQ1RFTkdBR0VfREFUQV9MT0FEIi4iRVhURVJOQUxfVUlEIiBpbiAoNDQzNzU1NSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZGVjbGFyZQoJCQliZWdpbgoJCQllbmQ7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCWFwcF9tZ210LmxvZ19hcHBsaWNhdGlvbl9lcnJvcgoJCQkJCSgKCQkJCQkJb3JhTWVzc2FnZSA9PiBvcmFNc2csCgkJCQkJCWFwcGxOYW1lID0+ICduZXdfYWNjdF9tZ210LnByb2Nlc3NfbmV3X2FjY291bnQnLAoJCQkJCQlzeXNFbUNvZGUgPT4gJ1NZU0VNX01BSU4nLAoJCQkJCQlsaXN0Q29kZSA9PiAnREJfTk9USUNFJywKCQkJCQkJZW1haWxTdWJqZWN0ID0+IHN1YmplY3RNc2cKCQkJCQkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJICAgIG9yYU1zZwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJYXBwX21nbXQubG9nX2FwcGxpY2F0aW9uX2Vycm9yCgkJCQkoCgkJCQkJb3JhTWVzc2FnZSA9PiBvcmFNc2csCgkJCQkJYXBwbE5hbWUgPT4gJ25ld19hY2N0X21nbXQucHJvY2Vzc19uZXdfYWNjb3VudCcsCgkJCQkJc3lzRW1Db2RlID0+ICdTWVNFTV9NQUlOJywKCQkJCQlsaXN0Q29kZSA9PiAnREJfTk9USUNFJywKCQkJCQllbWFpbFN1YmplY3QgPT4gc3ViamVjdE1zZwoJCQkJKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text>add clause to exclude records where external_uid is already in new_accounts.</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJZGVjbGFyZQoJCQliZWdpbgoJCQllbmQ7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCWFwcF9tZ210LmxvZ19hcHBsaWNhdGlvbl9lcnJvcgoJCQkJCSgKCQkJCQkJb3JhTWVzc2FnZSA9PiBvcmFNc2csCgkJCQkJCWFwcGxOYW1lID0+ICduZXdfYWNjdF9tZ210LnByb2Nlc3NfbmV3X2FjY291bnQnLAoJCQkJCQlzeXNFbUNvZGUgPT4gJ1NZU0VNX01BSU4nLAoJCQkJCQlsaXN0Q29kZSA9PiAnREJfTk9USUNFJywKCQkJCQkJZW1haWxTdWJqZWN0ID0+IHN1YmplY3RNc2cKCQkJCQkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJICAgIG9yYU1zZwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJYXBwX21nbXQubG9nX2FwcGxpY2F0aW9uX2Vycm9yCgkJCQkoCgkJCQkJb3JhTWVzc2FnZSA9PiBvcmFNc2csCgkJCQkJYXBwbE5hbWUgPT4gJ25ld19hY2N0X21nbXQucHJvY2Vzc19uZXdfYWNjb3VudCcsCgkJCQkJc3lzRW1Db2RlID0+ICdTWVNFTV9NQUlOJywKCQkJCQlsaXN0Q29kZSA9PiAnREJfTk9USUNFJywKCQkJCQllbWFpbFN1YmplY3QgPT4gc3ViamVjdE1zZwoJCQkJKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text>add clause to exclude records where external_uid is already in new_accounts.</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlhY3RlbmdhZ2VTb3VyY2VDb2RlIGFjdGVuZ2FnZV9hcHBlYWwuc291cmNlJXR5cGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>870</text>
