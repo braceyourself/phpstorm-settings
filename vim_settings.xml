@@ -36,7 +36,6 @@
         <entry>218</entry>
         <entry>39</entry>
         <entry>207</entry>
-        <entry>redo</entry>
         <entry>146</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvVGV4dDo6bWFrZSgnXDEnKSwv</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXClccy4qL1RleHQ6Om1ha2UoJ1wxJyksLw==</entry>
@@ -47,6 +46,7 @@
         <entry>346</entry>
         <entry>423</entry>
         <entry>q</entry>
+        <entry>redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -186,8 +186,8 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" timestamp="1591036743946">
-        <mark key="'" line="394" column="27" />
+      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" timestamp="1591037910658">
+        <mark key="'" line="942" column="13" />
         <mark key="[" line="81" column="39" />
         <mark key="]" line="81" column="49" />
         <mark key="." line="81" column="48" />
@@ -225,9 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="838" column="12" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
-      <jump line="842" column="14" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
-      <jump line="825" column="7" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="1550" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="892" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="824" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
@@ -319,12 +316,15 @@
       <jump line="460" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="392" column="16" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="49" column="13" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
-      <jump line="68" column="13" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
-      <jump line="355" column="19" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="916" column="10" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="556" column="15" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="912" column="10" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="394" column="27" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
+      <jump line="918" column="27" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
+      <jump line="712" column="14" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
+      <jump line="68" column="13" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
+      <jump line="355" column="15" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
+      <jump line="942" column="13" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -369,7 +369,7 @@
         <text encoding="base64">CSAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>redo</text>
       </register>
     </registers>
   </component>
