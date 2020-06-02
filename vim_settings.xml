@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>replace</entry>
         <entry encoding="base64">XDxyZXBsYWNlX2ludmFsaWRfYXBwZWFsX2NvZGVzXD4=</entry>
         <entry>batch_loaded</entry>
         <entry>$this</entry>
@@ -22,9 +21,10 @@
         <entry>select</entry>
         <entry>api_vendor_data</entry>
         <entry>select(</entry>
-        <entry>explode(</entry>
         <entry>explo</entry>
         <entry>explode</entry>
+        <entry>explode(</entry>
+        <entry>n explode</entry>
       </history-search>
       <history-cmd>
         <entry>192</entry>
@@ -45,8 +45,8 @@
         <entry>364</entry>
         <entry>346</entry>
         <entry>423</entry>
-        <entry>q</entry>
         <entry>redo</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,12 +154,11 @@
         <mark key="." line="44" column="47" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="$USER_HOME$/code/laravel-framework/src/Illuminate/Support/Stringable.php" timestamp="1591101812451">
+      <file name="$USER_HOME$/code/laravel-framework/src/Illuminate/Support/Stringable.php" timestamp="1591102880926">
         <mark key="'" line="432" column="4" />
-        <mark key="[" line="197" column="7" />
-        <mark key="]" line="197" column="13" />
-        <mark key="." line="197" column="12" />
-        <mark key="^" line="197" column="13" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="201" column="45" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Acquisition.php" timestamp="1591096537930">
         <mark key="[" line="71" column="33" />
@@ -223,14 +222,17 @@
         <mark key="[" line="3084" column="0" />
         <mark key="]" line="3089" column="5" />
       </file>
-      <file name="/dev_api_frc_org.roles" timestamp="1591091047362">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/foo.bar" timestamp="1591091120634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/api_frc_org.role_has_permissions" timestamp="1591091120627">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/laravel-framework/src/Illuminate/Support/Str.php" timestamp="1591102396152">
+        <mark key="'" line="443" column="20" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/database/seeds/UsersTableSeeder.php" timestamp="1591091340201">
         <mark key="[" line="26" column="24" />
@@ -239,11 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="12" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
-      <jump line="76" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
-      <jump line="875" column="4" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
-      <jump line="928" column="25" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
-      <jump line="935" column="14" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="1023" column="57" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="1032" column="8" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="18" column="64" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
@@ -339,59 +336,64 @@
       <jump line="679" column="0" filename="$USER_HOME$/code/laravel-framework/src/Illuminate/Support/Stringable.php" />
       <jump line="487" column="34" filename="$USER_HOME$/code/laravel-framework/tests/Support/SupportStringableTest.php" />
       <jump line="416" column="4" filename="$USER_HOME$/code/laravel-framework/src/Illuminate/Support/Stringable.php" />
+      <jump line="25" column="16" filename="$USER_HOME$/code/laravel-framework/src/Illuminate/Support/Str.php" />
+      <jump line="63" column="57" filename="$USER_HOME$/code/laravel-framework/src/Illuminate/Support/Str.php" />
+      <jump line="109" column="43" filename="$USER_HOME$/code/laravel-framework/src/Illuminate/Support/Str.php" />
+      <jump line="381" column="50" filename="$USER_HOME$/code/laravel-framework/src/Illuminate/Support/Str.php" />
+      <jump line="443" column="20" filename="$USER_HOME$/code/laravel-framework/src/Illuminate/Support/Str.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>Explode</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAgc3RyaW5nICAkZGVsaW1pdGVyCiAgICAgKiBAcGFyYW0gIGludCAgJGxpbWl0CiAgICAgKiBAcmV0dXJuIENvbGxlY3Rpb24K</text>
       </register>
       <register name="-" type="4">
-        <text>Explode</text>
+        <text>expl</text>
       </register>
       <register name="/" type="4">
-        <text>explode</text>
+        <text>n explode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEV4cGxvZGUgdGhlIHN0cmluZyBpbnRvIGFuIGFycmF5IG9mIFN0cmluZ2FibGVzLgogICAgICoKICAgICAqIEBwYXJhbSAkZGVsaW1pdGVyCiAgICAgKiBAcGFyYW0gaW50ICRsaW1pdAogICAgICogQHJldHVybiBDb2xsZWN0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBleHBhbmQoJGRlbGltaXRlciwgJGxpbWl0ID0gUEhQX0lOVF9NQVgpCiAgICB7CiAgICAgICAgcmV0dXJuIGNvbGxlY3QoZXhwbG9kZSgkZGVsaW1pdGVyLCAkdGhpcy0+dmFsdWUsICRsaW1pdCkpCiAgICAgICAgICAgIC0+dHJhbnNmb3JtKGZ1bmN0aW9uICgkc3RyaW5nKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gU3RyOjpvZigkc3RyaW5nKTsKICAgICAgICAgICAgfSk7CgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAgc3RyaW5nICAkZGVsaW1pdGVyCiAgICAgKiBAcGFyYW0gIGludCAgJGxpbWl0CiAgICAgKiBAcmV0dXJuIFxJbGx1bWluYXRlXFN1cHBvcnRcQ29sbGVjdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAgc3RyaW5nICAkZGVsaW1pdGVyCiAgICAgKiBAcGFyYW0gIGludCAgJGxpbWl0CiAgICAgKiBAcmV0dXJuIENvbGxlY3Rpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWM6OnNwbGkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZXhwbG9kZVVzaW5nKHN0cmluZyAkc3RyaW5nKQogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBleHBsb2RlKCRkZWxpbWl0ZXIsICRsaW1pdCA9IFBIUF9JTlRfTUFYKQogICAgewogICAgICAgIHJldHVybiBjb2xsZWN0KGV4cGxvZGUoJGRlbGltaXRlciwgJHRoaXMtPnZhbHVlLCAkbGltaXQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNvbGxlY3Rpb247Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gZXhwbG9kZVVzaW5nKHN0cmluZyAkc3RyaW5nKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gXElsbHVtaW5hdGVcU3VwcG9ydFxDb2xsZWN0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBleHBsb2RlKCRkZWxpbWl0ZXIsICRsaW1pdCA9IFBIUF9JTlRfTUFYKQogICAgewogICAgICAgIHJldHVybiBjb2xsZWN0KGV4cGxvZGUoJGRlbGltaXRlciwgJHRoaXMtPnZhbHVlLCAkbGltaXQpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNvbGxlY3Rpb247Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRzdHJpbmdhYmxlKSB7CiAgICAgICAgICAgICAgICAkY29sbGVjdGlvbi0+dHJhbnNmb3JtKGZ1bmN0aW9uICgkaXRlbSkgewogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>redo</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>explode</last-search>
+      <last-search>n explode</last-search>
       <last-offset />
-      <last-pattern>explode</last-pattern>
+      <last-pattern>n explode</last-pattern>
       <last-replace>Text::make('\1'),</last-replace>
       <last-substitute>\(\w*\)\s.*</last-substitute>
       <last-dir>1</last-dir>
