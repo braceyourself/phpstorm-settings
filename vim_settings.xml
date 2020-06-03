@@ -134,12 +134,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" timestamp="1591175947417">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" timestamp="1591178397184">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="7" />
-        <mark key="^" line="2" column="8" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="9" />
+        <mark key="." line="17" column="9" />
+        <mark key="^" line="17" column="12" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" timestamp="1591117655581">
         <mark key="'" line="76" column="46" />
@@ -175,7 +175,7 @@
         <mark key="." line="299" column="0" />
         <mark key="^" line="298" column="63" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" timestamp="1591176837182">
+      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" timestamp="1591177971245">
         <mark key="'" line="955" column="12" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/Lenses/ApiData/NewAccountUnloadedLens.php" timestamp="1591176916152">
@@ -191,11 +191,12 @@
         <mark key="." line="33" column="22" />
         <mark key="^" line="33" column="23" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" timestamp="1591177442003">
+      <file name="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" timestamp="1591178639886">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="116" column="22" />
+        <mark key="]" line="116" column="42" />
+        <mark key="." line="116" column="41" />
+        <mark key="^" line="116" column="42" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" timestamp="1591121940838">
         <mark key="[" line="103" column="23" />
@@ -248,7 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="499" column="0" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/nova/src/Metrics/Trend.php" />
       <jump line="44" column="20" filename="$USER_HOME$/code/api-frc-org/app/Nova/Metrics/NewRecordsTrend.php" />
       <jump line="21" column="0" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
       <jump line="57" column="0" filename="$USER_HOME$/code/api-frc-org/app/Support/ApiVendorDataQueryBuilder.php" />
@@ -345,18 +345,19 @@
       <jump line="25" column="6" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Acquisition.php" />
       <jump line="85" column="35" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Acquisition.php" />
       <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
       <jump line="33" column="10" filename="$USER_HOME$/code/api-frc-org/app/Jobs/DatabaseJob.php" />
       <jump line="44" column="0" filename="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" />
+      <jump line="2" column="71" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>sysdate + ((1/1440)*1)	-- One Minutes from Right Now</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>__calls</text>
@@ -365,31 +366,35 @@
         <text encoding="base64">CQlqb2JBY3Rpb24gOj0gJ0JFR0lOIGFwaV9xdW9ydW0uZG93bmxvYWRfYnlfZGF0ZSggcmVxdWVzdElkID0+ICcgfHwgcmVxdWVzdElkICB8fCAnICk7IEVORDsnOwoJCWRibXNfc2NoZWR1bGVyLmNyZWF0ZV9qb2IKCQkoCgkJCWpvYl9uYW1lCT0+IGRibXNfc2NoZWR1bGVyLmdlbmVyYXRlX2pvYl9uYW1lKCAnQVBJX1F1b3J1bV8nICksCgkJCWpvYl90eXBlCT0+ICdQTFNRTF9CTE9DSycsCgkJCWpvYl9hY3Rpb24JPT4gam9iQWN0aW9uLAoJCQllbmFibGVkCQk9PiB0cnVlLAoJCQlzdGFydF9kYXRlCT0+IHN5c2RhdGUgKyAoKDEvMTQ0MCkqMSkJLS0gT25lIE1pbnV0ZXMgZnJvbSBSaWdodCBOb3cKCQkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>select * from ACTENGAGE_DATA_LOAD l
+inner join ACTENGAGE_DATA_ARCHIVE a on a.EXTERNAL_UID = l.EXTERNAL_UID
+inner join FRC.NEW_ACCOUNT_LOAD nal on nal.EXTERNAL_UID = l.EXTERNAL_UID
+where a.rid is null
+order by l.LOAD_DATE desc</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gb24oJGNvbm5lY3Rpb25fbmFtZSkKICAgIHsKICAgICAgICByZXR1cm4gbmV3IHN0YXRpYyhEQjo6Y29ubmVjdGlvbigkY29ubmVjdGlvbl9uYW1lKSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAoCgkJKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgam9iX25hbWUJPT4gZGJtc19zY2hlZHVsZXIuZ2VuZXJhdGVfam9iX25hbWUoICdBUElfUXVvcnVtXycgKSwKCQkJam9iX3R5cGUJPT4gJ1BMU1FMX0JMT0NLJywKCQkJam9iX2FjdGlvbgk9PiBqb2JBY3Rpb24sCgkJCWVuYWJsZWQJCT0+IHRydWUsCgkJCXN0YXJ0X2RhdGUJPT4gc3lzZGF0ZSArICgoMS8xNDQwKSoxKQktLSBPbmUgTWludXRlcyBmcm9tIFJpZ2h0IE5vdwo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gb24oJGNvbm5lY3Rpb25fbmFtZSkKICAgIHsKICAgICAgICByZXR1cm4gbmV3IHN0YXRpYyhEQjo6Y29ubmVjdGlvbigkY29ubmVjdGlvbl9uYW1lKSk7CiAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAoCgkJKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgam9iX25hbWUJPT4gZGJtc19zY2hlZHVsZXIuZ2VuZXJhdGVfam9iX25hbWUoICdBUElfUXVvcnVtXycgKSwKCQkJam9iX3R5cGUJPT4gJ1BMU1FMX0JMT0NLJywKCQkJam9iX2FjdGlvbgk9PiBqb2JBY3Rpb24sCgkJCWVuYWJsZWQJCT0+IHRydWUsCgkJCXN0YXJ0X2RhdGUJPT4gc3lzZGF0ZSArICgoMS8xNDQwKSoxKQktLSBPbmUgTWludXRlcyBmcm9tIFJpZ2h0IE5vdwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0IGJhLkJSQU5EX0NPREUKZnJvbSBGUkMuTkVXX0FDQ09VTlRTIG5hCiAgICBpbm5lciBqb2luIGJhdGNoIGIgb24gYi5CQVRDSF9OTyA9IG5hLkJBVENIX05PCglpbm5lciBqb2luIEZSQy5CQVRDSF9BUlJJVkFMIGJhIG9uIGJhLkFSUklWQUxfTk8gPSBiLkFSUklWQUxfTk8Kd2hlcmUgcmlkID0gJzM1NzM1NTMnCg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name=":" type="4">
         <text>525</text>
