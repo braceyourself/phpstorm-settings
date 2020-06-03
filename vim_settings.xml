@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>__calls</entry>
         <entry encoding="base64">XDxtb3ZlX2FyY2hpdmVfZGF0YVw+</entry>
         <entry>records_were_loaded</entry>
         <entry encoding="base64">XDxkYm1zX291dHB1dFw+</entry>
@@ -25,6 +24,7 @@
         <entry>JOBS\.(.*\)</entry>
         <entry>JOBS\.\(.*\)</entry>
         <entry>.*JOBS\.\(.*\)</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>423</entry>
@@ -141,11 +141,56 @@
         <mark key="." line="9" column="41" />
         <mark key="^" line="9" column="42" />
       </file>
+      <file name="/console" timestamp="1591208561378">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/CategorizeResources/resources/js/components/GroupedResourceCollapsable.vue" timestamp="1591209625972">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Resource.php" timestamp="1591209388371">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/FrcAction/DbaSchedulerJobs.php" timestamp="1591200146487">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="33" />
         <mark key="^" line="5" column="34" />
+      </file>
+      <file name="/a.sql" timestamp="1591196778561">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="50" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Mobilecause/Transaction.php" timestamp="1591209894544">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="9" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" timestamp="1591197954096">
+        <mark key="'" line="9" column="26" />
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="41" />
+        <mark key="." line="23" column="40" />
+        <mark key="^" line="23" column="41" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591208829460">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Resource.php" timestamp="1591210199367">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+        <mark key="^" line="28" column="12" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/DbaSchedulerJobsBase.php" timestamp="1591201255197">
         <mark key="'" line="64" column="1" />
@@ -168,8 +213,18 @@
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/app_mgmt.sql" timestamp="1591184078977">
-        <mark key="'" line="274" column="12" />
+      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1591198359325">
+        <mark key="'" line="94" column="12" />
+        <mark key="[" line="3084" column="0" />
+        <mark key="]" line="3089" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/nova/src/Resource.php" timestamp="1591209947544">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="237" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/nova/src/PerformsQueries.php" timestamp="1591197684769">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="28" column="11" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/DbaSchedulerJobs.php" timestamp="1591201283436">
         <mark key="'" line="13" column="50" />
@@ -177,13 +232,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="13" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" timestamp="1591196690688">
-        <mark key="'" line="1588" column="4" />
-        <mark key="[" line="1590" column="0" />
-        <mark key="]" line="1599" column="18" />
-        <mark key="^" line="1589" column="20" />
-        <mark key="." line="1589" column="19" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1591198871471">
         <mark key="'" line="45" column="14" />
@@ -197,47 +245,6 @@
         <mark key="." line="41" column="27" />
         <mark key="^" line="41" column="28" />
       </file>
-      <file name="/a.sql" timestamp="1591196778561">
-        <mark key="'" line="0" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="50" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="16" />
-      </file>
-      <file name="/1948425d/8cac327e-5320-40f4-99cf-2e44c2cff177/schema/FRC/package/E_MAIL/body/E_MAIL.sql" timestamp="1591183332343">
-        <mark key="'" line="220" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" timestamp="1591197954096">
-        <mark key="'" line="9" column="26" />
-        <mark key="[" line="23" column="41" />
-        <mark key="]" line="23" column="41" />
-        <mark key="." line="23" column="40" />
-        <mark key="^" line="23" column="41" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591200577377">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" timestamp="1591195348274">
-        <mark key="[" line="1416" column="0" />
-        <mark key="]" line="1423" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1591198359325">
-        <mark key="'" line="94" column="12" />
-        <mark key="[" line="3084" column="0" />
-        <mark key="]" line="3089" column="5" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/nova/src/PerformsQueries.php" timestamp="1591197684769">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="28" column="11" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8cac327e-5320-40f4-99cf-2e44c2cff177/console_1.sql" timestamp="1591185301282">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/e_mail.sql" timestamp="1591184096848">
-        <mark key="'" line="379" column="26" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Frc/DbaSchedulerJobs.php" timestamp="1591200400672">
         <mark key="'" line="4" column="49" />
         <mark key="[" line="7" column="0" />
@@ -247,8 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="14" filename="/1948425d/8cac327e-5320-40f4-99cf-2e44c2cff177/schema/FRC/package/E_MAIL/body/E_MAIL.sql" />
-      <jump line="83" column="8" filename="/1948425d/8cac327e-5320-40f4-99cf-2e44c2cff177/schema/FRC/package/E_MAIL/body/E_MAIL.sql" />
       <jump line="174" column="26" filename="/1948425d/8cac327e-5320-40f4-99cf-2e44c2cff177/schema/FRC/package/E_MAIL/body/E_MAIL.sql" />
       <jump line="220" column="5" filename="/1948425d/8cac327e-5320-40f4-99cf-2e44c2cff177/schema/FRC/package/E_MAIL/body/E_MAIL.sql" />
       <jump line="188" column="4" filename="$USER_HOME$/code/fresco32/DDL/Packages/app_mgmt.sql" />
@@ -347,50 +352,55 @@
       <jump line="12" column="50" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/DbaSchedulerJobs.php" />
       <jump line="6" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/DbaSchedulerJobsBase.php" />
       <jump line="64" column="1" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/DbaSchedulerJobsBase.php" />
+      <jump line="64" column="21" filename="$USER_HOME$/code/api-frc-org/app/Nova/Resource.php" />
+      <jump line="80" column="0" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Resource.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>static::</text>
       </register>
       <register name="-" type="4">
-        <text>sys.dba_scheduler_jobs.owner</text>
+        <text>static::</text>
       </register>
       <register name="/" type="4">
-        <text>.*JOBS\.\(.*\)</text>
+        <text>index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnc3RhcnRfZGF0ZScsCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gc2VhcmNoYWJsZUNvbHVtbnMoKQogICAgewogICAgICAgIHJldHVybiBlbXB0eShzdGF0aWM6OiRzZWFyY2gpCiAgICAgICAgICAgICAgICAgICAgPyBbc3RhdGljOjpuZXdNb2RlbCgpLT5nZXRLZXlOYW1lKCldCiAgICAgICAgICAgICAgICAgICAgOiBzdGF0aWM6OiRzZWFyY2g7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>[
+                'record_id',
+                'data',
+                'created_at',
+                'updated_at'
+            ]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9PV05FUixKT0JfTkFNRSxKT0JfU1VCTkFNRSxKT0JfU1RZTEUsSk9CX0NSRUFUT1IsQ0xJRU5UX0lELEdMT0JBTF9VSUQsUFJPR1JBTV9PV05FUixQUk9HUkFNX05BTUUsSk9CX1RZUEUsSk9CX0FDVElPTixOVU1CRVJfT0ZfQVJHVU1FTlRTLFNDSEVEVUxFX09XTkVSLFNDSEVEVUxFX05BTUUsU0NIRURVTEVfVFlQRSxTVEFSVF9EQVRFLFJFUEVBVF9JTlRFUlZBTCxFVkVOVF9RVUVVRV9PV05FUixFVkVOVF9RVUVVRV9OQU1FLEVWRU5UX1FVRVVFX0FHRU5ULEVWRU5UX0NPTkRJVElPTixFVkVOVF9SVUxFLEZJTEVfV0FUQ0hFUl9PV05FUixGSUxFX1dBVENIRVJfTkFNRSxFTkRfREFURSxKT0JfQ0xBU1MsRU5BQkxFRCxBVVRPX0RST1AsUkVTVEFSVEFCTEUsU1RBVEUsSk9CX1BSSU9SSVRZLFJVTl9DT1VOVCxNQVhfUlVOUyxGQUlMVVJFX0NPVU5ULE1BWF9GQUlMVVJFUyxSRVRSWV9DT1VOVCxMQVNUX1NUQVJUX0RBVEUsTEFTVF9SVU5fRFVSQVRJT04sTkVYVF9SVU5fREFURSxTQ0hFRFVMRV9MSU1JVCxNQVhfUlVOX0RVUkFUSU9OLExPR0dJTkdfTEVWRUwsU1RPUF9PTl9XSU5ET1dfQ0xPU0UsSU5TVEFOQ0VfU1RJQ0tJTkVTUyxSQUlTRV9FVkVOVFMsU1lTVEVNLEpPQl9XRUlHSFQsTkxTX0VOVixTT1VSQ0UsTlVNQkVSX09GX0RFU1RJTkFUSU9OUyxERVNUSU5BVElPTl9PV05FUixERVNUSU5BVElPTixDUkVERU5USUFMX09XTkVSLENSRURFTlRJQUxfTkFNRSxJTlNUQU5DRV9JRCxERUZFUlJFRF9EUk9QLEFMTE9XX1JVTlNfSU5fUkVTVFJJQ1RFRF9NT0RFLENPTU1FTlRTLEZMQUdTCi8vRlJDLEFQSV9BQ1RFTkdBR0VfMTU3NzIwLCxSRUdVTEFSLEZSQywsLCwsUExTUUxfQkxPQ0ssYmVnaW4gYXBpX2FjdGVuZ2FnZS5tb3ZlX2FjdGVuZ2FnZV9kYXRhKCk7IGVuZDssMCwsLE9OQ0UsMjAyMC0wNi0wMyAxMTowODo1OC4wMDAwMDAsLCwsLCwsLCwsREVGQVVMVF9KT0JfQ0xBU1MsVFJVRSxUUlVFLEZBTFNFLFJVTk5JTkcsMywwLCwwLCwwLDIwMjAtMDYtMDMgMTU6MDc6NTguNjg4NzIzLCwyMDIwLTA2LTAzIDE1OjA3OjU4LjY4MTg1OSwsLE9GRixGQUxTRSxUUlVFLCxGQUxTRSwxLCJOTFNfTEFOR1VBR0U9J0FNRVJJQ0FOJyBOTFNfVEVSUklUT1JZPSdBTUVSSUNBJyBOTFNfQ1VSUkVOQ1k9JyQnIE5MU19JU09fQ1VSUkVOQ1k9J0FNRVJJQ0EnIE5MU19OVU1FUklDX0NIQVJBQ1RFUlM9Jy4sJyBOTFNfQ0FMRU5EQVI9J0dSRUdPUklBTicgTkxTX0RBVEVfRk9STUFUPSdERC1NT04tUlInIE5MU19EQVRFX0xBTkdVQUdFPSdBTUVSSUNBTicgTkxTX1NPUlQ9J0JJTkFSWScgTkxTX1RJTUVfRk9STUFUPSdISC5NSS5TU1hGRiBBTScgTkxTX1RJTUVTVEFNUF9GT1JNQVQ9J0RELU1PTi1SUiBISC5NSS5TU1hGRiBBTScgTkxTX1RJTUVfVFpfRk9STUFUPSdISC5NSS5TU1hGRiBBTSBUWlInIE5MU19USU1FU1RBTVBfVFpfRk9STUFUPSdERC1NT04tUlIgSEguTUkuU1NYRkYgQU0gVFpSJyBOTFNfRFVBTF9DVVJSRU5DWT0nJCcgTkxTX0NPTVA9J0JJTkFSWScgTkxTX0xFTkdUSF9TRU1BTlRJQ1M9J0JZVEUnIE5MU19OQ0hBUl9DT05WX0VYQ1A9J0ZBTFNFJyIsLDEsLCwsLCxGQUxTRSxGQUxTRSwsMTM5MzEyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3lzLmRiYV9zY2hlZHVsZXJfam9icy5vd25lcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U1lTLkRCQV9TQ0hFRFVMRVJfSk9CUy5PV05FUgpTWVMuREJBX1NDSEVEVUxFUl9KT0JTLkpPQl9OQU1FClNZUy5EQkFfU0NIRURVTEVSX0pPQlMuSk9CX1NVQk5BTUUKU1lTLkRCQV9TQ0hFRFVMRVJfSk9CUy5KT0JfU1RZTEUKU1lTLkRCQV9TQ0hFRFVMRVJfSk9CUy5KT0JfQ1JFQVRPUgpTWVMuREJBX1NDSEVEVUxFUl9KT0JTLkNMSUVOVF9JRApTWVMuREJBX1NDSEVEVUxFUl9KT0JTLkdMT0JBTF9VSUQKU1lTLkRCQV9TQ0hFRFVMRVJfSk9CUy5QUk9HUkFNX09XTkVSClNZUy5EQkFfU0NIRURVTEVSX0pPQlMuUFJPR1JBTV9OQU1FClNZUy5EQkFfU0NIRURVTEVSX0pPQlMuSk9CX1RZUEUKU1lTLkRCQV9TQ0hFRFVMRVJfSk9CUy5KT0JfQUNUSU9OClNZUy5EQkFfU0NIRURVTEVSX0pPQlMuTlVNQkVSX09GX0FSR1VNRU5UUwpTWVMuREJBX1NDSEVEVUxFUl9KT0JTLlNDSEVEVUxFX09XTkVSClNZUy5EQkFfU0NIRURVTEVSX0pPQlMuU0NIRURVTEVfTkFNRQpTWVMuREJBX1NDSEVEVUxFUl9KT0JTLlNDSEVEVUxFX1RZUEUKU1lTLkRCQV9TQ0hFRFVMRVJfSk9CUy5TVEFSVF9EQVRFClNZUy5EQkFfU0NIRURVTEVSX0pPQlMuUkVQRUFUX0lOVEVSVkFMClNZUy5EQkFfU0NIRURVTEVSX0pPQlMuRVZFTlRfUVVFVUVfT1dORVIKU1lTLkRCQV9TQ0hFRFVMRVJfSk9CUy5FVkVOVF9RVUVVRV9OQU1FClNZUy5EQkFfU0NIRURVTEVSX0pPQlMuRVZFTlRfUVVFVUVfQUdFTlQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y3JlYXRlIHZpZXcgU1lTLkRCQV9TQ0hFRFVMRVJfSk9CUyBhcwotLSBtaXNzaW5nIHNvdXJjZSBjb2RlCi8KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text>add unloaded scope for all api data models
-create lens using unloaded scope
-AE import job : wip</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gc2VhcmNoYWJsZUNvbHVtbnMoKQogICAgewogICAgICAgIHJldHVybiBlbXB0eShzdGF0aWM6OiRzZWFyY2gpCiAgICAgICAgICAgID8gW3N0YXRpYzo6bmV3TW9kZWwoKS0+Z2V0S2V5TmFtZSgpXQogICAgICAgICAgICA6IHN0YXRpYzo6JHNlYXJjaDsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZGF0ZUZvcm1hdCA9IENhcmJvbjo6TU9DS19EQVRFVElNRV9GT1JNQVQ7CgogICAgcHJvdGVjdGVkICRkYXRlcyA9IFsKICAgICAgICAnc3RhcnRfZGF0ZScKICAgIF07Cg==</text>
+        <text encoding="base64">ICAgIHNlYXJjaGFibGVjb2wK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4gcy8uKkpPQlNcLlwoLipcKS8gKiBAcHJvcGVydHkgc3RyaW5nIFwxIC8=</text>
@@ -399,9 +409,9 @@ AE import job : wip</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>.*JOBS\.\(.*\)</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern>.*JOBS\.\(.*\)</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyBcMSA=</last-replace>
       <last-substitute>.*JOBS\.\(.*\)</last-substitute>
       <last-dir>1</last-dir>
