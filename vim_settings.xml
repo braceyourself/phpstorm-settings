@@ -205,8 +205,12 @@
         <mark key="." line="5" column="33" />
         <mark key="^" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Procedures/move_new_account_data.sql" timestamp="1591287579448">
-        <mark key="'" line="31" column="12" />
+      <file name="$USER_HOME$/code/fresco32/DDL/Procedures/move_new_account_data.sql" timestamp="1591297716365">
+        <mark key="'" line="43" column="11" />
+        <mark key="[" line="255" column="40" />
+        <mark key="]" line="256" column="54" />
+        <mark key="." line="256" column="53" />
+        <mark key="^" line="256" column="54" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1591198871471">
         <mark key="'" line="45" column="14" />
@@ -241,9 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="33" filename="$USER_HOME$/code/fresco32/DDL/Packages/app_mgmt.sql" />
-      <jump line="275" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/app_mgmt.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/e_mail.sql" />
       <jump line="120" column="36" filename="$USER_HOME$/code/fresco32/DDL/Packages/e_mail.sql" />
       <jump line="122" column="38" filename="$USER_HOME$/code/fresco32/DDL/Packages/e_mail.sql" />
       <jump line="274" column="12" filename="$USER_HOME$/code/fresco32/DDL/Packages/app_mgmt.sql" />
@@ -341,12 +342,15 @@
       <jump line="74" column="15" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ActengageDataArchiveBase.php" />
       <jump line="159" column="10" filename="$USER_HOME$/code/fresco32/DDL/Procedures/move_new_account_data.sql" />
       <jump line="31" column="12" filename="$USER_HOME$/code/fresco32/DDL/Procedures/move_new_account_data.sql" />
+      <jump line="185" column="19" filename="$USER_HOME$/code/fresco32/DDL/Procedures/move_new_account_data.sql" />
+      <jump line="186" column="18" filename="$USER_HOME$/code/fresco32/DDL/Procedures/move_new_account_data.sql" />
+      <jump line="43" column="11" filename="$USER_HOME$/code/fresco32/DDL/Procedures/move_new_account_data.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgIG5hLgo=</text>
+        <text encoding="base64">CQkJLS0gSWYgdGhlIGRpc3RyaWN0X25vIGNvbCBpcyBmaWxsZWQsIGFzc3VtZSB0aGUgYWRkcmVzcwoJCQktLSBoYXMgYmVlbiBDQVNTIHN0YW5kYXJkaXplZDoK</text>
       </register>
       <register name="-" type="4">
         <text>act</text>
@@ -358,36 +362,31 @@
         <text encoding="base64">aW5uZXIgam9pbiBiYXRjaF9hcnJpdmFsIGEgb24gYS5BUlJJVkFMX05PID0gbmEuYXJyaQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIG5hLgo=</text>
+        <text encoding="base64">CQkJLS0gSWYgdGhlIGRpc3RyaWN0X25vIGNvbCBpcyBmaWxsZWQsIGFzc3VtZSB0aGUgYWRkcmVzcwoJCQktLSBoYXMgYmVlbiBDQVNTIHN0YW5kYXJkaXplZDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIG5hLiogCg==</text>
+        <text encoding="base64">CQktLSBpZiB0aGVyZSBhcmUgbm8gZHVwbGljYXRlIGdpZnRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text>where  brna</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="4" type="4">
-        <text>[
-                'record_id',
-                'data',
-                'created_at',
-                'updated_at'
-            ]</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQktLSBmaW5kIG5ldyBhY2NvdW50IHJlY29yZCB0aGF0IGhhcyBtYXRjaGluZyBsb2FkX2RhdGUgYW5kIGVtYWlsX2FkZHIKCQktLSB3aXRoIGEgcmVsYXRlZCBuZXdfYWNjb3VudF9naWZ0IGJhc2VkIG9uIGFwcGVhbF9jb2RlIGFuZCB2ZW5kb3JfdHJhbnNhY3Rpb25fbm8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJLS0gZmluZCBuZXcgYWNjb3VudCByZWNvcmQgdGhhdCBoYXMgbWF0Y2hpbmcgbG9hZF9kYXRlIGFuZCBlbWFpbF9hZGRyCgkJCS0tIHdpdGggYSByZWxhdGVkIG5ld19hY2NvdW50X2dpZnQgYmFzZWQgb24gYXBwZWFsX2NvZGUgYW5kIHZlbmRvcl90cmFuc2FjdGlvbl9ubwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIG5hLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgIG5hLiogCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
