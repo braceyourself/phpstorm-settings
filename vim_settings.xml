@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzb3VyY2VDb2RlXD4=</entry>
-        <entry>vendor</entry>
         <entry>gift</entry>
         <entry>suffix</entry>
         <entry>person_fami</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxzb3VyY2VfY29kZVw+</entry>
         <entry>.*JOBS\.\(.*\)</entry>
         <entry>\(.*\)</entry>
+        <entry encoding="base64">XDx1cHBlcl9lbWFpbF9hZGRyZXNzXD4=</entry>
+        <entry>e_mail</entry>
       </history-search>
       <history-cmd>
         <entry>194</entry>
@@ -39,7 +39,6 @@
         <entry encoding="base64">JzwsJz4gcy9KT0JTXC4oLipcKS8gKiBAcHJvcGVydHkgc3RyaW5nIFwxIC8=</entry>
         <entry encoding="base64">JzwsJz4gcy9KT0JTXC5cKC4qXCkvICogQHByb3BlcnR5IHN0cmluZyBcMSAv</entry>
         <entry>redo</entry>
-        <entry>q</entry>
         <entry>81</entry>
         <entry encoding="base64">JzwsJz4gcy9cZnJjXC5uZXdfYWNjb3VudF9sb2FkXC4oLipcKS8gJ1wxJyA9PiBudWxsLCAv</entry>
         <entry encoding="base64">JzwsJz4gcy9mcmNcLm5ld19hY2NvdW50X2xvYWRcLiguKlwpLyAnXDEnID0+IG51bGwsIC8=</entry>
@@ -47,6 +46,7 @@
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvICdcMScgPT4gbnVsbCwgLw==</entry>
         <entry encoding="base64">JzwsJz4gcy8uKkpPQlNcLlwoLipcKS8gKiBAcHJvcGVydHkgc3RyaW5nIFwxIC8=</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvICogQHByb3BlcnR5IHN0cmluZyBcMSAv</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,11 +134,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountLoadBase.php" timestamp="1591352915348">
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountLoadBase.php" timestamp="1591353816963">
         <mark key="[" line="16" column="12" />
-        <mark key="]" line="14" column="50" />
-        <mark key="." line="14" column="49" />
-        <mark key="^" line="14" column="50" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" timestamp="1591346260659">
         <mark key="[" line="36" column="28" />
@@ -170,8 +170,8 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Procedures/move_new_account_data.sql" timestamp="1591347409440">
-        <mark key="'" line="43" column="11" />
+      <file name="$USER_HOME$/code/fresco32/DDL/Procedures/move_new_account_data.sql" timestamp="1591353787184">
+        <mark key="'" line="175" column="30" />
         <mark key="[" line="227" column="33" />
         <mark key="]" line="227" column="34" />
         <mark key="." line="227" column="33" />
@@ -184,22 +184,22 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/FrcVendorDataArchiveFactory.php" timestamp="1591353200444">
-        <mark key="'" line="9" column="35" />
-        <mark key="[" line="9" column="87" />
-        <mark key="]" line="9" column="87" />
-        <mark key="." line="9" column="87" />
-        <mark key="^" line="9" column="71" />
+      <file name="$USER_HOME$/code/api-frc-org/database/factories/FrcVendorDataArchiveFactory.php" timestamp="1591353328516">
+        <mark key="'" line="9" column="55" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="21" />
       </file>
       <file name="/BRAND_CODE [Frc Action]" timestamp="1591352887100">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" timestamp="1591300829247">
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/FrcBaseModel.php" timestamp="1591353243716">
         <mark key="'" line="349" column="42" />
-        <mark key="[" line="133" column="9" />
-        <mark key="]" line="133" column="9" />
-        <mark key="." line="133" column="9" />
-        <mark key="^" line="133" column="16" />
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="17" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="/dummy.sql" timestamp="1591347869003">
         <mark key="[" line="0" column="0" />
@@ -225,12 +225,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" timestamp="1591352838951">
-        <mark key="'" line="98" column="44" />
-        <mark key="[" line="79" column="32" />
-        <mark key="]" line="79" column="50" />
-        <mark key="." line="79" column="49" />
-        <mark key="^" line="79" column="50" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" timestamp="1591353555325">
+        <mark key="'" line="96" column="40" />
+        <mark key="[" line="75" column="23" />
+        <mark key="]" line="76" column="8" />
+        <mark key="." line="76" column="7" />
+        <mark key="^" line="76" column="8" />
       </file>
       <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" timestamp="1591351414217">
         <mark key="'" line="700" column="8" />
@@ -251,9 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="24" filename="$USER_HOME$/code/api-frc-org/app/Support/Eloquent/FrcEloquentBuilder.php" />
-      <jump line="539" column="12" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core_c.php" />
-      <jump line="226" column="36" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="4" column="5" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" />
       <jump line="9" column="8" filename="$USER_HOME$/code/api-frc-org/app/Support/Eloquent/FrcEloquentBuilder.php" />
       <jump line="21" column="23" filename="$USER_HOME$/code/api-frc-org/app/Support/Eloquent/FrcEloquentBuilder.php" />
@@ -345,65 +342,68 @@
       <jump line="30" column="19" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ActengageDataArchiveBase.php" />
       <jump line="48" column="9" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ActengageDataArchiveBase.php" />
       <jump line="82" column="44" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ActengageDataArchiveBase.php" />
-      <jump line="9" column="35" filename="$USER_HOME$/code/api-frc-org/database/factories/FrcVendorDataArchiveFactory.php" />
       <jump line="5" column="62" filename="$USER_HOME$/code/api-frc-org/app/Frc/BrandCode.php" />
       <jump line="4" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BrandCodeBase.php" />
       <jump line="12" column="1" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BrandCodeBase.php" />
       <jump line="16" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BrandCodeBase.php" />
       <jump line="26" column="35" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BrandCodeBase.php" />
+      <jump line="9" column="55" filename="$USER_HOME$/code/api-frc-org/database/factories/FrcVendorDataArchiveFactory.php" />
+      <jump line="28" column="19" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
+      <jump line="95" column="40" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
+      <jump line="175" column="30" filename="$USER_HOME$/code/fresco32/DDL/Procedures/move_new_account_data.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text encoding="base64">LT5kZCgp</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5kZCgp</text>
+        <text>creating</text>
       </register>
       <register name="/" type="4">
-        <text>\(.*\)</text>
+        <text>e_mail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICR0aGlzLT5hc3NlcnROb3ROdWxsKCR2ZGEtPm5ld19hY2NvdW50X2xvYWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Lwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1vZGVsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KApCUkFORF9DT0RFIFZBUkNIQVIyKDMpIG5vdCBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIEJSQU5EX0NPREUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkbW9kZWwpOwo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR2ZGEtPmJyYW5kX2NvZGUpOwo=</text>
+        <text encoding="base64">KAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz4gcy9cKC4qXCkvICogQHByb3BlcnR5IHN0cmluZyBcMSAv</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\(.*\)</last-search>
+      <last-search>e_mail</last-search>
       <last-offset />
-      <last-pattern>\(.*\)</last-pattern>
+      <last-pattern>e_mail</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyBcMSA=</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
