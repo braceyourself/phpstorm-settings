@@ -9,7 +9,6 @@
         <entry>person</entry>
         <entry>address_type</entry>
         <entry>district</entry>
-        <entry>boot</entry>
         <entry>appen</entry>
         <entry encoding="base64">XDxjYW1wYWlnbl9jb2RlXD4=</entry>
         <entry>,'</entry>
@@ -25,6 +24,7 @@
         <entry>set_list_email</entry>
         <entry>new_account</entry>
         <entry>\(.*\)</entry>
+        <entry>boot</entry>
       </history-search>
       <history-cmd>
         <entry>194</entry>
@@ -151,12 +151,25 @@
         <mark key="^" line="5" column="63" />
         <mark key="." line="5" column="62" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ActengageModel.php" timestamp="1591356323650">
+        <mark key="'" line="13" column="46" />
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="23" column="50" />
+        <mark key="^" line="23" column="50" />
+        <mark key="." line="23" column="49" />
+      </file>
       <file name="$USER_HOME$/code/fresco32/DDL/Procedures/move_new_account_data.sql" timestamp="1591355096338">
         <mark key="'" line="530" column="22" />
         <mark key="[" line="227" column="33" />
         <mark key="]" line="227" column="34" />
         <mark key="." line="227" column="33" />
         <mark key="^" line="227" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" timestamp="1591356249350">
+        <mark key="'" line="36" column="39" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/database/factories/FrcVendorDataArchiveFactory.php" timestamp="1591353328516">
         <mark key="'" line="9" column="55" />
@@ -193,12 +206,12 @@
         <mark key="." line="632" column="40" />
         <mark key="^" line="632" column="41" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountLoadBase.php" timestamp="1591355740889">
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountLoadBase.php" timestamp="1591355943888">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="131" column="35" />
-        <mark key="]" line="131" column="36" />
-        <mark key="." line="131" column="35" />
-        <mark key="^" line="131" column="36" />
+        <mark key="[" line="122" column="61" />
+        <mark key="]" line="122" column="79" />
+        <mark key="." line="122" column="61" />
+        <mark key="^" line="122" column="61" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ActengageDataArchiveBase.php" timestamp="1591352222312">
         <mark key="'" line="82" column="44" />
@@ -218,14 +231,6 @@
         <mark key="]" line="24" column="18" />
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="18" />
-      </file>
-      <file name="/dummy.sql" timestamp="1591347869003">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591347869021">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/helpers.php" timestamp="1591354765332">
         <mark key="[" line="229" column="13" />
@@ -252,9 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageDataArchiveTests.php" />
-      <jump line="115" column="4" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ActengageDataArchiveBase.php" />
-      <jump line="32" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ActengageDataArchiveBase.php" />
       <jump line="530" column="49" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" />
       <jump line="127" column="24" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ActengageDataArchiveBase.php" />
       <jump line="94" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ActengageDataArchiveBase.php" />
@@ -352,50 +354,53 @@
       <jump line="91" column="7" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" />
       <jump line="530" column="22" filename="$USER_HOME$/code/fresco32/DDL/Procedures/move_new_account_data.sql" />
       <jump line="92" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountLoadBase.php" />
+      <jump line="35" column="39" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" />
+      <jump line="19" column="38" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ActengageModel.php" />
+      <jump line="12" column="46" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ActengageModel.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>BatchArrival $arrival</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29sbGVjdCgkbmEtPmdldEF0dHJpYnV0ZXMoKSktPm1hcChmbigkdiwgJGspID0+ICIkazogJHYiKS0+dmFsdWVzKCktPnRvQXJyYXkoKQ==</text>
+        <text>BatchArrival $arrival</text>
       </register>
       <register name="/" type="4">
-        <text>\(.*\)</text>
+        <text>boot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbJ2JyYW5kX2NvZGUnLCAkbW9kZWwtPmJyYW5kX2NvZGVdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0b1ZlbmRvckRhdGFBcmNoaXZlKEJhdGNoQXJyaXZhbCAkYXJyaXZhbCkKICAgIHsKICAgICAgICByZXR1cm4gVmVuZG9yRGF0YUFyY2hpdmU6OnVwZGF0ZU9yQ3JlYXRlKFsKICAgICAgICAgICAgJ2V4dGVybmFsX3VpZCcgPT4gJHRoaXMtPmlkLAogICAgICAgICAgICAnYXJyaXZhbF9ubycgPT4gJGFycml2YWwtPmFycml2YWxfbm8KICAgICAgICBdLCBbCiAgICAgICAgICAgICd2ZW5kb3JfdHJhbnNhY3Rpb25fbm8nID0+ICR0aGlzLT50cmFuc2lkID8/ICR0aGlzLT5pZCwKICAgICAgICAgICAgJ2xvYWRfZGF0ZScgPT4gdG9kYXkoKSwKICAgICAgICAgICAgJ2dpZnRfYW1vdW50JyA9PiAkdGhpcy0+Z2lmdF9hbW91bnQsCiAgICAgICAgICAgICdmaXJzdF9uYW1lJyA9PiAkdGhpcy0+Zmlyc3QsCiAgICAgICAgICAgICdsYXN0X25hbWUnID0+ICR0aGlzLT5sYXN0LAogICAgICAgICAgICAnYWRkcl8xJyA9PiAkdGhpcy0+c3RyZWV0LAogICAgICAgICAgICAnY2l0eScgPT4gJHRoaXMtPmNpdHksCiAgICAgICAgICAgICdzdGF0ZScgPT4gJHRoaXMtPnN0YXRlLAogICAgICAgICAgICAnemlwJyA9PiAkdGhpcy0+emlwLAogICAgICAgICAgICAnZW1haWxfYWRkcicgPT4gJHRoaXMtPmVtYWlsLAogICAgICAgICAgICAnc291cmNlJyA9PiAkdGhpcy0+c291cmNlLAogICAgICAgICAgICAncGFnZScgPT4gJHRoaXMtPnBhZ2UsCiAgICAgICAgICAgICdpcF9hZGRyZXNzJyA9PiAkdGhpcy0+aXAsCiAgICAgICAgICAgICdnYXRld2F5JyA9PiAkdGhpcy0+Z2F0ZXdheSwKICAgICAgICAgICAgJ21ldGhvZCcgPT4gJHRoaXMtPm1ldGhvZCwKICAgICAgICBdKTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuLi5jb2xsZWN0KCRuYS0+Z2V0QXR0cmlidXRlcygpKS0+bWFwKGZuKCR2LCAkaykgPT4gIiRrOiAkdiIpLT52YWx1ZXMoKS0+dG9BcnJheSgpCg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgZnVuY3Rpb24gYm9vdCgpCiAgICB7CiAgICAgICAgcGFyZW50Ojpib290KCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCgogICAgICAgIHN0YXRpYzo6Y3JlYXRlZChmdW5jdGlvbihBY3F1aXNpdGlvbiAkbW9kZWwpewogICAgICAgICAgICAKICAgICAgICB9KTsKICAgICAgICAKICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgIC4uLmNvbGxlY3QoJG1vZGVsLT5nZXRBdHRyaWJ1dGVzKCkpLT5tYXAoZm4oJHYsICRrKSA9PiAiJGs6ICR2IiktPnZhbHVlcygpLT50b0FycmF5KCksCiAgICAgICAgICAgICAgICAgICAgLi4uY29sbGVjdCgkbmEtPmdldEF0dHJpYnV0ZXMoKSktPm1hcChmbigkdiwgJGspID0+ICIkazogJHYiKS0+dmFsdWVzKCktPnRvQXJyYXkoKQogICAgICAgICAgICAgICAgXQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsaW5lcycgPT4gWwogICAgICAgICAgICAgICAgICAgIC4uLmNvbGxlY3QoJG1vZGVsLT5nZXRBdHRyaWJ1dGVzKCkpLT5tYXAoZm4oJHYsICRrKSA9PiAiJGs6ICR2IiktPnZhbHVlcygpLT50b0FycmF5KCksCiAgICAgICAgICAgICAgICAgICAgLi4uY29sbGVjdCgkbmEtPmdldEF0dHJpYnV0ZXMoKSktPm1hcChmbigkdiwgJGspID0+ICIkazogJHYiKS0+dmFsdWVzKCktPnRvQXJyYXkoKQogICAgICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuLi5jb2xsZWN0KCRuYS0+Z2V0QXR0cmlidXRlcygpKS0+bWFwKGZuKCR2LCAkaykgPT4gIiRrOiAkdiIpLT52YWx1ZXMoKS0+dG9BcnJheSgpCg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgICAgIC4uLmNvbGxlY3QoJG1vZGVsLT5nZXRBdHRyaWJ1dGVzKCkpLT5tYXAoZm4oJHYsICRrKSA9PiAiJGs6ICR2IiktPnZhbHVlcygpLT50b0FycmF5KCksCiAgICAgICAgICAgICAgICAgICAgLi4uY29sbGVjdCgkbmEtPmdldEF0dHJpYnV0ZXMoKSktPm1hcChmbigkdiwgJGspID0+ICIkazogJHYiKS0+dmFsdWVzKCktPnRvQXJyYXkoKQogICAgICAgICAgICAgICAgXQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdsaW5lcycgPT4gWwogICAgICAgICAgICAgICAgICAgIC4uLmNvbGxlY3QoJG1vZGVsLT5nZXRBdHRyaWJ1dGVzKCkpLT5tYXAoZm4oJHYsICRrKSA9PiAiJGs6ICR2IiktPnZhbHVlcygpLT50b0FycmF5KCksCiAgICAgICAgICAgICAgICAgICAgLi4uY29sbGVjdCgkbmEtPmdldEF0dHJpYnV0ZXMoKSktPm1hcChmbigkdiwgJGspID0+ICIkazogJHYiKS0+dmFsdWVzKCktPnRvQXJyYXkoKQogICAgICAgICAgICAgICAgXQo=</text>
+      </register>
+      <register name="7" type="4">
         <text>[
                     [],
                 ]</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbXSwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5hID0gTmV3QWNjb3VudEJhc2U6OmNvbm5lY3Rpb24oJG1vZGVsLT5nZXRDb25uZWN0aW9uTmFtZSgpKQogICAgICAgICAgICAgICAgLT53aGVyZShbCiAgICAgICAgICAgICAgICAgICAgWydleHRlcm5hbF91aWQnLCAkbW9kZWwtPmV4dGVybmFsX3VpZF0sCiAgICAgICAgICAgICAgICAgICAgWydsb3dlcihlbWFpbF9hZGRyKScsIHN0cnRvbG93ZXIoJG1vZGVsLT5lbWFpbF9hZGRyKV0sCiAgICAgICAgICAgICAgICBdKQogICAgICAgICAgICAgICAgLT53aGVyZURhdGUoJ2xvYWRfZGF0ZScsIHRvZGF5KCkpCiAgICAgICAgICAgICAgICAtPmZpcnN0KCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbJ2xvd2VyKGVtYWlsX2FkZHIpJywgc3RydG9sb3dlcigkbW9kZWwtPmVtYWlsX2FkZHIpXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4gcy9cKC4qXCkvICogQHByb3BlcnR5IHN0cmluZyBcMSAv</text>
@@ -404,9 +409,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\(.*\)</last-search>
+      <last-search>boot</last-search>
       <last-offset />
-      <last-pattern>\(.*\)</last-pattern>
+      <last-pattern>boot</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyBcMSA=</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
