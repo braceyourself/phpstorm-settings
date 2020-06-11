@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>relation</entry>
-        <entry>rela</entry>
-        <entry encoding="base64">XDxuZXdfYWNjb3VudFw+</entry>
-        <entry>dispatch</entry>
         <entry>chained</entry>
         <entry encoding="base64">LT5kaXNwYXRjaA==</entry>
         <entry>Acquisition::</entry>
@@ -25,9 +21,12 @@
         <entry>process_vendor_em</entry>
         <entry>vendor</entry>
         <entry>tovend</entry>
+        <entry>batch_arrival_can_batch</entry>
+        <entry encoding="base64">XDxiYXRjaF9jb3VudFw+</entry>
+        <entry>\(.*\)</entry>
+        <entry>const</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4gcy9cKC4qXClccy4qLyAqIEBwcm9wZXJ0eSBzdHJpbmcgXDEgLw==</entry>
         <entry encoding="base64">JzwsJz4gcy9cU1lTXC5EQkFfU0NIRURVTEVSX0pPQlNcLiguKlwpXHMuKi8gKiBAcHJvcGVydHkgc3RyaW5nIFwxIC8=</entry>
         <entry encoding="base64">JzwsJz4gcy9cU1lTXC5EQkFfU0NIRURVTEVSX0pPQlNcLiguKlwpLyAqIEBwcm9wZXJ0eSBzdHJpbmcgXDEgLw==</entry>
         <entry encoding="base64">JzwsJz4gcy9KT0JTXC4oLipcKS8gKiBAcHJvcGVydHkgc3RyaW5nIFwxIC8=</entry>
@@ -42,11 +41,12 @@
         <entry>m .-2</entry>
         <entry>156</entry>
         <entry>6849</entry>
-        <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvICogQHByb3BlcnR5IHN0cmluZyBcMSAv</entry>
         <entry>redo</entry>
         <entry>wq</entry>
         <entry>q</entry>
         <entry>82</entry>
+        <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvICogQHByb3BlcnR5IHN0cmluZyBcMSAv</entry>
+        <entry>86</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,22 +134,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/Models/Actengage/EmailSubscriptionOptoutFactory.php" timestamp="1591891282988">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" timestamp="1591895553509">
+        <mark key="'" line="97" column="22" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
+        <mark key="^" line="205" column="32" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/Models/Actengage/ItemDownloadFactory.php" timestamp="1591891268630">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchBase.php" timestamp="1591895898869">
+        <mark key="'" line="52" column="11" />
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="32" />
+        <mark key="." line="46" column="31" />
+        <mark key="^" line="46" column="32" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorEmailArchiveBase.php" timestamp="1591891186901">
-        <mark key="'" line="56" column="49" />
-        <mark key="[" line="56" column="56" />
-        <mark key="]" line="56" column="59" />
-        <mark key="." line="56" column="58" />
-        <mark key="^" line="56" column="59" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageDataArchiveTests.php" timestamp="1591895999242">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ActengageModel.php" timestamp="1591893959641">
         <mark key="'" line="111" column="23" />
@@ -157,11 +159,6 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="68" column="62" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/Models/Actengage/HtmlEmailLogFactory.php" timestamp="1591891273872">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" timestamp="1591891934528">
         <mark key="'" line="10" column="43" />
@@ -191,11 +188,8 @@
         <mark key="." line="111" column="0" />
         <mark key="^" line="110" column="33" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/Models/Actengage/SmtpErrorDetailFactory.php" timestamp="1591891261328">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="35" />
-        <mark key="^" line="11" column="12" />
-        <mark key="." line="11" column="11" />
+      <file name="/FRC.GIFT" timestamp="1591895727869">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" timestamp="1591894081244">
         <mark key="'" line="344" column="58" />
@@ -204,18 +198,17 @@
         <mark key="." line="348" column="41" />
         <mark key="^" line="348" column="42" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/ApiVendorDataQueryBuilderTests.php" timestamp="1591896080934">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/SmtpErrorDetail.php" timestamp="1591894005338">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="58" column="40" />
         <mark key="]" line="58" column="40" />
         <mark key="." line="58" column="40" />
         <mark key="^" line="58" column="66" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/Models/Actengage/CampaignItemFactory.php" timestamp="1591891284881">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="35" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="13" column="46" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/CampaignItem.php" timestamp="1591893968124">
         <mark key="'" line="28" column="0" />
@@ -230,6 +223,11 @@
         <mark key="." line="4827" column="68" />
         <mark key="^" line="4827" column="97" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ActengageDataArchiveBase.php" timestamp="1591895241244">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ItemDownload.php" timestamp="1591893996022">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="51" column="40" />
@@ -237,36 +235,20 @@
         <mark key="^" line="51" column="40" />
         <mark key="." line="51" column="39" />
       </file>
+      <file name="/GIFT [DEV FRC Action]" timestamp="1591895727858">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.sql" timestamp="1591893222160">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591891447276">
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Mds/MdsDataImportTests.php" timestamp="1591896114069">
+        <mark key="'" line="76" column="19" />
+      </file>
+      <file name="/foo.bar" timestamp="1591895727876">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/smtp_email_mgmt.sql" timestamp="1591890354497">
-        <mark key="'" line="111" column="14" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/VendorDataArchiveBase.php" timestamp="1591890572950">
-        <mark key="'" line="90" column="15" />
-        <mark key="[" line="136" column="70" />
-        <mark key="]" line="136" column="70" />
-        <mark key="." line="136" column="69" />
-        <mark key="^" line="136" column="70" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="61" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="16" column="1" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="43" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8cac327e-5320-40f4-99cf-2e44c2cff177/console.sql" />
-      <jump line="115" column="7" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="28" column="3" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="34" column="19" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
-      <jump line="10" column="37" filename="$USER_HOME$/code/api-frc-org/database/factories/Models/Actengage/AcquisitionFactory.php" />
-      <jump line="1" column="56" filename="$USER_HOME$/code/api-frc-org/app/FrcAction/Appeal.php" />
-      <jump line="4061" column="33" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4095" column="12" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4109" column="16" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4133" column="20" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="4227" column="20" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="4242" column="18" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="4484" column="22" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
@@ -355,59 +337,71 @@
       <jump line="1" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ItemDownload.php" />
       <jump line="1" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/SmtpErrorDetail.php" />
       <jump line="109" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ActengageModel.php" />
+      <jump line="198" column="28" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ActengageDataArchiveBase.php" />
+      <jump line="160" column="0" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageDataArchiveTests.php" />
+      <jump line="154" column="38" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageDataArchiveTests.php" />
+      <jump line="155" column="36" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageDataArchiveTests.php" />
+      <jump line="97" column="22" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" />
+      <jump line="148" column="52" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageDataArchiveTests.php" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchBase.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchBase.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchBase.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchBase.php" />
+      <jump line="51" column="11" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchBase.php" />
+      <jump line="76" column="19" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Mds/MdsDataImportTests.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>;</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBkdW1wKCRjb2x1bW5zKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">cGFyZW50LT4=</text>
       </register>
       <register name="/" type="4">
-        <text>tovend</text>
+        <text>const</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2Fycml2YWxfbm8nID0+ICR0aGlzLT5hcnJpdmFsX25vCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCRjb2x1bW5zKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>public function toVendorDataArchive(BatchArrivalBase $arriv</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLyAvLyBCYXRjaEFycml2YWwgbW92ZXMgdmVuZG9yIGRhdGEgdG8gbmV3X2FjY291bnRzCiAgICBwdWJsaWMgZnVuY3Rpb24gYmF0Y2hfYXJyaXZhbF9jYW5fYmF0Y2hfbmV3X2FjY291bnRfcmVjb3JkcygpCiAgICB7CiAgICAgICAgJG1vZGVscyA9IGZhY3RvcnkoQWNxdWlzaXRpb246OmNsYXNzLCAyKS0+Y3JlYXRlKCk7CgogICAgICAgIC8qKiBAdmFyIEJhdGNoQXJyaXZhbEJhc2UgJGFycml2YWwgKi8KICAgICAgICAkYXJyaXZhbCA9ICRtb2RlbHMtPmZpcnN0KCktPmFycml2YWw7CgogICAgICAgICR0aGlzLT5hc3NlcnRUcnVlKCRhcnJpdmFsLT5pc1VuYmF0Y2hlZCgpKTsKCgogICAgICAgIGZvcmVhY2ggKCRtb2RlbHMgYXMgJG1vZGVsKSB7CiAgICAgICAgICAgIC8qKiBAdmFyIEFjcXVpc2l0aW9uICRtb2RlbCAqLwogICAgICAgICAgICAkdGhpcy0+YXNzZXJ0RmFsc2UoJG1vZGVsLT52ZW5kb3JfZGF0YV9hcmNoaXZlLT5jYW5Qcm9jZXNzR2lmdERhdGEoKSk7CiAgICAgICAgICAgICR0aGlzLT5hc3NlcnRUcnVlKCRtb2RlbC0+dmVuZG9yX2RhdGFfYXJjaGl2ZS0+Y2FuUHJvY2Vzc0NhbXBhaWduRGF0YSgpKTsKICAgICAgICB9CgogICAgICAgICRhcnJpdmFsLT5wcm9jZXNzQmF0Y2hBcnJpdmFsRGF0YSgpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBCYXRjaEFycml2YWwgJGFycml2YWwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBCYXRjaEFycml2YWw6OndoZXJlQnJhbmRDb2RlKCdBQ1QnKS0+Z2V0KCktPmVhY2goZnVuY3Rpb24oJGFycml2YWwpewogICAgICAgICAgICAkYXJyaXZhbC0+YmF0Y2hlcy0+ZWFjaChmdW5jdGlvbihCYXRjaEJhc2UgJGJhdGNoKXsKICAgICAgICAgICAgICAgICRiYXRjaC0+Z2lmdHMtPmVhY2gtPmRlbGV0ZSgpOwogICAgICAgICAgICAgICAgJGJhdGNoLT5kZWxldGUoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICRhcnJpdmFsLT5kZWxldGUoKTsKICAgICAgICB9KTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcnJpdmFsID0gQmF0Y2hBcnJpdmFsOjpmaXJzdE9yQ3JlYXRlKFsKICAgICAgICAgICAgICAgICAgICAnYXJyaXZhbF9kZXNjJyA9PiAnQWN0aXZlRW5nYWdlbWVudCBHaXZlV29ya3MgRGF0YSAnIC4geWVzdGVyZGF5KCktPmZvcm1hdCgnZC1NLXknKSwKICAgICAgICAgICAgICAgICAgICAnYXJyaXZhbF9kYXRlJyA9PiBnZXRfbmV4dF9tYWlsX2RhdGUoKQogICAgICAgICAgICAgICAgXSwgWwogICAgICAgICAgICAgICAgICAgICdhcnJpdmFsX3BpZWNlcycgPT4gMCwKICAgICAgICAgICAgICAgICAgICAnbWFpbF9wcm9jZXNzX2RhdGUnID0+IG51bGwsCiAgICAgICAgICAgICAgICAgICAgJ29mZmljZV9jb2RlJyA9PiAnSE8nLAogICAgICAgICAgICAgICAgICAgICdicmFuZF9jb2RlJyA9PiAnQUNUJwogICAgICAgICAgICAgICAgXSk7CgogICAgICAgICAgICAgICAgJG1vZGVsLT5hcnJpdmFsX25vID0gJGFycml2YWwtPmFycml2YWxfbm87Cg==</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyBjb25zdHJhaW50IEZLX0dJRlRfUkNQVF9HUk9VUF9JRCAKICogQHByb3BlcnR5IHN0cmluZyByZWZlcmVuY2VzIFJFQ0VJUFRfR1JPVVAsIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Fycml2YWxfbm8nID0+ICR0aGlzLT5hcnJpdmFsX25vCg==</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyBjb25zdHJhaW50IEdJRlRfUExFREdFX05PX0ZLIAogKiBAcHJvcGVydHkgc3RyaW5nIHJlZmVyZW5jZXMgR0lGVF9QTEVER0UsIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJc2VsZWN0ICogZnJvbSBBTExfRVJST1JTIHdoZXJlIE9XTkVSID0gJ0ZSQyc7Cg==</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyBjb25zdHJhaW50IEdJRlRfUkNQVFlQX0ZLIAogKiBAcHJvcGVydHkgc3RyaW5nIHJlZmVyZW5jZXMgUkVDRUlQVF9UWVBFLCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkgICAgICAgICAgICdhY3Rpb25fZmxhZzogJyB8fCBlbWFpbERhdGFSZWMuIHx8IGNocigxMCkgfHwK</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyBjb25zdHJhaW50IEdJRlRfRk5EQ0RfRksgCiAqIEBwcm9wZXJ0eSBzdHJpbmcgcmVmZXJlbmNlcyBGVU5EX0NPREUsIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>82</text>
+        <text>86</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tovend</last-search>
+      <last-search>const</last-search>
       <last-offset />
-      <last-pattern>tovend</last-pattern>
+      <last-pattern>const</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyBcMSA=</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
