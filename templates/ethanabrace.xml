@@ -289,4 +289,12 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="scope" value="/**&#10; * $name$ query filter&#10; * @return Builder&#10; */&#10;public function scope$camel_name$(Builder $query $params$)&#10;{&#10;    return $query-&gt;where($END$);&#10;}&#10;" description="create laravel model scope" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="camel_name" expression="capitalize(camelCase(name))" defaultValue="" alwaysStopAt="false" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>

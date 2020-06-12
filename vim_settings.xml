@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>batch_arrival_can_batch</entry>
-        <entry encoding="base64">XDxiYXRjaF9jb3VudFw+</entry>
-        <entry>const</entry>
         <entry>fake</entry>
         <entry>it</entry>
         <entry>Role</entry>
@@ -25,6 +22,9 @@
         <entry>dates</entry>
         <entry>\(.*\)</entry>
         <entry>type(</entry>
+        <entry encoding="base64">XDxzZXRfbGlzdF9lbWFpbF9yZWNlaXBpZW50c1w+</entry>
+        <entry encoding="base64">XDxlbWFpbHNcPg==</entry>
+        <entry encoding="base64">XDxsaXN0VHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy9cU1lTXC5EQkFfU0NIRURVTEVSX0pPQlNcLiguKlwpLyAqIEBwcm9wZXJ0eSBzdHJpbmcgXDEgLw==</entry>
@@ -134,19 +134,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" timestamp="1591967817198">
-        <mark key="'" line="21" column="12" />
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="17" />
-        <mark key="^" line="22" column="18" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" timestamp="1591960596969">
-        <mark key="'" line="71" column="4" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="^" line="204" column="64" />
-        <mark key="." line="209" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" timestamp="1591970387270">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Frc/ListCode.php" timestamp="1591967415362">
         <mark key="'" line="3" column="34" />
@@ -155,11 +146,17 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="34" />
       </file>
+      <file name="$USER_HOME$/code/fresco32/DDL/Packages/list_info.sql" timestamp="1591968320353">
+        <mark key="'" line="177" column="14" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Transaction.php" timestamp="1591960800019">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="^" line="48" column="67" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="/console" timestamp="1591968196301">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListsBase.php" timestamp="1591967119449">
         <mark key="'" line="5" column="0" />
@@ -187,12 +184,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="58" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Batches/BatchArrival.php" timestamp="1591960384934">
-        <mark key="[" line="65" column="49" />
-        <mark key="]" line="65" column="53" />
-        <mark key="." line="65" column="52" />
-        <mark key="^" line="65" column="53" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Transaction.php" timestamp="1591964517063">
         <mark key="'" line="33" column="29" />
@@ -251,18 +242,14 @@
         <mark key="^" line="29" column="31" />
         <mark key="." line="29" column="30" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/ListEmailingTests.php" timestamp="1591967913608">
-        <mark key="'" line="22" column="32" />
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="40" />
-        <mark key="." line="24" column="39" />
-        <mark key="^" line="24" column="40" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/ListEmailingTests.php" timestamp="1591969961491">
+        <mark key="'" line="22" column="37" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4718" column="20" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4728" column="16" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4761" column="16" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="4911" column="16" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="5084" column="12" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="5106" column="16" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
@@ -356,52 +343,55 @@
       <jump line="69" column="25" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" />
       <jump line="29" column="21" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" />
       <jump line="70" column="25" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" />
-      <jump line="19" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" />
       <jump line="67" column="22" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" />
       <jump line="21" column="12" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" />
-      <jump line="22" column="32" filename="$USER_HOME$/code/api-frc-org/tests/Feature/ListEmailingTests.php" />
+      <jump line="177" column="14" filename="$USER_HOME$/code/fresco32/DDL/Packages/list_info.sql" />
+      <jump line="19" column="44" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" />
+      <jump line="22" column="37" filename="$USER_HOME$/code/api-frc-org/tests/Feature/ListEmailingTests.php" />
+      <jump line="23" column="27" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" />
+      <jump line="81" column="6" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>email</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogdGVzdGluZ2ogcXVlcnkgZmlsdGVyCiAgICAgKiBAcmV0dXJuIEJ1aWxkZXIKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNjb3BlVGVzdGluZ2ooQnVpbGRlciAkcXVlcnlcKQogICAgewogICAgICAgIHJldHVybiAkcXVlcnktPndoZXJlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>\\</text>
       </register>
       <register name="/" type="4">
-        <text>type(</text>
+        <text encoding="base64">XDxsaXN0VHlwZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>Carbon</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogbGlzdFR5cGUgcXVlcnkgZmlsdGVyCiAgICAgKiBAcGFyYW0gJHF1ZXJ5CiAgICAgKiBAcGFyYW0gJHR5cGUKICAgICAqIEByZXR1cm4gQnVpbGRlcgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2NvcGVMaXN0VHlwZShCdWlsZGVyICRxdWVyeSwgc3RyaW5nICR0eXBlKQogICAgewogICAgICAgIHJldHVybiAkcXVlcnktPndoZXJlKCdsaXN0X3R5cGUnLCBzdHJ0b3VwcGVyKCR0eXBlKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbGlzdF9jb2RlKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogdGVzdGluZ2ogcXVlcnkgZmlsdGVyCiAgICAgKiBAcmV0dXJuIEJ1aWxkZXIKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNjb3BlVGVzdGluZ2ooQnVpbGRlciAkcXVlcnlcKQogICAgewogICAgICAgIHJldHVybiAkcXVlcnktPndoZXJlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHF1ZXJ5LT53aGVyZSgnbGlzdF90eXBlJywgJ0VNQUlMX05PVElDRScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWM6Omxpc3RUeXBlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgICAgICogIHF1ZXJ5IGZpbHRlcgogICAgICAgICAgICAgKiBAcmV0dXJuIEJ1aWxkZXIKICAgICAgICAgICAgICovCiAgICAgICAgICAgIHB1YmxpYyBmdW5jdGlvbiBzY29wZShCdWlsZGVyICRxdWVyeSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuICRxdWVyeS0+d2hlcmUoKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWM6OmVtYWlsTm90aWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkdHlwZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JHRoaXMtPndoZXJlSGFzKCd0eXBlJywgZnVuY3Rpb24oJHF1ZXJ5KXsKICAgICAgICAgICAgJHF1ZXJ5LT4KICAgICAgICB9KQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkcXVlcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHNjb3BlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZChMaXN0Q29kZTo6c2VsZWN0KCdsaXN0X3R5cGUnKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQWNjZXNzb3IgZm9yIGVtYWlscwogICAgICoqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEVtYWlsc0F0dHJpYnV0ZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5saXN0X2l0ZW1zLT50cmFuc2Zvcm0oZnVuY3Rpb24gKExpc3RzQmFzZSAkbGlzdCkgewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPnBhY2thZ2UoJ2VtYWlsX2luZm8nKQogICAgICAgICAgICAgICAgLT5nZXRFbWFpbEFkZHIoJGxpc3QtPmFjY291bnRfaWQsICRsaXN0LT5lbWFpbF9zZXF1ZW5jZV9ubyk7CiAgICAgICAgfSktPmZpbHRlcigpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbGlzdF9jb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZW1haWxzOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4gcy9cKC4qXCkvICogQHByb3BlcnR5IHN0cmluZyBcMSAv</text>
@@ -410,9 +400,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>type(</last-search>
+      <last-search encoding="base64">XDxsaXN0VHlwZVw+</last-search>
       <last-offset />
-      <last-pattern>type(</last-pattern>
+      <last-pattern encoding="base64">XDxsaXN0VHlwZVw+</last-pattern>
       <last-replace encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyBcMSA=</last-replace>
       <last-substitute>\(.*\)</last-substitute>
       <last-dir>1</last-dir>
