@@ -27,9 +27,6 @@
         <entry encoding="base64">XDx2ZW5kb3JfYXJjaGl2ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4gcy9KT0JTXC4oLipcKS8gKiBAcHJvcGVydHkgc3RyaW5nIFwxIC8=</entry>
-        <entry encoding="base64">JzwsJz4gcy9KT0JTXC5cKC4qXCkvICogQHByb3BlcnR5IHN0cmluZyBcMSAv</entry>
-        <entry>81</entry>
         <entry encoding="base64">JzwsJz4gcy9cZnJjXC5uZXdfYWNjb3VudF9sb2FkXC4oLipcKS8gJ1wxJyA9PiBudWxsLCAv</entry>
         <entry encoding="base64">JzwsJz4gcy9mcmNcLm5ld19hY2NvdW50X2xvYWRcLiguKlwpLyAnXDEnID0+IG51bGwsIC8=</entry>
         <entry encoding="base64">JzwsJz4gcy9mcmNcLm5ld19hY2NvdW50X2xvYWRcLlwoLipcKS8gJ1wxJyA9PiBudWxsLCAv</entry>
@@ -46,6 +43,9 @@
         <entry>redo</entry>
         <entry>275</entry>
         <entry>wq</entry>
+        <entry>160</entry>
+        <entry>159</entry>
+        <entry>170</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
@@ -147,12 +147,6 @@
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ApiVendorData.php" timestamp="1591977697318">
         <mark key="'" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/resources/views/email/notifications/eft-import.blade.php" timestamp="1591971526111">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="12" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" timestamp="1591973006562">
         <mark key="'" line="90" column="21" />
         <mark key="[" line="85" column="58" />
@@ -175,17 +169,19 @@
         <mark key="." line="38" column="55" />
         <mark key="^" line="38" column="56" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" timestamp="1592229403412">
-        <mark key="[" line="68" column="36" />
-        <mark key="]" line="68" column="44" />
-        <mark key="." line="68" column="36" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" timestamp="1592231640500">
+        <mark key="'" line="227" column="26" />
+        <mark key="[" line="185" column="76" />
+        <mark key="]" line="185" column="76" />
+        <mark key="." line="185" column="75" />
+        <mark key="^" line="185" column="76" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" timestamp="1592228533974">
-        <mark key="'" line="31" column="31" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="175" column="4" />
-        <mark key="." line="175" column="3" />
-        <mark key="^" line="175" column="4" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" timestamp="1592230446788">
+        <mark key="'" line="159" column="24" />
+        <mark key="[" line="169" column="29" />
+        <mark key="]" line="169" column="44" />
+        <mark key="." line="169" column="43" />
+        <mark key="^" line="169" column="44" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php" timestamp="1591977095994">
         <mark key="[" line="1032" column="0" />
@@ -200,7 +196,7 @@
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Cornerstone/ImportEftData.php" timestamp="1591976313698">
         <mark key="[" line="82" column="28" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ActengageModel.php" timestamp="1591974391730">
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ActengageModel.php" timestamp="1592230332501">
         <mark key="'" line="77" column="25" />
         <mark key="[" line="82" column="12" />
         <mark key="]" line="82" column="12" />
@@ -240,6 +236,12 @@
         <mark key="." line="44" column="52" />
         <mark key="^" line="44" column="53" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/HtmlEmailLog.php" timestamp="1592230061869">
+        <mark key="[" line="79" column="15" />
+        <mark key="]" line="79" column="15" />
+        <mark key="." line="79" column="15" />
+        <mark key="^" line="77" column="23" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/FrcAction/VendorDataArchive.php" timestamp="1591974100353">
         <mark key="'" line="3" column="78" />
         <mark key="[" line="3" column="79" />
@@ -249,14 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="54" filename="$USER_HOME$/code/api-frc-org/app/Frc/Staff.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/StaffBase.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/StaffBase.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/StaffBase.php" />
-      <jump line="18" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/StaffBase.php" />
-      <jump line="11" column="38" filename="$USER_HOME$/code/api-frc-org/tests/Feature/ListEmailingTests.php" />
-      <jump line="38" column="16" filename="$USER_HOME$/code/api-frc-org/tests/TestCase.php" />
-      <jump line="141" column="20" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithDatabase.php" />
       <jump line="3" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListsBase.php" />
       <jump line="5" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" />
       <jump line="38" column="24" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" />
@@ -349,17 +343,23 @@
       <jump line="94" column="20" filename="$USER_HOME$/code/api-frc-org/app/ApiVendorData.php" />
       <jump line="100" column="67" filename="$USER_HOME$/code/api-frc-org/app/ApiVendorData.php" />
       <jump line="105" column="23" filename="$USER_HOME$/code/api-frc-org/app/ApiVendorData.php" />
+      <jump line="154" column="29" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="159" column="24" filename="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" />
+      <jump line="177" column="21" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="212" column="26" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="179" column="20" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="220" column="23" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="197" column="24" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="219" column="26" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>(function (ActengageModel $item) {
-                                $item;
-                        })</text>
+        <text encoding="base64">IkVycm9yIGltcG9ydGluZyBkYXRhIiwgWwogICAgICAgICAgICAgICAgICAgICdtZXNzYWdlJyA9PiAkZS0+Z2V0TWVzc2FnZSgpLAogICAgICAgICAgICAgICAgICAgICdsaW5lJyA9PiAkZS0+Z2V0RmlsZSgpIC4gJzonIC4gJGUtPmdldExpbmUoKQogICAgICAgICAgICAgICAgXSwgJGUtPmdldFRyYWNlKCk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5zYXZlKCk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2ZW5kb3JfYXJjaGl2ZVw+</text>
@@ -368,33 +368,31 @@
         <text encoding="base64">ICogQHByb3BlcnR5IG1peGVkIHZlbmRvcl9hcmNoaXZlCg==</text>
       </register>
       <register name="1" type="4">
-        <text>(function (ActengageModel $item) {
-                                $item;
-                        })</text>
+        <text encoding="base64">IkVycm9yIGltcG9ydGluZyBkYXRhIiwgWwogICAgICAgICAgICAgICAgICAgICdtZXNzYWdlJyA9PiAkZS0+Z2V0TWVzc2FnZSgpLAogICAgICAgICAgICAgICAgICAgICdsaW5lJyA9PiAkZS0+Z2V0RmlsZSgpIC4gJzonIC4gJGUtPmdldExpbmUoKQogICAgICAgICAgICAgICAgXSwgJGUtPmdldFRyYWNlKCk=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlcnJvcigiRXJyb3Igc2F2aW5nIHVuYmF0Y2hlZCBBRSBpdGVtIiwgWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZXhjZXB0aW9uJyA9PiAkZS0+Z2V0TWVzc2FnZSgpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbGluZScgPT4gJGUtPmdldEZpbGUoKS4nOicuJGUtPmdldExpbmUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2l0ZW0nID0+ICRpdGVtLT50b0FycmF5KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKFxFeGNlcHRpb24gJGUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkWgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRpdGVtLT5zYXZlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGpvYigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmVuZG9yX2FyY2hpdmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGR1bXAoInNhdmluZyAiLmNsYXNzX2Jhc2VuYW1lKGdldF9jbGFzcygkaXRlbSkpLiAiICIgLiRpdGVtLT5pZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
