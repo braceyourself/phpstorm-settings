@@ -5,26 +5,26 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9jZXNzX3ZlbmRvcl9lbWFpbF9kYXRhXD4=</entry>
-        <entry>html_em</entry>
-        <entry>send;</entry>
-        <entry>\(.*\)\w.*</entry>
-        <entry>\(.*\)\s.*</entry>
-        <entry encoding="base64">LT5qb2JfY2hhaW4=</entry>
-        <entry>addJobs</entry>
-        <entry>}</entry>
-        <entry>'</entry>
-        <entry>limited</entry>
-        <entry>empty_re</entry>
-        <entry>model</entry>
-        <entry>class</entry>
-        <entry>assert</entry>
-        <entry>,</entry>
-        <entry>(:|,)</entry>
-        <entry>\(:|,\)</entry>
-        <entry>\(:\|,\)</entry>
-        <entry>[</entry>
-        <entry>:</entry>
+        <entry encoding="base64">XDxmaXJzdE5hbWVcPg==</entry>
+        <entry encoding="base64">XDxmaXJzdG5hbWVcPg==</entry>
+        <entry encoding="base64">XDxmb3JtYXR0ZWRfcHJpbWFyeV9waG9uZVw+</entry>
+        <entry encoding="base64">XDxmb3JtYXR0ZWRfc2Vjb25kYXJ5X3Bob25lXD4=</entry>
+        <entry encoding="base64">XDxpZFw+</entry>
+        <entry>created</entry>
+        <entry>\\</entry>
+        <entry>address</entry>
+        <entry>info</entry>
+        <entry>geo</entry>
+        <entry>true</entry>
+        <entry>falst</entry>
+        <entry>false</entry>
+        <entry>email</entry>
+        <entry>email.*@</entry>
+        <entry>@</entry>
+        <entry>name</entry>
+        <entry>id</entry>
+        <entry>quorum_data_load</entry>
+        <entry>quorum_</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4gcy8uKkpPQlNcLlwoLipcKS8gKiBAcHJvcGVydHkgc3RyaW5nIFwxIC8=</entry>
@@ -138,32 +138,11 @@
         <mark key="'" line="216" column="7" />
         <mark key="n" line="190" column="7" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/SupporterActionRepositoryTests.php" timestamp="1592306908122">
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="8" column="56" />
-        <mark key="." line="8" column="55" />
-        <mark key="^" line="8" column="56" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/SupporterRepositoryTests.php" timestamp="1592307057217">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="25" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php" timestamp="1592307895340">
-        <mark key="'" line="68" column="21" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumCampaignFactory.php" timestamp="1592313370546">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="4" />
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="4" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/BulkEmailRepositoryTests.php" timestamp="1592307758542">
-        <mark key="'" line="36" column="58" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumBulkEmailFactory.php" timestamp="1592313443426">
         <mark key="[" line="4" column="0" />
@@ -171,12 +150,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" timestamp="1592315455190">
-        <mark key="'" line="6" column="45" />
-        <mark key="[" line="132" column="34" />
-        <mark key="]" line="133" column="16" />
-        <mark key="." line="133" column="15" />
-        <mark key="^" line="133" column="16" />
+      <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" timestamp="1592317312363">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="73" />
+        <mark key="]" line="22" column="87" />
+        <mark key="." line="22" column="86" />
+        <mark key="^" line="22" column="87" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumSendemailRepositoryFactory.php" timestamp="1592309228267">
         <mark key="[" line="7" column="17" />
@@ -191,12 +170,21 @@
         <mark key="^" line="36" column="39" />
         <mark key="." line="36" column="38" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/StateCodeBase.php" timestamp="1592316858800">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="40" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/CampaignRepositoryTests.php" timestamp="1592308066610">
         <mark key="'" line="66" column="62" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="53" />
+      </file>
+      <file name="/FRC.STATE_CODE" timestamp="1592316748150">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumTests.php" timestamp="1592312817103">
         <mark key="[" line="36" column="0" />
@@ -216,6 +204,12 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="51" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/StateBase.php" timestamp="1592316800178">
+        <mark key="[" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" timestamp="1592317491482">
+        <mark key="'" line="29" column="109" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Quorum/BaseRepository.php" timestamp="1592310474567">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="26" column="15" />
@@ -223,18 +217,17 @@
         <mark key="^" line="26" column="23" />
         <mark key="." line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Http/Responses/ApiResponse.php" timestamp="1592307906640">
-        <mark key="'" line="48" column="32" />
-        <mark key="[" line="80" column="36" />
-        <mark key="]" line="80" column="39" />
-        <mark key="." line="80" column="38" />
-        <mark key="^" line="80" column="39" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterEndpoint.php" timestamp="1592309975731">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="7" />
+      </file>
+      <file name="/foo.bar" timestamp="1592316748158">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/STATE_CODE [Frc Action]" timestamp="1592316748134">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumSendemailFactory.php" timestamp="1592310549013">
         <mark key="[" line="7" column="17" />
@@ -249,148 +242,148 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="37" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="110" column="36" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="111" column="51" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="112" column="48" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="113" column="34" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="114" column="52" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="115" column="36" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="116" column="62" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="117" column="15" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="120" column="33" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="122" column="34" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="123" column="31" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="124" column="32" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="125" column="38" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="126" column="48" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="128" column="46" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="129" column="27" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="131" column="11" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="132" column="25" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="133" column="15" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="134" column="58" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="136" column="59" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="137" column="31" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="139" column="28" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="141" column="20" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="142" column="25" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="143" column="60" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="144" column="35" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="145" column="27" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="146" column="45" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="147" column="23" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="148" column="30" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="149" column="31" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="150" column="30" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="151" column="28" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="152" column="24" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="153" column="33" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="154" column="37" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="155" column="28" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="156" column="32" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="157" column="36" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="158" column="85" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="159" column="27" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="160" column="57" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="161" column="15" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="162" column="31" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="163" column="23" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="164" column="30" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="165" column="25" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="166" column="34" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="167" column="52" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="168" column="30" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="169" column="29" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="170" column="33" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="171" column="33" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="172" column="32" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="173" column="48" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="174" column="44" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="175" column="30" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="176" column="48" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="177" column="32" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="179" column="30" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="181" column="34" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="182" column="41" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="188" column="3" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="183" column="44" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="184" column="43" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="185" column="47" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="186" column="14" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="187" column="26" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="193" column="20" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="195" column="41" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="196" column="16" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="197" column="20" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="198" column="7" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="200" column="16" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="201" column="20" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="202" column="34" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="203" column="35" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="194" column="48" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="199" column="32" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="204" column="237" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="206" column="415" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="210" column="7" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="212" column="7" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="225" column="61" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="229" column="158" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="226" column="52" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="228" column="280" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="237" column="7" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="238" column="274" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="247" column="52" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="249" column="19" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="251" column="190" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="256" column="45" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="258" column="58" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="259" column="233" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="267" column="20" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="269" column="154" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="6" column="45" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="57" column="70" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="58" column="75" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="59" column="65" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="122" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="2" column="33" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="3" column="10" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="4" column="9" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="6" column="35" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="60" column="70" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="289" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="87" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="52" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="26" column="16" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="27" column="16" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="28" column="16" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="13" column="11" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="14" column="14" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="15" column="15" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="16" column="13" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="17" column="9" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="29" column="16" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="30" column="17" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="74" column="29" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="149" column="33" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="19" column="8" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="31" column="16" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="143" column="33" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="208" column="25" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="56" column="8" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="83" column="8" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="85" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="96" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="114" column="61" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="55" column="48" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="154" column="24" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="181" column="31" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="205" column="43" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="218" column="22" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="237" column="58" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="245" column="40" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="247" column="23" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="260" column="35" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="24" column="52" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="25" column="49" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="32" column="19" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="39" column="37" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="75" column="28" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="77" column="15" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="79" column="32" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="92" column="14" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="120" column="31" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="134" column="39" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="153" column="30" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="159" column="69" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="165" column="44" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="179" column="48" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="220" column="61" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="9" column="26" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="100" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="135" column="24" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
+      <jump line="3170" column="0" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3182" column="20" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3289" column="12" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3290" column="45" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3304" column="30" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3325" column="66" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3335" column="15" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3340" column="32" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3341" column="21" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3351" column="20" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3361" column="20" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3362" column="20" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3363" column="46" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3365" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3411" column="57" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3504" column="61" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3513" column="15" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3533" column="20" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3542" column="22" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3545" column="20" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3546" column="20" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3547" column="45" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3548" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3549" column="23" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3562" column="15" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3607" column="33" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3636" column="12" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3648" column="62" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="3656" column="16" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="12" column="47" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="21" column="41" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="22" column="42" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="24" column="45" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="29" column="109" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="+" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text>quorum_</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;_extra&quot;:[],&quot;activated&quot;:true,&quot;active&quot;:true,&quot;address&quot;:&quot;7660 Maple Rd, Buffalo, NY 14226, USA&quot;,&quot;address_geocoded&quot;:true,&quot;alert_cache&quot;:{&quot;cached_data&quot;:{&quot;tag_dict&quot;:{&quot;date_of_donation_iag0Xb&quot;:&quot;&quot;,&quot;donation_amount_Kfaomh&quot;:&quot;&quot;,&quot;former_official_xdoihj&quot;:&quot;&quot;,&quot;former_staffer_IH0NAs&quot;:&quot;&quot;,&quot;full_lobbying_list_x9FwvF&quot;:&quot;&quot;,&quot;list&quot;:[],&quot;reporting_9HubV4&quot;:&quot;&quot;,&quot;washington_update_email_subscription_bws6r0&quot;:false}},&quot;field_overrides&quot;:{&quot;tag_dict&quot;:null},&quot;override_datetime&quot;:null},&quot;alternate_address&quot;:null,&quot;archived&quot;:false,&quot;birthdate&quot;:null,&quot;bulk_email_unsubscribe_key&quot;:&quot;wfqHvoeqjMAk7PwyJWaJ&quot;,&quot;cached_limited_to_teams&quot;:null,&quot;city&quot;:&quot;Buffalo&quot;,&quot;congressional_district&quot;:&quot;\/api\/district\/1156\/&quot;,&quot;coordinates&quot;:&quot;SRID=4326;POINT (-78.79012899999999 42.9911979)&quot;,&quot;country_name&quot;:&quot;United States&quot;,&quot;county_name&quot;:&quot;Erie County&quot;,&quot;created&quot;:&quot;June 16, 2020&quot;,&quot;custom_field_history&quot;:{&quot;field_history&quot;:[{&quot;changed_fields&quot;:{&quot;activated&quot;:true,&quot;active&quot;:true,&quot;address&quot;:&quot;7660 Maple Rd, Buffalo, NY 14226, USA&quot;,&quot;address_geocoded&quot;:true,&quot;archived&quot;:false,&quot;bulk_email_unsubscribe_key&quot;:&quot;wfqHvoeqjMAk7PwyJWaJ&quot;,&quot;city&quot;:&quot;Buffalo&quot;,&quot;coordinates&quot;:&quot;SRID=4326;POINT (-78.79012899999999 42.9911979)&quot;,&quot;country_name&quot;:&quot;United States&quot;,&quot;county_name&quot;:&quot;Erie County&quot;,&quot;data_hash&quot;:&quot;-1675152001452173286&quot;,&quot;email&quot;:&quot;jmdfed@verizon.net&quot;,&quot;facebook_array&quot;:[],&quot;facebook_url_array&quot;:[],&quot;firstname&quot;:&quot;Joyce&quot;,&quot;input_address&quot;:&quot;7660 Maple Rd&quot;,&quot;instagram_array&quot;:[],&quot;is_recently_active_email_recipient&quot;:false,&quot;lastname&quot;:&quot;Davis&quot;,&quot;latitude&quot;:42.9911979,&quot;longitude&quot;:-78.790129,&quot;medium_array&quot;:[],&quot;name&quot;:&quot;Joyce Davis&quot;,&quot;postal_code&quot;:&quot;14226&quot;,&quot;region&quot;:34,&quot;should_display_in_external_logger&quot;:false,&quot;source_type&quot;:6,&quot;state_name&quot;:&quot;New York&quot;,&quot;street_address&quot;:&quot;7660 Maple Road&quot;,&quot;supporter_type&quot;:1,&quot;twitter_array&quot;:[],&quot;unsubscribed_from_bulk_emails&quot;:false,&quot;updated&quot;:&quot;2020-06-16 08:48:07.637766&quot;,&quot;valid_email&quot;:true,&quot;waiting_to_be_created_by_user&quot;:false,&quot;youtube_array&quot;:[]},&quot;timestamp&quot;:&quot;2020-06-16T12:48:07.639057+00:00&quot;,&quot;username&quot;:null},{&quot;changed_fields&quot;:{&quot;is_grassroots_supporter&quot;:true,&quot;latitude&quot;:&quot;42.9911979000&quot;,&quot;longitude&quot;:&quot;-78.7901290000&quot;,&quot;secondary_phone&quot;:&quot;3154362147&quot;,&quot;updated&quot;:&quot;2020-06-16 08:50:02.306513&quot;},&quot;timestamp&quot;:&quot;2020-06-16T12:50:02.309939+00:00&quot;,&quot;username&quot;:null}],&quot;history&quot;:[{&quot;changed_fields&quot;:{&quot;list&quot;:[],&quot;washington_update_email_subscription_bws6r0&quot;:false},&quot;timestamp&quot;:&quot;2020-06-16T12:48:07.639039+00:00&quot;,&quot;username&quot;:null}],&quot;latest_fields&quot;:{&quot;activated&quot;:true,&quot;active&quot;:true,&quot;address&quot;:&quot;7660 Maple Rd, Buffalo, NY 14226, USA&quot;,&quot;address_geocoded&quot;:true,&quot;archived&quot;:false,&quot;bulk_email_unsubscribe_key&quot;:&quot;wfqHvoeqjMAk7PwyJWaJ&quot;,&quot;city&quot;:&quot;Buffalo&quot;,&quot;coordinates&quot;:&quot;SRID=4326;POINT (-78.79012899999999 42.9911979)&quot;,&quot;country_name&quot;:&quot;United States&quot;,&quot;county_name&quot;:&quot;Erie County&quot;,&quot;data_hash&quot;:&quot;-1675152001452173286&quot;,&quot;email&quot;:&quot;jmdfed@verizon.net&quot;,&quot;facebook_array&quot;:[],&quot;facebook_url_array&quot;:[],&quot;firstname&quot;:&quot;Joyce&quot;,&quot;input_address&quot;:&quot;7660 Maple Rd&quot;,&quot;instagram_array&quot;:[],&quot;is_grassroots_supporter&quot;:true,&quot;is_recently_active_email_recipient&quot;:false,&quot;lastname&quot;:&quot;Davis&quot;,&quot;latitude&quot;:&quot;42.9911979000&quot;,&quot;longitude&quot;:&quot;-78.7901290000&quot;,&quot;medium_array&quot;:[],&quot;name&quot;:&quot;Joyce Davis&quot;,&quot;postal_code&quot;:&quot;14226&quot;,&quot;region&quot;:34,&quot;secondary_phone&quot;:&quot;3154362147&quot;,&quot;should_display_in_external_logger&quot;:false,&quot;source_type&quot;:6,&quot;state_name&quot;:&quot;New York&quot;,&quot;street_address&quot;:&quot;7660 Maple Road&quot;,&quot;supporter_type&quot;:1,&quot;twitter_array&quot;:[],&quot;unsubscribed_from_bulk_emails&quot;:false,&quot;updated&quot;:&quot;2020-06-16 08:50:02.306513&quot;,&quot;valid_email&quot;:true,&quot;waiting_to_be_created_by_user&quot;:false,&quot;youtube_array&quot;:[]},&quot;latest_tag_dict&quot;:{&quot;date_of_donation_iag0Xb&quot;:&quot;&quot;,&quot;donation_amount_Kfaomh&quot;:&quot;&quot;,&quot;former_official_xdoihj&quot;:&quot;&quot;,&quot;former_staffer_IH0NAs&quot;:&quot;&quot;,&quot;full_lobbying_list_x9FwvF&quot;:&quot;&quot;,&quot;list&quot;:[],&quot;reporting_9HubV4&quot;:&quot;&quot;,&quot;washington_update_email_subscription_bws6r0&quot;:false}},&quot;data_hash&quot;:&quot;-1675152001452173286&quot;,&quot;date_unsubscribed_from_bulk_emails&quot;:null,&quot;date_unsubscribed_from_texting&quot;:null,&quot;email&quot;:&quot;jmdfed@verizon.net&quot;,&quot;extension&quot;:null,&quot;facebook_array&quot;:[],&quot;facebook_url_array&quot;:[],&quot;fb_id&quot;:null,&quot;firstname&quot;:&quot;Joyce&quot;,&quot;formatted_primary_phone&quot;:null,&quot;formatted_secondary_phone&quot;:&quot;(315) 436-2147&quot;,&quot;http_referer&quot;:&quot;&quot;,&quot;icon&quot;:&quot;fa-child&quot;,&quot;id&quot;:17837507,&quot;image_url&quot;:null,&quot;input_address&quot;:&quot;7660 Maple Rd&quot;,&quot;instagram_array&quot;:[],&quot;is_grassroots_supporter&quot;:true,&quot;is_recently_active_email_recipient&quot;:false,&quot;is_stakeholder_supporter&quot;:null,&quot;last_user&quot;:null,&quot;lastname&quot;:&quot;Davis&quot;,&quot;latitude&quot;:&quot;42.9911979000&quot;,&quot;longitude&quot;:&quot;-78.7901290000&quot;,&quot;medium_array&quot;:[],&quot;middlename&quot;:&quot;&quot;,&quot;name&quot;:&quot;Joyce Davis&quot;,&quot;phone_number&quot;:null,&quot;postal_code&quot;:&quot;14226&quot;,&quot;postal_code_ext&quot;:null,&quot;preferred_name&quot;:null,&quot;prefix&quot;:null,&quot;public_organization&quot;:null,&quot;public_organization_name&quot;:null,&quot;region&quot;:&quot;new_york&quot;,&quot;registered_with_text_keyword&quot;:&quot;&quot;,&quot;resource_uri&quot;:&quot;\/api\/supporter\/17837507\/&quot;,&quot;secondary_email&quot;:null,&quot;secondary_extension&quot;:null,&quot;secondary_phone&quot;:&quot;3154362147&quot;,&quot;should_display_in_external_logger&quot;:false,&quot;source_type&quot;:&quot;direct_link&quot;,&quot;state&quot;:&quot;\/api\/state\/33\/&quot;,&quot;state_abbreviation&quot;:&quot;NY&quot;,&quot;state_name&quot;:&quot;New York&quot;,&quot;street_address&quot;:&quot;7660 Maple Road&quot;,&quot;street_address_2&quot;:&quot;&quot;,&quot;stripe_customer_id&quot;:&quot;&quot;,&quot;suffix&quot;:null,&quot;supporter_type&quot;:&quot;supporter&quot;,&quot;tag_dict&quot;:{&quot;date_of_donation_iag0Xb&quot;:&quot;&quot;,&quot;donation_amount_Kfaomh&quot;:&quot;&quot;,&quot;former_official_xdoihj&quot;:&quot;&quot;,&quot;former_staffer_IH0NAs&quot;:&quot;&quot;,&quot;full_lobbying_list_x9FwvF&quot;:&quot;&quot;,&quot;list&quot;:[],&quot;reporting_9HubV4&quot;:&quot;&quot;,&quot;washington_update_email_subscription_bws6r0&quot;:false},&quot;title&quot;:&quot;&quot;,&quot;twitter_array&quot;:[],&quot;unique_identifier&quot;:null,&quot;unsubscribed_from_bulk_emails&quot;:false,&quot;unsubscribed_from_texting&quot;:null,&quot;updated&quot;:&quot;June 16, 2020&quot;,&quot;user&quot;:&quot;\/api\/user\/17744784\/&quot;,&quot;utm_campaign&quot;:null,&quot;utm_content&quot;:null,&quot;utm_medium&quot;:null,&quot;utm_source&quot;:null,&quot;utm_term&quot;:null,&quot;valid_email&quot;:true,&quot;waiting_to_be_created_by_user&quot;:false,&quot;website&quot;:null,&quot;youtube_array&quot;:[]</text>
+        <text encoding="base64">JGZha2VyLT5ib29sZWFu</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAibGFzdF91c2VyIiAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gbnVsbCwK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">JGZha2VyLT5yYW5kb21FbGVtZW50KFsKICAgICAgICAgICAgJycsCiAgICAgICAgICAgICRmYWtlci0+aHR0cFJlZmZlcmVyKCkKICAgICAgICBdKQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAiZGF0ZV9vZl9kb25hdGlvbl9pYWcwWGIiOiIiLCJkb25hdGlvbl9hbW91bnRfS2Zhb21oIjoiIiwiZm9ybWVyX29mZmljaWFsX3hkb2loaiI6IiIsImZvcm1lcl9zdGFmZmVyX0lIME5BcyI6IiIsImZ1bGxfbG9iYnlpbmdfbGlzdF94OUZ3dkYiOiIiLCJsaXN0IjpbXSwicmVwb3J0aW5nXzlIdWJWNCI6IiIsIndhc2hpbmd0b25fdXBkYXRlX2VtYWlsX3N1YnNjcmlwdGlvbl9id3M2cjAiOmZhbHNl</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICRlbWFpbCA9ICRmYWtlci0+ZW1haWw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAibGlzdCI6W10sIndhc2hpbmd0b25fdXBkYXRlX2VtYWlsX3N1YnNjcmlwdGlvbl9id3M2cjAiOmZhbHNl</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAiaXNfZ3Jhc3Nyb290c19zdXBwb3J0ZXIiOnRydWUsImxhdGl0dWRlIjoiNDIuOTkxMTk3OTAwMCIsImxvbmdpdHVkZSI6Ii03OC43OTAxMjkwMDAwIiwic2Vjb25kYXJ5X3Bob25lIjoiMzE1NDM2MjE0NyIsInVwZGF0ZWQiOiIyMDIwLTA2LTE2IDA4OjUwOjAyLjMwNjUxMyI=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAic291cmNlX3R5cGUiICAgICAgICAgICAgICAgICAgICAgICAgPT4gImRpcmVjdF9saW5rIiwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAic3RyaXBlX2N1c3RvbWVyX2lkIiAgICAgICAgICAgICAgICAgPT4gIiIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
@@ -399,9 +392,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>:</last-search>
+      <last-search>quorum_</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
+      <last-pattern>quorum_</last-pattern>
       <last-replace encoding="base64">VGV4dDo6bWFrZSgnXDEnKSwg</last-replace>
       <last-substitute>\(.*\)\s.*</last-substitute>
       <last-dir>1</last-dir>
