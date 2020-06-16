@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaXJzdE5hbWVcPg==</entry>
         <entry encoding="base64">XDxmaXJzdG5hbWVcPg==</entry>
         <entry encoding="base64">XDxmb3JtYXR0ZWRfcHJpbWFyeV9waG9uZVw+</entry>
         <entry encoding="base64">XDxmb3JtYXR0ZWRfc2Vjb25kYXJ5X3Bob25lXD4=</entry>
@@ -25,10 +24,9 @@
         <entry>id</entry>
         <entry>quorum_data_load</entry>
         <entry>quorum_</entry>
+        <entry>:</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4gcy8uKkpPQlNcLlwoLipcKS8gKiBAcHJvcGVydHkgc3RyaW5nIFwxIC8=</entry>
-        <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvICdcMScgPT4gbnVsbCwgLw==</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXClccy4qLydcMScgPT4gbnVsbCwgLw==</entry>
         <entry>156</entry>
         <entry>6849</entry>
@@ -47,6 +45,8 @@
         <entry>q</entry>
         <entry>m .+1</entry>
         <entry>m .-2</entry>
+        <entry encoding="base64">JzwsJz4gLywiLyxcbiIv</entry>
+        <entry encoding="base64">JzwsJz4gcy86Lz0+Lw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -138,11 +138,12 @@
         <mark key="'" line="216" column="7" />
         <mark key="n" line="190" column="7" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumCampaignFactory.php" timestamp="1592313370546">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="4" />
+      <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumCampaignFactory.php" timestamp="1592327193823">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumBulkEmailFactory.php" timestamp="1592313443426">
         <mark key="[" line="4" column="0" />
@@ -191,11 +192,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumDataImportTests.php" timestamp="1592326198429">
-        <mark key="'" line="50" column="20" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumDataImportTests.php" timestamp="1592327013789">
+        <mark key="'" line="51" column="20" />
         <mark key="[" line="28" column="53" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="24" />
+        <mark key="^" line="29" column="25" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterActionFactory.php" timestamp="1592310538867">
         <mark key="[" line="7" column="17" />
@@ -241,11 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="65" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="122" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="2" column="33" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="3" column="10" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="4" column="9" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
       <jump line="6" column="35" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
       <jump line="60" column="70" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
       <jump line="289" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
@@ -341,61 +338,66 @@
       <jump line="29" column="109" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
       <jump line="28" column="66" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumDataImportTests.php" />
       <jump line="47" column="20" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumDataImportTests.php" />
+      <jump line="9" column="3357" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumCampaignFactory.php" />
+      <jump line="15" column="4" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumCampaignFactory.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumCampaignFactory.php" />
+      <jump line="16" column="48" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumCampaignFactory.php" />
+      <jump line="17" column="8" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumCampaignFactory.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JG1vZGVsID0gJGNsYXNzOjppbml0KCktPmdldE1vZGVsQ2xhc3MoKQ==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>quorum_</text>
+        <text>:</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JGZha2VyLT5ib29sZWFu</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1vZGVsKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAibGFzdF91c2VyIiAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gbnVsbCwK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">JGZha2VyLT5yYW5kb21FbGVtZW50KFsKICAgICAgICAgICAgJycsCiAgICAgICAgICAgICRmYWtlci0+aHR0cFJlZmZlcmVyKCkKICAgICAgICBdKQ==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICRlbWFpbCA9ICRmYWtlci0+ZW1haWw7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAiZGVmYXVsdF9yZWdpc3RyYXRpb25fcGFnZV9pZCI9PjIwMywiZG9tYWluIj0+ImZyYyIsImV4dGVybmFsX2ludGVyYWN0aW9uX3R5cGVzIj0+WzQsIDMsIDEsIDExLCA3LCA2CiAgICAgICAgXSwiZXh0ZXJuYWxfcmVsYXRpb25zaGlwX3R5cGVzIjpbMSwgMiwgMywgNCwgNSwgNiwgNywgOCwgOQogICAgICAgIF0sImlkIjo2ODAsIm5hbWUiOiJDb250YWN0IENlbnRlciI=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkbW9kZWwpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1vZGVsKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAibGFzdF91c2VyIiAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gbnVsbCwK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">JGZha2VyLT5yYW5kb21FbGVtZW50KFsKICAgICAgICAgICAgJycsCiAgICAgICAgICAgICRmYWtlci0+aHR0cFJlZmZlcmVyKCkKICAgICAgICBdKQ==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>m .-2</text>
+        <text encoding="base64">JzwsJz4gcy86Lz0+Lw==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>quorum_</last-search>
+      <last-search>:</last-search>
       <last-offset />
-      <last-pattern>quorum_</last-pattern>
-      <last-replace encoding="base64">VGV4dDo6bWFrZSgnXDEnKSwg</last-replace>
-      <last-substitute>\(.*\)\s.*</last-substitute>
+      <last-pattern>:</last-pattern>
+      <last-replace encoding="base64">PT4=</last-replace>
+      <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
