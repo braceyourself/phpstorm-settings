@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>type</entry>
         <entry>flag</entry>
         <entry>false|true</entry>
         <entry>:</entry>
@@ -20,11 +19,12 @@
         <entry>selection_</entry>
         <entry>scheduled</entry>
         <entry>user</entry>
-        <entry>arrival</entry>
         <entry>filter</entry>
         <entry>vendor</entry>
         <entry encoding="base64">XDxuZXdfYWNjb3VudFw+</entry>
         <entry encoding="base64">XDxjaGFpbmVkXD4=</entry>
+        <entry>arrival</entry>
+        <entry>relat</entry>
       </history-search>
       <history-cmd>
         <entry>82</entry>
@@ -137,12 +137,12 @@
       <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" timestamp="1592335905845">
         <mark key="'" line="236" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" timestamp="1592338691651">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" timestamp="1592339179292">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="4" />
-        <mark key="." line="3" column="4" />
-        <mark key="^" line="5" column="7" />
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="9" />
+        <mark key="^" line="17" column="10" />
       </file>
       <file name="/console" timestamp="1592336159049">
         <mark key="[" line="0" column="0" />
@@ -157,6 +157,13 @@
         <mark key="^" line="102" column="4" />
         <mark key="." line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" timestamp="1592339771472">
+        <mark key="'" line="6" column="33" />
+        <mark key="[" line="145" column="13" />
+        <mark key="]" line="145" column="21" />
+        <mark key="^" line="145" column="21" />
+        <mark key="." line="145" column="20" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/ActengageModel.php" timestamp="1592331966826">
         <mark key="'" line="72" column="39" />
       </file>
@@ -166,12 +173,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" timestamp="1592337599861">
-        <mark key="'" line="124" column="20" />
-        <mark key="[" line="138" column="15" />
-        <mark key="]" line="139" column="12" />
-        <mark key="." line="139" column="11" />
-        <mark key="^" line="139" column="12" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" timestamp="1592339825649">
+        <mark key="'" line="92" column="39" />
+        <mark key="[" line="95" column="14" />
+        <mark key="]" line="94" column="45" />
+        <mark key="." line="94" column="44" />
+        <mark key="^" line="94" column="45" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php" timestamp="1592336383398">
         <mark key="'" line="791" column="34" />
@@ -182,12 +189,12 @@
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumCampaignFactory.php" timestamp="1592327974050">
-        <mark key="'" line="30" column="56" />
-        <mark key="[" line="103" column="51" />
-        <mark key="]" line="103" column="51" />
-        <mark key="^" line="103" column="51" />
-        <mark key="." line="103" column="50" />
+      <file name="$USER_HOME$/code/api-frc-org/app/FrcAction/NewAccount.php" timestamp="1592339065035">
+        <mark key="'" line="1" column="63" />
+        <mark key="[" line="1" column="65" />
+        <mark key="]" line="1" column="65" />
+        <mark key="^" line="1" column="65" />
+        <mark key="." line="1" column="64" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/Filters/ArrivalFilter.php" timestamp="1592334056388">
         <mark key="'" line="9" column="7" />
@@ -199,18 +206,12 @@
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Resource.php" timestamp="1592332332695">
         <mark key="'" line="63" column="56" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumBulkEmailFactory.php" timestamp="1592328859679">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="66" />
-        <mark key="." line="92" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Acquisition.php" timestamp="1592337053113">
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/ActiveEngagement/Acquisition.php" timestamp="1592338967018">
         <mark key="'" line="76" column="17" />
-        <mark key="[" line="104" column="57" />
-        <mark key="]" line="104" column="79" />
-        <mark key="." line="104" column="78" />
-        <mark key="^" line="104" column="79" />
+        <mark key="[" line="104" column="46" />
+        <mark key="]" line="104" column="52" />
+        <mark key="." line="104" column="51" />
+        <mark key="^" line="104" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4164e5d1-f78d-4d2e-ab1f-20180f5ea776/console.sql" timestamp="1592336161277">
         <mark key="[" line="0" column="0" />
@@ -223,12 +224,12 @@
         <mark key="^" line="82" column="12" />
         <mark key="." line="82" column="11" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/BrokenTests/BatchArrivalTests.php" timestamp="1592336917123">
+      <file name="$USER_HOME$/code/api-frc-org/tests/BrokenTests/BatchArrivalTests.php" timestamp="1592338916678">
         <mark key="'" line="56" column="19" />
-        <mark key="[" line="40" column="51" />
-        <mark key="]" line="40" column="51" />
-        <mark key="." line="40" column="51" />
-        <mark key="^" line="40" column="54" />
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="57" column="40" />
+        <mark key="." line="57" column="39" />
+        <mark key="^" line="57" column="40" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/Actions/RunClassMethod.php" timestamp="1592337552270">
         <mark key="'" line="91" column="29" />
@@ -242,12 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumBulkEmailFactory.php" />
-      <jump line="308" column="20" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumBulkEmailFactory.php" />
-      <jump line="172" column="54" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumBulkEmailFactory.php" />
-      <jump line="193" column="16" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumBulkEmailFactory.php" />
-      <jump line="50" column="19" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumBulkEmailFactory.php" />
-      <jump line="52" column="24" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumBulkEmailFactory.php" />
       <jump line="54" column="58" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumBulkEmailFactory.php" />
       <jump line="53" column="27" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumBulkEmailFactory.php" />
       <jump line="177" column="27" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumBulkEmailFactory.php" />
@@ -342,48 +337,55 @@
       <jump line="93" column="29" filename="$USER_HOME$/code/api-frc-org/app/Nova/Actions/RunClassMethod.php" />
       <jump line="7" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
+      <jump line="92" column="39" filename="$USER_HOME$/code/api-frc-org/app/Models/ActiveEngagement/Acquisition.php" />
+      <jump line="1" column="63" filename="$USER_HOME$/code/api-frc-org/app/FrcAction/NewAccount.php" />
+      <jump line="121" column="12" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" />
+      <jump line="181" column="20" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" />
+      <jump line="192" column="30" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" />
+      <jump line="6" column="33" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>a</text>
+        <text>arrival_no</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>arrival_no</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFpbmVkXD4=</text>
+        <text>relat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkYXJyaXZhbC0+bW92ZV92ZW5kb3JfYXJjaGl2ZV9kYXRhKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>select * from (select * from &quot;FRC&quot;.&quot;NEW_ACCOUNTS&quot; where &quot;FRC&quot;.&quot;NEW_ACCOUNTS&quot;.&quot;EXTERNAL_UID&quot; = 4657515 and exists (select * from &quot;FRC&quot;.&quot;BATCH_ARRIVAL&quot; inner join &quot;FRC&quot;.&quot;BATCH&quot; on &quot;FRC&quot;.&quot;BATCH&quot;.&quot;BATCH_NO&quot; = &quot;FRC&quot;.&quot;BATCH_ARRIVAL&quot;.&quot;ARRIVAL_NO&quot; where &quot;FRC&quot;.&quot;NEW_ACCOUNTS&quot;.&quot;RID&quot; = &quot;FRC&quot;.&quot;BATCH&quot;.&quot;BATCH_NO&quot; and &quot;ARRIVAL_NO&quot; = 78127)) where rownum = 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5uZXIgam9pbiBGUkMuVkVORE9SX0RBVEFfQVJDSElWRSB2ZGEgb24gdmRhLkFSUklWQUxfTk8gPSBhLkFSUklWQUxfTk8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JhdGNoX2Fycml2YWwuYXJyaXZhbF9ubycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPm5ld19hY2NvdW50LT5pc0RpcnR5KCkpIHsKICAgICAgICAgICAgJHRoaXMtPm5ld19hY2NvdW50LT5zYXZlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JhdGNoX25vJywKICAgICAgICAgICAgJ2JhdGNoX2Fycml2YWwuYXJyaXZhbF9ubycK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y29sbGVjdCgkZmllbGRzKS0+dHJhbnNmb3JtKGZ1bmN0aW9uIChGaWVsZCAkZmllbGQpIHsKICAgICAgICAgICAgcmV0dXJuICRmaWVsZC0+dmFsdWU7CiAgICAgICAgfSktPnZhbHVlcygpLT50b0FycmF5KCk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      <register name="6" type="4">
+        <text>,[
+            ]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgnc2F2aW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJvb2xlYW46Om1ha2UoJ1VwZGF0ZSBOZXcgQWNjb3VudCByZWNvcmQnLCAndXBkYXRlX25ld19hY2NvdW50cycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgndXBkYXRpbmcnKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKF9fRlVOQ1RJT05fXyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnN5bmNOZXdBY2NvdW50UmVjb3JkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -392,9 +394,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjaGFpbmVkXD4=</last-search>
+      <last-search>relat</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFpbmVkXD4=</last-pattern>
+      <last-pattern>relat</last-pattern>
       <last-replace>]</last-replace>
       <last-substitute>}</last-substitute>
       <last-dir>1</last-dir>
