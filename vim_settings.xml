@@ -191,12 +191,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumDataImportTests.php" timestamp="1592313043911">
-        <mark key="'" line="98" column="25" />
-        <mark key="[" line="67" column="47" />
-        <mark key="]" line="68" column="16" />
-        <mark key="." line="68" column="15" />
-        <mark key="^" line="68" column="16" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumDataImportTests.php" timestamp="1592326198429">
+        <mark key="'" line="50" column="20" />
+        <mark key="[" line="28" column="53" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterActionFactory.php" timestamp="1592310538867">
         <mark key="[" line="7" column="17" />
@@ -242,8 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="70" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
-      <jump line="58" column="75" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
       <jump line="59" column="65" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
       <jump line="122" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
       <jump line="2" column="33" filename="$USER_HOME$/code/api-frc-org/database/factories/QuorumSupporterFactory.php" />
@@ -342,15 +339,17 @@
       <jump line="22" column="42" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
       <jump line="24" column="45" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
       <jump line="29" column="109" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_quorum.sql" />
+      <jump line="28" column="66" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumDataImportTests.php" />
+      <jump line="47" column="20" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Quorum/QuorumDataImportTests.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>&quot;&quot;</text>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text encoding="base64">JG1vZGVsID0gJGNsYXNzOjppbml0KCktPmdldE1vZGVsQ2xhc3MoKQ==</text>
       </register>
       <register name="/" type="4">
         <text>quorum_</text>
@@ -359,31 +358,31 @@
         <text encoding="base64">JGZha2VyLT5ib29sZWFu</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAibGFzdF91c2VyIiAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">JGZha2VyLT5yYW5kb21FbGVtZW50KFsKICAgICAgICAgICAgJycsCiAgICAgICAgICAgICRmYWtlci0+aHR0cFJlZmZlcmVyKCkKICAgICAgICBdKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1vZGVsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAibGFzdF91c2VyIiAgICAgICAgICAgICAgICAgICAgICAgICAgPT4gbnVsbCwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICRlbWFpbCA9ICRmYWtlci0+ZW1haWw7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">JGZha2VyLT5yYW5kb21FbGVtZW50KFsKICAgICAgICAgICAgJycsCiAgICAgICAgICAgICRmYWtlci0+aHR0cFJlZmZlcmVyKCkKICAgICAgICBdKQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAic291cmNlX3R5cGUiICAgICAgICAgICAgICAgICAgICAgICAgPT4gImRpcmVjdF9saW5rIiwK</text>
+        <text encoding="base64">ICAgICRlbWFpbCA9ICRmYWtlci0+ZW1haWw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAic3RyaXBlX2N1c3RvbWVyX2lkIiAgICAgICAgICAgICAgICAgPT4gIiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
