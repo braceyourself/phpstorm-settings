@@ -110,6 +110,9 @@
     <option name="EXPR_CASE_END" value="1" />
     <option name="EXPR_CASE_COLLAPSE" value="false" />
   </OracleCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+  </PHPCodeStyleSettings>
   <PostgresCodeStyleSettings version="2">
     <option name="WITH_ALIGN_AS" value="true" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
@@ -155,6 +158,13 @@
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="TERNARY_OPERATION_WRAP" value="1" />
+    <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="1" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="Shell Script">
     <indentOptions>
