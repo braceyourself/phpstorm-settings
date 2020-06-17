@@ -51,7 +51,8 @@
     <option name="IMP_COMMON_WRAP_EVERY_STATEMENT" value="true" />
   </MySQLCodeStyleSettings>
   <OracleCodeStyleSettings version="2">
-    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
+    <option name="DISABLE_FORMATTING" value="true" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="QUERY_EL_COMMA" value="2" />
     <option name="QUERY_IN_ONE_STRING" value="1" />
     <option name="SUBQUERY_OPENING" value="1" />
@@ -85,15 +86,13 @@
     <option name="ORDER_EL_LINE" value="1" />
     <option name="ORDER_EL_WRAP" value="2" />
     <option name="ORDER_EL_COMMA" value="2" />
-    <option name="TABLE_OPENING" value="1" />
-    <option name="TABLE_CONTENT" value="2" />
-    <option name="TABLE_CLOSING" value="3" />
     <option name="TABLE_COLLAPSE" value="true" />
     <option name="CONSTRAINT_WRAP_1" value="false" />
     <option name="VIEW_WRAP_AS" value="true" />
     <option name="VIEW_INDENT_QUERY" value="true" />
-    <option name="ROUTINE_ARG_CONTENT" value="2" />
-    <option name="ROUTINE_ARG_CLOSING" value="3" />
+    <option name="ROUTINE_ARG_OPENING" value="3" />
+    <option name="ROUTINE_ARG_CONTENT" value="4" />
+    <option name="ROUTINE_ARG_CLOSING" value="4" />
     <option name="ROUTINE_ARG_WRAP" value="1" />
     <option name="ROUTINE_ARG_COMMA" value="2" />
     <option name="ROUTINE_ARG_ALIGN_TYPES" value="true" />
