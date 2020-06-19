@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>selection_</entry>
         <entry>scheduled</entry>
         <entry>user</entry>
         <entry>filter</entry>
@@ -25,13 +24,13 @@
         <entry>ip</entry>
         <entry encoding="base64">XDxpcF9hZGRyZXNzXD4=</entry>
         <entry>insert_new_account</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>86</entry>
         <entry>96</entry>
         <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvICogQHByb3BlcnR5IHN0cmluZyBcMSAv</entry>
         <entry>275</entry>
-        <entry>wq</entry>
         <entry>160</entry>
         <entry>159</entry>
         <entry>170</entry>
@@ -47,6 +46,7 @@
         <entry>q</entry>
         <entry>redo</entry>
         <entry encoding="base64">JzwsJw==</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -141,6 +141,13 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/composer.json" timestamp="1592564367491">
+        <mark key="'" line="72" column="49" />
+        <mark key="[" line="86" column="23" />
+        <mark key="]" line="86" column="46" />
+        <mark key="^" line="86" column="46" />
+        <mark key="." line="86" column="45" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/BatchArrivalBase.php" timestamp="1592400374362">
         <mark key="'" line="218" column="25" />
         <mark key="[" line="268" column="4" />
@@ -157,11 +164,14 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="/console" timestamp="1592407981651">
+      <file name="/console" timestamp="1592563536871">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Support/Database/OraclePackage.php" timestamp="1592335910367">
-        <mark key="'" line="177" column="77" />
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/NovaDynamicPageTitle/composer.json" timestamp="1592564397750">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" timestamp="1592403966031">
         <mark key="'" line="4171" column="16" />
@@ -169,13 +179,6 @@
         <mark key="]" line="4360" column="77" />
         <mark key="^" line="4360" column="77" />
         <mark key="." line="4360" column="77" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/TestCase.php" timestamp="1592335058540">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="102" column="4" />
-        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" timestamp="1592339771472">
         <mark key="'" line="6" column="33" />
@@ -190,12 +193,6 @@
         <mark key="]" line="111" column="12" />
         <mark key="." line="111" column="11" />
         <mark key="^" line="111" column="12" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Unit/RemoteModelTests.php" timestamp="1592335300975">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4164e5d1-f78d-4d2e-ab1f-20180f5ea776/console.sql" timestamp="1592336161277">
         <mark key="[" line="0" column="0" />
@@ -239,6 +236,13 @@
         <mark key="." line="46" column="16" />
         <mark key="^" line="46" column="16" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/nova-components/NovaDynamicPageTitle/resources/js/asset.js" timestamp="1592564717437">
+        <mark key="'" line="34" column="38" />
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="43" />
+        <mark key="^" line="45" column="43" />
+        <mark key="." line="45" column="42" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/Actions/RunClassMethod.php" timestamp="1592337552270">
         <mark key="'" line="91" column="29" />
         <mark key="[" line="43" column="27" />
@@ -248,11 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4280" column="39" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4281" column="38" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4282" column="44" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4283" column="43" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4284" column="37" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="4285" column="39" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="4320" column="47" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="4328" column="43" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
@@ -348,21 +347,26 @@
       <jump line="4126" column="20" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="4132" column="16" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="4171" column="16" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
+      <jump line="124" column="41" filename="$USER_HOME$/code/api-frc-org/composer.json" />
+      <jump line="86" column="45" filename="$USER_HOME$/code/api-frc-org/composer.json" />
+      <jump line="85" column="43" filename="$USER_HOME$/code/api-frc-org/composer.json" />
+      <jump line="72" column="49" filename="$USER_HOME$/code/api-frc-org/composer.json" />
+      <jump line="33" column="38" filename="$USER_HOME$/code/api-frc-org/nova-components/NovaDynamicPageTitle/resources/js/asset.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text />
+      <register name="+" type="4">
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>insert_new_account</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGV4dDo6bWFrZSgnYWRkcmVzc190eXBlJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAiYnJhY2V5b3Vyc2VsZi9kZWZhdWx0LW5vdmEtZ3JhdmF0YXIiOiAiKiIsCg==</text>
       </register>
       <register name="1" type="2">
         <text />
@@ -392,15 +396,15 @@
         <text encoding="base64">ICAgICAgICBkaXNwYXRjaCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJw==</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>insert_new_account</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>insert_new_account</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>]</last-replace>
       <last-substitute>}</last-substitute>
       <last-dir>1</last-dir>
