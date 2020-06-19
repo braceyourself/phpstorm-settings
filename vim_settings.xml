@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>join</entry>
-        <entry>ip_add</entry>
-        <entry>insert_new_accounts</entry>
         <entry encoding="base64">XDxpbnNlcnRfbmV3X2FjY291bnRzXD4=</entry>
         <entry>send;</entry>
         <entry>:=</entry>
@@ -25,18 +22,11 @@
         <entry>rela</entry>
         <entry>request_id</entry>
         <entry encoding="base64">XDxjaGFyZ2VfcXVlcnlcPg==</entry>
+        <entry>\(\w*\).*</entry>
+        <entry>constraint</entry>
+        <entry>\(\w*\)\(.*\)</entry>
       </history-search>
       <history-cmd>
-        <entry>86</entry>
-        <entry>96</entry>
-        <entry encoding="base64">JzwsJz4gcy9cKC4qXCkvICogQHByb3BlcnR5IHN0cmluZyBcMSAv</entry>
-        <entry>275</entry>
-        <entry>160</entry>
-        <entry>159</entry>
-        <entry>170</entry>
-        <entry encoding="base64">JzwsJz4gcy9cKC4qXClcdy4qL1RleHQ6Om1ha2UoJ1wxJyksIC8=</entry>
-        <entry encoding="base64">JzwsJz4gcy9cKC4qXClccy4qL1RleHQ6Om1ha2UoJ1wxJyksIC8=</entry>
-        <entry>m .+1</entry>
         <entry>m .-2</entry>
         <entry encoding="base64">JzwsJz4gLywiLyxcbiIv</entry>
         <entry encoding="base64">JzwsJz4gcy86Lz0+Lw==</entry>
@@ -47,6 +37,16 @@
         <entry encoding="base64">JzwsJw==</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz4gL1woXHcqXCkvXDEv</entry>
+        <entry encoding="base64">JzwsJz4gL1woXHcqXCkvIlwxIiA9PiBudWxsLC8vLw==</entry>
+        <entry encoding="base64">JzwsJz4gL1woXHcqXCkuKi8iXDEiID0+IG51bGwsLy8v</entry>
+        <entry encoding="base64">JzwsJz4gL1woXHcqXCkuKi9cMSA9PiBudWxsLC8vLw==</entry>
+        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpLiovXDEgPT4gbnVsbCwvLy8=</entry>
+        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpLiovXDEv</entry>
+        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpLycv</entry>
+        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpLydcMScgPT4gbnVsbCwgLy8gXDIv</entry>
+        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpLydcMScgPT4gbnVsbCwgXC9cLyBcMi9r</entry>
+        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpLydcMScgPT4gbnVsbCwgXC9cLyBcMi8=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -192,11 +192,12 @@
         <mark key="^" line="57" column="40" />
         <mark key="." line="56" column="29" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" timestamp="1592575696495">
-        <mark key="[" line="5" column="52" />
-        <mark key="]" line="5" column="70" />
-        <mark key="^" line="5" column="70" />
-        <mark key="." line="5" column="69" />
+      <file name="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" timestamp="1592576968692">
+        <mark key="'" line="96" column="1" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="6" column="70" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" timestamp="1592574942041">
         <mark key="'" line="238" column="20" />
@@ -210,34 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4924" column="63" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4925" column="63" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4926" column="63" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4929" column="27" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4956" column="72" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4957" column="72" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4958" column="72" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4959" column="72" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4960" column="72" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4961" column="72" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4962" column="72" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4963" column="72" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4964" column="72" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4965" column="72" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4966" column="72" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="4967" column="72" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="5025" column="18" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="5029" column="22" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="5038" column="22" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="5043" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="5051" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="5059" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="5065" column="22" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="5070" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="5078" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="5086" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="5094" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
-      <jump line="5102" column="26" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="5117" column="63" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="5118" column="63" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
       <jump line="5119" column="63" filename="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" />
@@ -310,61 +283,89 @@
       <jump line="67" column="39" filename="$USER_HOME$/code/api-frc-org/app/Models/Cornerstone/Transaction.php" />
       <jump line="238" column="20" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
       <jump line="8" column="25" filename="$USER_HOME$/code/api-frc-org/app/Listeners/LogDatabaseQuery.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="56" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="59" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="67" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="74" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="68" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="72" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="30" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="51" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="54" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
+      <jump line="65" column="1" filename="$USER_HOME$/code/api-frc-org/database/factories/GiftFactory.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>$ns</text>
+      <register name="+" type="2">
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="-" type="4">
         <text>$ns</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFyZ2VfcXVlcnlcPg==</text>
+        <text>\(\w*\)\(.*\)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGRiID0gc3RydG9sb3dlcigkZXZlbnQtPnF1ZXJ5LT5jb25uZWN0aW9uTmFtZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">XEFwcFxNb2RlbHNcRnJjQmFzZU1vZGVsc1xHaWZ0QmFzZTo6Y29ubmVjdGlvbigkZGIpCiAgICAgICAgLT5yYW5kb20oKS0+Zmlyc3QoKS0+Z2lmdF9ubw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">LwoKY3JlYXRlIGluZGV4IEdJRlRfQVBMX0ZLX0kKCW9uIEdJRlQgKEFQUEVBTF9DT0RFKQogICAgLwoKICAgIGNyZWF0ZSBpbmRleCBHSUZUX0JBVF9GS19JCglvbiBHSUZUIChCQVRDSF9OTykKICAgIC8KCiAgICBjcmVhdGUgaW5kZXggR0lGVF9DQ0lEX0lYCglvbiBHSUZUIChDUkVESVRfQ0FSRF9JRCkKICAgIC8KCiAgICBjcmVhdGUgaW5kZXggR0lGVF9GVU5EX0NPREVfSVgKCW9uIEdJRlQgKEZVTkRfQ09ERSkKICAgIC8KCiAgICBjcmVhdGUgaW5kZXggR0lGVF9JWAoJb24gR0lGVCAoQUNDT1VOVF9JRCkKICAgIC8KCiAgICBjcmVhdGUgaW5kZXggR0lGVF9MSU5LX0FDQ09VTlRfSVgKCW9uIEdJRlQgKExJTktFRF9BQ0NPVU5UKQogICAgLwoKICAgIGNyZWF0ZSBpbmRleCBHSUZUX0xJTktfUEVSU09OX0lYCglvbiBHSUZUIChMSU5LRURfUEVSU09OKQogICAgLwoKICAgIGNyZWF0ZSBpbmRleCBHSUZUX1BFUl9GS19JCglvbiBHSUZUIChQRVJTT05BTF9JRCkKICAgIC8KCiAgICBjcmVhdGUgaW5kZXggR0lGVF9TRVRUTEVEQVRFX0lYCglvbiBHSUZUIChWRU5ET1JfU0VUVExFTUVOVF9EQVRFKQogICAgLwoKICAgIGNyZWF0ZSBpbmRleCBHSUZUX1ZFTkRPUlRSQU5TX0lYCglvbiBHSUZUIChWRU5ET1JfVFJBTlNBQ1RJT05fTk8pCiAgICAvCgogICAgY3JlYXRlIGluZGV4IEdJRlRfUExFREdFX05PX0lYCglvbiBHSUZUIChQTEVER0VfTk8pCiAgICAvCgogICAgY3JlYXRlIGluZGV4IEdJRlRfUkVWX0lYCglvbiBHSUZUIChSRUxBVEVEX0dJRlRfTk8pCiAgICAvCgogICAgY3JlYXRlIGluZGV4IEdJRlRfUlBUX0ZMR19JWAoJb24gR0lGVCAoUkVDRUlQVF9GTEFHKQogICAgLwoKICAgIGNyZWF0ZSB0cmlnZ2VyIEFERF9HSUZUX0JFRk9SRQoJYmVmb3JlIGluc2VydAoJb24gR0lGVAoJZm9yIGVhY2ggcm93CiAgICAgICAgYmVnaW4KICAgICAgICAtLSBDcmVhdGUgdGhlIGJhdGNoX3BpZWNlIHJlY29yZDoKCS0tIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogICAgYmF0Y2hfcGllY2VfbWdtdC5hZGRfYmF0Y2hfcGllY2UKICAgICgKCQk6bmV3LmJhdGNoX25vLAoJCTpuZXcuYWNjb3VudF9pZCwKCQk6bmV3Lm1haWxfcGllY2Vfbm8sCQkJCS0tIFRoaXMgd2lsbCBjaGFuZ2UgdG8gOm5ldy5iYXRjaF9waWVjZV9ubyB3aGVuIHRoZSBjb2x1bW4gaXMgcmVuYW1lZC4uLgoJCTpuZXcudHJhbnNhY3Rpb25fbm8KCSk7CgoJLS0gQ3JlYXRlIHRoZSBhY2NvdW50X2FjdGl2aXR5IHJlY29yZC4KICAgIC0tIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCglhZGRfYWNjdF9hY3R2CiAgICAoCgkJOm5ldy5hY2NvdW50X2lkLAoJCTpuZXcuYmF0Y2hfbm8sCgkJOm5ldy5hcHBlYWxfY29kZSwKCQk6bmV3Lm1haWxfcGllY2Vfbm8sCgkJOm5ldy5wZXJzb25hbF9pZCwKCQk6bmV3LnRyYW5zYWN0aW9uX25vLAoJCSdHJywKCQk6bmV3LnVzZXJfaWQKCSk7CgoJLS0gRmlndXJlIG91dCBuZXcgcmVjZWlwdCBncm91cCBJRDoKCS0tIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgk6bmV3LnJlY2VpcHRfZ3JvdXBfaWQgOj0KCQlyZWNlaXB0LmdldF9yZWNlaXB0X2dyb3VwCiAgICAgICAgKAogICAgICAgICAgICByZWNlaXB0VHlwZQkJPT4JOm5ldy5yZWNlaXB0X3R5cGUsCgkJCWdpZnRBbW91bnQJCT0+CTpuZXcuZ2lmdF9hbW91bnQsCgkJCWJhdGNoTm8JCQk9Pgk6bmV3LmJhdGNoX25vLAoJCQlhcHBlYWxDb2RlCQk9Pgk6bmV3LmFwcGVhbF9jb2RlLAoJCQlzdGF0ZUNvZGUJCT0+CWdldF9yZWNlaXB0X2dyb3VwX3N0YXRlKCA6bmV3LmFjY291bnRfaWQsIDpuZXcuc2VxdWVuY2Vfbm8gKSwKCQkJYWNjb3VudFR5cGUJCT0+CWFjY3RfaW5mby5nZXRfYWNjb3VudF90eXBlKCA6bmV3LmFjY291bnRfaWQgKSwKCQkJZmlyc3RHaWZ0RmxhZwk9PglyZWNlaXB0LmdldF9maXJzdF9naWZ0X2ZsYWcoIDpuZXcuYWNjb3VudF9pZCw6bmV3LmJhdGNoX25vICksCgkJCW1mcEdpZnRGbGFnCQk9PglyZWNlaXB0LmdldF9tZnBfZ2lmdF9mbGFnKCA6bmV3LmFjY291bnRfaWQsIDpuZXcuYmF0Y2hfbm8gKQoJCSk7CgplbmQ7Ci8KCmNyZWF0ZSB0cmlnZ2VyIENIR19HSUZUCgliZWZvcmUgdXBkYXRlIG9mIEFDQ09VTlRfSUQsQkFUQ0hfTk8sQVBQRUFMX0NPREUsR0lGVF9BTU9VTlQsVFJBTlNBQ1RJT05fTk8sUEVSU09OQUxfSUQsUkVDRUlQVF9UWVBFLFJFQ0VJUFRfRkxBRyxSRUNFSVBUX0RBVEUsTElOS0VEX0FDQ09VTlQsTUFJTF9QSUVDRV9OTyxTRVFVRU5DRV9OTwoJb24gR0lGVAoJZm9yIGVhY2ggcm93CiAgICAgICAgYmVnaW4KICAgICAgICAtLSAxLiAiTGVnYWN5IiBDb2RlOiBTdXBwb3J0IGZvciB0aGUgQWNjb3VudCBBY3Rpdml0eSBUYWJsZS4KICAgIC0tIElmIHRoZSBsaXN0ZWQgY29sdW1ucyBoYXZlIGNoYW5nZWQsIGlzc3VlIGEgY2FsbCB0byB0aGUgYXBwcm9wcmlhdGUgcHJvY2VkdXJlOgoJLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCWlmCiAgICAoCiAgICA6bmV3LmFjY291bnRfaWQgIT0gOm9sZC5hY2NvdW50X2lkCiAgICBvcgoJCTpuZXcuYmF0Y2hfbm8gIT0gOm9sZC5iYXRjaF9ubwogICAgICAgIG9yCgkJOm5ldy5hcHBlYWxfY29kZSAhPSA6b2xkLmFwcGVhbF9jb2RlCiAgICAgICAgb3IKCQk6bmV3LnRyYW5zYWN0aW9uX25vICE9IDpvbGQudHJhbnNhY3Rpb25fbm8KICAgICAgICBvcgogICAgICAgIG52bCggOm5ldy5wZXJzb25hbF9pZCwgMCApICE9IG52bCggOm9sZC5wZXJzb25hbF9pZCwgMCApCgkJb3IKCQludmwoIDpuZXcubWFpbF9waWVjZV9ubywgMCApICE9IG52bCggOm9sZC5tYWlsX3BpZWNlX25vLCAwICkKCSkKCXRoZW4KCQljaGdfYWNjdF9hY3R2CiAgICAgICAgKAoJCQk6b2xkLmFjY291bnRfaWQsCQk6bmV3LmFjY291bnRfaWQsCgkJCTpvbGQuYmF0Y2hfbm8sCQkJOm5ldy5iYXRjaF9ubywKCQkJOm9sZC5hcHBlYWxfY29kZSwJCTpuZXcuYXBwZWFsX2NvZGUsCgkJCTpvbGQubWFpbF9waWVjZV9ubywJCTpuZXcubWFpbF9waWVjZV9ubywKCQkJOm9sZC5wZXJzb25hbF9pZCwJCTpuZXcucGVyc29uYWxfaWQsCgkJCTpuZXcudHJhbnNhY3Rpb25fbm8sCgkJCSdHJywKCQkJOm5ldy51c2VyX2lkCgkJKTsKCWVuZCBpZjsKCgktLSAyLiBJZiB0aGUgcmVjZWlwdF9ncm91cF9pZCB3YXMgbm90IGV4cGxpY2l0bHkgdXBkYXRlZCwgdGhlbiBkZXRlcm1pbmUKICAgICAgICAtLSBpZiBhbnkgb3RoZXIgZGF0YSBtb2RpZmljYXRpb25zIHdhcnJhbnQgYSBjaGFuZ2VkIHJlY2VpcHRfZ3JvdXBfaWQuCiAgICAgICAgLS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoJaWYgKCBudmwoOm5ldy5yZWNlaXB0X2dyb3VwX2lkLDApID0gbnZsKDpvbGQucmVjZWlwdF9ncm91cF9pZCwwKSApCgl0aGVuCiAgICA6bmV3LnJlY2VpcHRfZ3JvdXBfaWQgOj0KCQkJcmVjZWlwdC5nZXRfcmVjZWlwdF9ncm91cAogICAgICAgICAgICAoCiAgICAgICAgICAgICAgICByZWNlaXB0VHlwZQkJPT4JOm5ldy5yZWNlaXB0X3R5cGUsCgkJCQlnaWZ0QW1vdW50CQk9Pgk6bmV3LmdpZnRfYW1vdW50LAoJCQkJYmF0Y2hObwkJCT0+CTpuZXcuYmF0Y2hfbm8sCgkJCQlhcHBlYWxDb2RlCQk9Pgk6bmV3LmFwcGVhbF9jb2RlLAoJCQkJc3RhdGVDb2RlCQk9PglnZXRfcmVjZWlwdF9ncm91cF9zdGF0ZSggOm5ldy5hY2NvdW50X2lkLCA6bmV3LnNlcXVlbmNlX25vICksCgkJCQlhY2NvdW50VHlwZQkJPT4JYWNjdF9pbmZvLmdldF9hY2NvdW50X3R5cGUoIDpuZXcuYWNjb3VudF9pZCApLAoJCQkJZmlyc3RHaWZ0RmxhZwk9PglyZWNlaXB0LmdldF9maXJzdF9naWZ0X2ZsYWcoIDpuZXcuYWNjb3VudF9pZCw6bmV3LmJhdGNoX25vICksCgkJCQltZnBHaWZ0RmxhZwkJPT4JcmVjZWlwdC5nZXRfbWZwX2dpZnRfZmxhZyggOm5ldy5hY2NvdW50X2lkLDpuZXcuYmF0Y2hfbm8gKQoJCQkpOwoKCWVuZCBpZjsKCgktLSAzLiBEZWxldGUgdGhlIGN1cnJlbnQgcGFyZW50IGJhc2VkIHVwb24gYmF0Y2hfbm8sIGJhdGNoX3BpZWNlX25vCiAgICAgICAgLS0gdHJhbnNhY3Rpb25fbm8gYW5kIGFjY291bnRfaWQgT05MWS4gIElmIG5vbmUgb2YgdGhlc2UgY29sdW1ucyBjaGFuZ2UsCgktLSBpc3N1ZSBhbiB1cGRhdGUgb24gdGhlIHBhcmVudCB0byByZWZsZWN0IGEgY2hhbmdlIGFuZCB3aG8gY2hhbmdlZCBpdDoKCS0tIE5PVEU6IHRoZSB0cmFuc2FjdGlvbl9ubyBpcyBvbmx5IGEgcGFydCBvZiB0aGlzIElGIHVudGlsIGl0IGlzIGRyb3BwZWQgZnJvbSBGb3Jtcy4uLgoJLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCglpZgoJKAoJCTpvbGQuYWNjb3VudF9pZAkJIT0gOm5ldy5hY2NvdW50X2lkCiAgICAgICAgb3IKCQk6b2xkLmJhdGNoX25vCQkhPSA6bmV3LmJhdGNoX25vCiAgICAgICAgb3IKCQk6b2xkLm1haWxfcGllY2Vfbm8JIT0gOm5ldy5tYWlsX3BpZWNlX25vCiAgICAgICAgLS0gQkpGIDA1MTgwNyBzdWdnZXN0ZWQgbW9kIHVudGlsIG1haWxfcGllY2Vfbm8vYmF0Y2hfcGllY2Vfbm8gaXMgcmVxdWlyZWQgY29sdW1uCiAgICAgICAgLS0JCW52bCggOm9sZC5tYWlsX3BpZWNlX25vLCAwICkgIT0gbnZsKCA6bmV3Lm1haWxfcGllY2Vfbm8sIDAgKQoJCW9yCgkJOm9sZC50cmFuc2FjdGlvbl9ubwkhPSA6bmV3LnRyYW5zYWN0aW9uX25vCgkpCgl0aGVuCgkJYmF0Y2hfcGllY2VfbWdtdC5kZWxldGVfYmF0Y2hfcGllY2UKICAgICAgICAoCgkJCTpvbGQuYmF0Y2hfbm8sCQkJCQktLSBUaGlzIGNvbHVtbiB3aWxsIGRpc2FwcGVhciBhZnRlciB0aGUgdHJhbnNhY3Rpb25fbm8gY29udmVyc2lvbi4uLgoJCQk6b2xkLnRyYW5zYWN0aW9uX25vCgkJKTsKCQliYXRjaF9waWVjZV9tZ210LmFkZF9iYXRjaF9waWVjZQogICAgICAgICgKCQkJOm5ldy5iYXRjaF9ubywKCQkJOm5ldy5hY2NvdW50X2lkLAoJCQk6bmV3Lm1haWxfcGllY2Vfbm8sCQkJCS0tIFRoaXMgd2lsbCBjaGFuZ2UgdG8gOm5ldy5iYXRjaF9waWVjZV9ubyB3aGVuIHRoZSBjb2x1bW4gaXMgcmVuYW1lZC4uLgoJCQk6bmV3LnRyYW5zYWN0aW9uX25vCgkJKTsKICAgIGVsc2UKICAgICAgICBiYXRjaF9waWVjZV9tZ210LmNoYW5nZV9iYXRjaF9waWVjZQogICAgICAgICgKCQkJOm9sZC5iYXRjaF9ubywJCQkJCS0tIFRoaXMgY29sdW1uIHdpbGwgZGlzYXBwZWFyIGFmdGVyIHRoZSB0cmFuc2FjdGlvbl9ubyBjb252ZXJzaW9uLi4uCgkJCTpvbGQudHJhbnNhY3Rpb25fbm8sCgkJCTpvbGQudXNlcl9pZAkJCQkJLS0gVGhpcyBjb2x1bW4gd2lsbCBkaXNhcHBlYXIgYWZ0ZXIgdGhlIHRyYW5zYWN0aW9uX25vIGNvbnZlcnNpb24uLi4KCQkpOwoJZW5kIGlmOwoKCS0tIElmIExpbmtlZF9BY2NvdW50IGhhcyBjaGFuZ2VkLCBydW4gY2xlYW5fZ2lmdAoJaWYgKCBudmwoOm5ldy5saW5rZWRfYWNjb3VudCwwKSA8PiBudmwoOm9sZC5saW5rZWRfYWNjb3VudCwwKSApCgl0aGVuCgkJZGVjbGFyZQogICAgICAgIGpvYklkCQkJam9iX3NjaGVkdWxlLmpvYl9pZCV0eXBlCTo9IG51bGw7CgkJYmVnaW4KCQkJam9iSWQgOj0gbnVsbDsKCQkJam9iX21nbXQuaW5zZXJ0X2pvYgogICAgICAgICAgICAoCiAgICAgICAgICAgICAgICBqb2JJZAkJCQk9Pglqb2JJZCwKCQkJCXByb2NlZHVyZUNhbGwJCT0+CSdjbGVhbl9naWZ0X2RldGFpbF9ieV9hY2NvdW50KCAnfHwgOm5ldy5hY2NvdW50X2lkIHx8JyApJywKCQkJCWhvc3ROYW1lCQkJPT4JZ2V0X2hvc3RfbmFtZSwKCQkJCXJ1bkRheXMJCQkJPT4JJ05PVycsCgkJCQlkb0NvbW1pdAkJCT0+CSdOJwoJCQkpOwoJCWVuZDsKCWVuZCBpZjsKZW5kOwovCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNoYW5uZWwgPSAnZGInOwo=</text>
+        <text encoding="base64">Y3JlYXRlIHRyaWdnZXIgREVMX0dJRlQKCWFmdGVyIGRlbGV0ZQoJb24gR0lGVAoJZm9yIGVhY2ggcm93CiAgICAgICAgYmVnaW4KICAgICAgICAtLSAxLiBEZWxldGUgdGhlIHBhcmVudCBiYXRjaF9waWVjZSByZWNvcmQsIGlmIHBvc3NpYmxlOgogICAgICAgICAgICBiYXRjaF9waWVjZV9tZ210LmRlbGV0ZV9iYXRjaF9waWVjZQogICAgICAgICAgICAoCgkJCTpvbGQuYmF0Y2hfbm8sCQkJCQktLSBUaGlzIGNvbHVtbiB3aWxsIGRpc2FwcGVhciBhZnRlciB0aGUgdHJhbnNhY3Rpb25fbm8gY29udmVyc2lvbi4uLgoJCQk6b2xkLnRyYW5zYWN0aW9uX25vCgkJKTsKZW5kOwoKCi8KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFjb25maWcoImxvZ2dpbmcuY2hhbm5lbHMuJHRoaXMtPmNoYW5uZWwiKSkgewogICAgICAgICAgICAgICAgJGNoYW5uZWwgPSAnZGInOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGUgdGFibGUgR0lGVAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nOjpjaGFubmVsKCRjaGFubmVsKS0+aW5mbygiJHNxbCIpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">XEFwcFxNb2RlbHNcRnJjQmFzZU1vZGVsc1xHaWZ0QmFzZTo6Y29ubmVjdGlvbigkZGIpCiAgICAgICAgLT5yYW5kb20oKS0+Zmlyc3QoKS0+Z2lmdF9ubw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLiAkdGhpcy0+cm91dGluZ19udW1iZXIKICAgICAgICAgICAgLiAkdGhpcy0+Zmlyc3RfbmFtZQogICAgICAgICAgICAuICR0aGlzLT5sYXN0X25hbWUKICAgICAgICAgICAgLiAkdGhpcy0+YWRkcl8xCiAgICAgICAgICAgIC4gJHRoaXMtPmNpdHkKICAgICAgICAgICAgLiAkdGhpcy0+c3RhdGUKICAgICAgICAgICAgLiAkdGhpcy0+emlwOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YmEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNoYW5uZWwgPSAnZGInOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpLydcMScgPT4gbnVsbCwgXC9cLyBcMi8=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjaGFyZ2VfcXVlcnlcPg==</last-search>
+      <last-search>\(\w*\)\(.*\)</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFyZ2VfcXVlcnlcPg==</last-pattern>
-      <last-replace>]</last-replace>
-      <last-substitute>}</last-substitute>
+      <last-pattern>\(\w*\)\(.*\)</last-pattern>
+      <last-replace encoding="base64">J1wxJyA9PiBudWxsLCBcL1wvIFwy</last-replace>
+      <last-substitute>\(\w*\)\(.*\)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
