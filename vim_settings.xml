@@ -204,15 +204,14 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7534b674-e475-4975-a16e-54f0c634221b/console.sql" timestamp="1592932896331">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="17" />
+      </file>
       <file name="/foo.bar" timestamp="1592932025237">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Providers/AppServiceProvider.php" timestamp="1592917145032">
-        <mark key="'" line="43" column="17" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="44" column="91" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/FrcTransaction.php" timestamp="1592931951757">
         <mark key="'" line="214" column="19" />
@@ -337,10 +336,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="4">
-        <text>subMonth</text>
+        <text>and</text>
       </register>
       <register name="-" type="4">
-        <text>subMonth</text>
+        <text>and</text>
       </register>
       <register name="/" type="4">
         <text>actions</text>
@@ -349,31 +348,32 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2FwaV9jYWxscycgPT4gWydjcmVhdGVkX2F0JywgJzwnLCBDYXJib246OnRvZGF5KCktPnN1YkRheXMoNyktPnRvRGF0ZVN0cmluZygpXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWcuR0lGVF9OTwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlcmUgYGFjdGlvbmFibGVfaWRgID0gMTAyMzkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWFuZCBnLlZFTkRPUl9UUkFOU0FDVElPTl9OTyBpcyBub3QgbnVsbAo=</text>
+        <text encoding="base64">d2hlcmUgYGFjdGlvbmFibGVfaWRgID0gMTAyMzkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXN1bShuZXdfYWNjb3VudF9naWZ0cy5HSUZUX0FNT1VOVCkK</text>
+        <text encoding="base64">KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXN1bShnLkdJRlRfQU1PVU5UKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IHN1bShHSUZUX0FNT1VOVCkgZnJvbSBGUkMuTkVXX0FDQ09VTlRfR0lGVFMgbmFnCmlubmVyIGpvaW4gbmV3X2FjY291bnRzIG5hIG9uIG5hLnJpZCA9IG5hZy5OQV9SSUQKCXdoZXJlIEJBVENIX05PIGluICg4NDA4Niw4NDA4Nyk7Cg==</text>
+        <text encoding="base64">c3ViTW9udGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CU5FV19BQ0NPVU5UX0dJRlRTLmdpZm5vCg==</text>
+        <text>select * from api_vendor_data
+order by created_at desc</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CW5ld2FjY291dC5HSUZUX05PCg==</text>
+        <text encoding="base64">CWcuR0lGVF9OTwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWcuKiwKCU5FV19BQ0NPVU5UX0dJRlRTLkdJRlRfQ09NTUVOVAo=</text>
+        <text encoding="base64">CWFuZCBnLlZFTkRPUl9UUkFOU0FDVElPTl9OTyBpcyBub3QgbnVsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXN1bShuZXdfYWNjb3VudF9naWZ0cy5HSUZUX0FNT1VOVCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
