@@ -159,12 +159,12 @@
         <mark key="]" line="7" column="71" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" timestamp="1592994107932">
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" timestamp="1592994217839">
         <mark key="'" line="185" column="23" />
-        <mark key="[" line="185" column="25" />
-        <mark key="]" line="185" column="25" />
-        <mark key="^" line="97" column="29" />
-        <mark key="." line="185" column="25" />
+        <mark key="[" line="187" column="60" />
+        <mark key="]" line="187" column="71" />
+        <mark key="^" line="187" column="71" />
+        <mark key="." line="187" column="70" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/vendor/symfony/http-foundation/Request.php" timestamp="1592991636915">
         <mark key="[" line="250" column="32" />
@@ -203,7 +203,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592993064464">
+      <file name="/Dummy.txt" timestamp="1592994393460">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -214,12 +214,12 @@
         <mark key="." line="9" column="32" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/NewAccounts/NewAccount.php" timestamp="1592994177307">
-        <mark key="'" line="78" column="49" />
-        <mark key="[" line="74" column="44" />
-        <mark key="]" line="74" column="67" />
-        <mark key="^" line="74" column="67" />
-        <mark key="." line="74" column="66" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/NewAccounts/NewAccount.php" timestamp="1592994253221">
+        <mark key="'" line="76" column="49" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="60" column="36" />
       </file>
       <file name="/foo.bar" timestamp="1592956275751">
         <mark key="[" line="0" column="0" />
@@ -337,8 +337,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>$hide_from_index</text>
+      <register name="+" type="2">
+        <text>update compositekey trait; override nova requests in the correct method in AppServiceProvider</text>
       </register>
       <register name="-" type="4">
         <text>$hide_from_index</text>
@@ -350,31 +350,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnVmVuZG9yIERhdGEgQXJjaGl2ZScsbnVsbCwgQXR0ZW5kZWU6OmNsYXNzKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmF0Y2g7Cg==</text>
+        <text>update compositekey trait; override nova requests in the correct method in AppServiceProvider</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnQWNjb3VudCcpLAogICAgICAgICAgICAgICAgQmVsb25nc1RvOjptYWtlKCdQZXJzb24nLG51bGwsIFBlcnNvbjo6Y2xhc3MpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnQmF0Y2hlcycsIG51bGwsIEJhdGNoOjpjbGFzcyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEhhc09uZTo6bWFrZSgnJyxudWxsLCBBdHRlbmRlZTo6Y2xhc3MpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzb3VyY2VOYXZpZ2F0aW9uVGFiOjptYWtlKCJPdGhlciBEZXRhaWxzIiwgKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YmF0Y2g7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnQWNjb3VudCcpLAogICAgICAgICAgICAgICAgQmVsb25nc1RvOjptYWtlKCdQZXJzb24nLG51bGwsIFBlcnNvbjo6Y2xhc3MpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVzb3VyY2VOYXZpZ2F0aW9uVGFiOjptYWtlKCJEdXBsaWNhdGVzIiwgWwogICAgICAgICAgICBdKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnQmF0Y2hlcycsIG51bGwsIEJhdGNoOjpjbGFzcyksCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
