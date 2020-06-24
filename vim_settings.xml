@@ -209,6 +209,12 @@
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Batches/BatchArrival.php" timestamp="1592992782183">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Mds/MdsDataImportJob.php" timestamp="1593036233233">
+        <mark key="'" line="38" column="24" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="/default" timestamp="1592936387500">
         <mark key="[" line="0" column="0" />
       </file>
@@ -222,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="26" filename="$USER_HOME$/code/api-frc-org/app/Http/Requests/NovaRequest.php" />
       <jump line="41" column="26" filename="$USER_HOME$/code/api-frc-org/app/Providers/AppServiceProvider.php" />
       <jump line="7" column="9" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/nova/src/Http/Requests/NovaRequest.php" />
       <jump line="86" column="33" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" />
@@ -322,15 +327,16 @@
       <jump line="97" column="27" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" />
       <jump line="185" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" />
       <jump line="39" column="16" filename="$USER_HOME$/code/api-frc-org/app/Notifications/SimpleNotification.php" />
+      <jump line="36" column="24" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Mds/MdsDataImportJob.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>tap(</text>
+        <text>['eab@frc.org']</text>
       </register>
       <register name="/" type="4">
         <text>gift</text>
@@ -339,32 +345,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnVmVuZG9yIERhdGEgQXJjaGl2ZScsbnVsbCwgQXR0ZW5kZWU6OmNsYXNzKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5KCwgWwogICAgICAgICAgICAgICAgJ2xpbmVzJyA9PiAKICAgICAgICAgICAgXSwgKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtdCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>[
+                    &quot;$file_count files containing $record_count records are importing&quot;,
+                ]</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICApOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGVyc29uX2ZpcnN0X25hbWUnKSwgZnVuY3Rpb24gKEhhc01hbnkgJiRoYXNfbWFueSkgewogICAgICAgICAgICAkaGFzX21hbnktPmpvaW4oJ25ld19hY2NvdW50X2NvcnJlc3BvbmRlbmMKICAgICAgICAgICAgZm9yZWFjaCAoJHRoaXMtPmR1cGxpY2F0aW9uX2NoZWNrX2NvbHVtbnMgYXMgJGNvbHVtbikgewogICAgICAgICAgICAgICAgJGhhc19tYW55LT53aGVyZUluKCRjb2x1bW4sICR0aGlzLT5kdXBsaWNhdGVzLT5wbHVjaygkY29sdW1uKS0+dG9BcnJheSgpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>,
             'person_first_name')</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text>update compositekey trait; override nova requests in the correct method in AppServiceProvider</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
