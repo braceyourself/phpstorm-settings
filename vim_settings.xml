@@ -45,8 +45,8 @@
         <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpLydcMScgPT4gbnVsbCwgXC9cLyBcMi8=</entry>
         <entry>22</entry>
         <entry>138</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,10 +154,11 @@
       <file name="/console" timestamp="1593010043455">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Providers/NovaServiceProvider.php" timestamp="1592936335808">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/Mds/DailyComplete.php" timestamp="1593048204758">
+        <mark key="[" line="92" column="92" />
+        <mark key="]" line="92" column="100" />
+        <mark key="." line="92" column="99" />
+        <mark key="^" line="92" column="100" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Http/Requests/UpdateResourceRequest.php" timestamp="1592992398582">
         <mark key="[" line="7" column="0" />
@@ -209,11 +210,12 @@
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Batches/BatchArrival.php" timestamp="1592992782183">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Mds/MdsDataImportJob.php" timestamp="1593036233233">
-        <mark key="'" line="38" column="24" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Mds/MdsDataImportJob.php" timestamp="1593048329733">
+        <mark key="'" line="25" column="24" />
+        <mark key="[" line="45" column="87" />
+        <mark key="]" line="46" column="29" />
+        <mark key="." line="46" column="28" />
+        <mark key="^" line="46" column="29" />
       </file>
       <file name="/default" timestamp="1592936387500">
         <mark key="[" line="0" column="0" />
@@ -333,10 +335,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRXhlY3V0ZSB0aGUgam9iLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>['eab@frc.org']</text>
+        <text>\n</text>
       </register>
       <register name="/" type="4">
         <text>gift</text>
@@ -345,37 +347,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnVmVuZG9yIERhdGEgQXJjaGl2ZScsbnVsbCwgQXR0ZW5kZWU6OmNsYXNzKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRXhlY3V0ZSB0aGUgam9iLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5KCwgWwogICAgICAgICAgICAgICAgJ2xpbmVzJyA9PiAKICAgICAgICAgICAgXSwgKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IGpvYiBpbnN0YW5jZS4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgICAgICAvLwogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtdCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgTURTIFthY3Rpb24gdGV4dCBiYXNlZCBvbiBkaXNwb3NpdGlvbl0gb24gW2RhdGVdCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>[
-                    &quot;$file_count files containing $record_count records are importing&quot;,
-                ]</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgTURTIFthY3Rpb24gdGV4dCBiYXNlZCBvbiBkaXNwb3NpdGlvbl0gb24gW2RhdGVdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyc29uX2ZpcnN0X25hbWUnKSwgZnVuY3Rpb24gKEhhc01hbnkgJiRoYXNfbWFueSkgewogICAgICAgICAgICAkaGFzX21hbnktPmpvaW4oJ25ld19hY2NvdW50X2NvcnJlc3BvbmRlbmMKICAgICAgICAgICAgZm9yZWFjaCAoJHRoaXMtPmR1cGxpY2F0aW9uX2NoZWNrX2NvbHVtbnMgYXMgJGNvbHVtbikgewogICAgICAgICAgICAgICAgJGhhc19tYW55LT53aGVyZUluKCRjb2x1bW4sICR0aGlzLT5kdXBsaWNhdGVzLT5wbHVjaygkY29sdW1uKS0+dG9BcnJheSgpKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjci0+YWRkQ29tbWVudCgkY29tbWVudCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-            'person_first_name')</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IGpvYiBpbnN0YW5jZS4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgICAgICAvLwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text>update compositekey trait; override nova requests in the correct method in AppServiceProvider</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5KCwgWwogICAgICAgICAgICAgICAgJ2xpbmVzJyA9PiAKICAgICAgICAgICAgXSwgKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
