@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>from</entry>
-        <entry>,</entry>
         <entry>providers</entry>
         <entry>testing</entry>
         <entry>dump</entry>
@@ -25,9 +23,10 @@
         <entry encoding="base64">XDxuYWdpZnRcPg==</entry>
         <entry>type</entry>
         <entry>gift</entry>
+        <entry>arriva</entry>
+        <entry>arrival</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4gcy86Lz0+Lw==</entry>
         <entry encoding="base64">JzwsJz4gcy86Lz0+L2c=</entry>
         <entry encoding="base64">JzwsJz4gcy97L1svZw==</entry>
         <entry encoding="base64">JzwsJz4gcy99L10vZw==</entry>
@@ -47,6 +46,7 @@
         <entry>138</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>m .+1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -139,7 +139,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592999785378">
+      <file name="/Dummy.txt" timestamp="1593049995155">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -154,11 +154,12 @@
       <file name="/console" timestamp="1593010043455">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Models/Mds/DailyComplete.php" timestamp="1593048204758">
-        <mark key="[" line="92" column="92" />
-        <mark key="]" line="92" column="100" />
-        <mark key="." line="92" column="99" />
-        <mark key="^" line="92" column="100" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/Mds/DailyComplete.php" timestamp="1593049687784">
+        <mark key="'" line="89" column="18" />
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="44" />
+        <mark key="^" line="38" column="44" />
+        <mark key="." line="38" column="43" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Http/Requests/UpdateResourceRequest.php" timestamp="1592992398582">
         <mark key="[" line="7" column="0" />
@@ -210,7 +211,7 @@
       <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/Batches/BatchArrival.php" timestamp="1592992782183">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Mds/MdsDataImportJob.php" timestamp="1593048329733">
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Mds/MdsDataImportJob.php" timestamp="1593049270029">
         <mark key="'" line="25" column="24" />
         <mark key="[" line="45" column="87" />
         <mark key="]" line="46" column="29" />
@@ -230,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="26" filename="$USER_HOME$/code/api-frc-org/app/Providers/AppServiceProvider.php" />
       <jump line="7" column="9" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/nova/src/Http/Requests/NovaRequest.php" />
       <jump line="86" column="33" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" />
       <jump line="14" column="28" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php" />
@@ -330,59 +330,60 @@
       <jump line="185" column="23" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/NewAccountBase.php" />
       <jump line="39" column="16" filename="$USER_HOME$/code/api-frc-org/app/Notifications/SimpleNotification.php" />
       <jump line="36" column="24" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Mds/MdsDataImportJob.php" />
+      <jump line="83" column="18" filename="$USER_HOME$/code/api-frc-org/app/Models/Mds/DailyComplete.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRXhlY3V0ZSB0aGUgam9iLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>\n</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>gift</text>
+        <text>arrival</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnVmVuZG9yIERhdGEgQXJjaGl2ZScsbnVsbCwgQXR0ZW5kZWU6OmNsYXNzKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRXhlY3V0ZSB0aGUgam9iLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IGpvYiBpbnN0YW5jZS4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgICAgICAvLwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgTURTIFthY3Rpb24gdGV4dCBiYXNlZCBvbiBkaXNwb3NpdGlvbl0gb24gW2RhdGVdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgTURTIFthY3Rpb24gdGV4dCBiYXNlZCBvbiBkaXNwb3NpdGlvbl0gb24gW2RhdGVdCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJlbnQ6OmFycml2YWwoKTsgLy8gVE9ETzogQ2hhbmdlIHRoZSBhdXRvZ2VuZXJhdGVkIHN0dWIK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjci0+YWRkQ29tbWVudCgkY29tbWVudCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IGpvYiBpbnN0YW5jZS4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgICAgICAvLwogICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogRXhlY3V0ZSB0aGUgam9iLgogICAgICoKICAgICAqIEByZXR1cm4gdm9pZAogICAgICovCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5KCwgWwogICAgICAgICAgICAgICAgJ2xpbmVzJyA9PiAKICAgICAgICAgICAgXSwgKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIGEgbmV3IGpvYiBpbnN0YW5jZS4KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgICAgICAvLwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>m .+1</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>gift</last-search>
+      <last-search>arrival</last-search>
       <last-offset />
-      <last-pattern>gift</last-pattern>
+      <last-pattern>arrival</last-pattern>
       <last-replace encoding="base64">J1wxJyA9PiBudWxsLCBcL1wvIFwy</last-replace>
       <last-substitute>\(\w*\)\(.*\)</last-substitute>
       <last-dir>1</last-dir>
