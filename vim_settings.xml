@@ -196,11 +196,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Resource.php" timestamp="1593104021610">
-        <mark key="[" line="85" column="24" />
-        <mark key="]" line="85" column="38" />
-        <mark key="^" line="85" column="38" />
-        <mark key="." line="85" column="37" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Resource.php" timestamp="1593108615690">
+        <mark key="[" line="86" column="31" />
+        <mark key="]" line="86" column="31" />
+        <mark key="^" line="85" column="47" />
+        <mark key="." line="86" column="31" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Models/Mds/DailyComplete.php" timestamp="1593049687784">
         <mark key="'" line="89" column="18" />
@@ -239,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="35" filename="$USER_HOME$/code/api-frc-org/app/Http/Requests/NovaRequest.php" />
       <jump line="12" column="47" filename="$USER_HOME$/code/api-frc-org/app/Http/Requests/NovaRequest.php" />
       <jump line="9" column="61" filename="$USER_HOME$/code/api-frc-org/app/Http/Requests/NovaRequest.php" />
       <jump line="391" column="27" filename="$USER_HOME$/code/api-frc-org/vendor/laravel/nova/src/Nova.php" />
@@ -339,15 +338,16 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/7534b674-e475-4975-a16e-54f0c634221b/console.sql" />
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" />
+      <jump line="87" column="42" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Resource.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text>4980</text>
+      <register name="+" type="4">
+        <text encoding="base64">eyRmaWVsZC0+YXR0cmlidXRlfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">eyRmaWVsZC0+YXR0cmlidXRlfQ==</text>
       </register>
       <register name="/" type="4">
         <text>mnt</text>
@@ -356,9 +356,30 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEJlbG9uZ3NUbzo6bWFrZSgnVmVuZG9yIERhdGEgQXJjaGl2ZScsbnVsbCwgQXR0ZW5kZWU6OmNsYXNzKSwK</text>
       </register>
       <register name="1" type="2">
-        <text>4980</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlbGF0ZWRfY2xhc3MpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHJlYyA9IG5ldyBEYWlseUNvbXBsZXRlKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkZmllbGQsICRyZXNvdXJjZV9jbGFzcyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHJlYy0+cGhvbmVfbnVtYmVyKCktPmdldFJlbGF0ZWQoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc291cmNlX2NsYXNzLT4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHBob25lLT4K</text>
+      </register>
+      <register name="8" type="2">
+        <text>4980</text>
+      </register>
+      <register name="9" type="2">
         <text>select * from FRC.OUTPUT_FILEPATH
 where FILEPATH like '%/media/%'
 /
@@ -396,27 +417,6 @@ end;
 /
 select * from FRC.OUTPUT_FILEPATH
 -- where FILEPATH like '%'</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBkZWxldGUgZnJvbSBgYWN0aW9uX2V2ZW50c2AKc2VsZWN0ICogZnJvbSBhY3Rpb25fZXZlbnRzCndoZXJlIGBhY3Rpb25hYmxlX3R5cGVgIGxpa2UgJ0FwcCVGcmNUcmFuc2FjdGlvbicKYW5kIGBpZGAgbm90IGluICgKICAgIHNlbGVjdCBgaWRgIGZyb20gKAogICAgICAgICAgICBzZWxlY3QgYGlkYCBmcm9tIGBhY3Rpb25fZXZlbnRzYAogICAgICAgICAgICB3aGVyZSBgYWN0aW9uYWJsZV90eXBlYCBsaWtlICdBcHAlRnJjVHJhbnNhY3Rpb24nCiAgICAgICAgICAgIG9yZGVyIGJ5IGBpZGAgZGVzYyBsaW1pdCAyNQogICAgICAgICkgYXMgYGFjdGlvbl9ldmVudHNfdGVtcGAKICAgICkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CSwgZy5HSUZUX0FNT1VOVAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXBkYXRlIEZSQy5HSUZUCnNldCBHSUZUX0FNT1VOVCA9IDAKd2hlcmUgR0lGVF9OTyBpbiAoCgopCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXNlbGVjdAotLSAJYi5CQVRDSF9OTywKCWcuR0lGVF9OTwotLSAJLCBnLkdJRlRfQU1PVU5UCi0tIAksbmEuUklELAotLSAJYi5CQVRDSF9ERVNDLAotLSAJbmEuUEVSU09OX0ZJUlNUX05BTUUsIG5hLlBFUlNPTl9MQVNUX05BTUUsCi0tIAluYWdpZnQuR0lGVF9BTU9VTlQsIG5hZ2lmdC5HSUZUX0NPTU1FTlQsIG5hZ2lmdC5WRU5ET1JfVFJBTlNBQ1RJT05fTk8KCWZyb20gRlJDLkJBVENIX0FSUklWQUwgYmEKCQlpbm5lciBqb2luIEZSQy5CQVRDSCBiIG9uIGIuQVJSSVZBTF9OTyA9IGJhLkFSUklWQUxfTk8KCQlpbm5lciBqb2luIEZSQy5uZXdfYWNjb3VudHMgbmEgb24gbmEuQkFUQ0hfTk8gPSBiLkJBVENIX05PCgkJaW5uZXIgam9pbiBGUkMuTkVXX0FDQ09VTlRfR0lGVFMgbmFnaWZ0IG9uIG5hZ2lmdC5OQV9SSUQgPSBuYS5SSUQKCQlsZWZ0IGpvaW4gZ2lmdCBnIG9uIGcuQkFUQ0hfTk8gPSBiLkJBVENIX05PCgkJCQkJCQlhbmQgZy5QRVJTT05BTF9JRCA9IG5hLlBFUlNPTkFMX0lECgkJbGVmdCBqb2luIEZSQy5WRU5ET1JfQ0NfVFJBTlNBQ1RJT04gY2Mgb24gY2MudmVuZG9yX3RyYW5zYWN0aW9uX25vID0gbmFnaWZ0LnZlbmRvcl90cmFuc2FjdGlvbl9ubwoJd2hlcmUgYmEuQlJBTkRfQ09ERSA9ICdBQ1QnCglhbmQgbmFnaWZ0LkFVVEhPUklaRV9GTEFHID0gJ04nCglhbmQgTE9BRF9EQVRFID4gJzAxLUpVTi0yMDIwJwoJYW5kIGIuQkFUQ0hfTk8gaW4gKDg0MDg1LDg0MDg4KQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LS0gCW5hLlJJRCwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CWcuR0lGVF9OTwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>85</text>
