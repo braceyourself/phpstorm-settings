@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getacc</entry>
         <entry>set.*attr</entry>
         <entry>filla</entry>
         <entry>setbank</entry>
@@ -25,9 +24,9 @@
         <entry encoding="base64">XDxvdXRGaWxlMVw+</entry>
         <entry encoding="base64">XDxmaWxlTmFtZTJcPg==</entry>
         <entry>brand_code</entry>
+        <entry>get-user-aff</entry>
       </history-search>
       <history-cmd>
-        <entry>redo</entry>
         <entry encoding="base64">JzwsJw==</entry>
         <entry encoding="base64">JzwsJz4gL1woXHcqXCkvXDEv</entry>
         <entry encoding="base64">JzwsJz4gL1woXHcqXCkvIlwxIiA9PiBudWxsLC8vLw==</entry>
@@ -47,6 +46,7 @@
         <entry>85</entry>
         <entry>80</entry>
         <entry>q</entry>
+        <entry>192</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,39 +134,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/api-frc-org/routes/web.php" timestamp="1593112708841">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="79" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593168246020">
+      <file name="/console" timestamp="1593193333803">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT/body/BANK_ACCT_MGMT.sql" timestamp="1593118448860">
-        <mark key="'" line="1119" column="12" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" timestamp="1593111383644">
-        <mark key="'" line="37" column="30" />
-        <mark key="[" line="33" column="1" />
-        <mark key="]" line="33" column="1" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="1" />
-      </file>
-      <file name="/console" timestamp="1593168218608">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT.sql" timestamp="1593118333140">
-        <mark key="'" line="30" column="61" />
-      </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/vendor_report_mgmt.sql" timestamp="1593166970022" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/7534b674-e475-4975-a16e-54f0c634221b/console.sql" timestamp="1593112126861">
-        <mark key="'" line="4" column="25" />
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="25" />
-        <mark key="^" line="4" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/373e252e-6aec-43b7-a213-ab9c50682dd0/console.sql" timestamp="1593137693968">
         <mark key="'" line="2" column="0" />
@@ -180,18 +149,51 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/WebhookTests.php" timestamp="1593113579432">
-        <mark key="'" line="19" column="60" />
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="20" column="26" />
+      <file name="/a.sql" timestamp="1593168246009">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/routes/api.php" timestamp="1593112697119">
-        <mark key="'" line="45" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" timestamp="1593118389195">
+        <mark key="'" line="3" column="14" />
+        <mark key="[" line="12" column="80" />
+        <mark key="]" line="12" column="88" />
+        <mark key="." line="12" column="80" />
+        <mark key="^" line="12" column="81" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Exceptions/ApiException.php" timestamp="1593195210373">
         <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593195636685">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT/body/BANK_ACCT_MGMT.sql" timestamp="1593118448860">
+        <mark key="'" line="1119" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cornerstone/TransactionRepository.php" timestamp="1593194464979">
+        <mark key="'" line="101" column="25" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="101" column="29" />
+        <mark key="." line="101" column="28" />
+        <mark key="^" line="101" column="29" />
+      </file>
+      <file name="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT.sql" timestamp="1593118333140">
+        <mark key="'" line="30" column="61" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/helpers.php" timestamp="1593194918685">
+        <mark key="[" line="250" column="13" />
+        <mark key="]" line="250" column="16" />
+        <mark key="." line="250" column="15" />
+        <mark key="^" line="250" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/routes/api.php" timestamp="1593193598924">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="107" column="90" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Jobs/Cornerstone/MoveEftDataFiles.php" timestamp="1593118726567">
         <mark key="[" line="63" column="37" />
@@ -204,6 +206,12 @@
         <mark key="]" line="200" column="51" />
         <mark key="." line="200" column="51" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Notifications/SimpleNotification.php" timestamp="1593195629917">
+        <mark key="[" line="81" column="25" />
+        <mark key="]" line="84" column="62" />
+        <mark key="^" line="84" column="62" />
+        <mark key="." line="84" column="61" />
+      </file>
       <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" timestamp="1593136607466">
         <mark key="'" line="469" column="34" />
       </file>
@@ -211,37 +219,14 @@
         <mark key="[" line="1031" column="0" />
         <mark key="]" line="1046" column="19" />
       </file>
-      <file name="/a.sql" timestamp="1593168246009">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" timestamp="1593118389195">
-        <mark key="'" line="3" column="14" />
-        <mark key="[" line="12" column="80" />
-        <mark key="]" line="12" column="88" />
-        <mark key="." line="12" column="80" />
-        <mark key="^" line="12" column="81" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Http/Controllers/AuthorizeEventWebhookController.php" timestamp="1593113544965">
-        <mark key="'" line="18" column="54" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="47" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593112099158">
-        <mark key="'" line="0" column="10" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" timestamp="1593195259462">
+        <mark key="'" line="316" column="25" />
+        <mark key="[" line="324" column="0" />
+        <mark key="]" line="324" column="0" />
+        <mark key="." line="324" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="15" filename="$USER_HOME$/code/api-frc-org/app/Jobs/Cornerstone/ChargeEft.php" />
-      <jump line="38" column="53" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cornerstone/TransactionRepository.php" />
-      <jump line="52" column="19" filename="$USER_HOME$/code/api-frc-org/app/FrcTransaction.php" />
-      <jump line="169" column="46" filename="$USER_HOME$/code/api-frc-org/app/FrcTransaction.php" />
-      <jump line="401" column="13" filename="$USER_HOME$/code/api-frc-org/app/FrcTransaction.php" />
       <jump line="689" column="22" filename="$USER_HOME$/code/api-frc-org/app/FrcTransaction.php" />
       <jump line="40" column="19" filename="$USER_HOME$/code/api-frc-org/app/FrcTransaction.php" />
       <jump line="172" column="48" filename="$USER_HOME$/code/api-frc-org/app/FrcTransaction.php" />
@@ -337,59 +322,64 @@
       <jump line="435" column="38" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
       <jump line="469" column="34" filename="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/373e252e-6aec-43b7-a213-ab9c50682dd0/console.sql" />
+      <jump line="18" column="0" filename="$USER_HOME$/code/api-frc-org/routes/api.php" />
+      <jump line="101" column="25" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cornerstone/TransactionRepository.php" />
+      <jump line="130" column="17" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
+      <jump line="82" column="20" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
+      <jump line="316" column="25" filename="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>/</text>
+      <register name="+" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ2JvZHknICAgPT4gJHRoaXMtPnJlc3BvbnNlLT5ib2R5KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>$data</text>
       </register>
       <register name="/" type="4">
-        <text>brand_code</text>
+        <text>get-user-aff</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlEQk1TX09VVFBVVC5QVVRfTElORSgneWVzJyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ3BhdGgnICAgPT4gJHRoaXMtPnBhdGgsCiAgICAgICAgICAgICAgICAncXVlcnknICA9PiAkdGhpcy0+cXVlcnksCiAgICAgICAgICAgICAgICAnZGF0YScgICA9PiAkdGhpcy0+ZGF0YSwKICAgICAgICAgICAgICAgICdqc29uJyAgID0+ICR0aGlzLT5yZXNwb25zZS0+anNvbigpLAogICAgICAgICAgICAgICAgJ3N0YXR1cycgPT4gJHRoaXMtPnJlc3BvbnNlLT5zdGF0dXMoKSwKLy8gICAgICAgICAgICAgICAgJ2JvZHknICAgPT4gJHRoaXMtPnJlc3BvbnNlLT5ib2R5KCkKICAgICAgICAgICAgXQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJ2JvZHknICAgPT4gJHRoaXMtPnJlc3BvbnNlLT5ib2R5KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSBEQk1TX09VVFBVVC5QVVRfTElORSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmcm9tIGR1YWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEFwaUV4Y2VwdGlvbigkbWVzc2FnZSwgWwogICAgICAgICAgICAgICAgJ3BhdGgnICAgPT4gJHRoaXMtPnBhdGgsCiAgICAgICAgICAgICAgICAncXVlcnknICA9PiAkdGhpcy0+cXVlcnksCiAgICAgICAgICAgICAgICAnZGF0YScgICA9PiAkdGhpcy0+ZGF0YSwKICAgICAgICAgICAgICAgICdqc29uJyAgID0+ICR0aGlzLT5yZXNwb25zZS0+anNvbigpLAogICAgICAgICAgICAgICAgJ3N0YXR1cycgPT4gJHRoaXMtPnJlc3BvbnNlLT5zdGF0dXMoKSwKLy8gICAgICAgICAgICAgICAgJ2JvZHknICAgPT4gJHRoaXMtPnJlc3BvbnNlLT5ib2R5KCkKICAgICAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0IGxlbmd0aCgnMDEvMjInKSAgZnJvbSBkdWFsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IHRvX2RhdGUoJzAxLzIyJywgJ01NL1lZJykgZnJvbSBkdWFsOwpzZWxlY3QgbGVuZ3RoKCcwMS8yMicpIGZyb20gZHVhbDsK</text>
+        <text>fix notification creation</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gbm90aWZ5VXNlcnNPZkltcG9ydChDb2xsZWN0aW9uICRmaWxlcykKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPm5vdGlmeVVzZXJzT2ZJbXBvcnQoJGZpbGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkbGluZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Q29kZTo6ZmluZCgnTVBfTk9USUNFJyktPm5vdGlmeShuZXcgRWZ0SW1wb3J0Tm90aWZpY2F0aW9uKCRmaWxlcykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlzc2V0KCRkYXRhWydsaW5lcyddKSkgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>192</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>brand_code</last-search>
+      <last-search>get-user-aff</last-search>
       <last-offset />
-      <last-pattern>brand_code</last-pattern>
+      <last-pattern>get-user-aff</last-pattern>
       <last-replace encoding="base64">J1wxJyA9PiBudWxsLCBcL1wvIFwy</last-replace>
       <last-substitute>\(\w*\)\(.*\)</last-substitute>
       <last-dir>1</last-dir>
