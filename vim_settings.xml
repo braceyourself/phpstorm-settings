@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>setbank</entry>
-        <entry>actions</entry>
-        <entry>database</entry>
         <entry>databaseservicep</entry>
         <entry encoding="base64">XDxuYWdpZnRcPg==</entry>
         <entry>type</entry>
@@ -25,17 +22,11 @@
         <entry>get-user-aff</entry>
         <entry>tower</entry>
         <entry>tests</entry>
+        <entry>\(\w*\)\/Text::make('\1'),</entry>
+        <entry>\(\w*\).*</entry>
+        <entry>\(\w*\)\(.*\)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJw==</entry>
-        <entry encoding="base64">JzwsJz4gL1woXHcqXCkvXDEv</entry>
-        <entry encoding="base64">JzwsJz4gL1woXHcqXCkvIlwxIiA9PiBudWxsLC8vLw==</entry>
-        <entry encoding="base64">JzwsJz4gL1woXHcqXCkuKi8iXDEiID0+IG51bGwsLy8v</entry>
-        <entry encoding="base64">JzwsJz4gL1woXHcqXCkuKi9cMSA9PiBudWxsLC8vLw==</entry>
-        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpLiovXDEgPT4gbnVsbCwvLy8=</entry>
-        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpLiovXDEv</entry>
-        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpLycv</entry>
-        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpLydcMScgPT4gbnVsbCwgLy8gXDIv</entry>
         <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpLydcMScgPT4gbnVsbCwgXC9cLyBcMi9r</entry>
         <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpLydcMScgPT4gbnVsbCwgXC9cLyBcMi8=</entry>
         <entry>22</entry>
@@ -47,6 +38,15 @@
         <entry>80</entry>
         <entry>q</entry>
         <entry>192</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz4gL1woXHcqXClcL1RleHQ6Om1ha2UoJ1wxJyksLy8v</entry>
+        <entry encoding="base64">JzwsJz4gL1woXHcqXCkvVGV4dDo6bWFrZSgnXDEnKSwvLy8=</entry>
+        <entry encoding="base64">JzwsJz4gL1woXHcqXCkuKi9UZXh0OjptYWtlKCdcMScpLC8vLw==</entry>
+        <entry encoding="base64">JzwsJz4gL1woXHcqXCkuKi9UZXh0OjptYWtlKCdcMScpLC8=</entry>
+        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpLiovVGV4dDo6bWFrZSgnXDEnKSwv</entry>
+        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpL1RleHQ6Om1ha2UoJ1wxJyksLw==</entry>
+        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpL1RleHQ6Om1ha2UoJ1wxJyksIC8vIFwyLw==</entry>
+        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpL1RleHQ6Om1ha2UoJ1wxJyksIFwvXC8gXDIv</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,58 +134,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1593193333803">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/TowerDataFileImport.php" timestamp="1593201013377">
-        <mark key="[" line="73" column="8" />
-        <mark key="]" line="73" column="35" />
-        <mark key="." line="73" column="34" />
-        <mark key="^" line="73" column="35" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/373e252e-6aec-43b7-a213-ab9c50682dd0/console.sql" timestamp="1593137693968">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
-        <mark key="^" line="20" column="32" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/FilesystemTests.php" timestamp="1593197047650">
-        <mark key="'" line="43" column="29" />
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="42" column="8" />
-        <mark key="^" line="42" column="8" />
-        <mark key="." line="42" column="7" />
-      </file>
-      <file name="/a.sql" timestamp="1593168246009">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/IpAddress.php" timestamp="1593196836150">
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="23" />
-        <mark key="." line="60" column="23" />
-        <mark key="^" line="60" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/TowerData/TowerDataFileImportTests.php" timestamp="1593200934807">
-        <mark key="'" line="46" column="21" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="20" column="22" />
-        <mark key="." line="20" column="21" />
-        <mark key="^" line="20" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Exceptions/ApiException.php" timestamp="1593195210373">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="10" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="24" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/config/filesystems.php" timestamp="1593198735447">
-        <mark key="'" line="60" column="32" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593196854665">
+      <file name="/Dummy.txt" timestamp="1593317416508">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/console" timestamp="1593316721328">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/Cornerstone/TransactionRepository.php" timestamp="1593194464979">
         <mark key="'" line="101" column="25" />
@@ -194,11 +149,44 @@
         <mark key="." line="101" column="28" />
         <mark key="^" line="101" column="29" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" timestamp="1593203356856">
+        <mark key="'" line="352" column="22" />
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="41" />
+        <mark key="." line="31" column="40" />
+        <mark key="^" line="31" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/TowerDataFileImport.php" timestamp="1593203603231">
+        <mark key="'" line="18" column="9" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="84" column="27" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/helpers.php" timestamp="1593194918685">
         <mark key="[" line="250" column="13" />
         <mark key="]" line="250" column="16" />
         <mark key="." line="250" column="15" />
         <mark key="^" line="250" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/TowerData/SiteVisitor.php" timestamp="1593203665509">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/FilesystemTests.php" timestamp="1593197047650">
+        <mark key="'" line="43" column="29" />
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="42" column="8" />
+        <mark key="^" line="42" column="8" />
+        <mark key="." line="42" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" timestamp="1593318209681">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="62" column="80" />
+        <mark key="]" line="62" column="91" />
+        <mark key="." line="62" column="90" />
+        <mark key="^" line="62" column="91" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/routes/api.php" timestamp="1593193598924">
         <mark key="'" line="18" column="0" />
@@ -217,12 +205,40 @@
         <mark key="^" line="84" column="62" />
         <mark key="." line="84" column="61" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_mobilecause.sql" timestamp="1593136607466">
-        <mark key="'" line="469" column="34" />
+      <file name="$USER_HOME$/code/api-frc-org/app/IpAddress.php" timestamp="1593318793973">
+        <mark key="'" line="31" column="40" />
+        <mark key="[" line="44" column="32" />
+        <mark key="]" line="44" column="32" />
+        <mark key="." line="44" column="32" />
+        <mark key="^" line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/code/fresco32/DDL/Packages/api_actengage/api_actengage.sql" timestamp="1593135605109">
-        <mark key="[" line="1031" column="0" />
-        <mark key="]" line="1046" column="19" />
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/TowerData/TowerDataFileImportTests.php" timestamp="1593200934807">
+        <mark key="'" line="46" column="21" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Exceptions/ApiException.php" timestamp="1593195210373">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Nova/IpAddress.php" timestamp="1593317280888">
+        <mark key="'" line="19" column="40" />
+        <mark key="[" line="50" column="35" />
+        <mark key="]" line="51" column="12" />
+        <mark key="^" line="51" column="12" />
+        <mark key="." line="51" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/TowerData/SiteVisitor.php" timestamp="1593202960955">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/config/filesystems.php" timestamp="1593198735447">
+        <mark key="'" line="60" column="32" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/ExternalApiRepository.php" timestamp="1593196413301">
         <mark key="'" line="322" column="32" />
@@ -231,20 +247,14 @@
         <mark key="." line="320" column="24" />
         <mark key="^" line="320" column="25" />
       </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Http/Middleware/RestrictIpAddress.php" timestamp="1593317347460">
+        <mark key="'" line="64" column="23" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="22" filename="$USER_HOME$/code/api-frc-org/app/Nova/FrcTransaction.php" />
-      <jump line="214" column="19" filename="$USER_HOME$/code/api-frc-org/app/Nova/FrcTransaction.php" />
-      <jump line="27" column="31" filename="$USER_HOME$/code/api-frc-org/app/Nova/Actions/FrcTransaction/ChargeFrcTransaction.php" />
-      <jump line="150" column="0" filename="$USER_HOME$/code/api-frc-org/config/app.php" />
-      <jump line="213" column="33" filename="$USER_HOME$/code/api-frc-org/config/app.php" />
-      <jump line="103" column="20" filename="$USER_HOME$/code/api-frc-org/config/app.php" />
-      <jump line="147" column="28" filename="$USER_HOME$/code/api-frc-org/config/app.php" />
-      <jump line="22" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
-      <jump line="17" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
-      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
-      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
       <jump line="2" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" />
       <jump line="44" column="51" filename="$USER_HOME$/code/api-frc-org/app/Providers/AppServiceProvider.php" />
       <jump line="10" column="17" filename="$USER_HOME$/code/api-frc-org/app/Http/Requests/NovaRequest.php" />
@@ -333,60 +343,72 @@
       <jump line="47" column="22" filename="$USER_HOME$/code/api-frc-org/tests/Feature/TowerData/TowerDataFileImportTests.php" />
       <jump line="58" column="33" filename="$USER_HOME$/code/api-frc-org/tests/Feature/TowerData/TowerDataFileImportTests.php" />
       <jump line="46" column="21" filename="$USER_HOME$/code/api-frc-org/tests/Feature/TowerData/TowerDataFileImportTests.php" />
+      <jump line="77" column="43" filename="$USER_HOME$/code/api-frc-org/app/Jobs/TowerDataFileImport.php" />
+      <jump line="352" column="22" filename="$USER_HOME$/code/api-frc-org/app/Models/ApiVendorDataProxy.php" />
+      <jump line="81" column="15" filename="$USER_HOME$/code/api-frc-org/app/Jobs/TowerDataFileImport.php" />
+      <jump line="18" column="9" filename="$USER_HOME$/code/api-frc-org/app/Jobs/TowerDataFileImport.php" />
+      <jump line="65" column="23" filename="$USER_HOME$/code/api-frc-org/app/Http/Middleware/RestrictIpAddress.php" />
+      <jump line="19" column="40" filename="$USER_HOME$/code/api-frc-org/app/Nova/IpAddress.php" />
+      <jump line="41" column="22" filename="$USER_HOME$/code/api-frc-org/app/IpAddress.php" />
+      <jump line="28" column="25" filename="$USER_HOME$/code/api-frc-org/app/IpAddress.php" />
+      <jump line="40" column="0" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" />
+      <jump line="57" column="0" filename="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" />
+      <jump line="46" column="22" filename="$USER_HOME$/code/api-frc-org/app/IpAddress.php" />
+      <jump line="31" column="40" filename="$USER_HOME$/code/api-frc-org/app/IpAddress.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="+" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPmRpc2stPmFsbEZpbGVzKCk=</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>tests</text>
+        <text>\(\w*\)\(.*\)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgKICAgICAgICAgICAgXFN0b3JhZ2U6OmRpc2soJ3Rlc3RzJyktPmdldCgnRmVhdHVyZS9Ub3dlckRhdGEvdGVzdC5jc3YnKSwKICAgICAgICAgICAgJHRoaXMtPmRpc2stPmdldCgndGVzdC5jc3YnKQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">VkVORE9SX1RSQU5TQUNUSU9OX05PIFZBUkNIQVIyKDIwKSwKU1VCTUlUX0RBVEUgREFURSwKQ0FSRF9OVU1CRVIgVkFSQ0hBUjIoMjApLApWRU5ET1JfR0lGVF9OTyBOVU1CRVIoMTUpLApHSUZUX05PIE5VTUJFUig3KSwKR0lGVF9BTU9VTlQgTlVNQkVSKDEwLDIpLApBQ1RJT05fQ09ERSBWQVJDSEFSMigyMCksCkNVU1RPTUVSX0ZJUlNUX05BTUUgVkFSQ0hBUjIoMTAwKSwKQ1VTVE9NRVJfTEFTVF9OQU1FIFZBUkNIQVIyKDEwMCksClZFTkRPUl9TRVRUTEVNRU5UX0RBVEUgREFURSwKUkVDT05DSUxFX0VSUk9SX0NPREUgVkFSQ0hBUjIoMjApLApBQ0NPVU5UX0lEIE5VTUJFUig4KSwKQ1VTVE9NRVJfRU1BSUwgVkFSQ0hBUjIoMTAwKSwKQ1VTVE9NRVJfQUNDT1VOVF9JRCBOVU1CRVIoOCksCkRJU1BMQVlfRkxBRyBWQVJDSEFSMigxKSwKT1JERVJfTk8gVkFSQ0hBUjIoMjApLApTVEFUVVNfQ09ERSBWQVJDSEFSMig2MCksCkJSQU5EX0NPREUgVkFSQ0hBUjIoMykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdF9pcC0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+aXApOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+aXAsICRyZXF1ZXN0X2lwLCBwcmVnX21hdGNoKCkpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaXAgID0gcHJlZ19xdW90ZSgkdGhpcy0+aXApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAkdGhpcy0+am9iLT51bnppcCgndGVzdC5jc3YuZ3onLCAkdGhpcy0+ZGlzayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaXApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSgkdGhpcy0+ZGlzay0+ZXhpc3RzKCd0ZXN0LmNzdi5neicpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCR0aGlzLT5pcCwgJHJlcXVlc3RfaXApOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>192</text>
+        <text encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpL1RleHQ6Om1ha2UoJ1wxJyksIFwvXC8gXDIv</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tests</last-search>
+      <last-search>\(\w*\)\(.*\)</last-search>
       <last-offset />
-      <last-pattern>tests</last-pattern>
-      <last-replace encoding="base64">J1wxJyA9PiBudWxsLCBcL1wvIFwy</last-replace>
+      <last-pattern>\(\w*\)\(.*\)</last-pattern>
+      <last-replace>Text::make('\1'), \/\/ \2</last-replace>
       <last-substitute>\(\w*\)\(.*\)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
