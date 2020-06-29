@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYWdpZnRcPg==</entry>
-        <entry>type</entry>
         <entry>gift</entry>
         <entry>arriva</entry>
         <entry>arrival</entry>
@@ -25,9 +23,10 @@
         <entry>\(\w*\).*</entry>
         <entry>\(\w*\)\(.*\)</entry>
         <entry>auth</entry>
+        <entry>error_hand</entry>
+        <entry>actengage</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpLydcMScgPT4gbnVsbCwgXC9cLyBcMi8=</entry>
         <entry>22</entry>
         <entry>138</entry>
         <entry>m .+1</entry>
@@ -47,6 +46,7 @@
         <entry encoding="base64">JzwsJz4gcy9cKFx3KlwpXCguKlwpL1RleHQ6Om1ha2UoJ1wxJyksIFwvXC8gXDIv</entry>
         <entry>m .-2</entry>
         <entry>wq</entry>
+        <entry>redo</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -141,12 +141,11 @@
         <mark key="." line="59" column="28" />
         <mark key="^" line="59" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593353196118">
-        <mark key="'" line="0" column="33" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" timestamp="1593425264686">
+        <mark key="'" line="99" column="4" />
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="34" column="3" />
+        <mark key="^" line="34" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1aa91010-962c-4a0b-922e-13b1258c87f5/console.sql" timestamp="1593352284571">
         <mark key="'" line="35" column="0" />
@@ -156,38 +155,6 @@
         <mark key="." line="38" column="32" />
       </file>
       <file name="/console" timestamp="1593424040145">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" timestamp="1593424734481">
-        <mark key="[" line="192" column="16" />
-        <mark key="]" line="97" column="20" />
-        <mark key="^" line="97" column="20" />
-        <mark key="." line="97" column="19" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/Frc/VendorCcTransaction.php" timestamp="1593318209681">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="62" column="80" />
-        <mark key="]" line="62" column="91" />
-        <mark key="." line="62" column="90" />
-        <mark key="^" line="62" column="91" />
-      </file>
-      <file name="/api_frc_org.ip_addresses" timestamp="1593339764755">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/config/api-clients.php" timestamp="1593352889578">
-        <mark key="'" line="69" column="30" />
-        <mark key="[" line="69" column="27" />
-        <mark key="]" line="69" column="37" />
-        <mark key="^" line="69" column="31" />
-        <mark key="." line="69" column="30" />
-      </file>
-      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" timestamp="1593424809951">
-        <mark key="[" line="97" column="50" />
-        <mark key="]" line="97" column="48" />
-        <mark key="^" line="97" column="48" />
-        <mark key="." line="97" column="47" />
-      </file>
-      <file name="/foo.bar" timestamp="1593339791146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/IpAddress.php" timestamp="1593350129037">
@@ -204,15 +171,58 @@
         <mark key="." line="21" column="38" />
         <mark key="^" line="21" column="39" />
       </file>
-      <file name="/ip_addresses [Dev API server]" timestamp="1593339791128">
+      <file name="$USER_HOME$/code/api-frc-org/app/Http/Controllers/AuthorizeEventWebhookController.php" timestamp="1593353190482">
+        <mark key="'" line="32" column="35" />
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="36" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="32" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/config/filesystems.php" timestamp="1593426065545">
+        <mark key="'" line="110" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593353196118">
+        <mark key="'" line="0" column="33" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" timestamp="1593426143328">
+        <mark key="'" line="188" column="21" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+        <mark key="^" line="212" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/helpers.php" timestamp="1593425863008">
+        <mark key="'" line="231" column="58" />
+        <mark key="[" line="237" column="63" />
+        <mark key="]" line="237" column="66" />
+        <mark key="." line="237" column="65" />
+        <mark key="^" line="237" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/config/api-clients.php" timestamp="1593352889578">
+        <mark key="'" line="69" column="30" />
+        <mark key="[" line="69" column="27" />
+        <mark key="]" line="69" column="37" />
+        <mark key="^" line="69" column="31" />
+        <mark key="." line="69" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/vendor/spatie/laravel-permission/src/Models/Role.php" timestamp="1593425725085">
+        <mark key="'" line="79" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" timestamp="1593426166604">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="^" line="103" column="12" />
+        <mark key="." line="104" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1593339791146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Nova/IpAddress.php" timestamp="1593317280888">
-        <mark key="'" line="19" column="40" />
-        <mark key="[" line="50" column="35" />
-        <mark key="]" line="51" column="12" />
-        <mark key="^" line="51" column="12" />
-        <mark key="." line="51" column="11" />
+      <file name="/ip_addresses [Dev API server]" timestamp="1593339791128">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Repositories/External/AuthorizeNet/TransactionRepository.php" timestamp="1593351866141">
         <mark key="'" line="5" column="48" />
@@ -221,22 +231,12 @@
         <mark key="^" line="5" column="50" />
         <mark key="." line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/code/api-frc-org/app/Http/Controllers/AuthorizeEventWebhookController.php" timestamp="1593353190482">
-        <mark key="'" line="32" column="35" />
-        <mark key="[" line="32" column="21" />
-        <mark key="]" line="32" column="36" />
-        <mark key="." line="32" column="35" />
-        <mark key="^" line="32" column="36" />
-      </file>
       <file name="$USER_HOME$/code/api-frc-org/app/Http/Middleware/RestrictIpAddress.php" timestamp="1593342371068">
         <mark key="'" line="94" column="23" />
         <mark key="[" line="57" column="72" />
         <mark key="]" line="57" column="81" />
         <mark key="." line="57" column="72" />
         <mark key="^" line="57" column="72" />
-      </file>
-      <file name="/ip_addresses [API server]" timestamp="1593339764747">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev_api_frc_org.ip_addresses" timestamp="1593339791138">
         <mark key="[" line="0" column="0" />
@@ -248,18 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="54" filename="$USER_HOME$/code/api-frc-org/app/Http/Controllers/AuthorizeEventWebhookController.php" />
-      <jump line="2" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e6a57768-eb88-411d-be53-e409407e3112/console.sql" />
-      <jump line="4" column="0" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT.sql" />
-      <jump line="31" column="35" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT.sql" />
-      <jump line="126" column="26" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT.sql" />
-      <jump line="128" column="14" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT.sql" />
-      <jump line="10" column="38" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT.sql" />
-      <jump line="11" column="38" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT.sql" />
-      <jump line="27" column="59" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT.sql" />
-      <jump line="30" column="61" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT.sql" />
-      <jump line="0" column="0" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT/body/BANK_ACCT_MGMT.sql" />
-      <jump line="947" column="12" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT/body/BANK_ACCT_MGMT.sql" />
       <jump line="1030" column="8" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT/body/BANK_ACCT_MGMT.sql" />
       <jump line="1071" column="53" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT/body/BANK_ACCT_MGMT.sql" />
       <jump line="1110" column="53" filename="/decce863/87ecd734-5cd7-4c33-a7cd-9b3fe4beee0d/schema/FRC/package/BANK_ACCT_MGMT/body/BANK_ACCT_MGMT.sql" />
@@ -348,59 +336,71 @@
       <jump line="84" column="56" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
       <jump line="90" column="33" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
       <jump line="94" column="15" filename="$USER_HOME$/code/api-frc-org/tests/Feature/Actengage/ActengageImportTests.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="28" column="27" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="235" column="19" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="206" column="21" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="228" column="22" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="180" column="27" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="94" column="4" filename="$USER_HOME$/code/api-frc-org/app/Models/FrcBaseModels/ListCodeBase.php" />
+      <jump line="187" column="25" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="188" column="21" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ActengageDataImport.php" />
+      <jump line="231" column="58" filename="$USER_HOME$/code/api-frc-org/app/helpers.php" />
+      <jump line="79" column="29" filename="$USER_HOME$/code/api-frc-org/vendor/spatie/laravel-permission/src/Models/Role.php" />
+      <jump line="110" column="9" filename="$USER_HOME$/code/api-frc-org/config/filesystems.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="+" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkZmlsZSwgJHZhdWx0X2ZvbGRlciwgJHZhdWx0LT5hbGxGaWxlcygpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGFlLT5hbGxGaWxlcygp</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text>actengage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkam9iID0gbmV3IEFjdGVuZ2FnZURhdGFJbXBvcnQoKTsKICAgICAgICBTdG9yYWdlOjpmYWtlKCd2YXVsdCcpOwogICAgICAgICRhZSA9IFN0b3JhZ2U6OmZha2UoJ2FjdGVuZ2FnZScpOwogICAgICAgICR0aGlzLT5mYWtlQWN0ZW5nYWdlU3RvcmFnZSgpOwoKICAgICAgICAkam9iLT5hZGRJbXBvcnRKb2JzKCktPmRpc3BhdGNoQ2hhaW4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHVtcCgkZmlsZSwgJHZhdWx0X2ZvbGRlciwgJHZhdWx0LT5hbGxGaWxlcygpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR2YXVsdCA9IFN0b3JhZ2U6OmRpc2soJ3ZhdWx0Jyk7CiAgICAgICAgICAgICAgICAkYWUgPSBTdG9yYWdlOjpkaXNrKCdhY3RlbmdhZ2UnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBuZXcgQ29weVRvRGlzaygiYWN0ZW5nYWdlOiRmaWxlIiwgInZhdWx0OiR2YXVsdF9wYXRoIiwgdHJ1ZSwgdHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkam9iLT5hZGRJbXBvcnRKb2JzKCktPmRpc3BhdGNoQ2hhaW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG5vdGlmaWNhdGlvbiA9IG5ldyBTaW1wbGVOb3RpZmljYXRpb24oJHN1YmplY3QgPSAnQVBJIFNlcnZlcjogRGF0YSBJbXBvcnQgRXhjZXB0aW9uICgnIC4gZ2V0X2NsYXNzKCRlKSAuICcpJywgWwogICAgICAgICAgICAgICAgIm1lc3NhZ2U6ICIgLiAkZS0+Z2V0TWVzc2FnZSgpLAogICAgICAgICAgICAgICAgIkltcG9ydCBmaWxlOiAiIC4gJGZpbGUKICAgICAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWUtPmFsbEZpbGVzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbm90aWZpY2F0aW9uLT50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWUtPmFsbEZpbGVzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBcTm90aWZpY2F0aW9uOjpzZW4K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>redo</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>auth</last-search>
+      <last-search>actengage</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern>actengage</last-pattern>
       <last-replace>Text::make('\1'), \/\/ \2</last-replace>
       <last-substitute>\(\w*\)\(.*\)</last-substitute>
       <last-dir>1</last-dir>
