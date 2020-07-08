@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>genera</entry>
         <entry encoding="base64">XDxQaXhlbERhdGFcPg==</entry>
         <entry>file_mask</entry>
         <entry>mask</entry>
@@ -25,6 +24,7 @@
         <entry>vault</entry>
         <entry>dispatch</entry>
         <entry>laravel\/</entry>
+        <entry>arrival</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -160,9 +160,6 @@
       <file name="/console" timestamp="1594218419503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1594123794624">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="/frc_transactions [API server]" timestamp="1594221150221">
         <mark key="[" line="0" column="0" />
       </file>
@@ -182,16 +179,25 @@
         <mark key="^" line="40" column="50" />
         <mark key="." line="40" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594205810156">
+      <file name="/Dummy.txt" timestamp="1594239423425">
+        <mark key="'" line="0" column="40" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="41" />
       </file>
       <file name="$USER_HOME$/code/api-frc-org/config/factories-reloaded.php" timestamp="1594144092061">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="41" />
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" timestamp="1594239410365">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="481" column="8" />
+        <mark key="]" line="481" column="67" />
+        <mark key="." line="481" column="66" />
+        <mark key="^" line="481" column="67" />
       </file>
       <file name="/api_frc_org.frc_transactions" timestamp="1594221150231">
         <mark key="[" line="0" column="0" />
@@ -234,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="25" filename="$USER_HOME$/code/api-frc-org/tests/Feature/TowerData/TowerDataFileImportTests.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/code/api-frc-org/app/Jobs/FileImportJob.php" />
       <jump line="23" column="16" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ApiVendorDataImport.php" />
       <jump line="24" column="26" filename="$USER_HOME$/code/api-frc-org/app/Jobs/ApiVendorDataImport.php" />
       <jump line="2" column="0" filename="$USER_HOME$/code/api-frc-org/config/filesystems.php" />
@@ -334,48 +338,50 @@
       <jump line="35" column="13" filename="$USER_HOME$/code/api-frc-org/composer.json" />
       <jump line="0" column="43" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Cornerstone/Resource.php" />
       <jump line="6" column="27" filename="$USER_HOME$/code/api-frc-org/app/Nova/ApiData/Cornerstone/Transaction.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/code/api-frc-org/app/Models/Cmi/User.php" />
+      <jump line="0" column="40" filename="/Dummy.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="+" type="4">
-        <text>assertNotEmpty</text>
+      <register name="+" type="2">
+        <text>check directory for files before dispatch</text>
       </register>
       <register name="-" type="4">
         <text>assertNotEmpty</text>
       </register>
       <register name="/" type="4">
-        <text>laravel\/</text>
+        <text>arrival</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkZGlzayA9ICdhcGknOwogICAgICAgICRkaXIgPSAnZnJjJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvbjo6cXVlcnkoKS0+ZGVsZXRlKCk7CiAgICAgICAgRnJjVHJhbnNhY3Rpb246OnF1ZXJ5KCktPmRlbGV0ZSgpOwo=</text>
+        <text>check directory for files before dispatch</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVzdF90cmFuc2FjdGlvbiA9IGNvbGxlY3QoWwogICAgICAgICAgICAiZ2lmdF9ubyIgICAgICAgICA9PiAiMTIzNCIsCiAgICAgICAgICAgICJiYW5rQWNjdF90eXBlIiAgID0+ICJjaGVja2luZyIsCiAgICAgICAgICAgICJiYW5rQWNjdF9udW1iZXIiID0+ICI5OTk5OTk5OTk5IiwKICAgICAgICAgICAgInJvdXRpbmdfbm8iICAgICAgPT4gIjk5OTk5OTk5OSIsCiAgICAgICAgICAgICJnaWZ0X2Ftb3VudCIgICAgID0+ICIxIiwKICAgICAgICAgICAgImZpcnN0X25hbWUiICAgICAgPT4gIlRlc3QiLAogICAgICAgICAgICAibGFzdF9uYW1lIiAgICAgICA9PiAiVGVzdCIsCiAgICAgICAgICAgICJhZGRyXzEiICAgICAgICAgID0+ICcxMjMgdGVzdCByZCcsCiAgICAgICAgICAgICJjaXR5IiAgICAgICAgICAgID0+ICdwYXJpcycsCiAgICAgICAgICAgICJzdGF0ZSIgICAgICAgICAgID0+ICdUTicsCiAgICAgICAgICAgICJ6aXAiICAgICAgICAgICAgID0+IDEyMzQ1LAogICAgICAgICAgICAiZW1haWxfYWRkcmVzcyIgICA9PiAibmluYXNjb3RAZXhhbXBsZS5uZXQiCiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgYXJyaXZhbCgpIG1ldGhvZC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbmFtZSA9IG51bGwsIGFycmF5ICRkYXRhID0gW10sICRkYXRhTmFtZSA9ICcnKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJG5hbWUsICRkYXRhLCAkZGF0YU5hbWUpOwoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvbjo6cXVlcnkoKS0+ZGVsZXRlKCk7CiAgICAgICAgRnJjVHJhbnNhY3Rpb246OnF1ZXJ5KCktPmRlbGV0ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVzdF90cmFuc2FjdGlvbiA9IGNvbGxlY3QoWwogICAgICAgICAgICAiZ2lmdF9ubyIgICAgICAgICA9PiAiMTIzNCIsCiAgICAgICAgICAgICJiYW5rQWNjdF90eXBlIiAgID0+ICJjaGVja2luZyIsCiAgICAgICAgICAgICJiYW5rQWNjdF9udW1iZXIiID0+ICI5OTk5OTk5OTk5IiwKICAgICAgICAgICAgInJvdXRpbmdfbm8iICAgICAgPT4gIjk5OTk5OTk5OSIsCiAgICAgICAgICAgICJnaWZ0X2Ftb3VudCIgICAgID0+ICIxIiwKICAgICAgICAgICAgImZpcnN0X25hbWUiICAgICAgPT4gIlRlc3QiLAogICAgICAgICAgICAibGFzdF9uYW1lIiAgICAgICA9PiAiVGVzdCIsCiAgICAgICAgICAgICJhZGRyXzEiICAgICAgICAgID0+ICcxMjMgdGVzdCByZCcsCiAgICAgICAgICAgICJjaXR5IiAgICAgICAgICAgID0+ICdwYXJpcycsCiAgICAgICAgICAgICJzdGF0ZSIgICAgICAgICAgID0+ICdUTicsCiAgICAgICAgICAgICJ6aXAiICAgICAgICAgICAgID0+IDEyMzQ1LAogICAgICAgICAgICAiZW1haWxfYWRkcmVzcyIgICA9PiAibmluYXNjb3RAZXhhbXBsZS5uZXQiCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVzdF90cmFuc2FjdGlvbiA9IGNvbGxlY3QoWwogICAgICAgICAgICAiZ2lmdF9ubyIgICAgICAgICA9PiAiMTIzNCIsCiAgICAgICAgICAgICJiYW5rQWNjdF90eXBlIiAgID0+ICJjaGVja2luZyIsCiAgICAgICAgICAgICJiYW5rQWNjdF9udW1iZXIiID0+ICI5OTk5OTk5OTk5IiwKICAgICAgICAgICAgInJvdXRpbmdfbm8iICAgICAgPT4gIjk5OTk5OTk5OSIsCiAgICAgICAgICAgICJnaWZ0X2Ftb3VudCIgICAgID0+ICIxIiwKICAgICAgICAgICAgImZpcnN0X25hbWUiICAgICAgPT4gIlRlc3QiLAogICAgICAgICAgICAibGFzdF9uYW1lIiAgICAgICA9PiAiVGVzdCIsCiAgICAgICAgICAgICJhZGRyXzEiICAgICAgICAgID0+ICcxMjMgdGVzdCByZCcsCiAgICAgICAgICAgICJjaXR5IiAgICAgICAgICAgID0+ICdwYXJpcycsCiAgICAgICAgICAgICJzdGF0ZSIgICAgICAgICAgID0+ICdUTicsCiAgICAgICAgICAgICJ6aXAiICAgICAgICAgICAgID0+IDEyMzQ1LAogICAgICAgICAgICAiZW1haWxfYWRkcmVzcyIgICA9PiAibmluYXNjb3RAZXhhbXBsZS5uZXQiCiAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkbmFtZSA9IG51bGwsIGFycmF5ICRkYXRhID0gW10sICRkYXRhTmFtZSA9ICcnKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJG5hbWUsICRkYXRhLCAkZGF0YU5hbWUpOwoKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVzdF90cmFuc2FjdGlvbiA9IGNvbGxlY3QoWwogICAgICAgICAgICAiZ2lmdF9ubyIgICAgICAgICA9PiAiMTIzNCIsCiAgICAgICAgICAgICJiYW5rQWNjdF90eXBlIiAgID0+ICJjaGVja2luZyIsCiAgICAgICAgICAgICJiYW5rQWNjdF9udW1iZXIiID0+ICI5OTk5OTk5OTk5IiwKICAgICAgICAgICAgInJvdXRpbmdfbm8iICAgICAgPT4gIjk5OTk5OTk5OSIsCiAgICAgICAgICAgICJnaWZ0X2Ftb3VudCIgICAgID0+ICIxIiwKICAgICAgICAgICAgImZpcnN0X25hbWUiICAgICAgPT4gIlRlc3QiLAogICAgICAgICAgICAibGFzdF9uYW1lIiAgICAgICA9PiAiVGVzdCIsCiAgICAgICAgICAgICJhZGRyXzEiICAgICAgICAgID0+ICcxMjMgdGVzdCByZCcsCiAgICAgICAgICAgICJjaXR5IiAgICAgICAgICAgID0+ICdwYXJpcycsCiAgICAgICAgICAgICJzdGF0ZSIgICAgICAgICAgID0+ICdUTicsCiAgICAgICAgICAgICJ6aXAiICAgICAgICAgICAgID0+IDEyMzQ1LAogICAgICAgICAgICAiZW1haWxfYWRkcmVzcyIgICA9PiAibmluYXNjb3RAZXhhbXBsZS5uZXQiCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGVzdF90cmFuc2FjdGlvbiA9IGNvbGxlY3QoWwogICAgICAgICAgICAiZ2lmdF9ubyIgICAgICAgICA9PiAiMTIzNCIsCiAgICAgICAgICAgICJiYW5rQWNjdF90eXBlIiAgID0+ICJjaGVja2luZyIsCiAgICAgICAgICAgICJiYW5rQWNjdF9udW1iZXIiID0+ICI5OTk5OTk5OTk5IiwKICAgICAgICAgICAgInJvdXRpbmdfbm8iICAgICAgPT4gIjk5OTk5OTk5OSIsCiAgICAgICAgICAgICJnaWZ0X2Ftb3VudCIgICAgID0+ICIxIiwKICAgICAgICAgICAgImZpcnN0X25hbWUiICAgICAgPT4gIlRlc3QiLAogICAgICAgICAgICAibGFzdF9uYW1lIiAgICAgICA9PiAiVGVzdCIsCiAgICAgICAgICAgICJhZGRyXzEiICAgICAgICAgID0+ICcxMjMgdGVzdCByZCcsCiAgICAgICAgICAgICJjaXR5IiAgICAgICAgICAgID0+ICdwYXJpcycsCiAgICAgICAgICAgICJzdGF0ZSIgICAgICAgICAgID0+ICdUTicsCiAgICAgICAgICAgICJ6aXAiICAgICAgICAgICAgID0+IDEyMzQ1LAogICAgICAgICAgICAiZW1haWxfYWRkcmVzcyIgICA9PiAibmluYXNjb3RAZXhhbXBsZS5uZXQiCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLCAiVGVzdCIsICIxMjMgVGVzdCBSRCIsCiAgICAgICAgICAgICJQYXJpcyIsICJUTiIsICIzODI0Mi04NjkyIiwgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>182</text>
@@ -384,9 +390,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>laravel\/</last-search>
+      <last-search>arrival</last-search>
       <last-offset />
-      <last-pattern>laravel\/</last-pattern>
+      <last-pattern>arrival</last-pattern>
       <last-replace>'\1'</last-replace>
       <last-substitute>\(\d*\)</last-substitute>
       <last-dir>1</last-dir>
