@@ -1,10 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="947206f1-826a-4f74-a9ba-1090ec47f504" name="PHP" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
@@ -80,5 +74,8 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
+  </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="promptFindUsagesOfBaseMethod" value="false" />
   </component>
 </application>
