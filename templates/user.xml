@@ -6,4 +6,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="bootevent" value="static::$event$(function($type$ $model){&#10;    $END$&#10;});" description="create an event handler in the boot method of a model" toReformat="false" toShortenFQNames="true">
+    <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="phpClassName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
