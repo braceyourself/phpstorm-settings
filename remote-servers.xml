@@ -6,5 +6,10 @@
         <option name="certificatesPath" />
       </configuration>
     </remote-server>
+    <remote-server name="staging" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://docker01.hol.frc.org:2376" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
