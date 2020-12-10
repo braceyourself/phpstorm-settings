@@ -8,7 +8,7 @@
     </remote-server>
     <remote-server name="staging" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp:\10.2.0.1:2376" />
+        <option name="apiUrl" value="https://10.2.0.1:2376" />
       </configuration>
     </remote-server>
   </component>
