@@ -4,6 +4,7 @@
       <mapping pattern="initialAdminPassword" type="AUTO_DETECTED" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Dockerifile" type="PLAIN_TEXT" />
+      <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping pattern="Model" type="SQL" />
