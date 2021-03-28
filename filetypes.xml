@@ -4,6 +4,7 @@
       <mapping pattern="initialAdminPassword" type="AUTO_DETECTED" />
       <mapping pattern="dev" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
+      <mapping ext="hot" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Dockerifile" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
