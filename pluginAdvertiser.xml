@@ -2,6 +2,14 @@
   <component name="PluginAdvertiserExtensions">
     <option name="localState">
       <map>
+        <entry key="*.al">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ane">
           <value>
             <plugin>
@@ -89,6 +97,14 @@
               <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
               <option name="myPluginName" value="Ini" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cgi">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
             </plugin>
           </value>
         </entry>
@@ -837,6 +853,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ph">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.phar">
           <value>
             <plugin>
@@ -936,6 +960,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.pl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pm">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.png">
           <value>
             <plugin>
@@ -960,6 +1000,14 @@
               <option name="myPluginId" value="org.jetbrains.plugins.localization" />
               <option name="myPluginName" value="GNU GetText files support (*.po)" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pod">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
             </plugin>
           </value>
         </entry>
@@ -1149,6 +1197,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.t">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
             </plugin>
           </value>
         </entry>
@@ -1347,6 +1403,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.xs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
             </plugin>
           </value>
         </entry>
@@ -1645,6 +1709,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="cpanfile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.perl5" />
+              <option name="myPluginName" value="Perl" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="exclude">
           <value>
             <plugin>
@@ -1755,6 +1827,16 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="#PerlConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Perl" pluginName="Perl" pluginId="com.perl5" />
+                    </value>
+                  </entry>
+                  <entry key="#PerlRemoteDebuggingConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Perl Remote Debugging" pluginName="Perl" pluginId="com.perl5" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
@@ -1823,6 +1905,11 @@
                   <entry key="PHPUnitRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="PHPUnit" pluginName="PHP" pluginId="com.jetbrains.php" />
+                    </value>
+                  </entry>
+                  <entry key="PerlTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Perl5 Test" pluginName="Perl" pluginId="com.perl5" />
                     </value>
                   </entry>
                   <entry key="PhpBehatConfigurationType">
