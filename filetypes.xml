@@ -9,6 +9,7 @@
       <mapping pattern="build" type="AUTO_DETECTED" />
       <mapping ext="hot" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Dockerifile" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
