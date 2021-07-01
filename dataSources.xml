@@ -7,5 +7,12 @@
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
       <jdbc-url>jdbc:oracle:thin:@//10.2.1.49:1521/devfrc.frc.org</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="FRC" uuid="cfeb3a96-183a-4ab1-a437-5edf4bfc0ec2">
+      <driver-ref>oracle.19</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//10.2.1.17:1521/frc.frc.org</jdbc-url>
+    </data-source>
   </component>
 </application>
