@@ -13,4 +13,12 @@
       <option name="PHP Interface Member" value="true" />
     </context>
   </template>
+  <template name="get" value="/**&#10; * Accessor for $this-&gt;$variable_name$&#10; **/&#10;public function get$studly_variable_name$Attribute(): $TYPE$;&#10;" description="Create Laravel attribute accessor" toReformat="false" toShortenFQNames="true">
+    <variable name="variable_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="studly_variable_name" expression="capitalize(camelCase(variable_name))" defaultValue="" alwaysStopAt="false" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Interface Member" value="true" />
+    </context>
+  </template>
 </templateSet>
