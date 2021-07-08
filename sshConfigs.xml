@@ -4,6 +4,7 @@
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="web1" id="e70c331d-7c4a-4b0c-bb68-04ca3cae8c64" port="22" customName="eab-admin@web1" nameFormat="CUSTOM" username="eab-admin">
         <option name="customName" value="eab-admin@web1" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="10.2.0.1" id="f8a8175e-2e04-47ce-9146-9ae95d71aade" port="22" nameFormat="DESCRIPTIVE" username="eab-admin" />
     </configs>
   </component>
 </application>
