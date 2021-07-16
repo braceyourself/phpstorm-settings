@@ -76,6 +76,7 @@
   <template name="setup" value="protected function setUp(): void&#10;{&#10;    parent::setUp();&#10;    &#10;    $END$&#10;}&#10;" description="create the test setup method" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Class Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
     </context>
   </template>
   <template name="sec" value="@section('$VIEW$')&#10;    $END$&#10;@endsection" description="@section" toReformat="false" toShortenFQNames="true">
