@@ -1,18 +1,18 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="initialAdminPassword" type="AUTO_DETECTED" />
-      <mapping pattern="default" type="AUTO_DETECTED" />
-      <mapping pattern="error_log" type="AUTO_DETECTED" />
-      <mapping pattern="prod" type="AUTO_DETECTED" />
-      <mapping pattern="index" type="AUTO_DETECTED" />
       <mapping pattern="start-container" type="AUTO_DETECTED" />
       <mapping pattern="dev" type="AUTO_DETECTED" />
+      <mapping pattern="error_log" type="AUTO_DETECTED" />
+      <mapping pattern="index" type="AUTO_DETECTED" />
+      <mapping pattern="initialAdminPassword" type="AUTO_DETECTED" />
+      <mapping pattern="default" type="AUTO_DETECTED" />
+      <mapping pattern="prod" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
       <mapping ext="hot" type="Dockerfile" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Dockerifile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
