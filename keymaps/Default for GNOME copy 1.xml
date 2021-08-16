@@ -24,6 +24,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="shift h" />
   </action>
+  <action id="EditorCompleteStatement" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="control button1" />
   </action>
@@ -42,9 +43,14 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt right" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
+  <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="back_space" />
   </action>
