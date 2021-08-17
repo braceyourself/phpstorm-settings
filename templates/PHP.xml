@@ -8,9 +8,8 @@
       <option name="PHP Trait Member" value="true" />
     </context>
   </template>
-  <template name="Test" value="/** @test */ // $name$ &#10;public function $snake_name$(){&#10;    // given&#10;    $END$&#10;    // when&#10;    &#10;    // then&#10;}" description="create a phpunit test method" toReformat="false" toShortenFQNames="true">
+  <template name="Test" value="test('$name$', function(){&#10;    // given&#10;    $END$&#10;    // when&#10;    &#10;    // then&#10;}" description="create a phpunit test method" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="snake_name" expression="snakeCase(name)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="PHP" value="true" />
     </context>
