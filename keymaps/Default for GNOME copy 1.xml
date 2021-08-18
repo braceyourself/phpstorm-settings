@@ -19,7 +19,12 @@
   </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="ContextHelp" />
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPaths" />
   <action id="CopyReference" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="shift h" />
@@ -45,8 +50,16 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
+  <action id="PhpNewClass">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
+  <action id="RemoteHostView.CopyPaths" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
   </action>
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="Unsplit">
@@ -55,4 +68,6 @@
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="escape" />
   </action>
+  <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
 </keymap>

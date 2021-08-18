@@ -8,7 +8,7 @@
       <option name="PHP Trait Member" value="true" />
     </context>
   </template>
-  <template name="Test" value="test('$name$', function(){&#10;    // given&#10;    $END$&#10;    // when&#10;    &#10;    // then&#10;}" description="create a phpunit test method" toReformat="false" toShortenFQNames="true">
+  <template name="Test" value="test('$name$', function(){&#10;    // given&#10;    $END$&#10;    // when&#10;    &#10;    // then&#10;});" description="create a phpunit test method" toReformat="false" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
@@ -41,6 +41,12 @@
     <variable name="snake_variable" expression="snakeCase(variable)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="It" value="it('$name$', function(){&#10;    // given&#10;    $END$&#10;    // when&#10;    &#10;    // then&#10;});" description="create a phpunit test method" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>
