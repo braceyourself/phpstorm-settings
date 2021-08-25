@@ -28,7 +28,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="get" value="/**&#10; * Accessor for $this-&gt;$variable_name$&#10; **/&#10;public function get$studly_variable_name$Attribute()&#10;{&#10;    $END$&#10;}&#10;" description="Create Laravel attribute accessor" toReformat="false" toShortenFQNames="true">
+  <template name="get" value="/**&#10; * Accessor for $this-&gt;$variable_name$&#10; **/&#10;public function get$studly_variable_name$Attribute()&#10;{&#10;    return $this-&gt;attributes['$variable_name$'] ?? null;$END$&#10;}&#10;" description="Create Laravel attribute accessor" toReformat="false" toShortenFQNames="true">
     <variable name="variable_name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="studly_variable_name" expression="capitalize(camelCase(variable_name))" defaultValue="" alwaysStopAt="false" />
     <context>
