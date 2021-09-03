@@ -144,4 +144,9 @@
   <component name="PhpSmartKeysConfiguration">
     <option name="promptFindUsagesOfBaseMethod" value="false" />
   </component>
+  <component name="Psalm">
+    <Psalm_settings>
+      <psalm_fixer_by_interpreter interpreter_id="968f3051-efab-4b00-b556-1468bba765cc" tool_path="/opt/project/vendor/bin/psalm" timeout="60000" />
+    </Psalm_settings>
+  </component>
 </application>
