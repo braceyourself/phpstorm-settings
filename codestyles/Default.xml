@@ -171,6 +171,9 @@
     <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
     <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
   </SybaseCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="Oracle">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <indentOptions>
@@ -196,6 +199,11 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
