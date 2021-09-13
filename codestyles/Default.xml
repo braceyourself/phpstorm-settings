@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
-  <DB2CodeStyleSettings version="2">
+  <DB2CodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="WITH_ALIGN_AS" value="true" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_ALIGN_ALIASES" value="true" />
@@ -9,7 +10,8 @@
     <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
     <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="2">
+  <DerbyCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="WITH_ALIGN_AS" value="true" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_ALIGN_ALIASES" value="true" />
@@ -19,7 +21,8 @@
     <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
     <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="2">
+  <H2CodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="WITH_ALIGN_AS" value="true" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_ALIGN_ALIASES" value="true" />
@@ -28,7 +31,18 @@
     <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
     <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="2">
+  <H2CodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
+    <option name="FROM_ALIGN_ALIASES" value="true" />
+    <option name="ROUTINE_ARG_ALIGN_TYPES" value="true" />
+    <option name="EXPR_CASE_THEN_ALIGN" value="true" />
+    <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
+    <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="WITH_ALIGN_AS" value="true" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_ALIGN_ALIASES" value="true" />
@@ -37,7 +51,8 @@
     <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
     <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
   </HSQLCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="2">
+  <MSSQLCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="WITH_ALIGN_AS" value="true" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_ALIGN_ALIASES" value="true" />
@@ -47,10 +62,12 @@
     <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
     <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
+  <MySQLCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="IMP_COMMON_WRAP_EVERY_STATEMENT" value="true" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="2">
+  <OracleCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
     <option name="QUERY_EL_COMMA" value="2" />
@@ -112,7 +129,8 @@
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="2">
+  <PostgresCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="WITH_ALIGN_AS" value="true" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_ALIGN_ALIASES" value="true" />
@@ -122,7 +140,8 @@
     <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
     <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="2">
+  <SQLiteCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="WITH_ALIGN_AS" value="true" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_ALIGN_ALIASES" value="true" />
@@ -131,7 +150,7 @@
     <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
     <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="2">
+  <SqlCodeStyleSettings version="6">
     <option name="WITH_ALIGN_AS" value="true" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_ALIGN_ALIASES" value="true" />
@@ -141,7 +160,8 @@
     <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
     <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="2">
+  <SybaseCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="WITH_ALIGN_AS" value="true" />
     <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
     <option name="FROM_ALIGN_ALIASES" value="true" />
@@ -170,6 +190,12 @@
       <option name="INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Vue">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
