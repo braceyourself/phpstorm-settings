@@ -49,4 +49,16 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="hasmanythrough" value="public function $function_name$()&#10;{&#10;    return $this-&gt;hasManyThrough(&#10;        $related_class$::class,&#10;        $through_class$::class,&#10;        '$through_foreign_id$',&#10;        '$related_foreign_id$',&#10;        '$local_key$',&#10;        '$second_local_key$'&#10;    );&#10;}&#10;" description="hasManyThrough live template" toReformat="false" toShortenFQNames="true">
+    <variable name="function_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="related_class" expression="capitalize(camelCase(function_name)" defaultValue="" alwaysStopAt="true" />
+    <variable name="through_class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="through_foreign_id" expression="" defaultValue="through_key" alwaysStopAt="true" />
+    <variable name="related_foreign_id" expression="" defaultValue="related_key" alwaysStopAt="true" />
+    <variable name="local_key" expression="" defaultValue="this_key" alwaysStopAt="true" />
+    <variable name="second_local_key" expression="" defaultValue="through_local_key" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
