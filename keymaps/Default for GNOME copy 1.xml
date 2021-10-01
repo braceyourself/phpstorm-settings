@@ -29,6 +29,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt d" />
     <keyboard-shortcut first-keystroke="shift h" />
   </action>
+  <action id="DumpLookupElementWeights" />
+  <action id="EditorToggleShowWhitespaces">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
+  </action>
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="control button1" />
   </action>
