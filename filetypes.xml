@@ -14,6 +14,7 @@
       <mapping pattern="artisan" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
       <mapping ext="hot" type="Dockerfile" />
+      <mapping ext="lgt" type="Logtalk resource" />
       <mapping pattern="Dockerifile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="debug" type="PLAIN_TEXT" />
