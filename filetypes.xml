@@ -5,12 +5,12 @@
       <mapping pattern="dev" type="AUTO_DETECTED" />
       <mapping pattern="error_log" type="AUTO_DETECTED" />
       <mapping pattern="index" type="AUTO_DETECTED" />
-      <mapping pattern="HasSessionId" type="AUTO_DETECTED" />
-      <mapping pattern="initialAdminPassword" type="AUTO_DETECTED" />
       <mapping pattern="default" type="AUTO_DETECTED" />
       <mapping pattern="file" type="AUTO_DETECTED" />
       <mapping pattern="faillog" type="AUTO_DETECTED" />
       <mapping pattern="prod" type="AUTO_DETECTED" />
+      <mapping pattern="HasSessionId" type="AUTO_DETECTED" />
+      <mapping pattern="initialAdminPassword" type="AUTO_DETECTED" />
       <mapping pattern="artisan" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
       <mapping ext="hot" type="Dockerfile" />
@@ -26,6 +26,7 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="Model" type="SQL" />
+      <mapping pattern="*.antlers.html" type="Twig" />
       <mapping pattern="*.vue.backup" type="Vue.js" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
