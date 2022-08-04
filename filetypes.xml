@@ -14,7 +14,6 @@
       <mapping pattern="artisan" type="AUTO_DETECTED" />
       <mapping pattern="build" type="AUTO_DETECTED" />
       <mapping ext="hot" type="Dockerfile" />
-      <mapping ext="lgt" type="Logtalk resource" />
       <mapping pattern="Dockerifile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="debug" type="PLAIN_TEXT" />
@@ -39,6 +38,7 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
+      <mapping ext="lgt" type="Logtalk resource" />
     </extensionMap>
   </component>
 </application>
