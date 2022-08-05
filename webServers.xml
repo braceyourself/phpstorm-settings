@@ -5,14 +5,5 @@
         <option name="hostKeyCheckingLevel" value="NO" />
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
-    <option name="servers">
-      <webServer id="32bb701a-6cde-4610-a457-c1053944cfe5" name="web1">
-        <fileTransfer rootFolder="/usr/local/web/htdocs/sites" accessType="SFTP" host="web1" port="22" sshConfigId="e70c331d-7c4a-4b0c-bb68-04ca3cae8c64" sshConfig="eab-admin@web1" authAgent="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-    </option>
   </component>
 </application>
