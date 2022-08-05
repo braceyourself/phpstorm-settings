@@ -17,6 +17,10 @@
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="ContextHelp" />
   <action id="CopyAbsolutePath" />
@@ -30,6 +34,7 @@
     <keyboard-shortcut first-keystroke="shift h" />
   </action>
   <action id="DumpLookupElementWeights" />
+  <action id="EditorSelectWord" />
   <action id="EditorToggleShowWhitespaces">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
   </action>
@@ -61,6 +66,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
   <action id="RemoteHostView.CopyPaths" />
+  <action id="SmartSelect" />
+  <action id="TableResult.GrowSelection" />
   <action id="Terminal.CopySelectedText">
     <keyboard-shortcut first-keystroke="ctrl c" />
     <keyboard-shortcut first-keystroke="ctrl insert" />
@@ -72,6 +79,7 @@
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="alt s" second-keystroke="escape" />
   </action>
+  <action id="UsageFiltering.WriteAccess" />
   <action id="WelcomeScreen.CopyProjectPath" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
 </keymap>
