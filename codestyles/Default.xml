@@ -51,6 +51,10 @@
     <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
     <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
   </HSQLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+  </JSCodeStyleSettings>
   <MSSQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="WITH_ALIGN_AS" value="true" />
@@ -171,9 +175,21 @@
     <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
     <option name="EXPR_CASE_KEEP_NL_AFTER_THEN" value="true" />
   </SybaseCodeStyleSettings>
+  <VueCodeStyleSettings>
+    <option name="INTERPOLATION_NEW_LINE_AFTER_START_DELIMITER" value="false" />
+    <option name="INTERPOLATION_NEW_LINE_BEFORE_END_DELIMITER" value="false" />
+  </VueCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="Oracle">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <indentOptions>
@@ -197,8 +213,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="Vue">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
